@@ -1,6 +1,83 @@
 {
-  "generated_at": "2026-09-09T17:11:05.598Z",
+  "generated_at": "2026-09-09T22:36:25.288Z",
   "posts": [
+    {
+      "id": "2097801368618824011",
+      "url": "https://x.com/kunchenguid/status/2097801368618824011",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T21:36:36.000Z",
+      "sort_at": "2026-09-09T21:36:36.000Z",
+      "text": "Matt was one of the most brilliant product people i had the pleasure to work with\n\nrecommend a follow for real world product insights, and throw your questions at him!",
+      "media": [],
+      "quote": {
+        "id": "2097743721643291019",
+        "url": "https://x.com/matthewcanham/status/2097743721643291019",
+        "author": {
+          "screen_name": "matthewcanham",
+          "name": "Matt Canham",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2044189732306059264/zVkvcLR5_200x200.jpg"
+        },
+        "created_at": "2026-09-09T17:47:32.000Z",
+        "text": "Hey, I’m Matt. I’m a Director of Product at Atlassian working to bring agents to the millions of builders who use Jira. Prior to getting into product I was a founder and engineer. Now based in SF and grew up in New Zealand 🥝 \n\nIn an effort to bring more product voices to X, I’m going to start sharing what I’m building and how I think about product craft. If that’s of interest, let’s connect. My DMs are open and I’ll be answering questions in the thread.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2097801368618824011",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 14,
+        "quotes": 0,
+        "views": 4038
+      },
+      "fetched_at": "2026-09-09T22:36:24.392Z"
+    },
+    {
+      "id": "2097777508326518883",
+      "url": "https://x.com/kunchenguid/status/2097777508326518883",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T20:01:47.000Z",
+      "sort_at": "2026-09-09T20:01:47.000Z",
+      "text": "i had to really push astra on this, but it did end up coding this nice transition from sunset -> nightfall -> moonrise -> milky way\n\nthere's not a single image in here. it's all just JS code. i'm mildly impressed\n\nrepo: https://github.com/kunchenguid/fly-with-me",
+      "media": [
+        {
+          "id": "2097775822266601472",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2097775822266601472/vid/avc1/1920x1080/2lhXs9gd8RfkmKP6.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2097775822266601472/img/mdZEnt8vvMo1ZeXV.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 75
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097777508326518883",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 7,
+        "reposts": 2,
+        "likes": 41,
+        "quotes": 0,
+        "views": 3114
+      },
+      "fetched_at": "2026-09-09T22:36:24.392Z"
+    },
     {
       "id": "2097713350914568655",
       "url": "https://x.com/kunchenguid/status/2097713350914568655",
@@ -3385,62 +3462,6 @@
         "likes": 3,
         "quotes": 0,
         "views": 1005
-      },
-      "fetched_at": "2026-09-09T01:22:56.872Z"
-    },
-    {
-      "id": "2090672794241737141",
-      "url": "https://x.com/kunchenguid/status/2090672794241737141",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-21T05:30:11.000Z",
-      "sort_at": "2026-08-21T05:30:11.000Z",
-      "text": "it’s so interesting to see how sentiment towards AI companies shifted over the past couple of years\n\nfor a while github copilot was the revolutionary product that’s changing how code was written. now it’s not even thought of as an AI company any more\n\nthen claude code emerged as the game changer and anthropic was the darling. now it’s increasingly seen as an evil cult, and nothing from them is that special except for fable\n\nopenai invented the mighty chatgpt. it was THE ai lab. now competition heated up from anthropic, google, china, and now spacexai. the early lead has completely vanished already\n\nxai was not even on many people’s watchlist early in but now they suddenly seem to have the best chance of winning\n\nwhat’s most funny to watch is that consumers have shown absolutely no loyalty towards any brand\n\npeople use models and most harnesses as commodity and won’t blink an eye to switch to whatever gives them good tokens for cheap\n\nwe are having our popcorns while watching and benefiting from probably the most brutal head on competition the tech industry has ever seen\n\nwhat a time to be alive",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2090672794241737141",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 67,
-        "reposts": 14,
-        "likes": 325,
-        "quotes": 6,
-        "views": 19167
-      },
-      "fetched_at": "2026-09-09T01:22:56.872Z"
-    },
-    {
-      "id": "2090463368394272786",
-      "url": "https://x.com/kunchenguid/status/2090463368394272786",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-20T15:38:00.000Z",
-      "sort_at": "2026-08-20T15:38:00.000Z",
-      "text": "repo fully open source at https://github.com/kunchenguid/grok-ship\n\nobviously freshly baked - expect rough edges, and happy shipping!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2090463368079691927",
-      "thread_root_id": "2090463367546970224",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 4,
-        "reposts": 2,
-        "likes": 63,
-        "quotes": 0,
-        "views": 4512
       },
       "fetched_at": "2026-09-09T01:22:56.872Z"
     }
