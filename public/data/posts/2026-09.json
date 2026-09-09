@@ -2,6 +2,45 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2097713350914568655",
+      "url": "https://x.com/kunchenguid/status/2097713350914568655",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T15:46:51.000Z",
+      "sort_at": "2026-09-09T15:46:51.000Z",
+      "text": "looks like you can email your firstmate now!\n\ngood PR from @_feilipu",
+      "media": [],
+      "quote": {
+        "id": "2097511383499936029",
+        "url": "https://x.com/_feilipu/status/2097511383499936029",
+        "author": {
+          "screen_name": "_feilipu",
+          "name": "Phillip Stevens",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1874478607827132416/KNgBBvAL_200x200.jpg"
+        },
+        "created_at": "2026-09-09T02:24:18.000Z",
+        "text": "Have been using @kunchenguid firstmate to manage and lead mechanical crew for adversarial and critical assembly code analysis. Why get one review when you can get 7 independent code reviews at once? But I don’t have X open continually, so I wrote a IMAP/SMTP mail push front end for @myfirstmate.\n\nhttps://github.com/kunchenguid/firstmate/pull/3765",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2097713350914568655",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 0,
+        "views": 2032
+      },
+      "fetched_at": "2026-09-09T17:11:03.801Z"
+    },
+    {
       "id": "2097577436624060439",
       "url": "https://x.com/kunchenguid/status/2097577436624060439",
       "creator": "kunchenguid",
