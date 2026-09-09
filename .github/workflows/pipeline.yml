@@ -1,0 +1,98 @@
+name: pipeline
+
+on:
+  schedule:
+    # Hourly, off the top of the hour to avoid GitHub's busiest minute.
+    - cron: "17 * * * *"
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      backfill_pages:
+        description: "Pages to fetch for a creator that has no data yet (about 20 posts per page)"
+        default: "25"
+        type: string
+      skip_notify:
+        description: "Do not send a notification for this run"
+        default: false
+        type: boolean
+
+# Never cancel a run that may be in the middle of committing data.
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+      pages: write
+    outputs:
+      new_count: ${{ steps.pipeline.outputs.new_count }}
+      new_ids: ${{ steps.pipeline.outputs.new_ids }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+      - run: npm ci
+      - id: pages
+        uses: actions/configure-pages@v6
+      - id: pipeline
+        name: Fetch new posts
+        run: node scripts/pipeline.ts
+        env:
+          BACKFILL_PAGES: ${{ inputs.backfill_pages || '25' }}
+      - name: Commit data
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "data: ${{ steps.pipeline.outputs.new_count }} new posts"
+          file_pattern: public/data/**
+      - name: Build site
+        run: npm run build
+        env:
+          VITE_BASE: ${{ steps.pages.outputs.base_path }}/
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
+          BUILD_ID: ${{ github.run_id }}
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      page_url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+
+  notify:
+    needs: [update, deploy]
+    if: needs.update.outputs.new_count != '0' && !inputs.skip_notify
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+      - uses: actions/setup-node@v7
+        with:
+          node-version-file: .nvmrc
+      - name: Send ntfy notification
+        run: node scripts/notify.ts
+        env:
+          NEW_IDS: ${{ needs.update.outputs.new_ids }}
+          SITE_URL: ${{ needs.deploy.outputs.page_url }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          NTFY_SERVER: ${{ vars.NTFY_SERVER }}

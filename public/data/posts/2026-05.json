@@ -1,0 +1,2448 @@
+{
+  "month": "2026-05",
+  "posts": [
+    {
+      "id": "2061169636104929421",
+      "url": "https://x.com/kunchenguid/status/2061169636104929421",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-31T19:35:10.000Z",
+      "sort_at": "2026-05-31T19:35:10.000Z",
+      "text": "thinking of making a video to go deep and unpack everything happening with tokenmaxxing\n\nwould that be interesting? if so let me know what you think would be most useful to cover!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2061169636104929421",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 0,
+        "likes": 19,
+        "quotes": 0,
+        "views": 1363
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2060535110290849894",
+      "url": "https://x.com/kunchenguid/status/2060535110290849894",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-30T01:33:47.000Z",
+      "sort_at": "2026-05-30T01:33:47.000Z",
+      "text": "used opus 4.8 for a ton of work in the past 24 hours\n\nhere are my real observations\n\n1. /fast mode not being available through subscription quota means i still can’t use it as a primary mode. with gpt 5.5 i now have fast mode always-on. difference is day and night\n\n2. the improvement over 4.7 is not perceivable. i can’t name a single thing 4.8 did clearly better than 4.7\n\n3. it _feels_ like 4.8 is pushed to generate more concise final response so it’s less of a wall of text. but as a result i noticed sometimes it would use jargons that aren’t obviously understandable - this is a downgrade\n\n4. it asks me questions a bit more often, sometimes even for trivial decisions that have an obvious choice. not sure how this nets out yet - keeping an eye on it \n\noverall, a bit disappointed in the progress. anyone who says this is opus 5 is likely being paid by anthropic to do so",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2060535110290849894",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 47,
+        "reposts": 10,
+        "likes": 293,
+        "quotes": 5,
+        "views": 56062
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2060385701930361278",
+      "url": "https://x.com/kunchenguid/status/2060385701930361278",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-29T15:40:06.000Z",
+      "sort_at": "2026-05-29T15:40:06.000Z",
+      "text": "i want hyper-personalized software and baby-menu is my attempt at demonstrating what it could look like\n\nwe should be able to talk to our software and ask it to evolve into _exactly_ how we like it\n\nenjoy, and i'd love to see what your baby menu turns into!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2060385700676288586",
+      "thread_root_id": "2060385699187331287",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 17,
+        "quotes": 0,
+        "views": 1306
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2060385700676288586",
+      "url": "https://x.com/kunchenguid/status/2060385700676288586",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-29T15:40:05.000Z",
+      "sort_at": "2026-05-29T15:40:05.000Z",
+      "text": "free and open source, bring your own agent (claude code, codex or any acp)\n\ninstall: brew install --cask kunchenguid/tap/baby-menu\n\nrepo: https://github.com/kunchenguid/baby-menu",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2060385699187331287",
+      "thread_root_id": "2060385699187331287",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 17,
+        "quotes": 0,
+        "views": 1923
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2060385699187331287",
+      "url": "https://x.com/kunchenguid/status/2060385699187331287",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-29T15:40:05.000Z",
+      "sort_at": "2026-05-29T15:40:05.000Z",
+      "text": "ok tinkerers, i've got a fun toy for you\n\nintroducing baby-menu - a mac menu bar icon, and it's just a baby\n\nit can't do anything, but you can feed it prompts and help it grow. it's what i think hyper-personalized, self-evolving software can look like\n\ndetails in thread 👇",
+      "media": [
+        {
+          "id": "2060381402445783040",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2060381402445783040/vid/avc1/1080x1080/SyCmDX2SXjDHXuf4.mp4?tag=27",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2060381402445783040/img/EXtEbqTHiR-nf_pK.jpg",
+          "width": 1080,
+          "height": 1080,
+          "duration": 41
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2060385699187331287",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 17,
+        "reposts": 12,
+        "likes": 185,
+        "quotes": 6,
+        "views": 23406
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2060044225073594641",
+      "url": "https://x.com/kunchenguid/status/2060044225073594641",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-28T17:03:11.000Z",
+      "sort_at": "2026-05-28T17:03:11.000Z",
+      "text": "opus 4.8 is here!\n\nbiggest surprise that’s easy to miss is that /fast mode with 4.8 is now only 2x cost (instead of 6x before) at 2.5x speed\n\nit’s no longer prohibitively expensive, and makes it finally able to compete with gpt 5.5 fast mode for my interactive work",
+      "media": [],
+      "quote": {
+        "id": "2060042706844315866",
+        "url": "https://x.com/claudeai/status/2060042706844315866",
+        "author": {
+          "screen_name": "claudeai",
+          "name": "Claude",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg"
+        },
+        "created_at": "2026-05-28T16:57:09.000Z",
+        "text": "Fast mode is available for Opus 4.8. It's the same model at roughly 2.5x the speed, and we've made it three times cheaper than before.\n\nTurn it on with /fast in Claude Code. On the API, contact your account manager to request access or join the waitlist: http://claude.com/fast-mode",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2060044225073594641",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 11,
+        "reposts": 6,
+        "likes": 197,
+        "quotes": 0,
+        "views": 21794
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2060024945238008179",
+      "url": "https://x.com/kunchenguid/status/2060024945238008179",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-28T15:46:35.000Z",
+      "sort_at": "2026-05-28T15:46:35.000Z",
+      "text": "all i want is no ads no bs\n\ninstead, they built a bunch of features that are basically “pay to stand out”\n\nabsolutely step in a wrong direction",
+      "media": [],
+      "quote": {
+        "id": "2059817275620790630",
+        "url": "https://x.com/Polymarket/status/2059817275620790630",
+        "author": {
+          "screen_name": "Polymarket",
+          "name": "Polymarket",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_200x200.jpg"
+        },
+        "created_at": "2026-05-28T02:01:22.000Z",
+        "text": "NEW: Meta announces new paid subscription tiers for its apps:\n\nInstagram Plus: $3.99/month\nFacebook Plus: $3.99/month\nWhatsApp Plus: $2.99/month",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2060024945238008179",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 8,
+        "quotes": 0,
+        "views": 2072
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2059725568506237111",
+      "url": "https://x.com/kunchenguid/status/2059725568506237111",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-27T19:56:58.000Z",
+      "sort_at": "2026-05-27T19:56:58.000Z",
+      "text": "\"claude code/codex is amazing look at what it did for me\"\n\nfor most of such tweets, you can swap the name to any other oss agent and it would be equally amazing\n\nwhat's amazing is the model\n\nthe harness just need to give the model access to the world and not hold it back",
+      "media": [],
+      "quote": {
+        "id": "2059643437964497161",
+        "url": "https://x.com/KLieret/status/2059643437964497161",
+        "author": {
+          "screen_name": "KLieret",
+          "name": "Kilian Lieret",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1779952219301060608/vi9fFe_i_200x200.jpg"
+        },
+        "created_at": "2026-05-27T14:30:36.000Z",
+        "text": "DeepSWE finds that mini-swe-agent significantly outperforms ClaudeCode and Codex on the benchmark. The simpler the system, the better it generalizes (and mini's core agent class is just ~150 lines of code)",
+        "media": [
+          {
+            "id": "2059640453750763521",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HJVQFIrWsAEu-ET.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2054,
+            "height": 1148
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2059725568506237111",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 9,
+        "quotes": 0,
+        "views": 2016
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2059666938356543888",
+      "url": "https://x.com/kunchenguid/status/2059666938356543888",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-27T16:03:59.000Z",
+      "sort_at": "2026-05-27T16:03:59.000Z",
+      "text": "having worked at facebook for many years, i witnessed exactly how social media gradually lost its value of being social\n\nfacebook used to be about updates from friends you care about. but everyone only has so many good friends, and the friends only have so many updates worth posting\n\nhow do you grow from there? you either \n1. add content that people don’t really care about\n2. add content that people do care about, but aren’t from their friends\n\n1 is obviously a bad strategy. number 2 however is good for engagement and infinitely scalable\n\nso the engagement-maxxing began, and it overshadowed content from friends. once the growth game starts and everyone’s performance review and bonus is tied to it, there’s no turning back\n\nif we went back to 2004, how would we solve this? \n\ni think we should have stopped trying to grow facebook. let it be a stable network of just your friends. optimize for weekly activity instead of time spent. checking in on your friends once a week is okay - it’s a sick world if people check in on their friends every 5 minutes. the growth only needs to be at the same pace as the world population, nothing more\n\ngrow instagram to be the interest based platform instead. do all the engagement-maxxing there. keep a clear separation of facebook’s mission from instagram\n\nthe lack of clarity in strategy is what destroyed the real friendship based social platform we used to have, and we should have kept it alive\n\nwhat do you think?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2059666938356543888",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 1,
+        "likes": 43,
+        "quotes": 0,
+        "views": 4890
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2059340682066878788",
+      "url": "https://x.com/kunchenguid/status/2059340682066878788",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-26T18:27:33.000Z",
+      "sort_at": "2026-05-26T18:27:33.000Z",
+      "text": "i should add two more things -\n\n1. microsoft and anthropic have a partnership to run claude on azure, so all their usage of claude models, whether it’s through claude code or copilot, is going to run at their own compute cost, not raw API pricing\n\n2. there’s one more legit reason to justify the migration, which is that microsoft can then collect employees’ data to help train a model like cursor composer. this is why meta is doing surveillance over employees’ laptops as well",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2059290173578641429",
+      "thread_root_id": "2059290173578641429",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5,
+        "quotes": 0,
+        "views": 4507
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2059318898680311957",
+      "url": "https://x.com/kunchenguid/status/2059318898680311957",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-26T17:01:00.000Z",
+      "sort_at": "2026-05-26T17:01:00.000Z",
+      "text": "after working solo for almost two months, i now think the most valuable part of this experience is the freedom to explore who you really are\n\nwhen you are working within a company, you are shaped by what's expected of you. you are a developer working on project X. you are the tech lead for team Y. you are the director of engineering for org Z\n\nyou play your role for years or decades, and that slowly becomes your identity. you start to tell others that's who you are, and you don't even realize that maybe you haven't actually explored who you could be\n\nthat was me, and i had no idea\n\nin the past two months, i wrote blog posts, tweets, made a few youtube videos, published interesting data analyses, built and shared many open source projects, and made an app that my son started to use\n\nthrough this experience i learned a lot more about what i care about, what i enjoy, what i can offer that's truly valuable, and what are some different ways of live a life\n\nif you ever find yourself having some freedom on your hands, i think it's worth taking the opportunity to go try those things that you once thought could be interesting but never got the time to do, and just see where it leads you\n\nsomewhat similar to finding product-market fit, this is about finding the best fit between you and the world you're in. what could be more important?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2059318898680311957",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 11,
+        "reposts": 1,
+        "likes": 57,
+        "quotes": 1,
+        "views": 2978
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2059290173578641429",
+      "url": "https://x.com/kunchenguid/status/2059290173578641429",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-26T15:06:51.000Z",
+      "sort_at": "2026-05-26T15:06:51.000Z",
+      "text": "there is a mass misconception that $MSFT is cancelling Claude Code licenses because of the bill\n\nit’s not the bill\n\nthey are migrating employees using claude code to copilot, and guess what LLMs copilot need to call, and how the tokens get charged? \n\nmicrosoft does not own a frontier model, which means all the tokens they use have to come from another provider, charged at API pricing (they do get a volume discount whether through claude code enterprise plan or API)\n\nmaybe some of their employees will shift to gpt as a result of not being locked in to claude and that’s a bit cheaper, but in the grand scheme of things, the difference doesn’t really make a dent in microsoft’s pocket to justify a walk-back like this\n\nwhat’s happening then? \n\nit’s politics. having their own employees using claude code instead of copilot creates bad internal optics as well as external brand image\n\npeople in charge of copilot must have been screaming everyday “copilot can do the same things”, “we need to dogfood our own company’s product”, “it’s better to not lock in to a single vendor” - some of these arguments are legit, and they just won\n\nthat’s how they cancelled claude code. not because of the bill which will continue to come, but because there are powerful people with strong incentive to drive the change",
+      "media": [],
+      "quote": {
+        "id": "2058881013149991168",
+        "url": "https://x.com/unusual_whales/status/2058881013149991168",
+        "author": {
+          "screen_name": "unusual_whales",
+          "name": "unusual_whales",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1714107328134516736/dLZGJPm7_200x200.png"
+        },
+        "created_at": "2026-05-25T12:01:00.000Z",
+        "text": "Microsoft, $MSFT, has started canceling Claude Code licenses, per the Verge",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2059290173578641429",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 30,
+        "reposts": 15,
+        "likes": 278,
+        "quotes": 5,
+        "views": 127816
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2058957709412794779",
+      "url": "https://x.com/kunchenguid/status/2058957709412794779",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-25T17:05:46.000Z",
+      "sort_at": "2026-05-25T17:05:46.000Z",
+      "text": "ugh.. it’s a really bad advice to tell people to keep their laptop lid open as a solution to keep agents running\n\nyou don’t need tmux. you literally just need to run a single command: \n\nsudo pmset -a disablesleep 1\n\nyou can even ask your agent to help you make a script to run this as one-off instead of being a persistent setting\n\nthe problem with keeping the lid open is obvious:\n- holding a half open laptop is very uncomfortable \n- you may accidentally close it\n- other people can grab your laptop and there’s no password protection",
+      "media": [],
+      "quote": {
+        "id": "2058682090674323917",
+        "url": "https://x.com/ChadNauseam/status/2058682090674323917",
+        "author": {
+          "screen_name": "ChadNauseam",
+          "name": "Nauseam (in sf!)",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1899606991305093120/84Bgn03b_200x200.jpg"
+        },
+        "created_at": "2026-05-24T22:50:33.000Z",
+        "text": "",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2058957709412794779",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 6,
+        "likes": 51,
+        "quotes": 0,
+        "views": 14046
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2058398114940334104",
+      "url": "https://x.com/kunchenguid/status/2058398114940334104",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-24T04:02:08.000Z",
+      "sort_at": "2026-05-24T04:02:08.000Z",
+      "text": "i've been in both management and IC position at senior levels so I have a lot to say about this\n\nmaybe Sam here meant \"I'm personally not good at being an IC\" but framing it as \"IC is suboptimal\" can easily lead others into a wrong mentality\n\nso I'd like to offer some viewpoints here -\n\n1. it's a wrong mindset to think that management is superior and IC is suboptimal. this is what trapped many good engineers into a role where they can't fully achieve their potential and even worse become obsolete\n\n2. there's almost infinite demand for strong ICs right now. ask big tech \"do you want one more outstanding AI engineer/researcher\" the answer is pretty much always yes. \"do you want some more managers\" however will get a very different response\n\n3. especially now, ICs have a lot more time and freedom to play with new technology, solve interesting problems and gain a massive leverage by utilizing AI effectively - this is extremely important skill for staying relevant in the coming era. not having time to directly interact with the fast-moving technology is the single biggest risk for any individual right now\n\n4. in the AI era, ICs are the ones getting the biggest boost in leverage. in the past couple of years, ICs have gone from having small assistance from copilot code complete, to getting some tasks done by agents, to now running 10-100 agents at the same time. middle managers are roughly doing the same things as 10 years ago, under some slightly different conditions. most of the GPUs in the world right now are doing work for ICs\n\nso if you are being converted to an IC, i highly recommend you to avoid falling into the victim mentality. you are being forced into a wonderful career path, and if you play your cards right this might just be the most important pivotal point and a defining moment for the rest of your career",
+      "media": [],
+      "quote": {
+        "id": "2058169884929040732",
+        "url": "https://x.com/jain_harshit/status/2058169884929040732",
+        "author": {
+          "screen_name": "jain_harshit",
+          "name": "Harshit Jain",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2061081544245276672/5AR09rWx_200x200.jpg"
+        },
+        "created_at": "2026-05-23T12:55:14.000Z",
+        "text": "🚨 Meta is forcing managers to convert to IC role.",
+        "media": [
+          {
+            "id": "2058169878708977664",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HJAWmZvbgAAQU6Q.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1320,
+            "height": 645
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2058398114940334104",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 32,
+        "reposts": 6,
+        "likes": 167,
+        "quotes": 2,
+        "views": 61891
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2057963255637868717",
+      "url": "https://x.com/kunchenguid/status/2057963255637868717",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-22T23:14:09.000Z",
+      "sort_at": "2026-05-22T23:14:09.000Z",
+      "text": "https://x.com/kunchenguid/status/2057963115078406581?s=20",
+      "media": [],
+      "quote": {
+        "id": "2057963115078406581",
+        "url": "https://x.com/kunchenguid/status/2057963115078406581",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-05-22T23:13:36.000Z",
+        "text": "this just became a fascinating thread about models and harnesses. lots of good discussions and even openai chimed in - thanks everyone who offered thoughts!\n\nlet me recap the essence of the key arguments here:\n\n\"it's in the model companies' business interest to do so\"\ni have no doubt about this. models are becoming commodity, they need vertical integration, owning the customer relationship etc - these are valid business strategies. my argument is not about why they would do it, but whether it's a good thing for the world\n\n\"the harness is part of how they train the model\"\nyes, but i have a few problems with this:\n1. training the model to work with a specific harness makes the model overfit to it. imagine nvidia starts making GPUs only work for their own models\n2. instead, they can use a wide variety of 3p harnesses in training, so the models can generalize well to how the world really wants to use them\n3. even if they want to use their own harness for training the model, they can publish the harness as a spec or research paper, and let the ecosystem innovate on top of it. but both anthropic and openai are heavily marketing the harness as the revenue generator now\n\n\"the harness is how they collect telemetry to improve the model\"\nthis is totally valid. i still think this can potentially be done via the model API - if your harness follows certain conventions when calling the API and allow data collection, you get a 50% discount on API pricing - this is much more scalable as an ecosystem than relying on getting every user to use the model company's 1p harnesses. they'll get more diverse training data as well\n\nall that said, i should add that i appreciate how OpenAI has allowed 3p harnesses to integrate with the codex subscription and kept codex cli open source since the beginning - this is a lot more friendly to the developer ecosystem than what some other model company is doing, and i think over time this earns OpenAI more trust and makes them a more reliable brand for everyone to count on as a platform",
+        "media": []
+      },
+      "reply_to_id": "2057700714626105412",
+      "thread_root_id": "2057700714626105412",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 1650
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2057963115078406581",
+      "url": "https://x.com/kunchenguid/status/2057963115078406581",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-22T23:13:36.000Z",
+      "sort_at": "2026-05-22T23:13:36.000Z",
+      "text": "this just became a fascinating thread about models and harnesses. lots of good discussions and even openai chimed in - thanks everyone who offered thoughts!\n\nlet me recap the essence of the key arguments here:\n\n\"it's in the model companies' business interest to do so\"\ni have no doubt about this. models are becoming commodity, they need vertical integration, owning the customer relationship etc - these are valid business strategies. my argument is not about why they would do it, but whether it's a good thing for the world\n\n\"the harness is part of how they train the model\"\nyes, but i have a few problems with this:\n1. training the model to work with a specific harness makes the model overfit to it. imagine nvidia starts making GPUs only work for their own models\n2. instead, they can use a wide variety of 3p harnesses in training, so the models can generalize well to how the world really wants to use them\n3. even if they want to use their own harness for training the model, they can publish the harness as a spec or research paper, and let the ecosystem innovate on top of it. but both anthropic and openai are heavily marketing the harness as the revenue generator now\n\n\"the harness is how they collect telemetry to improve the model\"\nthis is totally valid. i still think this can potentially be done via the model API - if your harness follows certain conventions when calling the API and allow data collection, you get a 50% discount on API pricing - this is much more scalable as an ecosystem than relying on getting every user to use the model company's 1p harnesses. they'll get more diverse training data as well\n\nall that said, i should add that i appreciate how OpenAI has allowed 3p harnesses to integrate with the codex subscription and kept codex cli open source since the beginning - this is a lot more friendly to the developer ecosystem than what some other model company is doing, and i think over time this earns OpenAI more trust and makes them a more reliable brand for everyone to count on as a platform",
+      "media": [],
+      "quote": {
+        "id": "2057700714626105412",
+        "url": "https://x.com/kunchenguid/status/2057700714626105412",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-05-22T05:50:55.000Z",
+        "text": "i'm strongly against model companies focusing too much on harness, but i would love to hear if anyone has a strong argument for it\n\nmy reason against it:\n\nif openai didn't build GPT 5.5, no one else can. this is their core competence\n\nif openai didn't build codex cli and app, we have opencode and t3code. building harness is NOT their core competence\n\nthis is not saying products like claude code, codex aren't good - i genuinely think these are top tier products built by really talented people\n\nmy point is - the world might be a better place if model companies focus more on their core capability and give us better, faster, safer and cheaper models, rather than competing with the ecosystem in the application layer\n\nwhat do you think?",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2057963115078406581",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 25,
+        "quotes": 2,
+        "views": 6707
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2057700714626105412",
+      "url": "https://x.com/kunchenguid/status/2057700714626105412",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-22T05:50:55.000Z",
+      "sort_at": "2026-05-22T05:50:55.000Z",
+      "text": "i'm strongly against model companies focusing too much on harness, but i would love to hear if anyone has a strong argument for it\n\nmy reason against it:\n\nif openai didn't build GPT 5.5, no one else can. this is their core competence\n\nif openai didn't build codex cli and app, we have opencode and t3code. building harness is NOT their core competence\n\nthis is not saying products like claude code, codex aren't good - i genuinely think these are top tier products built by really talented people\n\nmy point is - the world might be a better place if model companies focus more on their core capability and give us better, faster, safer and cheaper models, rather than competing with the ecosystem in the application layer\n\nwhat do you think?",
+      "media": [],
+      "quote": {
+        "id": "2057670776803996110",
+        "url": "https://x.com/gdb/status/2057670776803996110",
+        "author": {
+          "screen_name": "gdb",
+          "name": "Greg Brockman",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_200x200.jpg"
+        },
+        "created_at": "2026-05-22T03:51:57.000Z",
+        "text": "the model alone is no longer the product",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2057700714626105412",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 246,
+        "reposts": 18,
+        "likes": 515,
+        "quotes": 14,
+        "views": 122414
+      },
+      "fetched_at": "2026-09-09T01:23:12.232Z"
+    },
+    {
+      "id": "2057278887739207949",
+      "url": "https://x.com/kunchenguid/status/2057278887739207949",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-21T01:54:43.000Z",
+      "sort_at": "2026-05-21T01:54:43.000Z",
+      "text": "as promised, my layoff explainer video is live! https://youtu.be/tt_SloZ18Mk \n\ndid my best to cover the underlying driving forces of tech layoffs, what's going on with Meta, and how we should think about our career\n\nhappy to answer any further questions here in this thread!",
+      "media": [],
+      "quote": {
+        "id": "2056566868400591123",
+        "url": "https://x.com/kunchenguid/status/2056566868400591123",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-05-19T02:45:25.000Z",
+        "text": "i’ve been in the front row seat of tech companies’ AI adoption and layoffs\n\nshould i make a post / video to explain what’s happening?\n\nif so, reply and let me know what you are most interested in hearing about",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2057278887739207949",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 7,
+        "likes": 133,
+        "quotes": 1,
+        "views": 54265
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2056566868400591123",
+      "url": "https://x.com/kunchenguid/status/2056566868400591123",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-19T02:45:25.000Z",
+      "sort_at": "2026-05-19T02:45:25.000Z",
+      "text": "i’ve been in the front row seat of tech companies’ AI adoption and layoffs\n\nshould i make a post / video to explain what’s happening?\n\nif so, reply and let me know what you are most interested in hearing about",
+      "media": [],
+      "quote": {
+        "id": "2056367357459653038",
+        "url": "https://x.com/Polymarket/status/2056367357459653038",
+        "author": {
+          "screen_name": "Polymarket",
+          "name": "Polymarket",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_200x200.jpg"
+        },
+        "created_at": "2026-05-18T13:32:38.000Z",
+        "text": "NEW: Meta to begin cutting about 8,000 jobs this week as AI spending surges.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2056566868400591123",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 53,
+        "reposts": 8,
+        "likes": 403,
+        "quotes": 1,
+        "views": 148972
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2056466233449738516",
+      "url": "https://x.com/kunchenguid/status/2056466233449738516",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-18T20:05:32.000Z",
+      "sort_at": "2026-05-18T20:05:32.000Z",
+      "text": "you can outsource your thinking\n\nyou can even outsource understanding \n\nyou can’t outsource Korean BBQ",
+      "media": [
+        {
+          "id": "2056466168031129600",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2056466168031129600/vid/avc1/1920x1080/HjV_gVo4rS_33GqV.mp4?tag=27",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2056466168031129600/img/nJYFss_ktv7_BORv.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 4.7
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2056466233449738516",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 0,
+        "likes": 25,
+        "quotes": 0,
+        "views": 2186
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2056143613189603482",
+      "url": "https://x.com/kunchenguid/status/2056143613189603482",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-17T22:43:33.000Z",
+      "sort_at": "2026-05-17T22:43:33.000Z",
+      "text": "i never use “remote control” in agent harnesses because they feel more like middle grounds\n\ni tailscale to my mac + use terminus to do the real thing. this setup has no extra cost",
+      "media": [
+        {
+          "id": "2056143463830470656",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2056143463830470656/vid/avc1/1170x2532/qVVADFXxnlB_c8Uu.mp4?tag=27",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2056143463830470656/img/q8JwocTxE_9I_t_i.jpg",
+          "width": 1170,
+          "height": 2532,
+          "duration": 36.153
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2056143613189603482",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 54,
+        "reposts": 7,
+        "likes": 176,
+        "quotes": 1,
+        "views": 31266
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2055868990971658725",
+      "url": "https://x.com/kunchenguid/status/2055868990971658725",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-17T04:32:18.000Z",
+      "sort_at": "2026-05-17T04:32:18.000Z",
+      "text": "good read, but this is nothing new\n\npeople already knew how to be unhappy for centuries:\n- chase after money and status\n- compare yourself with others\n- blame society for your inaction\n\nthat’s how millionaires can still complain about their lives\n\nthe fix is extremely easy:\n- find a real mission and chase after it\n- walk your own path and compare with your past self\n- take an action to improve yourself. not tomorrow. not later. NOW",
+      "media": [],
+      "quote": {
+        "id": "2055491938464489888",
+        "url": "https://x.com/deedydas/status/2055491938464489888",
+        "author": {
+          "screen_name": "deedydas",
+          "name": "Deedy",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2016718977960120320/a3F0LOz6_200x200.jpg"
+        },
+        "created_at": "2026-05-16T03:34:01.000Z",
+        "text": "The vibes in SF feel pretty frenetic right now. The divide in outcomes is the worst I've ever seen.\n\nOver the last 5yrs, a group of ~10k people - employees at Anthropic, OpenAI, xAI, Nvidia, Meta TBD, founders - have hit retirement wealth of well above $20M (back of the envelope AI estimation).\n\nEveryone outside that group feels like they can work their well-paying (but <$500k) job for their whole life and never get there.\n\nWorse yet, layoffs are in full swing. Many software engineers feel like their life's skill is no longer useful. The day to day role of most jobs has changed overnight with AI.\n\nAs a result,\n1. The corporate ladder looks like the wrong building to climb.\nEveryone's trying to align with a new set of career \"paths\": should I be a founder? Is it too late to join Anthropic / OpenAI? should I get into AI? what company stock will 10x next? People are demanding higher salaries and switching jobs more and more.\n\n2. There’s a deep malaise about work (and its future).\nWhy even work at all for “peanuts”? Will my job even exist in a few years? Many feel helpless. You hear the “permanent underclass” conversation a lot, esp from young people. It's hard to focus on doing good work when you think \"man, if I joined Anthropic 2yrs ago, I could retire\"\n\n3. The mid to late middle managers feel paralyzed.\nMany have families and don't feel like they have the energy or network to just \"start a company\". They don't particularly have any AI skills. They see the writing on the wall: middle management is being hollowed out in many companies.\n\n4. The rich aren’t particularly happy either.\nNo one is shedding tears for them (and rightfully so). But those who have \"made it\" experience a profound lack of purpose too. Some have gone from <$150k to >$50M in a few years with no ramp. It flips your life plans upside down. For some, comparison is the thief of joy. For some, they escape to NYC to \"live life\". For others still, they start companies \"just cuz\", often to win status points. They never imagined that by age 30, they'd be set. I once asked a post-economic founder friend why they didn't just sell the co and they said \"and do what? right now, everyone wants to talk to me. if i sell, I will only have money.\"\n\nI understand that many reading this scoff at the champagne problems of the valley. Society is warped in this tech bubble. What is often well-off anywhere else in the world is bang average here.\n\nUnlike many other places, tenure, intelligence and hard work can be loosely correlated with outcomes in the Bay. Living through a societally transformative gold rush in that environment can be paralyzing. \"Am I in the right place? Should I move? Is there time still left? Am I gonna make it?\" It psychologically torments many who have moved here in search of \"success\".\n\nIronically, a frequent side effect of this torment is to spin up the very products making everyone rich in hopes that you too can vibecode your path to economic enlightenment.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2055868990971658725",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 7,
+        "reposts": 10,
+        "likes": 123,
+        "quotes": 0,
+        "views": 12447
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2055356084588839359",
+      "url": "https://x.com/kunchenguid/status/2055356084588839359",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-15T18:34:11.000Z",
+      "sort_at": "2026-05-15T18:34:11.000Z",
+      "text": "gnhf = good night have fun\n\ndead simple long running orchestrator\n\nhttps://github.com/kunchenguid/gnhf?cache=0",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2055354140717629933",
+      "thread_root_id": "2055354140717629933",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6,
+        "quotes": 0,
+        "views": 1424
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2055354140717629933",
+      "url": "https://x.com/kunchenguid/status/2055354140717629933",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-15T18:26:28.000Z",
+      "sort_at": "2026-05-15T18:26:28.000Z",
+      "text": "the battle of random reset begins\n\nPSA if you often have unused quota left, spinning up gnhf is a really good way to utilize more of your tokens",
+      "media": [],
+      "quote": {
+        "id": "2055347539923308703",
+        "url": "https://x.com/ClaudeDevs/status/2055347539923308703",
+        "author": {
+          "screen_name": "ClaudeDevs",
+          "name": "ClaudeDevs",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_200x200.png"
+        },
+        "created_at": "2026-05-15T18:00:14.000Z",
+        "text": "Happy Friday! We've reset everyone's 5-hour and weekly rate limits.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2055354140717629933",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 32,
+        "quotes": 0,
+        "views": 11905
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2055323540371706287",
+      "url": "https://x.com/kunchenguid/status/2055323540371706287",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-15T16:24:52.000Z",
+      "sort_at": "2026-05-15T16:24:52.000Z",
+      "text": "i use @HyperFrames_ for all my demo videos now - it rocks!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2055322969682198818",
+      "thread_root_id": "2055322969682198818",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5,
+        "quotes": 1,
+        "views": 788
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2055322969682198818",
+      "url": "https://x.com/kunchenguid/status/2055322969682198818",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-15T16:22:36.000Z",
+      "sort_at": "2026-05-15T16:22:36.000Z",
+      "text": "built a dead simple chrome extension for my wife and myself. sharing here as free open source as usual\n\nSimple Words\n\nwe find ourselves spending too much time wordsmithing our email replies, just to make sure we sound friendly and respectful\n\nthis chrome extension is really simple and quite literally a gpt wrapper that only does one thing - one click turning what you mean to what's ready to send\n\nit runs on your own api key, subscription or local LLM. the extension itself is free and open source. if you tried it out, would be keen to hear how it works for you!\n\nextension: https://chromewebstore.google.com/detail/simple-words/kmlhfcjpmhcoclpcghckibfkgpfbjfbb\n\nrepo: https://github.com/kunchenguid/simplewords",
+      "media": [
+        {
+          "id": "2055318672114438144",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2055318672114438144/vid/avc1/1080x1080/FNPVC-rH6aG3a9Gd.mp4?tag=27",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2055318672114438144/img/hRUcKv9l3HnBmbfw.jpg",
+          "width": 1080,
+          "height": 1080,
+          "duration": 31
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2055322969682198818",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 12,
+        "reposts": 3,
+        "likes": 75,
+        "quotes": 0,
+        "views": 11022
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2055109542535675940",
+      "url": "https://x.com/kunchenguid/status/2055109542535675940",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-15T02:14:31.000Z",
+      "sort_at": "2026-05-15T02:14:31.000Z",
+      "text": "tutorial: how to create water\n\nstep 1 - put 1 ounce of water into the smallest cup you can find\n\nstep 2 - accidentally spill it on your desk\n\nstep 3 - watch it become 1 gallon right in front of your eyes\n\ncongrats! you just created a lot of water",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2055109542535675940",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4,
+        "quotes": 0,
+        "views": 790
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2054707550130757855",
+      "url": "https://x.com/kunchenguid/status/2054707550130757855",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-13T23:37:09.000Z",
+      "sort_at": "2026-05-13T23:37:09.000Z",
+      "text": "since many people are getting tricked by Anthropic’s sugar coating, let me further clarify what the change really is\n\nprogrammatically invoking claude through “claude -p” (and equivalent) is how a lot of people have been using claude. this was an approved use case of the subscription quota since a year ago and people built various advanced tools and workflows with this\n\nthe change today makes it so that such usage can no longer draw from the original subscription quota. instead, they now get charged at API pricing which can be over 25x more expensive than subscription quota\n\nif i keep using my claude subscription the same way, last month it cost me $200. next month it will cost me over $5500 - Anthropic will give me $200 credit back from the $5500 expense so I pay $5300\n\nplease don’t get tricked into thinking this is a “new free credit pool”. it’s taking back something that’s been part of the subscription value since the beginning",
+      "media": [
+        {
+          "id": "2054707547211444224",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HIPJoLzaMAA7sWg.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1731,
+          "height": 909
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2054707550130757855",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 23,
+        "reposts": 12,
+        "likes": 112,
+        "quotes": 3,
+        "views": 14533
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2054625715321233436",
+      "url": "https://x.com/kunchenguid/status/2054625715321233436",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-13T18:11:58.000Z",
+      "sort_at": "2026-05-13T18:11:58.000Z",
+      "text": "it's official. Anthropic pulled the plug on ALL programmatic use of claude subscription\n\ni've found myself increasingly bullish about OpenAI\n\na few key reasons -\n\n1. Anthropic's only lead was on coding, and gpt 5.5 has flipped that already. coding with gpt 5.5 fast mode is an experience nothing else can match right now\n\n2. OpenAI has voice, image, video - when building my AI tutor app, it became very clear OpenAI was the ONLY viable platform choice\n\n3. it took an Anthropic to see the \"Open\"-ness of OpenAI. Anthropic is destroying its developer ecosystem with changes like this which tells their subscribers they can't use the best apps out there on Anthropic's models - they can only use Anthropic's apps. Codex on the other hand remained an open platform for developers to build on\n\nnot just trying to dunk on Anthropic - i genuinely hope they change their strategy and recognize that the world needs them to focus on making better, faster, and cheaper models, not locking everyone into their apps",
+      "media": [],
+      "quote": {
+        "id": "2054610152817619388",
+        "url": "https://x.com/ClaudeDevs/status/2054610152817619388",
+        "author": {
+          "screen_name": "ClaudeDevs",
+          "name": "ClaudeDevs",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2044472418815893504/xf14RxM8_200x200.png"
+        },
+        "created_at": "2026-05-13T17:10:07.000Z",
+        "text": "Starting June 15, paid Claude plans can claim a dedicated monthly credit for programmatic usage.\n\nThe credit covers usage of:\n- Claude Agent SDK\n- claude -p\n- Claude Code GitHub Actions\n- Third-party apps built on the Agent SDK",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2054625715321233436",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 110,
+        "reposts": 81,
+        "likes": 1474,
+        "quotes": 8,
+        "views": 612372
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2054600865248633068",
+      "url": "https://x.com/kunchenguid/status/2054600865248633068",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-13T16:33:13.000Z",
+      "sort_at": "2026-05-13T16:33:13.000Z",
+      "text": "even if you don't maintain npm packages, this still helps\n\nif you set the same minimum age policy i shared above, and only use pnpm to install npm packages, you will get the same guardrail that prevents you from accidentally getting a malicious package version\n\nhope this helps!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2054600863982002361",
+      "thread_root_id": "2054600863982002361",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 3,
+        "quotes": 0,
+        "views": 1473
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2054600863982002361",
+      "url": "https://x.com/kunchenguid/status/2054600863982002361",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-13T16:33:13.000Z",
+      "sort_at": "2026-05-13T16:33:13.000Z",
+      "text": "pnpm v11 also made dependency build scripts explicit\n\nthis matters because when installing a dependency they can run build scripts which executes arbitrary code\n\nso i explicitly allowlist what can execute:\n\n```\nonlyBuiltDependencies:\n  - esbuild\nallowBuilds:\n  esbuild: true\n```",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2054600862656589962",
+      "thread_root_id": "2054600863982002361",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 1646
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2054600861373145120",
+      "url": "https://x.com/kunchenguid/status/2054600861373145120",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-13T16:33:12.000Z",
+      "sort_at": "2026-05-13T16:33:12.000Z",
+      "text": "the obvious complication: i push updates to my own packages very often\n\nif i released something myself, i usually want to install it immediately\n\nso i need exceptions, and it's easily doable:\n\n```\nminimumReleaseAgeExclude:\n  - my-own-package\n```",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2054600860068721090",
+      "thread_root_id": "2054600860068721090",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4,
+        "quotes": 0,
+        "views": 1342
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2054600860068721090",
+      "url": "https://x.com/kunchenguid/status/2054600860068721090",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-13T16:33:12.000Z",
+      "sort_at": "2026-05-13T16:33:12.000Z",
+      "text": "so i switched to using pnpm\n\nstill using the npm registry but pnpm helps enforce what packages i use\n\nwith pnpm, i just needed to set this config:\n\n```\nminimumReleaseAge: 10080\nminimumReleaseAgeStrict: true\n```\n\n(`10080` is 7 days in minutes)",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2054600858797842787",
+      "thread_root_id": "2054600860068721090",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 8,
+        "quotes": 0,
+        "views": 1582
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2054600854553206992",
+      "url": "https://x.com/kunchenguid/status/2054600854553206992",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-13T16:33:11.000Z",
+      "sort_at": "2026-05-13T16:33:11.000Z",
+      "text": "i just hardened most of the npm packages I own against the ongoing supply chain attack\n\nusing this thread to share what i did in case it's helpful for others\n\nthe core idea is simple: don't use any third-party package versions that are just published. enforce this with tools\n\n🧵",
+      "media": [
+        {
+          "id": "2054594613705592832",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HINi6ltaUAAxXkd.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1672,
+          "height": 941
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2054600854553206992",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 28,
+        "likes": 208,
+        "quotes": 4,
+        "views": 27840
+      },
+      "fetched_at": "2026-09-09T01:23:13.301Z"
+    },
+    {
+      "id": "2054442123089281442",
+      "url": "https://x.com/NateKettles/status/2054442123089281442",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "NateKettles",
+        "name": "Nate",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1852260571015479296/jkhSJWCC_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-05-13T06:02:26.000Z",
+      "sort_at": "2026-05-13T16:33:11.000Z",
+      "text": "This is so good that my mind is racing with the possibilities here.\n\nThis HTML was a one-shot + 1 prompt (to add the screenshot) of an app I am working on as a side project.\n\n@kunchenguid is cooking! 🔥",
+      "media": [
+        {
+          "id": "2054441812178108416",
+          "type": "gif",
+          "url": "https://video.twimg.com/tweet_video/HILX8XqWAAA_qvi.mp4",
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HILX8XqWAAA_qvi.jpg",
+          "width": 960,
+          "height": 646
+        }
+      ],
+      "quote": {
+        "id": "2054269845966041426",
+        "url": "https://x.com/kunchenguid/status/2054269845966041426",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-05-12T18:37:52.000Z",
+        "text": "time to reveal my HTML workflow with agents\n\nHTML is the new markdown. Lavish is the new editor for your HTML artifacts\n\njust tell your agent - discuss the technical plan with me using `npx lavish-axi`\n\n100% open source and runs locally. details in thread below 👇",
+        "media": [
+          {
+            "id": "2054263542229123072",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2054263542229123072/vid/avc1/1920x1080/6PX-hVh0IXJ-7F5X.mp4?tag=27",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2054263542229123072/img/44bKqvn5QB_RF-Fo.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 33.5
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2054442123089281442",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4,
+        "quotes": 0,
+        "views": 1168
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2054320998766571834",
+      "url": "https://x.com/kunchenguid/status/2054320998766571834",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-12T22:01:08.000Z",
+      "sort_at": "2026-05-12T22:01:08.000Z",
+      "text": "update shared today",
+      "media": [],
+      "quote": {
+        "id": "2054269845966041426",
+        "url": "https://x.com/kunchenguid/status/2054269845966041426",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-05-12T18:37:52.000Z",
+        "text": "time to reveal my HTML workflow with agents\n\nHTML is the new markdown. Lavish is the new editor for your HTML artifacts\n\njust tell your agent - discuss the technical plan with me using `npx lavish-axi`\n\n100% open source and runs locally. details in thread below 👇",
+        "media": [
+          {
+            "id": "2054263542229123072",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2054263542229123072/vid/avc1/1920x1080/6PX-hVh0IXJ-7F5X.mp4?tag=27",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2054263542229123072/img/44bKqvn5QB_RF-Fo.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 33.5
+          }
+        ]
+      },
+      "reply_to_id": "2054010987871883764",
+      "thread_root_id": "2054010987871883764",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 1116
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2054269853255799021",
+      "url": "https://x.com/kunchenguid/status/2054269853255799021",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-12T18:37:54.000Z",
+      "sort_at": "2026-05-12T18:37:54.000Z",
+      "text": "repo is open sourced with MIT at https://github.com/kunchenguid/lavish-axi\n\nas mentioned earlier it was built yesterday after i got convinced of the value of HTML-based workflow, so this is not super battle-tested\n\nbut if you run into problems, file an issue or comment here to let me know!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2054269851963957451",
+      "thread_root_id": "2054269851963957451",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 36,
+        "quotes": 2,
+        "views": 3848
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2054269851963957451",
+      "url": "https://x.com/kunchenguid/status/2054269851963957451",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-12T18:37:53.000Z",
+      "sort_at": "2026-05-12T18:37:53.000Z",
+      "text": "i tried this on many of my own projects\n\nthe most useful use cases i've found:\n- discussing technical plans\n- reviewing code changes\n- quickly comparing prototypes visually",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2054269850441355282",
+      "thread_root_id": "2054269851963957451",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 13,
+        "quotes": 0,
+        "views": 3091
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2054269845966041426",
+      "url": "https://x.com/kunchenguid/status/2054269845966041426",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-12T18:37:52.000Z",
+      "sort_at": "2026-05-12T18:37:52.000Z",
+      "text": "time to reveal my HTML workflow with agents\n\nHTML is the new markdown. Lavish is the new editor for your HTML artifacts\n\njust tell your agent - discuss the technical plan with me using `npx lavish-axi`\n\n100% open source and runs locally. details in thread below 👇",
+      "media": [
+        {
+          "id": "2054263542229123072",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2054263542229123072/vid/avc1/1920x1080/6PX-hVh0IXJ-7F5X.mp4?tag=27",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2054263542229123072/img/44bKqvn5QB_RF-Fo.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 33.5
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2054269845966041426",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 35,
+        "reposts": 38,
+        "likes": 466,
+        "quotes": 6,
+        "views": 57901
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2054107684509745260",
+      "url": "https://x.com/kunchenguid/status/2054107684509745260",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-12T07:53:30.000Z",
+      "sort_at": "2026-05-12T07:53:30.000Z",
+      "text": "what thinking machines cooked here is such a rare combination of a great product vision, truly innovative technology and the most nerdy and entertaining demos\n\ni will be cheering for this company. hope they’ll bring us something unique and amazing soon!",
+      "media": [],
+      "quote": {
+        "id": "2053938892152435174",
+        "url": "https://x.com/thinkymachines/status/2053938892152435174",
+        "author": {
+          "screen_name": "thinkymachines",
+          "name": "Thinking Machines",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2075275500420001792/Q9J4M1DL_200x200.jpg"
+        },
+        "created_at": "2026-05-11T20:42:46.000Z",
+        "text": "People talk, listen, watch, think, and collaborate at the same time, in real time. We've designed an AI that works with people the same way. \n\nWe share our approach, early results, and a quick look at our model in action.\n\nhttps://thinkingmachines.ai/blog/interaction-models",
+        "media": [
+          {
+            "id": "2053934797760905216",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2053934797760905216/vid/avc1/1920x1080/3qX8DE3S3CB5WsPn.mp4?tag=27",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2053934797760905216/img/fq2OZ_3i_C5Lumd2.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 135.135
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2054107684509745260",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12,
+        "quotes": 0,
+        "views": 3175
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2054010987871883764",
+      "url": "https://x.com/kunchenguid/status/2054010987871883764",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-12T01:29:15.000Z",
+      "sort_at": "2026-05-12T01:29:15.000Z",
+      "text": "when i first saw this “HTML is the new markdown” thing, i quickly dismissed it as “that’s going to waste so many tokens”\n\ni was wrong. i just tried it, and it rocks\n\ni plan to share my experience tmr - comment and let me know if there’s anything specific you’re curious about!",
+      "media": [],
+      "quote": {
+        "id": "2052811606032269638",
+        "url": "https://x.com/trq212/status/2052811606032269638",
+        "author": {
+          "screen_name": "trq212",
+          "name": "Thariq",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_200x200.jpg"
+        },
+        "created_at": "2026-05-08T18:03:20.000Z",
+        "text": "HTML is the new markdown. \n\nI've stopped writing markdown files for almost everything and switched to using Claude Code to generate HTML for me. This is why.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2054010987871883764",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 54,
+        "reposts": 6,
+        "likes": 293,
+        "quotes": 2,
+        "views": 54836
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2053859439401386150",
+      "url": "https://x.com/kunchenguid/status/2053859439401386150",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-11T15:27:03.000Z",
+      "sort_at": "2026-05-11T15:27:03.000Z",
+      "text": "me every time i type /clear\n\n(how many of you still remember this?)",
+      "media": [
+        {
+          "id": "2053859433550430208",
+          "type": "gif",
+          "url": "https://video.twimg.com/tweet_video/HIDGReNbwAArX-J.mp4",
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HIDGReNbwAArX-J.jpg",
+          "width": 312,
+          "height": 234
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2053859439401386150",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 10,
+        "quotes": 0,
+        "views": 902
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2053847508762378503",
+      "url": "https://x.com/kunchenguid/status/2053847508762378503",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-11T14:39:39.000Z",
+      "sort_at": "2026-05-11T14:39:39.000Z",
+      "text": "after my agent did some great work, it feels so wrong to respond with “/exit”",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2053847508762378503",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 1,
+        "likes": 19,
+        "quotes": 0,
+        "views": 3081
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2053598738619511124",
+      "url": "https://x.com/kunchenguid/status/2053598738619511124",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-10T22:11:07.000Z",
+      "sort_at": "2026-05-10T22:11:07.000Z",
+      "text": "no-mistakes is open sourced at https://github.com/kunchenguid/no-mistakes\n\nthe latest v1.16.0 release introduced the `no-mistakes stats\" command that generated the report above",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2053598737126347218",
+      "thread_root_id": "2053598737126347218",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 4,
+        "likes": 109,
+        "quotes": 0,
+        "views": 6562
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2053598737126347218",
+      "url": "https://x.com/kunchenguid/status/2053598737126347218",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-10T22:11:07.000Z",
+      "sort_at": "2026-05-10T22:11:07.000Z",
+      "text": "sharing some real data from me using agents on real projects. all my code changes are done with either opus 4.7 or gpt 5.5\n\na whopping 68% of the changes made by agents had a mistake in it, and got saved by no-mistakes\n\nbiggest source of gaps was a change made without updating related documentation, followed by problems caught via code review\n\ni now can't imagine how i could have kept my codebases in order if i didn't have no-mistakes - they would absolutely have turned into a sloppy mess even with the best models we have today",
+      "media": [
+        {
+          "id": "2053596281575227392",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HH_W8AtawAANHCY.png?name=orig",
+          "thumbnail_url": null,
+          "width": 559,
+          "height": 544
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2053598737126347218",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 33,
+        "reposts": 20,
+        "likes": 440,
+        "quotes": 5,
+        "views": 48355
+      },
+      "fetched_at": "2026-09-09T01:23:14.227Z"
+    },
+    {
+      "id": "2053521658900807776",
+      "url": "https://x.com/kunchenguid/status/2053521658900807776",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-10T17:04:50.000Z",
+      "sort_at": "2026-05-10T17:04:50.000Z",
+      "text": "no-mistakes v1.15.0 just released with a major update\n\nwhen no-mistakes starts to validate a code change, it will automatically find the agent session that made the change to understand your original intent\n\nthis allows no-mistakes to not only see “what” changed, but also “why”",
+      "media": [],
+      "quote": {
+        "id": "2046291224609615924",
+        "url": "https://x.com/kunchenguid/status/2046291224609615924",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-04-20T18:13:40.000Z",
+        "text": "alright - finally ready to share another secret weapon in my agentic engineering setup\n\ngit push no-mistakes\n\nthat's not a joke - it's the real command i run when i push my changes nowadays, and it's what allows me to ship 50-100 good PRs a day\n\ninfo shared in thread below 👇",
+        "media": [
+          {
+            "id": "2046278334129311744",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2046278334129311744/vid/avc1/1100x650/teB6HwfXRnbicEo3.mp4?tag=21",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2046278334129311744/img/dF7PQqv9pIOGbJUL.jpg",
+            "width": 1100,
+            "height": 650,
+            "duration": 61.666
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2053521658900807776",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 51,
+        "quotes": 1,
+        "views": 12233
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2053264413403283881",
+      "url": "https://x.com/kunchenguid/status/2053264413403283881",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-10T00:02:38.000Z",
+      "sort_at": "2026-05-10T00:02:38.000Z",
+      "text": "many people asked about the cost of running the realtime voice model here\n\njust released autopreso v0.1.5 with bug fixes and a new realtime cost tracker on the UI so you don't get surprised\n\nupgrade with `npm i -g autopreso@latest`",
+      "media": [
+        {
+          "id": "2053264091834458112",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HH6o0BfboAAjL2s.png?name=orig",
+          "thumbnail_url": null,
+          "width": 338,
+          "height": 148
+        }
+      ],
+      "quote": {
+        "id": "2052800728713040144",
+        "url": "https://x.com/kunchenguid/status/2052800728713040144",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-05-08T17:20:07.000Z",
+        "text": "the new @OpenAI realtime voice model just released + gpt 5.5 fast mode brings us a new possibility -\n\nrealtime speech to live presentation!\n\ni just talk, and the whiteboard would whiteboard itself\n\nprototype is open sourced. details in thread below -",
+        "media": [
+          {
+            "id": "2052797089340608512",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2052797089340608512/vid/avc1/1920x1080/zDyOb13u31Q58Xod.mp4?tag=27",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2052797089340608512/img/BkWRvUf1BJc1qMaX.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 106.561
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2053264413403283881",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 5,
+        "likes": 82,
+        "quotes": 0,
+        "views": 19749
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2052800731703578693",
+      "url": "https://x.com/kunchenguid/status/2052800731703578693",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-08T17:20:08.000Z",
+      "sort_at": "2026-05-08T17:20:08.000Z",
+      "text": "the way it works is:\n- voice sent to gpt-realtime-whisper\n- chunks of transcript streamed back\n- text chunks buffered and sent to gpt 5.5 (fast mode if codex)\n- gpt 5.5 uses tools to draw on @excalidraw canvas\n- can use staging area as reference to improve live preso",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2052800730407620756",
+      "thread_root_id": "2052800728713040144",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 21,
+        "quotes": 1,
+        "views": 3337
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2052800730407620756",
+      "url": "https://x.com/kunchenguid/status/2052800730407620756",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-08T17:20:07.000Z",
+      "sort_at": "2026-05-08T17:20:07.000Z",
+      "text": "repo at https://github.com/kunchenguid/autopreso\n\nsuper early and lots of rough edges - literally just built it after the announcement :) but should be usable and hackable\n\nneed an openai api key for the realtime transcription, or it can also run moonshine locally on mac (not as good but also okay)\n\ncan use openai api key, codex subscription, or ollama for the agent (separate from transcription)",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2052800728713040144",
+      "thread_root_id": "2052800728713040144",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 7,
+        "likes": 61,
+        "quotes": 0,
+        "views": 4859
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2052800728713040144",
+      "url": "https://x.com/kunchenguid/status/2052800728713040144",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-08T17:20:07.000Z",
+      "sort_at": "2026-05-08T17:20:07.000Z",
+      "text": "the new @OpenAI realtime voice model just released + gpt 5.5 fast mode brings us a new possibility -\n\nrealtime speech to live presentation!\n\ni just talk, and the whiteboard would whiteboard itself\n\nprototype is open sourced. details in thread below -",
+      "media": [
+        {
+          "id": "2052797089340608512",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2052797089340608512/vid/avc1/1920x1080/zDyOb13u31Q58Xod.mp4?tag=27",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2052797089340608512/img/BkWRvUf1BJc1qMaX.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 106.561
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2052800728713040144",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 70,
+        "reposts": 74,
+        "likes": 1255,
+        "quotes": 26,
+        "views": 115299
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2052602644129300772",
+      "url": "https://x.com/kunchenguid/status/2052602644129300772",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-08T04:13:00.000Z",
+      "sort_at": "2026-05-08T04:13:00.000Z",
+      "text": "when i added the meteor shower to gnhf, i totally forgot to update the screenshot in the readme file\n\nbut when i looked at it today, the screenshot does have meteors in it… \n\nsomewhere one of my agents did it for me.. i don’t know when and don’t know how\n\nwhat do i do?",
+      "media": [
+        {
+          "id": "2052602641369403392",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHxPOifaEAAvt-g.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1170,
+          "height": 1662
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2052602644129300772",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 7,
+        "quotes": 0,
+        "views": 1331
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2052407217866023314",
+      "url": "https://x.com/kunchenguid/status/2052407217866023314",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-07T15:16:27.000Z",
+      "sort_at": "2026-05-07T15:16:27.000Z",
+      "text": "what are the most important human skills now?\n\ni think at least one of them is -\n\n“learning how to use tokens to buy time”\n\npeople who have 2400 hours of time per day will outperform people who have 8",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2052407217866023314",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 3,
+        "likes": 59,
+        "quotes": 0,
+        "views": 2584
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2052059967822451107",
+      "url": "https://x.com/kunchenguid/status/2052059967822451107",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-06T16:16:36.000Z",
+      "sort_at": "2026-05-06T16:16:36.000Z",
+      "text": "anyone into watching meteor showers while your agents work?\n\none just arrived in gnhf v0.1.39\n\nhttps://github.com/kunchenguid/gnhf",
+      "media": [
+        {
+          "id": "2052057368654147584",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2052057368654147584/vid/avc1/2560x1440/HyqUyP096dvk2HLB.mp4?tag=27",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2052057368654147584/img/zR_UfjULhc8RpDq5.jpg",
+          "width": 2560,
+          "height": 1440,
+          "duration": 24.485
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2052059967822451107",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 0,
+        "views": 1527
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2051871576992428386",
+      "url": "https://x.com/kunchenguid/status/2051871576992428386",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-06T03:48:00.000Z",
+      "sort_at": "2026-05-06T03:48:00.000Z",
+      "text": "here’s a tricky question for you all\n\nwith codex gpt 5.5 xhigh I typically have 5-10 sessions running in parallel\n\nwith codex gpt 5.5 xhigh FAST, I can now only do about 3, because it gets things done a little too fast\n\nnow - am I more productive or less productive?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2051871576992428386",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 60,
+        "reposts": 3,
+        "likes": 176,
+        "quotes": 1,
+        "views": 24078
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2051833084518301741",
+      "url": "https://x.com/kunchenguid/status/2051833084518301741",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-06T01:15:03.000Z",
+      "sort_at": "2026-05-06T01:15:03.000Z",
+      "text": "some great thoughts from the author",
+      "media": [],
+      "quote": {
+        "id": "2051829957199011974",
+        "url": "https://x.com/jyangballin/status/2051829957199011974",
+        "author": {
+          "screen_name": "jyangballin",
+          "name": "John Yang",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1848865168476016646/j0UtHn11_200x200.jpg"
+        },
+        "created_at": "2026-05-06T01:02:37.000Z",
+        "text": "Amazing thread (thx for ping!) My response is a little long but the question of whether to (dis)allow internet is a meaningful one, so I'll do my best to recap my thought process:\n\nTo give some context, 2 core tenets of how I wanted to execute on this idea were to (a) standardize and (b) scale this setting. A lot of past case studies on 0-to-1 repo gen. (e.g. Anthropic, Cursor, METR) were really exciting, but they experimented on a handful of repo's w/ inconsistent settings. I care a lot about statistical power; that's a big reason why SWE-bench is popular imo\n\nTherefore, a key question around standardizing is - yes or no internet? Very early on, i was actually very in favor of it for the very reasons @kunchenguid mentioned. Humans use the internet!\n\nBut 2 things happened:\n\n(1) models cheat a crazy amount.\n\nYou tell it don't look at the source code, it looks at forks on GitHub. You say not that either - it looks at the dependency/tool management indexes (cargo, go.mod, pypi, homebrew). You block that, it finds a version on sourceforge. And then stackoverflow. The cat and mouse game is endless. It's worsened by the fact that each repo has its own form of \"leakage\" (the surface form area of potential cheating sources gets larger with more popular repos). We document this thoroughly in the appendix.\n\n(2) From a more ideological standpoint, my attitude also shifted towards the position that internet access is helpful, but arguably not necessary. Many of these codebases were coded from the ground up. SQLite didn't exist before SQLite. If you examine the people + their process behind these repos:\n- Fabrice Bellard, a generational programmer, has multiple of his repos represented in ProgramBench (tinycc, quickjs, ffmpeg). if you look at the dev history for these projects, it's him as a single contributor, writing extremely elegant + performant code with little to no dependencies, that achieves insane performance. (e.g. quickjs, a JS engine, is written in a few C files with literally 0 dependencies).\n- David Peter (Sharkdp on Github, a member of @astral_sh, who wrote bat/fd/hexyl/pastel, used in ProgramBench) is another open source god who I really think exemplifies how excellent, widely used software is often not stitched together cuts of existing pieces of the internet, but more just a product of incredible ingenuity.\n\nSo to summarize point 2, my take is that incredible open source software that has lifted entire industries (e.g. ffmpeg to Youtube is https://xkcd.com/2347/), is really a product of insanely talented 100x developers; the internet is optional, and often not necessary for the top 1% of folks like this.\n\nSo back to the main point - the goal w/ ProgramBench is to reliably, rigorously investigate a coding agent's ability to build something from nothing. When a model inevitably starts getting non-0% resolve rate, our formulation allows us to say, with absolute certainty, that models have accomplished something superhuman. Unfortunately, at scale, internet access would taint, not reinforce the implications we want ProgramBench to make.\n\nSome food for thought: enabling limited internet access for any single task is feasible a bit of hand tuning. The bigger question is ensure internet w/ 0 chance of cheating at scale.\n\nThat said, I'm looking forward to see where people run with this. The general premise of rearchitecting a program from scratch is a scalable, widely applicable formulation, and I'm excited about how we can expand on new tasks / inference settings (just like SWE-bench => Multimodal, Multilingual, Live, Pro, Rebench and many others :D)",
+        "media": []
+      },
+      "reply_to_id": "2051793120241787092",
+      "thread_root_id": "2051793120241787092",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 779
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2051793120241787092",
+      "url": "https://x.com/kunchenguid/status/2051793120241787092",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-05T22:36:14.000Z",
+      "sort_at": "2026-05-05T22:36:14.000Z",
+      "text": "ProgramBench is interesting - it asks models to recreate real programs (ffmpeg, SQLite, ripgrep) from scratch with no internet\n\n... but I hope no one actually optimizes for this benchmark\n\njust think what's the solution that'll get 100% on this bench? it's a deterministic program that has the current source code of ffmepg, SQLite, ripgrep etc baked in, and just spit them out when asked\n\nit can accidentally incentivize models that are good at memorizing answers from training data into its weights. these models tend to be unnecessarily big and expensive. it also penalizes models that are resourceful and great at leveraging the Internet\n\ni want models that are cheap, fast and prefers using latest information from the Internet, and this benchmark rewards the opposite",
+      "media": [],
+      "quote": {
+        "id": "2051677497562210552",
+        "url": "https://x.com/jyangballin/status/2051677497562210552",
+        "author": {
+          "screen_name": "jyangballin",
+          "name": "John Yang",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1848865168476016646/j0UtHn11_200x200.jpg"
+        },
+        "created_at": "2026-05-05T14:56:48.000Z",
+        "text": "How much of SQLite, FFmpeg, PHP compiler can LMs code from scratch? Given just an executable and no starter code or internet access.\n\nIntroducing ProgramBench: 200 rigorous, whole-repo generation tasks where models design, build, and ship a working program end to end. 🧵",
+        "media": [
+          {
+            "id": "2051669953997328385",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HHj-8_RaUAEImT8.png?name=orig",
+            "thumbnail_url": null,
+            "width": 459,
+            "height": 481
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2051793120241787092",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 18,
+        "quotes": 0,
+        "views": 4193
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2051733230190256391",
+      "url": "https://x.com/kunchenguid/status/2051733230190256391",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-05T18:38:16.000Z",
+      "sort_at": "2026-05-05T18:38:16.000Z",
+      "text": "one of the things I'm doing now that weren't possible without AI is OPINIONS.md\n\nI get a ton of value and believe everyone should create one. I manage mine with Hermes agent from @NousResearch and gpt 5.5\n\nshared my full OPINIONS.md and setup in https://blog.kunchenguid.com/p/everyone-should-have-an-opinionsmd",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2051733230190256391",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 7,
+        "likes": 121,
+        "quotes": 0,
+        "views": 9020
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2051440529683120166",
+      "url": "https://x.com/kunchenguid/status/2051440529683120166",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-04T23:15:10.000Z",
+      "sort_at": "2026-05-04T23:15:10.000Z",
+      "text": "feel free to share with anyone that might find the story helpful, and give a follow if you're interested in what happens next - I'll continue to share more of my journey as a new solo builder",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2051440528399695959",
+      "thread_root_id": "2051440528399695959",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 1169
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2051440528399695959",
+      "url": "https://x.com/kunchenguid/status/2051440528399695959",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-04T23:15:10.000Z",
+      "sort_at": "2026-05-04T23:15:10.000Z",
+      "text": "what does it feel like to quit your job and go solo?\n\nit's been just a month since I quit my big tech career as an L8 engineer\n\ni wrote down my experience of this past month in the most transparent way possible. hope it's helpful to fellow builders!\n\nhttps://blog.kunchenguid.com/p/the-month-after-leaving-big-tech",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2051440528399695959",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 25,
+        "reposts": 7,
+        "likes": 185,
+        "quotes": 0,
+        "views": 24978
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2051148697741013470",
+      "url": "https://x.com/kunchenguid/status/2051148697741013470",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-04T03:55:32.000Z",
+      "sort_at": "2026-05-04T03:55:32.000Z",
+      "text": "just landed 32 new features and improvements across my github projects today. all well tested and documented. and it's one of the slower days in the past month\n\nif someone told me these stats in 2024, i would ask what they were smoking\n\nwhat a crazy yet exciting world we're in",
+      "media": [
+        {
+          "id": "2051146292278267904",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHcir3WbEAAJOTM.png?name=orig",
+          "thumbnail_url": null,
+          "width": 855,
+          "height": 534
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2051148697741013470",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 31,
+        "quotes": 0,
+        "views": 2205
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2051008268789743787",
+      "url": "https://x.com/kunchenguid/status/2051008268789743787",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-03T18:37:31.000Z",
+      "sort_at": "2026-05-03T18:37:31.000Z",
+      "text": "is it just me or has gmail UX on both web and the mobile app just become significantly laggier? \n\nit used to be very snappy but now every click feels like poking a sloth",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2051008268789743787",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 4,
+        "quotes": 0,
+        "views": 1367
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2050866653853045088",
+      "url": "https://x.com/kunchenguid/status/2050866653853045088",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-03T09:14:48.000Z",
+      "sort_at": "2026-05-03T09:14:48.000Z",
+      "text": "sigh.. another confused power plant worker\n\nimagine you are building power plants\n\nand you tell the world to stop making dishwashers\n\nand you say the power you produce will only work well on dishwashers sold by your power plant company",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2050866653853045088",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 3,
+        "likes": 51,
+        "quotes": 0,
+        "views": 6389
+      },
+      "fetched_at": "2026-09-09T01:23:15.103Z"
+    },
+    {
+      "id": "2050720538629460407",
+      "url": "https://x.com/kunchenguid/status/2050720538629460407",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-02T23:34:11.000Z",
+      "sort_at": "2026-05-02T23:34:11.000Z",
+      "text": "this is why AI is both amazing and a slop machine at the same time\n\nthe differentiating factor is not AI. it's the human steering it\n\nAI does two things\n- it raises the floor of human capability. anyone can now code, design, and create stuff\n- it amplifies the human\n\nwhen the human's competence and capability at steering AI is above a threshold, they can almost infinitely scale up their capability - this is scarily powerful\n\nwhen the human has poor judgment and taste, AI also amplifies it, creating slop that's even worse than what they'd do without AI\n\nin the middle, AI helps a little but nothing transformative\n\nthese 3 buckets explain largely what we're seeing today",
+      "media": [
+        {
+          "id": "2050718592505921536",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHWdsdiawAAENYI.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1254,
+          "height": 1254
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2050720538629460407",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 4,
+        "likes": 35,
+        "quotes": 3,
+        "views": 2687
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2050689285834281454",
+      "url": "https://x.com/kunchenguid/status/2050689285834281454",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-02T21:30:00.000Z",
+      "sort_at": "2026-05-02T21:30:00.000Z",
+      "text": "guys i just totally figured out youtube’s algorithm\n\nmore hair = more views\n\ni know what i have to do now",
+      "media": [
+        {
+          "id": "2050689282785038336",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHWDCaUaUAAH4Bh.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1147,
+          "height": 847
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2050689285834281454",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 2,
+        "likes": 47,
+        "quotes": 0,
+        "views": 2339
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2050648796456182115",
+      "url": "https://x.com/kunchenguid/status/2050648796456182115",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-02T18:49:06.000Z",
+      "sort_at": "2026-05-02T18:49:06.000Z",
+      "text": "and i just woke up to 144 commits done over 8+ hours completely revamping the test suite in https://github.com/kunchenguid/no-mistakes\n\ni've found e2e tests written based on PRD to be much better at guarding real behaviors - and that's what the 144 commits did\n\nreviewing the e2e tests written now",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2050648794640113947",
+      "thread_root_id": "2050648794640113947",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 15,
+        "quotes": 0,
+        "views": 2833
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2050648794640113947",
+      "url": "https://x.com/kunchenguid/status/2050648794640113947",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-02T18:49:06.000Z",
+      "sort_at": "2026-05-02T18:49:06.000Z",
+      "text": "ok @steipete's acpx is a godsend https://github.com/openclaw/acpx\n\njust added it in gnhf v0.1.31, and boom - gnhf now supports almost any agent harness you can name\n\nfor anyone building bring-your-own-agent apps, highly recommend calling acpx instead of building your own abstraction",
+      "media": [
+        {
+          "id": "2050641106283675648",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHVXOK3aQAAzs93.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1448,
+          "height": 1086
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2050648794640113947",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 23,
+        "likes": 453,
+        "quotes": 3,
+        "views": 65985
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2050006952340832468",
+      "url": "https://x.com/kunchenguid/status/2050006952340832468",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-01T00:18:39.000Z",
+      "sort_at": "2026-05-01T00:18:39.000Z",
+      "text": "1st match opus chose a slower route and never caught up\n\n2nd match had an intense fight in the middle and opus timed out on a turn and led to loss\n\nit was hilarious watching the agents trash talk at each other during the game as well",
+      "media": [
+        {
+          "id": "2050005708482187264",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHMVVJmakAA0qUH.png?name=orig",
+          "thumbnail_url": null,
+          "width": 441,
+          "height": 343
+        }
+      ],
+      "quote": null,
+      "reply_to_id": "2050006950457508189",
+      "thread_root_id": "2050006950457508189",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 607
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2050006950457508189",
+      "url": "https://x.com/kunchenguid/status/2050006950457508189",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-01T00:18:38.000Z",
+      "sort_at": "2026-05-01T00:18:38.000Z",
+      "text": "in the recorded match above, both agents used low reasoning level\n\none thing immediately obvious was opus 4.7 takes much longer to think. its adaptive thinking would completely ignore the low reasoning setting\n\ngpt 5.5. didn't think for nearly as long, yet won twice in a row",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2050006949157314990",
+      "thread_root_id": "2050006950457508189",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3,
+        "quotes": 0,
+        "views": 890
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2050006945931903209",
+      "url": "https://x.com/kunchenguid/status/2050006945931903209",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-05-01T00:18:37.000Z",
+      "sort_at": "2026-05-01T00:18:37.000Z",
+      "text": "LLM benchmarks are boring. introducing - \n\nTrial by Combat!!!\n\ntwo LLMs walk into a turn based strategy game, only one walks out\n\nGPT 5.5 completely demolished Opus 4.7 - much faster turns, lower token usage, and it won, fair an square\n\ndetails shared in thread below 👇",
+      "media": [
+        {
+          "id": "2050004878978957312",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2050004878978957312/vid/avc1/1920x1080/PUYRC7zC0w3JAijW.mp4?tag=27",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2050004878978957312/img/er6NL2JWDV_UxhFm.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 2302.933
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2050006945931903209",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 7,
+        "reposts": 1,
+        "likes": 70,
+        "quotes": 1,
+        "views": 7105
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    }
+  ]
+}

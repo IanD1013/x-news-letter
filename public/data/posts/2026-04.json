@@ -1,0 +1,471 @@
+{
+  "month": "2026-04",
+  "posts": [
+    {
+      "id": "2049693852043563438",
+      "url": "https://x.com/kunchenguid/status/2049693852043563438",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-30T03:34:30.000Z",
+      "sort_at": "2026-04-30T03:34:30.000Z",
+      "text": "they caught the goblins! \n\nreminds me of Walter White spending a whole episode catching a fly - good cooks never let details slide!",
+      "media": [],
+      "quote": {
+        "id": "2049690533845663830",
+        "url": "https://x.com/OpenAI/status/2049690533845663830",
+        "author": {
+          "screen_name": "OpenAI",
+          "name": "OpenAI",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg"
+        },
+        "created_at": "2026-04-30T03:21:19.000Z",
+        "text": "We’re talking about Goblins. \nhttps://openai.com/index/where-the-goblins-came-from/",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2049693852043563438",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 0,
+        "views": 1429
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2049630467641782453",
+      "url": "https://x.com/kunchenguid/status/2049630467641782453",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-29T23:22:38.000Z",
+      "sort_at": "2026-04-29T23:22:38.000Z",
+      "text": "call me a perfectionist, but with this Makefile along with https://github.com/kunchenguid/no-mistakes i can literally \n\ntype \"make no mistakes\" in my terminal\n\nand it'll\n- commit changes\n- create branch\n- git push no-mistakes\n- raise clean PR\n- babysit CI and auto fix errors\n\nlife is good",
+      "media": [
+        {
+          "id": "2049629385452670976",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHG_EREb0AAs-zT.png?name=orig",
+          "thumbnail_url": null,
+          "width": 866,
+          "height": 550
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2049630467641782453",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 20,
+        "quotes": 0,
+        "views": 2382
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2049594075142337005",
+      "url": "https://x.com/kunchenguid/status/2049594075142337005",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-29T20:58:01.000Z",
+      "sort_at": "2026-04-29T20:58:01.000Z",
+      "text": "gnhf 0.1.27+ now supports the Pi agent harness! \n\nthanks to a contribution PR https://github.com/kunchenguid/gnhf/pull/97",
+      "media": [
+        {
+          "id": "2049594044909793280",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HHGe7LSasAAC-vb.png?name=orig",
+          "thumbnail_url": null,
+          "width": 819,
+          "height": 528
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2049594075142337005",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 4,
+        "likes": 104,
+        "quotes": 1,
+        "views": 8398
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2049248988117995554",
+      "url": "https://x.com/kunchenguid/status/2049248988117995554",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-28T22:06:46.000Z",
+      "sort_at": "2026-04-28T22:06:46.000Z",
+      "text": "a few folks asked me how I built the animating starry night background in the gnhf TUI\n\nso I wrote a technical blog showing the exact implementation with no frameworks, no \"small game engine\" :) but a hand-rolled ANSI diff renderer\n\nhappy building! https://open.substack.com/pub/kunchenguid/p/how-i-built-a-starry-night-in-tui?r=1rp4tp&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+      "media": [],
+      "quote": {
+        "id": "2039458683831415271",
+        "url": "https://x.com/kunchenguid/status/2039458683831415271",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-04-01T21:43:36.000Z",
+        "text": "sharing a pretty important primitive in my agentic engineering setup\n\nI call it \"gnhf\" - good night, have fun\n\nbasically, every night before I go to bed, I would put my agents to work so I never wake up \"empty-handed\". it's done through a similar setup as @GeoffreyHuntley's famous ralph loop and @karpathy's autoresearch\n\ni just open sourced my solution as a tool at https://github.com/kunchenguid/gnhf - it's a dead-simple orchestrator that can run claude code, codex, opencode and rovo dev\n\nit's particularly effective when you give a measurable goal for the agents to work towards. the agent will deterministically attempt at it, make incremental progress, keep successful results and discard failed ones - rinse and repeat until you wake up (or it reaches the caps you set)\n\ni previously ran this with a bunch of scripts but finally got time to package it as a tool - pretty fresh so will likely have rough edges, but feel free to give it a try! \n\ngood night, have fun!",
+        "media": [
+          {
+            "id": "2039454546209173504",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2039454546209173504/vid/avc1/1600x1200/5aWlnyN5DwSlPeqj.mp4?tag=21",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2039454546209173504/img/WxmnDJxvWkTNu_tp.jpg",
+            "width": 1600,
+            "height": 1200,
+            "duration": 29.988
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2049248988117995554",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 30,
+        "quotes": 0,
+        "views": 4165
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2049012562944274663",
+      "url": "https://x.com/kunchenguid/status/2049012562944274663",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-28T06:27:18.000Z",
+      "sort_at": "2026-04-28T06:27:18.000Z",
+      "text": "",
+      "media": [
+        {
+          "id": "2049011787975245824",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HG-NXXLaQAAh_ht.png?name=orig",
+          "thumbnail_url": null,
+          "width": 800,
+          "height": 533
+        }
+      ],
+      "quote": null,
+      "reply_to_id": "2048978455107383456",
+      "thread_root_id": "2048978455107383456",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6,
+        "quotes": 0,
+        "views": 596
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2048978455107383456",
+      "url": "https://x.com/kunchenguid/status/2048978455107383456",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-28T04:11:46.000Z",
+      "sort_at": "2026-04-28T04:11:46.000Z",
+      "text": "gnhf just became my first project that reached 1000 github stars! https://github.com/kunchenguid/gnhf\n\nreal stars accumulated over the past month, not bought for VCs lol. it’s just an open source tool that i made to make it dead simple for me to run @karpathy’s auto-research on any project\n\nthanks to the open source community for giving suggestions and PRs - look forward to making it better together!",
+      "media": [],
+      "quote": {
+        "id": "2039458683831415271",
+        "url": "https://x.com/kunchenguid/status/2039458683831415271",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-04-01T21:43:36.000Z",
+        "text": "sharing a pretty important primitive in my agentic engineering setup\n\nI call it \"gnhf\" - good night, have fun\n\nbasically, every night before I go to bed, I would put my agents to work so I never wake up \"empty-handed\". it's done through a similar setup as @GeoffreyHuntley's famous ralph loop and @karpathy's autoresearch\n\ni just open sourced my solution as a tool at https://github.com/kunchenguid/gnhf - it's a dead-simple orchestrator that can run claude code, codex, opencode and rovo dev\n\nit's particularly effective when you give a measurable goal for the agents to work towards. the agent will deterministically attempt at it, make incremental progress, keep successful results and discard failed ones - rinse and repeat until you wake up (or it reaches the caps you set)\n\ni previously ran this with a bunch of scripts but finally got time to package it as a tool - pretty fresh so will likely have rough edges, but feel free to give it a try! \n\ngood night, have fun!",
+        "media": [
+          {
+            "id": "2039454546209173504",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2039454546209173504/vid/avc1/1600x1200/5aWlnyN5DwSlPeqj.mp4?tag=21",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2039454546209173504/img/WxmnDJxvWkTNu_tp.jpg",
+            "width": 1600,
+            "height": 1200,
+            "duration": 29.988
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2048978455107383456",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 8,
+        "likes": 84,
+        "quotes": 0,
+        "views": 10568
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2048903872798925247",
+      "url": "https://x.com/kunchenguid/status/2048903872798925247",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-27T23:15:24.000Z",
+      "sort_at": "2026-04-27T23:15:24.000Z",
+      "text": "this is where I actually want some “Apple Intelligence” - \n\non-device SLM that learns which notifications i don’t care about and punishes apps that send them",
+      "media": [],
+      "quote": {
+        "id": "2048882067757310215",
+        "url": "https://x.com/GergelyOrosz/status/2048882067757310215",
+        "author": {
+          "screen_name": "GergelyOrosz",
+          "name": "Gergely Orosz",
+          "avatar_url": "https://pbs.twimg.com/profile_images/673095429748350976/ei5eeouV_200x200.png"
+        },
+        "created_at": "2026-04-27T21:48:45.000Z",
+        "text": "And killed notifications from Spotify as well.\n\nCannot believe how there is practically no company by now that has not abused push notifications for product marketing.\n\nI’ve now been trained to disallow notifications from any and all apps - save for my main banking+messaging one",
+        "media": [
+          {
+            "id": "2048882058726957056",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HG8XYIEXYAAl3ZV.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1179,
+            "height": 344
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2048903872798925247",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11,
+        "quotes": 0,
+        "views": 2395
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2048880815237685490",
+      "url": "https://x.com/kunchenguid/status/2048880815237685490",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-27T21:43:47.000Z",
+      "sort_at": "2026-04-27T21:43:47.000Z",
+      "text": "i tried https://gethandle.ai/ myself and it's legit one of the best tools for UX refinement\n\ninstead of writing giant prompts describing what you want to change and still not getting what you need, you change the UI in place and let the agent figure out how to make it happen",
+      "media": [],
+      "quote": {
+        "id": "2048867664668537155",
+        "url": "https://x.com/derekcheng/status/2048867664668537155",
+        "author": {
+          "screen_name": "derekcheng",
+          "name": "Derek Cheng",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1884724236302123008/zrhik4RK_200x200.jpg"
+        },
+        "created_at": "2026-04-27T20:51:32.000Z",
+        "text": "Coding agents are great for first drafts of UI, but clumsy and slow when it comes to refining details.\n\nThe solution is to combine both: explore with an agent, but then be able to select a component, make direct edits and round-trip the changes back to code.\n\nEverything's done directly in the live product so there's no gap between design and reality.",
+        "media": [
+          {
+            "id": "2048866901481402368",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2048866901481402368/vid/avc1/1944x1080/9VBwMaX3VmElh0Ua.mp4?tag=21",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2048866901481402368/img/fZOhWhex3AordTn3.jpg",
+            "width": 1944,
+            "height": 1080,
+            "duration": 20.933
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2048880815237685490",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 0,
+        "views": 3133
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2048833830682079411",
+      "url": "https://x.com/kunchenguid/status/2048833830682079411",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-27T18:37:05.000Z",
+      "sort_at": "2026-04-27T18:37:05.000Z",
+      "text": "i just chatted with @ALEngineered on his podcast for 3 hrs straight and we couldn’t stop - it’s genuinely the more knowledge-packed conversation i’ve had for a long time. and it just went live here!\nhttps://youtu.be/q3ca41YIZjc\n\nwe covered my origin story, pivotal points in my career, IC and management, working solo, and some must-know about AI’s impact on SWE and where things are heading. hope it’ll be helpful for anyone that are feeling unsure about the future!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2048833830682079411",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 22,
+        "quotes": 0,
+        "views": 2248
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2048604156429287464",
+      "url": "https://x.com/kunchenguid/status/2048604156429287464",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-27T03:24:26.000Z",
+      "sort_at": "2026-04-27T03:24:26.000Z",
+      "text": "opus 4.7 spent over an hour debugging a tricky CI pipeline issue\n\nwhen it's done, I could see its excitement through the all-caps \"WE FIXED IT\"\n\nthese little emotions is something i still don't quite see from gpt",
+      "media": [
+        {
+          "id": "2048603092074299392",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HG4ZqITbAAA0R9l.png?name=orig",
+          "thumbnail_url": null,
+          "width": 541,
+          "height": 108
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2048604156429287464",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 1,
+        "likes": 17,
+        "quotes": 0,
+        "views": 1861
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2048219030834892936",
+      "url": "https://x.com/kunchenguid/status/2048219030834892936",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-26T01:54:05.000Z",
+      "sort_at": "2026-04-26T01:54:05.000Z",
+      "text": "i ask agent to build a thing\n\ni realize a tool can make that easier\n\ni ask agent to build the tool\n\ni realize another tool can make building tools easier\n\ni ask agent to build the other tool\n\ni now have 10 tools. still haven’t built the thing\n\nhelp",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2048219030834892936",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 20,
+        "reposts": 2,
+        "likes": 55,
+        "quotes": 0,
+        "views": 2742
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    },
+    {
+      "id": "2048073018925338704",
+      "url": "https://x.com/kunchenguid/status/2048073018925338704",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-04-25T16:13:53.000Z",
+      "sort_at": "2026-04-25T16:13:53.000Z",
+      "text": "why do I keep asking my openclaw\n\n“are you there?”",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2048073018925338704",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 1,
+        "views": 2413
+      },
+      "fetched_at": "2026-09-09T01:23:16.076Z"
+    }
+  ]
+}

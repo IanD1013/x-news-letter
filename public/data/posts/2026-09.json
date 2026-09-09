@@ -1,0 +1,1448 @@
+{
+  "month": "2026-09",
+  "posts": [
+    {
+      "id": "2097488019146375535",
+      "url": "https://x.com/kunchenguid/status/2097488019146375535",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T00:51:27.000Z",
+      "sort_at": "2026-09-09T00:51:27.000Z",
+      "text": "herdr + firstmate is indeed a great combo. that's my daily driver too\n\nherdr provides the lifecycle management and organization of all the agents\n\nfirstmate serves as a single point of contact to orchestrate all of them without going insane",
+      "media": [],
+      "quote": {
+        "id": "2097486518298542327",
+        "url": "https://x.com/Jasmeetsb/status/2097486518298542327",
+        "author": {
+          "screen_name": "Jasmeetsb",
+          "name": "Jasmeet Bhatia",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2097486728068255744/9lIXTuOm_200x200.jpg"
+        },
+        "created_at": "2026-09-09T00:45:30.000Z",
+        "text": "Really enjoying Herdr(@herdrdev) and Firstmate lately.\n\nWhat started as experimenting with a couple of tools turned into rebuilding my entire agentic dev workflow around them.\nNice work @cancelik @kunchenguid 👏 #herdr #firstmate\n\nAnds thanks @rajesh_thallam for putting them on my radar!",
+        "media": [
+          {
+            "id": "2097485916407496704",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HRvEU_jagAARsSJ.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1082,
+            "height": 696
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2097488019146375535",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 18,
+        "quotes": 0,
+        "views": 1455
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097448070506324093",
+      "url": "https://x.com/kunchenguid/status/2097448070506324093",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-08T22:12:43.000Z",
+      "sort_at": "2026-09-08T22:12:43.000Z",
+      "text": "found a gem - good recommendation from Keith here\n\nit's a video walking through the basics of firstmate, many of the key principles behind the whole stack, and Hal's own thoughts\n\ni just watched it and honestly felt like i couldn't have made a better one myself",
+      "media": [],
+      "quote": {
+        "id": "2097440227102965835",
+        "url": "https://x.com/EachWayAI/status/2097440227102965835",
+        "author": {
+          "screen_name": "EachWayAI",
+          "name": "Keith Moon 🐎",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1888928718996869121/8ZqzZMDB_200x200.jpg"
+        },
+        "created_at": "2026-09-08T21:41:33.000Z",
+        "text": "If you're looking at herdr / firstmate by @kunchenguid \n\nI'd recommend watching this video by @_halshin \n\nhttps://www.youtube.com/watch?v=TlmTypTQFj8\n\nGreat video, very comprehensive and concise.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2097448070506324093",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 2,
+        "likes": 61,
+        "quotes": 0,
+        "views": 8525
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097411091869381027",
+      "url": "https://x.com/EachWayAI/status/2097411091869381027",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "EachWayAI",
+        "name": "Keith Moon 🐎",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1888928718996869121/8ZqzZMDB_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-08T19:45:46.000Z",
+      "sort_at": "2026-09-08T22:12:42.000Z",
+      "text": "Herdr & Firstmate by @kunchenguid is an absolute game changer. His Github repos really unlock the power of agentic engineering. \n\nhttps://github.com/kunchenguid/",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097411091869381027",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 8,
+        "likes": 134,
+        "quotes": 0,
+        "views": 13295
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097345968962507102",
+      "url": "https://x.com/kunchenguid/status/2097345968962507102",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-08T15:27:00.000Z",
+      "sort_at": "2026-09-08T15:27:00.000Z",
+      "text": "code is MIT open sourced at https://github.com/kunchenguid/fly-with-me\n\ni structured the code to make it easy to add objects, generators and biomes etc, so if you have a lot of tokens lying around and want to try some ideas, check it out, and PR welcome!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2097345968622747801",
+      "thread_root_id": "2097345968022892588",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9,
+        "quotes": 0,
+        "views": 1257
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097345968622747801",
+      "url": "https://x.com/kunchenguid/status/2097345968622747801",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-08T15:27:00.000Z",
+      "sort_at": "2026-09-08T15:27:00.000Z",
+      "text": "there's no blender, no compute use, no image generation. it's purely LLMs writing code\n\ni used grok 4.6 as the orchestrator (firstmate), fable 5.1 for figuring out art direction, gpt 6 astra for the bulk of the implementation, opus 5 for hillclimbing performance optimizations, and muse spark 1.3 for some features like mouse control and persistence\n\nthese models get along much better than their makers :)\n\nthrough this exercise, i learned a few things -\n\n1. don't give astra anything that requires aesthetics - it just can't. fable is still the king at making beautiful things\n\n2. astra is however great at implementing complex things without using many tokens. it seems it just knows what the correct implementation is, and there's very little trial and error or rework\n\n3. even with these powerful models, A TON of human steering was still needed to create a look that i feel good about. the sun, moon, milky way and clouds, coloring, and the cel-shading art style - the LLMs just couldn't come up with coherent result without me providing inputs",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2097345968022892588",
+      "thread_root_id": "2097345968022892588",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 0,
+        "likes": 25,
+        "quotes": 0,
+        "views": 1876
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097345968022892588",
+      "url": "https://x.com/kunchenguid/status/2097345968022892588",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-08T15:27:00.000Z",
+      "sort_at": "2026-09-08T15:27:00.000Z",
+      "text": "i heard the new LLMs are good at 3d, so i tried making something useful with them\n\nhere's \"Fly with me\" - a calm bird flying over an infinite procedurally generated world. i leave it open on my second monitor to help me focus\n\nhttps://kunchenguid.github.io/fly-with-me/\n\nhow i made it 👇",
+      "media": [
+        {
+          "id": "2097219869964173313",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2097219869964173313/vid/avc1/1920x1080/VE30bUBsPjC9G3wF.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2097219869964173313/img/wVhmielW1w2y-CiQ.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 60
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097345968022892588",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 12,
+        "reposts": 4,
+        "likes": 103,
+        "quotes": 0,
+        "views": 7833
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097079905301504360",
+      "url": "https://x.com/kunchenguid/status/2097079905301504360",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-07T21:49:45.000Z",
+      "sort_at": "2026-09-07T21:49:45.000Z",
+      "text": "poteto poteto poteto\n\nsome improvement opportunities i noticed when developing this template -\n\n1. it seems in order to create a template, the bot needs to put all the data into a single tool call\n\nwhen the data is large enough, this tool call becomes difficult for the agent to do correctly. my bot made multiple rounds of mistakes before getting it right, and because of that, i had to manually review everything to make sure it didn't mess things up\n\nit might be good to allow the agent to first write the template data to files, then make the tool call by specifying where the files are\n\n2. it's currently a bit hard for template developers to test the template in an isolated environment before publishing\n\nmy firstmate template for example has to write some global state on the computer. if i test it with my own account, it would conflict with my real data\n\nit would be super useful for template developers to have a sandbox computer where they can test things out\n\n3. it would be good to allow bot templates to be version controlled - like committed to a git repo\n\nthis has the benefit of better persistence of template data, as well as allowing open source collaborations\n\nthe overall idea of a bot marketplace is brilliant and this is probably the best implementation of reusable agents that's in the market right now - well done!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2097076598499668193",
+      "thread_root_id": "2097076598499668193",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 2,
+        "likes": 44,
+        "quotes": 0,
+        "views": 4030
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097048015303229936",
+      "url": "https://x.com/herdrdev/status/2097048015303229936",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "herdrdev",
+        "name": "herdr",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2059392958772699136/I0w4xJNg_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-07T19:43:02.000Z",
+      "sort_at": "2026-09-07T21:49:44.000Z",
+      "text": "0.9.0 is here, and it brings the most wanted herdr feature:\n\nall your machines running herdr, in a single client 🎉\n\ncontrol your agents and projects across local and remote machines without jumping between terminal tabs.",
+      "media": [
+        {
+          "id": "2097038215244824576",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2097038215244824576/vid/avc1/1920x1080/B_Sl7QrM6Xp9yWcv.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2097038215244824576/img/x86fLyHLRCqRiNI9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 30.366
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097048015303229936",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 174,
+        "reposts": 336,
+        "likes": 4182,
+        "quotes": 169,
+        "views": 695032
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097076598499668193",
+      "url": "https://x.com/kunchenguid/status/2097076598499668193",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-07T21:36:37.000Z",
+      "sort_at": "2026-09-07T21:36:37.000Z",
+      "text": "sharing my Grok @Bot setup as a template you can one-click install\n\nyou might have already heard of the \"chief of staff\" pattern that's being widely adopted\n\nfirstmate is THE chief of staff - it's probably the project that pushed the furthest on this pattern\n\nit spins up other bots to get work done and actively improves their memory and instructions so they do better and better over time\n\nit sets up a local sqlite db to manage tasks, delegation, results, and decisions, so persistent records are never lost\n\nit uses cursor cloud agents for coding tasks, and grok bot for non-coding, to balance the resource and quota usage and avoid scalability bottlenecks\n\nthe most common feedback from people who have adopted firstmate is \"there's no way to go back\" :)\n\nhttps://x.ai/bot/__4FfrkUdvpdMk6-LKg5r\n\nadd to your grok bot, and talk to it about everything, then watch your \"agent civilization\" grow - it's really productive and fun at the same time!",
+      "media": [
+        {
+          "id": "2097074770999382016",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRpOZLjaEAAQS4n.png?name=orig",
+          "thumbnail_url": null,
+          "width": 547,
+          "height": 590
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097076598499668193",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 53,
+        "reposts": 41,
+        "likes": 623,
+        "quotes": 3,
+        "views": 46271
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2097035514067272079",
+      "url": "https://x.com/kunchenguid/status/2097035514067272079",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-07T18:53:22.000Z",
+      "sort_at": "2026-09-07T18:53:22.000Z",
+      "text": "unit tests are just source code at this point\n\ne2e test is the only real kind of test we can trust to guard actual behavior\n\nmaking sure your e2e tests reflect how users actually use your product is one of the highest ROI things you can do to your codebase",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097035514067272079",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 89,
+        "reposts": 86,
+        "likes": 1394,
+        "quotes": 21,
+        "views": 60114
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096841524285940072",
+      "url": "https://x.com/kunchenguid/status/2096841524285940072",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-07T06:02:31.000Z",
+      "sort_at": "2026-09-07T06:02:31.000Z",
+      "text": "you either die a developer, or live long enough to see yourself become sales & marketing",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2096841524285940072",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 79,
+        "reposts": 71,
+        "likes": 967,
+        "quotes": 16,
+        "views": 34030
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096723730022248722",
+      "url": "https://x.com/kunchenguid/status/2096723730022248722",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-06T22:14:27.000Z",
+      "sort_at": "2026-09-06T22:14:27.000Z",
+      "text": "it reads from a knowledge base that's refreshed daily based on what i said, did and built (automation managed by Grok @Bot)\n\nso this is not a static skill, but an always up-to-date distillation of my knowledge\n\nmy hope is i can be of help to more people this way!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2096723728814264427",
+      "thread_root_id": "2096723728814264427",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 35,
+        "quotes": 0,
+        "views": 3593
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096723728814264427",
+      "url": "https://x.com/kunchenguid/status/2096723728814264427",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-06T22:14:26.000Z",
+      "sort_at": "2026-09-06T22:14:26.000Z",
+      "text": "time for something fun and useful! 😀\n\nintroducing \"/kun\" - a skill that's a near-realtime distillation of myself\n\nhttps://github.com/kunchenguid/kun\n\nit runs on demand and helps you apply my knowledge, workflows and tools to think and build like a seasoned professional developer",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2096723728814264427",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 39,
+        "reposts": 41,
+        "likes": 589,
+        "quotes": 3,
+        "views": 32659
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096661942010368487",
+      "url": "https://x.com/kunchenguid/status/2096661942010368487",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-06T18:08:55.000Z",
+      "sort_at": "2026-09-06T18:08:55.000Z",
+      "text": "we’re entering an interesting age where AI makes repeating something that already exists drastically easier than creating something truly novel\n\ni worry the side effects are -\n\n1. innovators who don’t have distribution get punished \n\nbecause someone with distribution can copy the innovation in an hour and take all the win\n\nif this happens repeatedly, people may simply stop innovating because innovation is already extremely risky. now with the added risk of getting stolen, ROI is a lot higher to just copy something that works\n\n2. products with no network effect will all race to the bottom \n\nbecause anything good will get millions of copies that do the same and split the market\n\nthis may be good for consumers because those products will not be able to have much profit margin, so price will be low\n\nbut it’s bad for people making products, and as a result average product quality may become pretty low because they don’t have much profit to sustain the polish\n\n3. people will face choice paralysis\n\nfor every single thing, there will be millions of choices that all look the same, and they are all running the same ads asking you to choose them. which one do you use?\n\npeople will increasingly lean on authority to tell them, which will increase the distribution power of authorities and reduce the power of ads\n\nwhat else do you think might happen when copying becomes 1000x easier than creating something new?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2096661942010368487",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 67,
+        "reposts": 19,
+        "likes": 345,
+        "quotes": 7,
+        "views": 22523
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096459817162567925",
+      "url": "https://x.com/kunchenguid/status/2096459817162567925",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-06T04:45:45.000Z",
+      "sort_at": "2026-09-06T04:45:45.000Z",
+      "text": "one of the awkward things with controlling your terminal over ssh on your phone is all the keybinds that work great on a physical keyboard but is a pain to do on mobile\n\nin SSHHIP i can now do keybinds like shift+tab by just dragging the dial with one finger",
+      "media": [
+        {
+          "id": "2096459813924597760",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRgfF97bcAAp8R2.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1314
+        }
+      ],
+      "quote": {
+        "id": "2096456097293066296",
+        "url": "https://x.com/theSSHHIP/status/2096456097293066296",
+        "author": {
+          "screen_name": "theSSHHIP",
+          "name": "SSHHIP",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2080747283931664385/XdT4pm_w_200x200.jpg"
+        },
+        "created_at": "2026-09-06T04:30:58.000Z",
+        "text": "SSHHIP 1.28.0 is now live\n\nA guided first connection walks you from finding a host to a live terminal. · Sticky Shift on the command dial, so Shift+Tab works by touch. · Snippets can press Return for you with a per-snippet Auto-Submit toggle.\n\nhttps://apps.apple.com/us/app/sshhip/id6785186457",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2096459817162567925",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 17,
+        "reposts": 11,
+        "likes": 176,
+        "quotes": 3,
+        "views": 23566
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096418900019720530",
+      "url": "https://x.com/kunchenguid/status/2096418900019720530",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-06T02:03:10.000Z",
+      "sort_at": "2026-09-06T02:03:10.000Z",
+      "text": "i forced myself to use a few non-mainstream models today. sharing my experience with everyone in case you're wondering\n\n1. muse spark 1.3\n\ni was genuinely surprised by how good this model is. if you silently swapped opus 4.8 with this without telling me, it'll probably take me quite a while to figure it out, and it would likely be from the communication style rather than capability\n\nat its contributor pricing, the ROI is quite incredible. i find very little motivation to even try deepseek v4 flash when this exists\n\ni don't like the phrase they keep using though - \"intelligence that's too cheap to meter\". if i do all my work with this model, even at its extremely good pricing, it'll still cost me thousands of dollars a month - that's not \"too cheap to meter\"\n\nreduce the cost by another 100x then let's talk about \"too cheap\"\n\n2. glm 5.3 flash\n\ni thought it'd be better than muse spark 1.3, but actually immediately after i switched to this as my firstmate, it made quite a few mistakes\n\nit could be a bit anecdotal but now it lost trust with me and i'm a bit nervous about letting it manage my work. i'm going to let it do some more straightforward implementation rather than acting as my primary model\n\n3. gemini 3.8 flash\n\nmaybe it's because i never spent much time with gemini before, but this model is SO GOOD at communicating. it's such a breath of fresh air. i can understand every word without using much brain power at all\n\nbut this is significantly more expensive than the two above. i think i'd have to get a google ai subscription if i want to use this more, but not being able to use it in 3rd party harnesses gives me a pause\n\nit's also powerful enough as an opus replacement for most things i tried. my general sense after trying these models is - everyone has an opus now, and they are all cheaper than the real opus\n\nfable and astra is probably the only moat the labs have now - the game has fundamentally shifted from what it was 6 months ago",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2096418900019720530",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 169,
+        "reposts": 79,
+        "likes": 1830,
+        "quotes": 28,
+        "views": 214279
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096324562229326278",
+      "url": "https://x.com/kunchenguid/status/2096324562229326278",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-05T19:48:18.000Z",
+      "sort_at": "2026-09-05T19:48:18.000Z",
+      "text": "have you noticed something new with claude 5 and gpt 6? \n\nthis is the first generation where they released the biggest model fable and astra ahead of the smaller ones\n\nthis is very interesting and worth speculating a bit\n\nthe most reasonable explanation i can think of is that only fable and astra are actually “trained”\n\nopus 5, sonnet 5, and the upcoming gpt 6 sol, terra, luna are all “taught”\n\nthis is NOT a good sign. why? have you seen opus 5 and sonnet 5? they are bad\n\nopus 4.6, 4.8 etc were “trained”, because there was never a mythos 4 to teach them, so opus back then was good\n\nit seems a training pipeline where the model is primarily taught by / distilled from a large teacher model have all sort of quirks and are generally not as useful in practice, especially for direct interactive use as a human\n\nperhaps they will nail this down the road, but if they don’t, then what it means to us is -\n\nwe will only be able to use fable/astra directly, and need to ask fable/astra to use the other models as subagents. not sure i like it",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2096324562229326278",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 66,
+        "reposts": 13,
+        "likes": 349,
+        "quotes": 5,
+        "views": 38184
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096083417377255447",
+      "url": "https://x.com/kunchenguid/status/2096083417377255447",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-05T03:50:04.000Z",
+      "sort_at": "2026-09-05T03:50:04.000Z",
+      "text": "waiting for someone to give a mathematically correct answer",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2096083123784335819",
+      "thread_root_id": "2096077755553345973",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 5,
+        "quotes": 0,
+        "views": 4410
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096083123784335819",
+      "url": "https://x.com/kunchenguid/status/2096083123784335819",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-05T03:48:54.000Z",
+      "sort_at": "2026-09-05T03:48:54.000Z",
+      "text": "looks like the hive mind is very split brain on this 🍿",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2096077755553345973",
+      "thread_root_id": "2096077755553345973",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4,
+        "quotes": 0,
+        "views": 5234
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096077755553345973",
+      "url": "https://x.com/kunchenguid/status/2096077755553345973",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-05T03:27:34.000Z",
+      "sort_at": "2026-09-05T03:27:34.000Z",
+      "text": "there is a difference between openai's quota reset and anthropic's reset\n\nwhen openai resets limits, the 7-day timer starts fresh as well\n\nwhen anthropic resets, all the quota window timers remain as-is\n\nwhich one do you like more, and why?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2096077755553345973",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 61,
+        "reposts": 1,
+        "likes": 76,
+        "quotes": 2,
+        "views": 31306
+      },
+      "fetched_at": "2026-09-09T01:22:53.130Z"
+    },
+    {
+      "id": "2096043842013393337",
+      "url": "https://x.com/kunchenguid/status/2096043842013393337",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-05T01:12:49.000Z",
+      "sort_at": "2026-09-05T01:12:49.000Z",
+      "text": "all the new model releases reminded me that you should update your CLAUDE.md and AGENTS.md after switching to the new models\n\nmy recommendation is to keep what you have first, use it with the new models for a while, then run backpass https://github.com/kunchenguid/backpass to self-improve based on real transcripts",
+      "media": [],
+      "quote": {
+        "id": "2091380569716433349",
+        "url": "https://x.com/kunchenguid/status/2091380569716433349",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-08-23T04:22:38.000Z",
+        "text": "many people asked me how to write CLAUDE.md or AGENTS.md, and i see lots of bad advice flying around\n\nso i took some time to write down a guide in https://blog.kunchenguid.com/p/your-agentsmd-is-a-neural-net\n\ntl;dr\n- handwrite your user level AGENTS.md\n- for project level ones, you don't write it. you train it like a neural net\n\ni also open sourced my private solution \"backpass\" at https://github.com/kunchenguid/backpass - it samples your past agent sessions for a repo, distill key learnings and losses, synthesize them, and produce a gradient descent step as a proposal that you can review and apply to improve your AGENTS.md and project level skills\n\neasiest way to run it is just \"npx -y backpass\" in your repo\n\nhope it helps! please share with whoever you think can benefit from it",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2096043842013393337",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 14,
+        "reposts": 18,
+        "likes": 338,
+        "quotes": 3,
+        "views": 60256
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095978498649370676",
+      "url": "https://x.com/kunchenguid/status/2095978498649370676",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-04T20:53:10.000Z",
+      "sort_at": "2026-09-04T20:53:10.000Z",
+      "text": "ok now fable got a reset and showed up at the window.. what do i do?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2095968666018009240",
+      "thread_root_id": "2095968666018009240",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 3,
+        "quotes": 0,
+        "views": 1624
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095978315287056464",
+      "url": "https://x.com/kunchenguid/status/2095978315287056464",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-04T20:52:26.000Z",
+      "sort_at": "2026-09-04T20:52:26.000Z",
+      "text": "a few minutes after astra started rolling out, fable limits got a reset\n\nshould have seen that coming and used fable like there's no tomorrow!",
+      "media": [],
+      "quote": {
+        "id": "2095967323412930677",
+        "url": "https://x.com/lydiahallie/status/2095967323412930677",
+        "author": {
+          "screen_name": "lydiahallie",
+          "name": "Lydia Hallie ✨",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1994238936345137154/exEBW2UI_200x200.jpg"
+        },
+        "created_at": "2026-09-04T20:08:45.000Z",
+        "text": "We've just reset weekly limits for everyone on a Claude Max plan.\n\nWith Fable 5.1 out and a long weekend ahead for many of you, we wanted to keep you building. I'd love to see what you build!",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2095978315287056464",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 12,
+        "reposts": 1,
+        "likes": 76,
+        "quotes": 0,
+        "views": 8173
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095968666018009240",
+      "url": "https://x.com/kunchenguid/status/2095968666018009240",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-04T20:14:05.000Z",
+      "sort_at": "2026-09-04T20:14:05.000Z",
+      "text": "i was on a date with muse spark 1.3 at dinner when astra showed up at the window\n\ni killed muse spark on the spot and invited astra in\n\nthe dinner continued",
+      "media": [],
+      "quote": {
+        "id": "2095897820930908670",
+        "url": "https://x.com/kunchenguid/status/2095897820930908670",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-09-04T15:32:35.000Z",
+        "text": "one thing the recent model releases have consistently told us is that public benchmarks are completely useless now\n\nthey reflect how well the models are trained to solve benchmark-like problems, but are far from how we actually work, because just like RLVR, benchmarks are inherently evaluating machines with machines, without human in the loop\n\nasking the model to build a cool 3d game is also a silly way of understanding model performance unless you are a game dev who thinks these vibe coded demos have any economic value\n\nLLMs are “spiky”. they can be really good at something very difficult, yet suck at the most basic skills such as talking normally. measuring the spikes one at a time doesn’t tell you how much their weaknesses would hold them back\n\nmy way of really evaluating a model has become increasingly like a blind date - we hang out, we do a few things together. if it clicked, we get a second date\n\ndon’t tell me your IQ, your SAT or your GPA - they mean nothing on a date. it’s very vibe based - vibe is what i actually care about when choosing a partner\n\ni have private eval cases too, but they have been better at ruling out bad models than helping identify which ones indeed feel good\n\nin practice, i usually use the new model directly as my firstmate and just start doing work. by the end of the day, if neither me nor the agent has gone insane, it’s a good model. and so far, very few models can pass this bar\n\nif you aren’t sure if a model is good, consider a blind date. yeah you’ll have to pay for the date, but occasionally you’ll have a good time and get a new lover",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2095968666018009240",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 14,
+        "reposts": 0,
+        "likes": 83,
+        "quotes": 1,
+        "views": 9744
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095897820930908670",
+      "url": "https://x.com/kunchenguid/status/2095897820930908670",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-04T15:32:35.000Z",
+      "sort_at": "2026-09-04T15:32:35.000Z",
+      "text": "one thing the recent model releases have consistently told us is that public benchmarks are completely useless now\n\nthey reflect how well the models are trained to solve benchmark-like problems, but are far from how we actually work, because just like RLVR, benchmarks are inherently evaluating machines with machines, without human in the loop\n\nasking the model to build a cool 3d game is also a silly way of understanding model performance unless you are a game dev who thinks these vibe coded demos have any economic value\n\nLLMs are “spiky”. they can be really good at something very difficult, yet suck at the most basic skills such as talking normally. measuring the spikes one at a time doesn’t tell you how much their weaknesses would hold them back\n\nmy way of really evaluating a model has become increasingly like a blind date - we hang out, we do a few things together. if it clicked, we get a second date\n\ndon’t tell me your IQ, your SAT or your GPA - they mean nothing on a date. it’s very vibe based - vibe is what i actually care about when choosing a partner\n\ni have private eval cases too, but they have been better at ruling out bad models than helping identify which ones indeed feel good\n\nin practice, i usually use the new model directly as my firstmate and just start doing work. by the end of the day, if neither me nor the agent has gone insane, it’s a good model. and so far, very few models can pass this bar\n\nif you aren’t sure if a model is good, consider a blind date. yeah you’ll have to pay for the date, but occasionally you’ll have a good time and get a new lover",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2095897820930908670",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 42,
+        "reposts": 18,
+        "likes": 245,
+        "quotes": 6,
+        "views": 22097
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095684280026648757",
+      "url": "https://x.com/kunchenguid/status/2095684280026648757",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-04T01:24:02.000Z",
+      "sort_at": "2026-09-04T01:24:02.000Z",
+      "text": "after heavily testing out gpt-6-astra for a grand total of zero hours, my early first day read is -\n\nwhere is it??!!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2095684280026648757",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 44,
+        "reposts": 10,
+        "likes": 397,
+        "quotes": 3,
+        "views": 22408
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095679227001704769",
+      "url": "https://x.com/kunchenguid/status/2095679227001704769",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-04T01:03:58.000Z",
+      "sort_at": "2026-09-04T01:03:58.000Z",
+      "text": "my feedback is that you should allow subscription oauth in 3p harnesses, like almost every other LLM provider does already \n\nclaude code is great - don’t get me wrong! but it’s strongly coupled with the claude model\n\nthere are many people like me who use multiple LLMs and prefer to work in a vendor-neutral harness where we can keep the same workflow stable across a wide range of models\n\ncurrently being tied to the CC harness is actually a negative point when it comes to deciding whether to keep the anthropic subscription. not because CC isn’t good, but because it’s inherently vendor-biased and fights against a beautiful multi-model reality",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2095679227001704769",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 12,
+        "likes": 168,
+        "quotes": 0,
+        "views": 7214
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095596664358916477",
+      "url": "https://x.com/kunchenguid/status/2095596664358916477",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-03T19:35:53.000Z",
+      "sort_at": "2026-09-03T19:35:53.000Z",
+      "text": "@OpenAI ok it's here! https://openai.com/index/gpt-6-astra/",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2095590437759463460",
+      "thread_root_id": "2095590437759463460",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 0,
+        "views": 4910
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095590437759463460",
+      "url": "https://x.com/kunchenguid/status/2095590437759463460",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-03T19:11:09.000Z",
+      "sort_at": "2026-09-03T19:11:09.000Z",
+      "text": "why is everyone announcing gpt-6 astra release except @openai?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2095590437759463460",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 42,
+        "reposts": 7,
+        "likes": 333,
+        "quotes": 2,
+        "views": 34184
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095539522234916919",
+      "url": "https://x.com/kunchenguid/status/2095539522234916919",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-03T15:48:49.000Z",
+      "sort_at": "2026-09-03T15:48:49.000Z",
+      "text": "these are my only 3 subscriptions - how dare you",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2095538297909268620",
+      "thread_root_id": "2095538297909268620",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 32,
+        "reposts": 1,
+        "likes": 698,
+        "quotes": 1,
+        "views": 241290
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095538297909268620",
+      "url": "https://x.com/kunchenguid/status/2095538297909268620",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-03T15:43:58.000Z",
+      "sort_at": "2026-09-03T15:43:58.000Z",
+      "text": "what on earth could take down gpt, claude and grok all AT THE SAME TIME????!!!!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2095538297909268620",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2522,
+        "reposts": 694,
+        "likes": 18021,
+        "quotes": 541,
+        "views": 2456792
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095371595833647344",
+      "url": "https://x.com/kunchenguid/status/2095371595833647344",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-03T04:41:33.000Z",
+      "sort_at": "2026-09-03T04:41:33.000Z",
+      "text": "one of the biggest product mistakes in recent history is that Claude Design wasn’t built as a skill you can just run in Claude Code\n\ninstead, we now have two separate systems to manage, creating an artificial boundary and unnecessary inconsistency",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2095371595833647344",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 71,
+        "reposts": 10,
+        "likes": 360,
+        "quotes": 1,
+        "views": 18844
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095256726849360002",
+      "url": "https://x.com/kunchenguid/status/2095256726849360002",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-02T21:05:06.000Z",
+      "sort_at": "2026-09-02T21:05:06.000Z",
+      "text": "omfg i had to triple check whether it’s real\n\nuber CEO did literally write those words in their layoff email pointing fingers at employee feedback as reason to layoff",
+      "media": [],
+      "quote": {
+        "id": "2095168146118463734",
+        "url": "https://x.com/CalvinGrunewald/status/2095168146118463734",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-09-02T15:13:07.000Z",
+        "text": "Uber's layoff PR is wild. Yes, let's justify the layoff, in part, due to feedback from the employees themselves!!\n\n> In Pulse surveys and conversations with many of you, we’ve heard that too much work requires coordination across teams, debates take too long, and decision-making rights are unclear. I’m sure many of you have felt that you spend too much time “aligning” rather than building, shipping, or serving customers. To improve this, we have reduced roles primarily focused on coordination, and have clarified the remit of the coordination roles that remain.\n\nYes, point the finger back at the employees as one reason why you're firing their colleagues. Yeah, maybe I'm strawmanning here, but any org leader who runs and owns Pulse results knows that employee trust in how the feedback is managed is incredibly critical to getting honest results in the first place. And honest results are necessary to improve things.\n\nI actually do agree that more layers and more coordination hurts maximizing productivity in the agentic era. And yes, as much as they hurt, layoffs are a way of snapping quickly to that. But don't weaponize employee feedback so directly. Just own it!",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2095256726849360002",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 24,
+        "reposts": 20,
+        "likes": 1060,
+        "quotes": 5,
+        "views": 505589
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095247676380209247",
+      "url": "https://x.com/kunchenguid/status/2095247676380209247",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-02T20:29:08.000Z",
+      "sort_at": "2026-09-02T20:29:08.000Z",
+      "text": "i’ll believe we have AGI when i can no longer see bot replies\n\nbefore then, don’t tell me we have AGI when all these AI generated comments can do is to repeat the same point and ask the most useless question with zero original thought",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2095247676380209247",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 43,
+        "reposts": 9,
+        "likes": 174,
+        "quotes": 1,
+        "views": 11623
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2095029774120882658",
+      "url": "https://x.com/kunchenguid/status/2095029774120882658",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-02T06:03:16.000Z",
+      "sort_at": "2026-09-02T06:03:16.000Z",
+      "text": "my experience with fable 5.1 after the first full day of real work\n\n1. still cost like a truck on quota\n\nthe 75% price cut on cached read tokens unfortunately doesn't seem to matter to subscription quota at all, because \"it's already discounted\"\n\nbut i expect for enterprises using fable at api pricing this is a really big deal, because for some workloads the reduced cache read pricing literally means fable can be cheaper than opus\n\n2. sometimes it's really fast\n\neven at high / xhigh reasoning, fable 5.1 now seems to respond to simple things without thinking and in a very concise way\n\ni suspect this can manifest in deeper ways, and can cause fable 5.1 to use less tokens to accomplish some of the same tasks compared to 5 and other models\n\n3. \"claude speak\" seems gone\n\nhallelujah! \n\noverall, fable 5.1 is very pleasant to talk to, its judgment has been flawless the whole day, and so far it has not fallen back to opus once - these are all pretty good upgrades from 5\n\nFYI for those of you who follow my setup closely, i'm going to main fable 5.1 as my firstmate for a few days and see how things hold up",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2095029774120882658",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 53,
+        "reposts": 9,
+        "likes": 566,
+        "quotes": 2,
+        "views": 58235
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2094992750378664267",
+      "url": "https://x.com/ssbrouhard/status/2094992750378664267",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "ssbrouhard",
+        "name": "Stephen Brouhard",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-02T03:36:09.000Z",
+      "sort_at": "2026-09-02T06:03:15.000Z",
+      "text": "How I applied the pstack / Firstmate hybrid to Grok Ship and how you can set it up.\n\nLast week I wrote about combining @poteto's pstack and @kunchenguid's Firstmate without letting their routers fight. Firstmate stays the outer loop. pstack's engineering habits go into the workers.\n\nGrok Ship is that same idea on Grok Bot. One Firstmate. Scout vs ship. Project crewmates drive Cursor cloud agents. A throwaway reviewer reads the branch before any PR. You still merge.\n\nIf you bolt pstack on as another commander, you get two captains arguing about leftover wording. Don't.\n\nKeep Grok Ship as the fleet. Inject pstack into the writers.\n\nSetup:\n\n1. Tell any Grok Bot:\nfollow https://github.com/kunchenguid/grok-ship/blob/main/GROK_SHIP.md\n\n2. Talk only to Firstmate after that.\n\n3. Do not install the pstack plugin into the factory. Do not add a pstack bot. Put a short worker brief on each project crewmate that launches cloud writers.\n\nWorker brief (copy this):\n- Firstmate is the only commander. Do not become a second product router.\n- Cloud-agent ships load a short play just-in-time, not a prompt dump.\n- Smallest logical change. Subtract code before adding. Analyze blast radius.\n- Map other parts of the system only if the change actually crosses into them. If you skip that, write one line why.\n- Done means the project's tests plus real artifact proof (a live command or repo verifier), not a passing opinion.\n\n4. Thin the adversarial reviewer:\n- Auto-fix and real errors only.\n- Ask-user only for merge, deploy, customer send, or a true product fork.\n- Leftover wording is not a fork. Translate it against standing product rules.\n\n5. You still merge. Factory never merges on its own. Scout stays a report, never a PR.\n\nSo the hybrid is Grok Ship isolates the fleet. The worker brief carries the discipline. The reviewer does not get a vote on product.\n\npstack: https://github.com/cursor/plugins/tree/main/pstack\nGrok Ship: \nhttps://github.com/kunchenguid/grok-ship\n@orca_build artifact:\nhttps://share.onorca.dev/a/A959eORtRvEY",
+      "media": [
+        {
+          "id": "2094992141059608576",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRLoQKcX0AAxQq_.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2400,
+          "height": 3000
+        }
+      ],
+      "quote": {
+        "id": "2090463366762676732",
+        "url": "https://x.com/kunchenguid/status/2090463366762676732",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-08-20T15:38:00.000Z",
+        "text": "ok i rabbit holed and ended up creating a full-on SOFTWARE FACTORY within Grok @Bot.. and it works\n\ni call it Grok Ship - a ship you'll captain, and it ships! yesterday alone, hundreds of issues and PRs across my repos got done by it\n\nno bs - sharing my full setup here 👇",
+        "media": [
+          {
+            "id": "2090331962271834112",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HQJZ2DnboAAqekR.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2118,
+            "height": 1080
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2094992750378664267",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 8,
+        "likes": 115,
+        "quotes": 2,
+        "views": 18722
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2094903903364210944",
+      "url": "https://x.com/kunchenguid/status/2094903903364210944",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-01T21:43:06.000Z",
+      "sort_at": "2026-09-01T21:43:06.000Z",
+      "text": "now we know why opus 5 sucks so badly and anthropic didn't seem to get it\n\nbecause they've been using fable for _everything_\n\nopus 5 is now officially the underwater skeleton. let's hope opus 5.1 takes the lesson",
+      "media": [],
+      "quote": {
+        "id": "2094864060609376748",
+        "url": "https://x.com/bcherny/status/2094864060609376748",
+        "author": {
+          "screen_name": "bcherny",
+          "name": "Boris Cherny",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1902044548936953856/J2jeik0t_200x200.jpg"
+        },
+        "created_at": "2026-09-01T19:04:47.000Z",
+        "text": "Fable 5.1 is our best model yet for coding, data analysis, computer use, design, presentations, Tag, and the hardest long-running agentic work.\n\nThis model is a pleasure to work with, and I've been using it for everything.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2094903903364210944",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 56,
+        "reposts": 10,
+        "likes": 807,
+        "quotes": 4,
+        "views": 90904
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2094883421319573796",
+      "url": "https://x.com/indefatigabile/status/2094883421319573796",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "indefatigabile",
+        "name": "ergophobian",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2056889995370405888/zez5da5E_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-01T20:21:43.000Z",
+      "sort_at": "2026-09-01T21:43:05.000Z",
+      "text": "highly recommend you guys try this if you use wezterm + herdr like me. @kunchenguid cooked with the dial. \ni just started using it, because i realized sometimes i wanna work but im not feeling it, and would be easier to just voice prompt from my phone. \n\ni do wonder though, does this have notifications when an agent finishes? is that even possible. if yes, how?",
+      "media": [
+        {
+          "id": "2094883417313976320",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRKFXm7bIAAebPi.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 945,
+          "height": 2048
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2094883421319573796",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 6,
+        "quotes": 0,
+        "views": 1862
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2094882620056437100",
+      "url": "https://x.com/kunchenguid/status/2094882620056437100",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-01T20:18:32.000Z",
+      "sort_at": "2026-09-01T20:18:32.000Z",
+      "text": "probably makes sense because different bottlenecks in the inference stack are not fungible. duh",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2094873193802858764",
+      "thread_root_id": "2094851538393223361",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7,
+        "quotes": 0,
+        "views": 1837
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2094873193802858764",
+      "url": "https://x.com/kunchenguid/status/2094873193802858764",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-01T19:41:04.000Z",
+      "sort_at": "2026-09-01T19:41:04.000Z",
+      "text": "i made the prediction because i knew there’s no way they aren’t already working on reducing cost \n\nturns out they did reduce cost substantially, but for some reason the cap is still necessary",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2094851538393223361",
+      "thread_root_id": "2094851538393223361",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8,
+        "quotes": 0,
+        "views": 3096
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2094851644030943451",
+      "url": "https://x.com/kunchenguid/status/2094851644030943451",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-01T18:15:27.000Z",
+      "sort_at": "2026-09-01T18:15:27.000Z",
+      "text": "sigh..",
+      "media": [],
+      "quote": {
+        "id": "2094851538393223361",
+        "url": "https://x.com/kunchenguid/status/2094851538393223361",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-09-01T18:15:01.000Z",
+        "text": "fable 5.1 is here! \n\nbut unfortunately my prediction that they would remove the 50% weekly cap didn’t happen..",
+        "media": []
+      },
+      "reply_to_id": "2094712987085140127",
+      "thread_root_id": "2094712987085140127",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5,
+        "quotes": 0,
+        "views": 3395
+      },
+      "fetched_at": "2026-09-09T01:22:55.195Z"
+    },
+    {
+      "id": "2094851538393223361",
+      "url": "https://x.com/kunchenguid/status/2094851538393223361",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-01T18:15:01.000Z",
+      "sort_at": "2026-09-01T18:15:01.000Z",
+      "text": "fable 5.1 is here! \n\nbut unfortunately my prediction that they would remove the 50% weekly cap didn’t happen..",
+      "media": [],
+      "quote": {
+        "id": "2094848592812917122",
+        "url": "https://x.com/claudeai/status/2094848592812917122",
+        "author": {
+          "screen_name": "claudeai",
+          "name": "Claude",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg"
+        },
+        "created_at": "2026-09-01T18:03:19.000Z",
+        "text": "Claude Fable 5.1 is available everywhere today. Claude Mythos 5.1, our model for cyberdefenders and life scientists, is available through trusted access programs.\n\nRead more: https://www.anthropic.com/claude-fable-and-mythos-5-1",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2094851538393223361",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 28,
+        "reposts": 5,
+        "likes": 249,
+        "quotes": 1,
+        "views": 36376
+      },
+      "fetched_at": "2026-09-09T01:22:54.097Z"
+    },
+    {
+      "id": "2094712987085140127",
+      "url": "https://x.com/kunchenguid/status/2094712987085140127",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-01T09:04:28.000Z",
+      "sort_at": "2026-09-01T09:04:28.000Z",
+      "text": "going to make a little prediction here\n\nwhen fable 5.1 releases, the 50% cap on weekly quota will be removed\n\nplease be true",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2094712987085140127",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 53,
+        "reposts": 2,
+        "likes": 444,
+        "quotes": 1,
+        "views": 43976
+      },
+      "fetched_at": "2026-09-09T01:22:55.195Z"
+    },
+    {
+      "id": "2094609213532332528",
+      "url": "https://x.com/kunchenguid/status/2094609213532332528",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-01T02:12:07.000Z",
+      "sort_at": "2026-09-01T02:12:07.000Z",
+      "text": "everyone is running into a wall with agentic engineering right now\n\nyou don’t hear people talking about it because \n1. they profit from selling you “solutions”\n2. they want to look smarter than others\n\nso let me be the whistleblower - the wall is called “how does it feel”. agents can’t do it\n\nthey can walk right past the ugliest UI or the most obvious bug and don’t say a thing unless that’s what you asked\n\nthey can take many screenshots and burn through my tokens but they can’t tell me if my landing page animation looks cool\n\nthey can click through my app but they won’t feel the dopamine hit when i physically drag my finger on the touch screen and feel the command dial flow with me in @theSSHHIP \n\nthis wall is structural. it’s actually load-bearing 😉\n\nbecause of this wall, we can’t really throw a ton of agents at any problem that depends on “how does it feel” without constantly stopping for human feedback and steering\n\nif you just let the agents keep running without human input, then your codebase will have more and more things that “don’t feel right”\n\nyou can avoid the wall by working on non-human problems, like pure math and a lot of scientific research\n\nbut the moment you want to build something useful for humans, this wall is there\n\nif you see people pretend they have automated software factories running thousands of agents working all the time, don’t be afraid. don’t feel FOMO, because the only thing those factories shipped are the factories themselves, with human help",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2094609213532332528",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 162,
+        "reposts": 93,
+        "likes": 1086,
+        "quotes": 29,
+        "views": 77346
+      },
+      "fetched_at": "2026-09-09T01:22:55.195Z"
+    }
+  ]
+}

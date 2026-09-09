@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="description" content="X 创作者的帖子，英文原文与中文翻译并排阅读" />
+    <meta name="theme-color" content="#fafafa" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#09090b" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" href="/icons/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="feed.xml" />
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="atom.xml" />
+    <link rel="alternate" type="application/feed+json" title="JSON Feed" href="feed.json" />
+    <title>双语 X 阅读器</title>
+    <script>
+      // Apply the saved theme before first paint to avoid a flash.
+      try {
+        var prefs = JSON.parse(localStorage.getItem("xnl.prefs") || "{}");
+        var dark =
+          prefs.theme === "dark" ||
+          (prefs.theme !== "light" && matchMedia("(prefers-color-scheme: dark)").matches);
+        if (dark) document.documentElement.classList.add("dark");
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
