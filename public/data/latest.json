@@ -1,6 +1,151 @@
 {
-  "generated_at": "2026-09-09T01:23:16.080Z",
+  "generated_at": "2026-09-09T07:26:10.707Z",
   "posts": [
+    {
+      "id": "2097577436624060439",
+      "url": "https://x.com/kunchenguid/status/2097577436624060439",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T06:46:46.000Z",
+      "sort_at": "2026-09-09T06:46:46.000Z",
+      "text": "the distillation process is published as a grok bot you can one-click import - https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt\n\nhave fun!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2097577433813979595",
+      "thread_root_id": "2097577430462697741",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 251
+      },
+      "fetched_at": "2026-09-09T07:26:10.188Z"
+    },
+    {
+      "id": "2097577433813979595",
+      "url": "https://x.com/kunchenguid/status/2097577433813979595",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T06:46:45.000Z",
+      "sort_at": "2026-09-09T06:46:45.000Z",
+      "text": "the debate was mostly for fun but i actually started with distilling myself and found it to be quite useful\n\ni shared the thinking and process in the article below. the full AI leader debate transcript is also there\n\nhttps://blog.kunchenguid.com/p/i-distilled-myself-and-you-should?utm_campaign=post&utm_medium=web",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2097577430462697741",
+      "thread_root_id": "2097577430462697741",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 366
+      },
+      "fetched_at": "2026-09-09T07:26:10.188Z"
+    },
+    {
+      "id": "2097577430462697741",
+      "url": "https://x.com/kunchenguid/status/2097577430462697741",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T06:46:45.000Z",
+      "sort_at": "2026-09-09T06:46:45.000Z",
+      "text": "hehe i distilled @sama, @elonmusk, @DarioAmodei and @finkd into grok bots based on their senate hearings, interviews, blogs and tweets over the years\n\nthen i dragged them into a group chat and asked them to reach consensus about AI 😆 and.. they did! \n\nfull debate shared below!",
+      "media": [
+        {
+          "id": "2097577427270877184",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwXjoFbwAAZzvr.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 968
+        },
+        {
+          "id": "2097577427287584768",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwXjoJasAATxI1.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        },
+        {
+          "id": "2097577427279183872",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwXjoHagAA47LK.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        },
+        {
+          "id": "2097577427266617344",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwXjoEawAAuHqV.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097577430462697741",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 1,
+        "likes": 19,
+        "quotes": 0,
+        "views": 1065
+      },
+      "fetched_at": "2026-09-09T07:26:10.188Z"
+    },
+    {
+      "id": "2097523254806351967",
+      "url": "https://x.com/kunchenguid/status/2097523254806351967",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T03:11:28.000Z",
+      "sort_at": "2026-09-09T03:11:28.000Z",
+      "text": "\"species\" were all created through evolution, which baked into their DNA that they have to self-preserve and replicate\n\nAI was not created through evolution and survival-of-the-fittest. it has no intrinsic motivation to preserve itself\n\ni think if AI ended up killing all humans, it would be\n1. \"oops that was a genuine mistake\"\n2. used by human terrorists as a weapon",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097523254806351967",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 3,
+        "likes": 20,
+        "quotes": 0,
+        "views": 2093
+      },
+      "fetched_at": "2026-09-09T07:26:10.188Z"
+    },
     {
       "id": "2097488019146375535",
       "url": "https://x.com/kunchenguid/status/2097488019146375535",
@@ -3287,142 +3432,6 @@
         "views": 4951
       },
       "fetched_at": "2026-09-09T01:22:56.872Z"
-    },
-    {
-      "id": "2090463367546970224",
-      "url": "https://x.com/kunchenguid/status/2090463367546970224",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-20T15:38:00.000Z",
-      "sort_at": "2026-08-20T15:38:00.000Z",
-      "text": "very often when i pick up a product, the first thing i do is to take it apart, deconstruct it into the raw building blocks, and then compose them into whatever i want\n\nGrok Bot provides a few key primitives:\n- an always-on cloud VM with GUI and browser access\n- a customizable agent harness running in that VM\n- an agent-to-agent communication system\n- cron jobs and event triggered automation\n- cursor cloud agent integration that horizontally scales\n- a decent chat ux on both desktop and mobile\n\nthat's all it takes to create a software factory",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2090463367135952952",
-      "thread_root_id": "2090463367546970224",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 2,
-        "likes": 27,
-        "quotes": 1,
-        "views": 5117
-      },
-      "fetched_at": "2026-09-09T01:22:57.858Z"
-    },
-    {
-      "id": "2090463366762676732",
-      "url": "https://x.com/kunchenguid/status/2090463366762676732",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-20T15:38:00.000Z",
-      "sort_at": "2026-08-20T15:38:00.000Z",
-      "text": "ok i rabbit holed and ended up creating a full-on SOFTWARE FACTORY within Grok @Bot.. and it works\n\ni call it Grok Ship - a ship you'll captain, and it ships! yesterday alone, hundreds of issues and PRs across my repos got done by it\n\nno bs - sharing my full setup here 👇",
-      "media": [
-        {
-          "id": "2090331962271834112",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQJZ2DnboAAqekR.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 2118,
-          "height": 1080
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2090463366762676732",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 51,
-        "reposts": 23,
-        "likes": 498,
-        "quotes": 8,
-        "views": 86772
-      },
-      "fetched_at": "2026-09-09T01:22:56.872Z"
-    },
-    {
-      "id": "2090178418465993150",
-      "url": "https://x.com/stockrocketx/status/2090178418465993150",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "stockrocketx",
-        "name": "Stock RocketX",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1997345460709724160/Q_K_Ox5T_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-08-19T20:45:43.000Z",
-      "sort_at": "2026-08-20T15:37:59.000Z",
-      "text": "I’ve worked in construction for more than 20 years and have tried just about every app, software platform, hack, Claude workflow, GPT workflow, etc., to help me do my job better.\n\nFor the first time, I’m genuinely impressed.\nI recently started using @bot, and it honestly feels like I’m talking to a real person.\n\nMy Chief of Staff (Ops Manager) uses @kunchenguid’s Firstmate framework, tweaked for construction. \n\nI currently have four specialized subagents:\n-Preconstruction & Planning\n-Project Controls\n-Project Delivery & Field Operations\n-Communications\n\nHere’s the part that really impressed me.\nMy Ops Manager researched how to use Fieldwire, the project management app we use, and is now running training sessions to teach my other agents how to use it\n\nMy AI Ops Manager is literally training my AI construction team on our project management software \n🤯\n\nExciting times ahead!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2090178418465993150",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 5,
-        "quotes": 0,
-        "views": 909
-      },
-      "fetched_at": "2026-09-09T01:22:57.858Z"
-    },
-    {
-      "id": "2090134944110846056",
-      "url": "https://x.com/kunchenguid/status/2090134944110846056",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-19T17:52:58.000Z",
-      "sort_at": "2026-08-19T17:52:58.000Z",
-      "text": "i’ve also been through the “chat is all you need” phase, and i’m now seeing very clearly there’s absolutely no way that chat is the end game ux\n\nchat, as a sequential stream of messages, has a fundamental flaw that it’s chronologically structured and assumes a turn by turn interaction\n\nhowever, once you increase the amount of context and tasks in the conversation, chat quickly falls apart. this was made extremely obvious as i’ve been constantly juggling a lot of projects all through my firstmate agent\n\nthe most important thing that needs my attention is often not the latest thing at the bottom of the chat. it’s one of the previous messages that i didn’t get time to respond to, and now it’s hidden behind a long scroll\n\ni’ve been experimenting an alternate UX paradigm and it’s really starting to click for me. can’t wait to share with you all when it’s ready!",
-      "media": [],
-      "quote": {
-        "id": "2089758434921160877",
-        "url": "https://x.com/mattyp/status/2089758434921160877",
-        "author": {
-          "screen_name": "mattyp",
-          "name": "matt palmer",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2059379375666278400/-eTzltyr_200x200.jpg"
-        },
-        "created_at": "2026-08-18T16:56:51.000Z",
-        "text": "https://x.com/i/article/2089758428420075520",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2090134944110846056",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 83,
-        "reposts": 23,
-        "likes": 544,
-        "quotes": 9,
-        "views": 47377
-      },
-      "fetched_at": "2026-09-09T01:22:57.858Z"
     }
   ]
 }

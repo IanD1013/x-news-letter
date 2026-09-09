@@ -2,6 +2,151 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2097577436624060439",
+      "url": "https://x.com/kunchenguid/status/2097577436624060439",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T06:46:46.000Z",
+      "sort_at": "2026-09-09T06:46:46.000Z",
+      "text": "the distillation process is published as a grok bot you can one-click import - https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt\n\nhave fun!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2097577433813979595",
+      "thread_root_id": "2097577430462697741",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 251
+      },
+      "fetched_at": "2026-09-09T07:26:10.188Z"
+    },
+    {
+      "id": "2097577433813979595",
+      "url": "https://x.com/kunchenguid/status/2097577433813979595",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T06:46:45.000Z",
+      "sort_at": "2026-09-09T06:46:45.000Z",
+      "text": "the debate was mostly for fun but i actually started with distilling myself and found it to be quite useful\n\ni shared the thinking and process in the article below. the full AI leader debate transcript is also there\n\nhttps://blog.kunchenguid.com/p/i-distilled-myself-and-you-should?utm_campaign=post&utm_medium=web",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2097577430462697741",
+      "thread_root_id": "2097577430462697741",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 366
+      },
+      "fetched_at": "2026-09-09T07:26:10.188Z"
+    },
+    {
+      "id": "2097577430462697741",
+      "url": "https://x.com/kunchenguid/status/2097577430462697741",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T06:46:45.000Z",
+      "sort_at": "2026-09-09T06:46:45.000Z",
+      "text": "hehe i distilled @sama, @elonmusk, @DarioAmodei and @finkd into grok bots based on their senate hearings, interviews, blogs and tweets over the years\n\nthen i dragged them into a group chat and asked them to reach consensus about AI 😆 and.. they did! \n\nfull debate shared below!",
+      "media": [
+        {
+          "id": "2097577427270877184",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwXjoFbwAAZzvr.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 968
+        },
+        {
+          "id": "2097577427287584768",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwXjoJasAATxI1.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        },
+        {
+          "id": "2097577427279183872",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwXjoHagAA47LK.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        },
+        {
+          "id": "2097577427266617344",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRwXjoEawAAuHqV.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097577430462697741",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 1,
+        "likes": 19,
+        "quotes": 0,
+        "views": 1065
+      },
+      "fetched_at": "2026-09-09T07:26:10.188Z"
+    },
+    {
+      "id": "2097523254806351967",
+      "url": "https://x.com/kunchenguid/status/2097523254806351967",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-09T03:11:28.000Z",
+      "sort_at": "2026-09-09T03:11:28.000Z",
+      "text": "\"species\" were all created through evolution, which baked into their DNA that they have to self-preserve and replicate\n\nAI was not created through evolution and survival-of-the-fittest. it has no intrinsic motivation to preserve itself\n\ni think if AI ended up killing all humans, it would be\n1. \"oops that was a genuine mistake\"\n2. used by human terrorists as a weapon",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097523254806351967",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 3,
+        "likes": 20,
+        "quotes": 0,
+        "views": 2093
+      },
+      "fetched_at": "2026-09-09T07:26:10.188Z"
+    },
+    {
       "id": "2097488019146375535",
       "url": "https://x.com/kunchenguid/status/2097488019146375535",
       "creator": "kunchenguid",
