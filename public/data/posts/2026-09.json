@@ -2,6 +2,82 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2098177248000168352",
+      "url": "https://x.com/kunchenguid/status/2098177248000168352",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-10T22:30:12.000Z",
+      "sort_at": "2026-09-10T22:30:12.000Z",
+      "text": "many people reported astra draining quota way too fast\n\ni ran an empirical study to quantify this for us. now here's some hard data -\n\n1. in terms of \"how many $ of tokens do you get from 1% of weekly quota\", astra and sol aren't meaningfully different, so OpenAI is not \"cheating\" or anything\n\nthey both give around $13-15 per 1% of weekly quota on the $200 plan (btw this also shows you the month value of the subscription is ~$6000)\n\n2. however, astra works much faster than sol while being way more expensive in terms of pricing. these two factors compound into a 2x faster drain on your quota\n\nthe study was done by running codex cli on the same repeated tasks in 8 open source repos, and measured all the stats. both models ran at medium reasoning\n\nso my recommendation: don't use astra as the default for everything - it will cost you. use it only when you do need the extra intelligence, or you want something done fast",
+      "media": [
+        {
+          "id": "2098172316580794368",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR40mvdbUAAFqcO.png?name=orig",
+          "thumbnail_url": null,
+          "width": 736,
+          "height": 431
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2098177248000168352",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 11,
+        "quotes": 1,
+        "views": 413
+      },
+      "fetched_at": "2026-09-10T22:39:10.305Z"
+    },
+    {
+      "id": "2098152967765680302",
+      "url": "https://x.com/kunchenguid/status/2098152967765680302",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-10T20:53:43.000Z",
+      "sort_at": "2026-09-10T20:53:43.000Z",
+      "text": "omfg\n\nQwen, GLM, Kimi, DeepSeek\n\nlooks like they are all just claude",
+      "media": [],
+      "quote": {
+        "id": "2098097512544444447",
+        "url": "https://x.com/AnthropicAI/status/2098097512544444447",
+        "author": {
+          "screen_name": "AnthropicAI",
+          "name": "Anthropic",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg"
+        },
+        "created_at": "2026-09-10T17:13:22.000Z",
+        "text": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with authorities and other AI companies.\n\nThese cases are not typical: we’re highlighting some of the most sophisticated misuse we’ve seen. But they’re especially important to discuss, because they show us where AI misuse is headed, where our safeguards work, and where they need to improve.\n\nWe’re publishing this report so others can spot the same activity on their own platforms, and so we can give the public a clearer view of how emerging threats develop.\n\nRead the report: https://www.anthropic.com/threat-intelligence-report-september-2026",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2098152967765680302",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 24,
+        "reposts": 10,
+        "likes": 430,
+        "quotes": 4,
+        "views": 86733
+      },
+      "fetched_at": "2026-09-10T22:39:10.305Z"
+    },
+    {
       "id": "2098134178164617409",
       "url": "https://x.com/kunchenguid/status/2098134178164617409",
       "creator": "kunchenguid",
