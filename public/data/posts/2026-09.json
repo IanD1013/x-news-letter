@@ -2,6 +2,34 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2097839769875280269",
+      "url": "https://x.com/kunchenguid/status/2097839769875280269",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-10T00:09:11.000Z",
+      "sort_at": "2026-09-10T00:09:11.000Z",
+      "text": "this is actually a big problem i have with some of the newer models. opus 5 was the same\n\nin real world usage, there isn’t so many “ambitious goals” we can just throw to agents in a way that actually makes economic sense\n\nnone of those 3d fps games people vibe code can actually make nearly enough money compared to the tokens they burn\n\npractical real world tasks often need human in the loop to provide judgment and steering to generate valuable outcomes\n\nfable is so good because it can go off on long horizon tasks, and also sit down and talk nicely if needed\n\nwe can have both long horizon and human in the loop capabilities, and we shouldn’t give up either",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2097839769875280269",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 11,
+        "quotes": 0,
+        "views": 1040
+      },
+      "fetched_at": "2026-09-10T01:08:49.206Z"
+    },
+    {
       "id": "2097801368618824011",
       "url": "https://x.com/kunchenguid/status/2097801368618824011",
       "creator": "kunchenguid",
