@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-09-10T11:28:18.681Z",
+  "generated_at": "2026-09-10T19:46:39.994Z",
   "posts": [
+    {
+      "id": "2098134178164617409",
+      "url": "https://x.com/kunchenguid/status/2098134178164617409",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-10T19:39:04.000Z",
+      "sort_at": "2026-09-10T19:39:04.000Z",
+      "text": "when claude kept going down, anthropic defended it as \"too much demand\"\n\nnow the same demand explosion happens to openai, and they just showed how it's done by taking the steps to protect their customers\n\nlook back on ant - was it too much demand or too much greed?",
+      "media": [],
+      "quote": {
+        "id": "2098113585683808624",
+        "url": "https://x.com/thsottiaux/status/2098113585683808624",
+        "author": {
+          "screen_name": "thsottiaux",
+          "name": "Tibo",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
+        },
+        "created_at": "2026-09-10T18:17:14.000Z",
+        "text": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All other plans and the api remain available.\n\nThere is no impact to existing accounts and we are working on adding more capacity as fast as we can. Thanks!",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2098134178164617409",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 8,
+        "quotes": 0,
+        "views": 581
+      },
+      "fetched_at": "2026-09-10T19:46:39.394Z"
+    },
+    {
+      "id": "2098118138797953499",
+      "url": "https://x.com/kunchenguid/status/2098118138797953499",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-10T18:35:20.000Z",
+      "sort_at": "2026-09-10T18:35:20.000Z",
+      "text": "another implication of AI manifesting in real world engineering\n\nreact native existed for a single reason which was to reduce the development and maintenance cost of multi-platform mobile apps. they allow you to write a single codebase (kind of) that can work on both ios and android, with a tech stack that many web devs are already familiar with\n\nbut with AI being particularly good at mechanically repeating something that already exists, replicating one platform's implementation to another has become trivial\n\nin general LLMs can write a ton of code at very low cost, especially when there's a source of truth for requirements\n\nthis is a very good thing happening, because it basically shifts the cost vs quality tradeoff towards the quality side - we'll worry more about how to build better things, not how to make things good enough with less code",
+      "media": [],
+      "quote": {
+        "id": "2098047492772249730",
+        "url": "https://x.com/mustafa01ali/status/2098047492772249730",
+        "author": {
+          "screen_name": "mustafa01ali",
+          "name": "Mustafa Ali",
+          "avatar_url": "https://pbs.twimg.com/profile_images/942964841249214465/WQwb1iIH_200x200.jpg"
+        },
+        "created_at": "2026-09-10T13:54:36.000Z",
+        "text": "https://x.com/i/article/2098045587400658947",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2098118138797953499",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 2,
+        "likes": 35,
+        "quotes": 0,
+        "views": 2803
+      },
+      "fetched_at": "2026-09-10T19:46:39.394Z"
+    },
     {
       "id": "2097970888344043957",
       "url": "https://x.com/kunchenguid/status/2097970888344043957",
@@ -3424,62 +3502,6 @@
         "likes": 75,
         "quotes": 2,
         "views": 35350
-      },
-      "fetched_at": "2026-09-09T01:22:56.872Z"
-    },
-    {
-      "id": "2090991697056641361",
-      "url": "https://x.com/kunchenguid/status/2090991697056641361",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-22T02:37:23.000Z",
-      "sort_at": "2026-08-22T02:37:23.000Z",
-      "text": "I asked a sharp question, and got a load-bearing finding. It completely reframed the question. The real answer is, my instinct was right from the start. That is a sobering conclusion.",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2090991697056641361",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 23,
-        "reposts": 3,
-        "likes": 106,
-        "quotes": 0,
-        "views": 9135
-      },
-      "fetched_at": "2026-09-09T01:22:56.872Z"
-    },
-    {
-      "id": "2090894475455574250",
-      "url": "https://x.com/kunchenguid/status/2090894475455574250",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-21T20:11:04.000Z",
-      "sort_at": "2026-08-21T20:11:04.000Z",
-      "text": "wow - the votes are much more divided than i expected!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2090886692396040260",
-      "thread_root_id": "2090886692396040260",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 2,
-        "reposts": 0,
-        "likes": 5,
-        "quotes": 0,
-        "views": 4470
       },
       "fetched_at": "2026-09-09T01:22:56.872Z"
     }
