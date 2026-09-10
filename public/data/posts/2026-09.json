@@ -2,6 +2,93 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2097926814127866209",
+      "url": "https://x.com/kunchenguid/status/2097926814127866209",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-10T05:55:04.000Z",
+      "sort_at": "2026-09-10T05:55:04.000Z",
+      "text": "literally LMAO after playing with this 🤣 \n\nit’s such a real, authentic, vivid opus 5 experience",
+      "media": [],
+      "quote": {
+        "id": "2097830230899769349",
+        "url": "https://x.com/steipete/status/2097830230899769349",
+        "author": {
+          "screen_name": "steipete",
+          "name": "Peter Steinberger 🦞",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1131851609774985216/OcsssQ9J_200x200.png"
+        },
+        "created_at": "2026-09-09T23:31:17.000Z",
+        "text": "This is brilliant. https://opusfived.dev",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2097926814127866209",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 244
+      },
+      "fetched_at": "2026-09-10T06:02:31.116Z"
+    },
+    {
+      "id": "2097888237490679853",
+      "url": "https://x.com/kunchenguid/status/2097888237490679853",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-10T03:21:47.000Z",
+      "sort_at": "2026-09-10T03:21:47.000Z",
+      "text": "more and more people are discovering the great combo of herdr + firstmate. it's such a good feeling that i wish more folks could discover sooner\n\nletting a single agent babysit all your sessions is so clearly the next level experience we're all heading towards",
+      "media": [],
+      "quote": {
+        "id": "2097882439615959204",
+        "url": "https://x.com/arthurcd/status/2097882439615959204",
+        "author": {
+          "screen_name": "arthurcd",
+          "name": "Arthur Domingues",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2090658727766470656/n-UCHJnL_200x200.jpg"
+        },
+        "created_at": "2026-09-10T02:58:45.000Z",
+        "text": "btw, thank you @kunchenguid. FirstMate is very impressive!",
+        "media": [
+          {
+            "id": "2097882011432001543",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HR0skwgWIAcDfjD.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1374,
+            "height": 202
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2097888237490679853",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 16,
+        "reposts": 9,
+        "likes": 121,
+        "quotes": 2,
+        "views": 7124
+      },
+      "fetched_at": "2026-09-10T06:02:31.116Z"
+    },
+    {
       "id": "2097839769875280269",
       "url": "https://x.com/kunchenguid/status/2097839769875280269",
       "creator": "kunchenguid",
