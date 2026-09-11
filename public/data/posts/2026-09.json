@@ -2,6 +2,82 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2098256021412003870",
+      "url": "https://x.com/kunchenguid/status/2098256021412003870",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-11T03:43:13.000Z",
+      "sort_at": "2026-09-11T03:43:13.000Z",
+      "text": "oh worth noting, supergrok heavy's quota wasn't this high before\n\ni reported this a while back and Elon said they'll fix it. looks like they delivered\n\nconsidering i got the sub at $100 sale price, and it gave me free cursor ultra, i'm getting a 15400% ROI 🤯\n\nhttps://x.com/elonmusk/status/2087975652628529596?s=20",
+      "media": [],
+      "quote": {
+        "id": "2087975652628529596",
+        "url": "https://x.com/elonmusk/status/2087975652628529596",
+        "author": {
+          "screen_name": "elonmusk",
+          "name": "Elon Musk",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_200x200.jpg"
+        },
+        "created_at": "2026-08-13T18:52:42.000Z",
+        "text": "@kunchenguid @sualehasif996 @myfirstmate Looking into it",
+        "media": []
+      },
+      "reply_to_id": "2098256018836963382",
+      "thread_root_id": "2098256018836963382",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 7,
+        "reposts": 2,
+        "likes": 41,
+        "quotes": 0,
+        "views": 2946
+      },
+      "fetched_at": "2026-09-11T06:05:03.836Z"
+    },
+    {
+      "id": "2098256018836963382",
+      "url": "https://x.com/kunchenguid/status/2098256018836963382",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-11T03:43:13.000Z",
+      "sort_at": "2026-09-11T03:43:13.000Z",
+      "text": "ok everyone, i took one for the team\n\nhere's the data we all wanted to see - real token value of each LLM subscription, empirically measured through usage on my real subscriptions\n\n- supergrok heavy has now become the highest value at $12k worth of tokens (40x ROI)\n\n- the $200 plan from openai and anthropic roughly give the same amount of token value, $7k give or take\n\n- cursor ultra's ROI is the lowest among mainstream subscriptions, roughly half of OAI or Ant. for individual consumers i'm afraid this no longer makes sense to purchase\n\nthis was done in a clean environment. i ran each provider across 5 whole % points of my quota through repeated eval tasks in open source repos, and measured the total token value from all the agent sessions based on API pricing\n\ncaveat 1 - this only measures their coding agent quota (which is the majority of the offered value), and does not include things like chat bot or grok bot\n\ncaveat 2 - none of the providers commit to never changing this, so this is a snapshot of what the offering looks like today. i cannot guarantee it won't change again\n\ncaveat 3 - the token value assumes you exhaust your subscription completely, which may not be realistic in real world usage",
+      "media": [
+        {
+          "id": "2098249680740392961",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR5697aboAEZxkD.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1076,
+          "height": 1078
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2098256018836963382",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 65,
+        "reposts": 41,
+        "likes": 431,
+        "quotes": 14,
+        "views": 22410
+      },
+      "fetched_at": "2026-09-11T06:05:03.836Z"
+    },
+    {
       "id": "2098191426668659002",
       "url": "https://x.com/kunchenguid/status/2098191426668659002",
       "creator": "kunchenguid",
