@@ -2,6 +2,34 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2098459721904857558",
+      "url": "https://x.com/kunchenguid/status/2098459721904857558",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-11T17:12:39.000Z",
+      "sort_at": "2026-09-11T17:12:39.000Z",
+      "text": "the thinking that \"everyone will just vibe code their own software\" was born from within a bubble\n\nwhat's happening to software development right now has happened many, many times before to other things. you just need to look\n\nweb 2.0 allowed everyone to write blogs. did everyone write blogs?\n\ninstagram allowed everyone to share beautiful photos. did everyone share beautiful photos?\n\ntiktok allowed everyone to make short videos. did everyone make short videos?\n\nnow vibe coding allows everyone to build software, and you think everyone will start building software? this time around, people are just different?\n\nthe mainstream is always a consumer, never a creator. go talk to some people outside of our tech bubble and you'll see - they literally don't give a f about vibe coding",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2098459721904857558",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 115,
+        "reposts": 62,
+        "likes": 848,
+        "quotes": 19,
+        "views": 27789
+      },
+      "fetched_at": "2026-09-11T19:47:51.270Z"
+    },
+    {
       "id": "2098256021412003870",
       "url": "https://x.com/kunchenguid/status/2098256021412003870",
       "creator": "kunchenguid",
