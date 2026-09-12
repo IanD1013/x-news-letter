@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-09-12T05:53:33.723Z",
+  "generated_at": "2026-09-12T17:15:20.418Z",
   "posts": [
+    {
+      "id": "2098814897354137710",
+      "url": "https://x.com/kunchenguid/status/2098814897354137710",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-12T16:44:00.000Z",
+      "sort_at": "2026-09-12T16:44:00.000Z",
+      "text": "github actions in my oss repos suddenly stopped running today\n\ni had opus 4.8 look into it, it spent ~$10 worth of tokens and insisted that either i haven't paid my bills or there's a github outage\n\nswitched to grok 4.5 and just 3 minutes in with $1.2 worth of tokens, it found there's a surge of CI runs in my firstmate repos starving all the allowed runners across my account, cancelled a bunch of them, and everything's back on track\n\nthis is just an anecdotal example but i've had many positive experiences like this. people ask me why i default to grok and this is why",
+      "media": [
+        {
+          "id": "2098663582200442880",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR_zaKgbMAAoXNQ.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1134,
+          "height": 438
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2098814897354137710",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 11,
+        "reposts": 0,
+        "likes": 41,
+        "quotes": 0,
+        "views": 1981
+      },
+      "fetched_at": "2026-09-12T17:15:19.623Z"
+    },
     {
       "id": "2098643232410464310",
       "url": "https://x.com/kunchenguid/status/2098643232410464310",
@@ -3436,45 +3473,6 @@
         "likes": 4,
         "quotes": 0,
         "views": 1093
-      },
-      "fetched_at": "2026-09-09T01:22:56.872Z"
-    },
-    {
-      "id": "2092014620558913815",
-      "url": "https://x.com/kunchenguid/status/2092014620558913815",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-24T22:22:07.000Z",
-      "sort_at": "2026-08-24T22:22:07.000Z",
-      "text": "Rajesh was L7 at Google building agent infra - I had the pleasure to partner with him building together and he’s living at the bleeding edge\n\nhe’s just quit the big tech game (like me lol) to start his own adventure\n\nworth a follow, and throw questions at his AMA!",
-      "media": [],
-      "quote": {
-        "id": "2091968024207368588",
-        "url": "https://x.com/rajesh_thallam/status/2091968024207368588",
-        "author": {
-          "screen_name": "rajesh_thallam",
-          "name": "Rajesh Thallam",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2085487532595396608/hxf-HUIy_200x200.jpg"
-        },
-        "created_at": "2026-08-24T19:16:58.000Z",
-        "text": "Almost 100 days ago, I left Google as an L7 Senior Staff SWE to start my own company.\n\nMost of my time at Google was spent building tooling for AI infrastructure, primarily for training and inference. I worked with customers to adopt Gemini models in production, building agents and helping improve the models.\n\nNow I am building @ensurecareai to automate and optimize high-friction healthcare workflows where the constraints are strict and the stakes are real.\n\nI spend a lot of time working with coding agents, model harnesses, open source tools and AI infrastructure. The speed at which we can build today still surprises me.\n\nI will be sharing more here about:\n- building agents that run in production\n- coding agents and agent harnesses\n- AI infrastructure\n- evaluating agents\n- using AI in healthcare workflows\n- what I am learning as a first-time founder\n\nAsk me anything! Happy to connect.",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2092014620558913815",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 14,
-        "reposts": 59,
-        "likes": 2336,
-        "quotes": 1,
-        "views": 574335
       },
       "fetched_at": "2026-09-09T01:22:56.872Z"
     }
