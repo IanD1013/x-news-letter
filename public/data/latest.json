@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-11T19:47:51.772Z",
+  "generated_at": "2026-09-12T05:53:33.723Z",
   "posts": [
+    {
+      "id": "2098643232410464310",
+      "url": "https://x.com/kunchenguid/status/2098643232410464310",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-12T05:21:52.000Z",
+      "sort_at": "2026-09-12T05:21:52.000Z",
+      "text": "something very interesting is happening\n\ni’ve been monitoring user sentiment on new model releases and i have now seen 3 latest frontier models in a row where a significant amount of users chose to roll back to use a previous version\n\n1. opus 5 - very negative feedback in general\n\ncan’t communicate. eager to jump into conclusions without sufficient context. keeps making mistakes\n\nit even earned its own website now https://opusfived.dev (it’s really funny)\n\nmany people (myself included) abandoned opus 5 and went back to 4.6 and 4.8\n\n2. gpt 6 astra\n\nseeing more and more people reporting going back to 5.6, both sol and luna\n\nmain reasons are: too expensive to use as primary model; spiky performance - sometimes very smart but sometimes very dumb; not great at understanding user intent and knowing when to stop vs keep going\n\n3. grok 4.6\n\ni like the grok model family in general but there’s now more and more evidence that 4.6 is not strictly better than 4.5\n\nit’s slower, more expensive, and doesn’t seem to offer meaningful increase in intelligence\n\nsee https://vulcanbench.com/leaderboard.html \n\nif this happened to just one model, it’s probably just a bad checkpoint and i wouldn’t find it interesting\n\nbut all these latest model releases across companies all seem to be running into a wall? that’s something worth understanding\n\nit seems the common themes are:\n\n- the cost vs quality tradeoff no longer makes sense to most people\n\nperhaps the models are already smart enough for most tasks, and people don’t perceive enough benefit from the additional intelligence to justify the extra cost\n\nperhaps the model companies should focus more on making fable tier models dirt cheap, rather than inventing something better but even more expensive\n\n- training has gone off rails\n\nopus 5 having better benchmark than fable was the most clear example of this - i haven’t seen a single person say they agree opus 5 works better than fable in practice\n\nit’s clear that the benchmarks and post training has started optimizing for the wrong things people don’t actually care about\n\n- fable 5.1 is the only release i don’t hear much complaints\n\nif anything, people just want the 50% cap removed so they can use fable more\n\nnow with all the evidence that most high performing open source models are just distillations of claude, it seems to show that anthropic still has a moat\n\nwhat do you think? what do you want the most from the next model release?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2098643232410464310",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 16,
+        "reposts": 0,
+        "likes": 36,
+        "quotes": 1,
+        "views": 2035
+      },
+      "fetched_at": "2026-09-12T05:53:33.226Z"
+    },
     {
       "id": "2098459721904857558",
       "url": "https://x.com/kunchenguid/status/2098459721904857558",
@@ -3447,43 +3475,6 @@
         "likes": 2336,
         "quotes": 1,
         "views": 574335
-      },
-      "fetched_at": "2026-09-09T01:22:56.872Z"
-    },
-    {
-      "id": "2091988752847823133",
-      "url": "https://x.com/kunchenguid/status/2091988752847823133",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-24T20:39:20.000Z",
-      "sort_at": "2026-08-24T20:39:20.000Z",
-      "text": "sharing a recent breakthrough in harness architecture i achieved with @pidotdev \n\nthis is not a common problem but it happens when your agent starts to handle loops that would fire events from the background. e.g. the agent is babysitting a PR, and it checks every 5 minutes whether there are CI errors or human feedback \n\nwhen your agent is juggling a lot of such loops, eventually you will see it becoming too busy to even talk to you. it’s just handling these events all the time and making judgment calls for whether they need any actions or not\n\nthis problem is particularly prevalent in firstmate because it’s playing an orchestrator role and needs to respond to various kinds of updates from the whole fleet\n\ni experimented multiple approaches and eventually created this multi-brain harness architecture where:\n\n- a single agent can have multiple sessions running in parallel\n\n- the main session is the one you talk to\n\n- then there’s also a session running in the background (can use a cheaper model too) that specifically handles events from loops\n\n- the background session will decide whether an event needs to interrupt the main session or not\n\n- most events don’t need to, but they don’t get silently dropped. they get “merged” into the main session like git commits merge between branches, and they get seen when main session takes the next turn, so context is not lost\n\n- events that do need human attention wakes main session immediately \n\n- user and agent messages (not tool calls) in main session get merged into the background session, so when the background session makes decisions, it has the context and intent\n\n- both sessions’ prompt caching is protected during these merged so requests keep being cheap\n\nresult is quite incredible - the main agent remains available for user interaction while a ton of loops can be running and doing work\n\n@pidotdev is pretty much the only mainstream harness where this can be achieved seamlessly due to its deep customizability. you can build this in your custom harnesses too. sharing here in case anyone building similar systems face this problem!",
-      "media": [
-        {
-          "id": "2091988749689442304",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQg8rxtaUAARLdZ.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1054,
-          "height": 791
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2091988752847823133",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 64,
-        "reposts": 88,
-        "likes": 1255,
-        "quotes": 6,
-        "views": 74492
       },
       "fetched_at": "2026-09-09T01:22:56.872Z"
     }
