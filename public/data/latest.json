@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-09-12T19:27:46.741Z",
+  "generated_at": "2026-09-12T22:22:57.488Z",
   "posts": [
+    {
+      "id": "2098873178412163082",
+      "url": "https://x.com/kunchenguid/status/2098873178412163082",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-12T20:35:35.000Z",
+      "sort_at": "2026-09-12T20:35:35.000Z",
+      "text": "while all the frontier labs are just talking about slowing down, blizzard emerged as the first to take real action in pacing their development",
+      "media": [],
+      "quote": {
+        "id": "2098836022419476527",
+        "url": "https://x.com/StarCraft/status/2098836022419476527",
+        "author": {
+          "screen_name": "StarCraft",
+          "name": "STARCRAFT",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2098836548242505728/W61EiCGo_200x200.png"
+        },
+        "created_at": "2026-09-12T18:07:56.000Z",
+        "text": "DEFEND MANKIND. JOIN THE DOMINION.\n\nSTARCRAFT. 2030.",
+        "media": [
+          {
+            "id": "2098835633896910848",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2098835633896910848/vid/avc1/1920x1080/bgPcJUCdJWIGZjvV.mp4?tag=16",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098835633896910848/img/-n996nq27OK_nVDX.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 186.566
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2098873178412163082",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 49,
+        "quotes": 0,
+        "views": 4693
+      },
+      "fetched_at": "2026-09-12T22:22:56.912Z"
+    },
     {
       "id": "2098854862788440308",
       "url": "https://x.com/kunchenguid/status/2098854862788440308",
@@ -3450,34 +3499,6 @@
         "likes": 195,
         "quotes": 3,
         "views": 24552
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092068697745866983",
-      "url": "https://x.com/kunchenguid/status/2092068697745866983",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-25T01:57:00.000Z",
-      "sort_at": "2026-08-25T01:57:00.000Z",
-      "text": "the most genius part of Grok @Bot’s design is probably that it inversed the role of my computer\n\nit’s not agent on my computer running everything else as a tool\n\nit’s an agent in the cloud using my computer as a tool when needed\n\nbrilliant",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2092068697745866983",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 26,
-        "reposts": 6,
-        "likes": 260,
-        "quotes": 1,
-        "views": 12896
       },
       "fetched_at": "2026-09-09T01:22:55.950Z"
     }
