@@ -2,6 +2,43 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2098854862788440308",
+      "url": "https://x.com/kunchenguid/status/2098854862788440308",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-12T19:22:48.000Z",
+      "sort_at": "2026-09-12T19:22:48.000Z",
+      "text": "every model provider should learn from meta's pricing model for muse spark, with fully transparent subsidization labeled for the contributor tier\n\nstop doing \"in order to use our model at a good price, you must use our harness which secretly collects your data and/or upload your codebase\"\n\nmeta clearly proved there's a way to collect training data without relying on a harness. just be transparent about when you collect data vs not, clearly communicate how much the data is worth, and give the choice to the user\n\nand i really don't need your harness. i already have SO MANY state of the art harnesses to pick from. pi, opencode, hermes, openclaw, and even claude code and codex can be configured to use any model. your own harness is a tech debt that fragments my setup and doesn't add much value",
+      "media": [
+        {
+          "id": "2098849885806272512",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSCc2dhaIAAROQl.png?name=orig",
+          "thumbnail_url": null,
+          "width": 1249,
+          "height": 613
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2098854862788440308",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6,
+        "quotes": 0,
+        "views": 311
+      },
+      "fetched_at": "2026-09-12T19:27:46.192Z"
+    },
+    {
       "id": "2098814897354137710",
       "url": "https://x.com/kunchenguid/status/2098814897354137710",
       "creator": "kunchenguid",
