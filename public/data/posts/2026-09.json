@@ -2,6 +2,44 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2099139650044690548",
+      "url": "https://x.com/kunchenguid/status/2099139650044690548",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-13T14:14:27.000Z",
+      "sort_at": "2026-09-13T14:14:27.000Z",
+      "text": "finally found time to make a new video! https://youtu.be/MSbacZ99E14\n\nthis time i'm sharing a slightly more advanced agentic engineering session, focused on high throughput multi-tasking\n\nhope you find helpful!",
+      "media": [
+        {
+          "id": "2099131134877765632",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2099131134877765632/vid/avc1/1920x1080/CMT9-P4ruxlQfLoP.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099131134877765632/img/T3KPAFAQsKOJ8Fcj.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 3236.783
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099139650044690548",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 21,
+        "reposts": 8,
+        "likes": 244,
+        "quotes": 1,
+        "views": 7466
+      },
+      "fetched_at": "2026-09-13T16:25:04.768Z"
+    },
+    {
       "id": "2098873178412163082",
       "url": "https://x.com/kunchenguid/status/2098873178412163082",
       "creator": "kunchenguid",

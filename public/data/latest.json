@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-09-12T22:22:57.488Z",
+  "generated_at": "2026-09-13T16:25:05.317Z",
   "posts": [
+    {
+      "id": "2099139650044690548",
+      "url": "https://x.com/kunchenguid/status/2099139650044690548",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-13T14:14:27.000Z",
+      "sort_at": "2026-09-13T14:14:27.000Z",
+      "text": "finally found time to make a new video! https://youtu.be/MSbacZ99E14\n\nthis time i'm sharing a slightly more advanced agentic engineering session, focused on high throughput multi-tasking\n\nhope you find helpful!",
+      "media": [
+        {
+          "id": "2099131134877765632",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2099131134877765632/vid/avc1/1920x1080/CMT9-P4ruxlQfLoP.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099131134877765632/img/T3KPAFAQsKOJ8Fcj.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 3236.783
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099139650044690548",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 21,
+        "reposts": 8,
+        "likes": 244,
+        "quotes": 1,
+        "views": 7466
+      },
+      "fetched_at": "2026-09-13T16:25:04.768Z"
+    },
     {
       "id": "2098873178412163082",
       "url": "https://x.com/kunchenguid/status/2098873178412163082",
@@ -3450,55 +3488,6 @@
         "likes": 1307,
         "quotes": 29,
         "views": 282497
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092308388520866135",
-      "url": "https://x.com/kunchenguid/status/2092308388520866135",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-25T17:49:27.000Z",
-      "sort_at": "2026-08-25T17:49:27.000Z",
-      "text": "i’ve fallen in love with the command dial design in SSHHIP. it’s the best UX to SSH from phone\n\nliterally doing every operation i need with just one finger on the dial",
-      "media": [],
-      "quote": {
-        "id": "2092307264636141862",
-        "url": "https://x.com/theSSHHIP/status/2092307264636141862",
-        "author": {
-          "screen_name": "theSSHHIP",
-          "name": "SSHHIP",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2080747283931664385/XdT4pm_w_200x200.jpg"
-        },
-        "created_at": "2026-08-25T17:44:59.000Z",
-        "text": "A dial is all you need. https://sshhip.com\n\nThe best way to SSH control your computer, terminal and agents from your phone requires no keyboard. \n\nClean terminal, tappable URLs, built-in voice input, image upload, mosh, color themes, and the signature command dial.",
-        "media": [
-          {
-            "id": "2092307210953228288",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2092307210953228288/vid/avc1/826x720/CXIQKOtWULFq0oS6.mp4?tag=29",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2092307210953228288/img/dplWWxN_1g_CD5yb.jpg",
-            "width": 826,
-            "height": 720,
-            "duration": 46.625
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2092308388520866135",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 19,
-        "reposts": 4,
-        "likes": 195,
-        "quotes": 3,
-        "views": 24552
       },
       "fetched_at": "2026-09-09T01:22:55.950Z"
     }
