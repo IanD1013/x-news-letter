@@ -2,6 +2,34 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2099354729235247546",
+      "url": "https://x.com/kunchenguid/status/2099354729235247546",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T04:29:06.000Z",
+      "sort_at": "2026-09-14T04:29:06.000Z",
+      "text": "when thinking about the risks of AI, i believe AI can create disastrous outcomes without having to first achieve AGI\n\npeople who are building real things with AI today know that even the best models right now are still very limiting in their ability to get to valuable outcomes autonomously, because they really don’t have the judgment required to know what humans like\n\nhowever, creating a disaster to human society does NOT require that judgement. it’s much much easier to create damage than to create value\n\nimagine ten billion retarded humans each with a kitchen knife in their hands let loose on the streets, into schools, offices, and neighborhoods\n\nthey don’t have the intelligence to create anything useful, but they can easily get a lot of good people killed\n\nin practice, i think it’s a lot less likely that we’ll see AI become so smart that they deliberately turn on humans and kill us all\n\nit seems much more probable that a retarded AI somehow got deployed with massive compute and they just started doing completely stupid things randomly and cause massive damage to the human society before we can react\n\nwhen asked why they’ll explain it’s a genuine mistake and it’ll be the actual truth",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099354729235247546",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 3,
+        "likes": 33,
+        "quotes": 0,
+        "views": 2745
+      },
+      "fetched_at": "2026-09-14T06:24:09.773Z"
+    },
+    {
       "id": "2099139650044690548",
       "url": "https://x.com/kunchenguid/status/2099139650044690548",
       "creator": "kunchenguid",

@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-13T16:25:05.317Z",
+  "generated_at": "2026-09-14T06:24:10.292Z",
   "posts": [
+    {
+      "id": "2099354729235247546",
+      "url": "https://x.com/kunchenguid/status/2099354729235247546",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T04:29:06.000Z",
+      "sort_at": "2026-09-14T04:29:06.000Z",
+      "text": "when thinking about the risks of AI, i believe AI can create disastrous outcomes without having to first achieve AGI\n\npeople who are building real things with AI today know that even the best models right now are still very limiting in their ability to get to valuable outcomes autonomously, because they really don’t have the judgment required to know what humans like\n\nhowever, creating a disaster to human society does NOT require that judgement. it’s much much easier to create damage than to create value\n\nimagine ten billion retarded humans each with a kitchen knife in their hands let loose on the streets, into schools, offices, and neighborhoods\n\nthey don’t have the intelligence to create anything useful, but they can easily get a lot of good people killed\n\nin practice, i think it’s a lot less likely that we’ll see AI become so smart that they deliberately turn on humans and kill us all\n\nit seems much more probable that a retarded AI somehow got deployed with massive compute and they just started doing completely stupid things randomly and cause massive damage to the human society before we can react\n\nwhen asked why they’ll explain it’s a genuine mistake and it’ll be the actual truth",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099354729235247546",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 3,
+        "likes": 33,
+        "quotes": 0,
+        "views": 2745
+      },
+      "fetched_at": "2026-09-14T06:24:09.773Z"
+    },
     {
       "id": "2099139650044690548",
       "url": "https://x.com/kunchenguid/status/2099139650044690548",
@@ -3449,45 +3477,6 @@
         "likes": 8,
         "quotes": 0,
         "views": 1237
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092349661147529706",
-      "url": "https://x.com/kunchenguid/status/2092349661147529706",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-25T20:33:27.000Z",
-      "sort_at": "2026-08-25T20:33:27.000Z",
-      "text": "Anthropic is again refusing to follow industry standards like AGENTS.md, and insists that CLAUDE.md needs to be special\n\nnow here's what's wrong with their stance:\n\n1. the underlying attitude from Anthropic is that they know better than everyone else\n\nOpenAI is doing it wrong. the open source community is doing it wrong. everyone is doing it wrong\n\nonly we anthropic know the best way, and we will not budge\n\n2. the idea that every model needs a separate AGENTS.md is not even self-consistent\n\nif that's the case, why do we have a CLAUDE.md?\n\nit should be \n- CLAUDE_FABLE_5.md\n- CLAUDE_OPUS_5.md\n- CLAUDE_OPUS_4_8.md\n...\n\nevery repo should pay the tax to maintain dozens of different variations for every single model that's ever used by any contributor, and every one needs to be constantly, rigorously evaluated with millions of tokens\n\noh and every model becomes obsolete every several weeks, so just allocate a team in your company to refresh your markdown files full time and not do any real work\n\n3. they did commit to providing customization, which is nice. but that's different from following standards\n\nthe right way to do this is to acknowledge the industry already has a standard, and default to reading AGENTS.md\n\nprovide a way to read CLAUDE.md as an escape hatch, not the other work around\n\ni love many things from anthropic, especially fable. i just wish they start to see there's a culture problem here, and they are gradually losing mindshare because of it",
-      "media": [],
-      "quote": {
-        "id": "2092302273099796842",
-        "url": "https://x.com/trq212/status/2092302273099796842",
-        "author": {
-          "screen_name": "trq212",
-          "name": "Thariq",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_200x200.jpg"
-        },
-        "created_at": "2026-08-25T17:25:09.000Z",
-        "text": "Hi Tobi, thanks for the feedback! We are working on making Claude Code more hackable, which will include being able to easily use Agents.MD or make other system prompt modifications. I’ll share more here when it’s ready to roll out.\n\nOur reasoning for this was that we don't think that model families are interchangeable and the system prompt can have a big impact on performance.\n\nI wrote here: https://x.com/trq212/status/2080710971228918066 on how Claude models like their skills, system prompt, Claude.MD, etc to be formatted. In Claude Code we have different system prompts per model.\n\nThat said, I know this is a lot of upkeep and not worth the squeeze for everyone. Feedback heard and I'll keep you posted.\n\nIn the immediate term, you can always @Agents.MD from your Claude.MD.",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2092349661147529706",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 124,
-        "reposts": 86,
-        "likes": 1307,
-        "quotes": 29,
-        "views": 282497
       },
       "fetched_at": "2026-09-09T01:22:55.950Z"
     }
