@@ -2,6 +2,71 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2099535342391153065",
+      "url": "https://x.com/kunchenguid/status/2099535342391153065",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T16:26:47.000Z",
+      "sort_at": "2026-09-14T16:26:47.000Z",
+      "text": "\"the last one\" was such a good name. too bad it didn't last",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2099533194655846425",
+      "thread_root_id": "2099533194655846425",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 669
+      },
+      "fetched_at": "2026-09-14T19:26:35.910Z"
+    },
+    {
+      "id": "2099533194655846425",
+      "url": "https://x.com/kunchenguid/status/2099533194655846425",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T16:18:15.000Z",
+      "sort_at": "2026-09-14T16:18:15.000Z",
+      "text": "this thing was widely reported as “the end of programming” in 1981 \n\nhttps://en.wikipedia.org/wiki/The_Last_One_(software)\n\nright before that, in 1960s, people thought COBOL would allow everyone to build whatever software they wanted and there’s no need for programmers\n\nnow the same people in the same bubble think agents will finally end it, because they spent a weekend and got impressed by how quickly the agent could produce a toy. now they think that’s how everyone wants to spend their weekends\n\nopen your eyes - most regular humans don’t even want to talk to an agent",
+      "media": [
+        {
+          "id": "2099533191564644357",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSMKUF1aUAUAiYb.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1293,
+          "height": 1216
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099533194655846425",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 3,
+        "likes": 32,
+        "quotes": 1,
+        "views": 2430
+      },
+      "fetched_at": "2026-09-14T19:26:35.910Z"
+    },
+    {
       "id": "2099354729235247546",
       "url": "https://x.com/kunchenguid/status/2099354729235247546",
       "creator": "kunchenguid",

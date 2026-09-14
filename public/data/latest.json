@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-14T06:24:10.292Z",
+  "generated_at": "2026-09-14T19:26:36.584Z",
   "posts": [
+    {
+      "id": "2099535342391153065",
+      "url": "https://x.com/kunchenguid/status/2099535342391153065",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T16:26:47.000Z",
+      "sort_at": "2026-09-14T16:26:47.000Z",
+      "text": "\"the last one\" was such a good name. too bad it didn't last",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2099533194655846425",
+      "thread_root_id": "2099533194655846425",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 669
+      },
+      "fetched_at": "2026-09-14T19:26:35.910Z"
+    },
+    {
+      "id": "2099533194655846425",
+      "url": "https://x.com/kunchenguid/status/2099533194655846425",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T16:18:15.000Z",
+      "sort_at": "2026-09-14T16:18:15.000Z",
+      "text": "this thing was widely reported as “the end of programming” in 1981 \n\nhttps://en.wikipedia.org/wiki/The_Last_One_(software)\n\nright before that, in 1960s, people thought COBOL would allow everyone to build whatever software they wanted and there’s no need for programmers\n\nnow the same people in the same bubble think agents will finally end it, because they spent a weekend and got impressed by how quickly the agent could produce a toy. now they think that’s how everyone wants to spend their weekends\n\nopen your eyes - most regular humans don’t even want to talk to an agent",
+      "media": [
+        {
+          "id": "2099533191564644357",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSMKUF1aUAUAiYb.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1293,
+          "height": 1216
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099533194655846425",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 3,
+        "likes": 32,
+        "quotes": 1,
+        "views": 2430
+      },
+      "fetched_at": "2026-09-14T19:26:35.910Z"
+    },
     {
       "id": "2099354729235247546",
       "url": "https://x.com/kunchenguid/status/2099354729235247546",
@@ -3391,92 +3456,6 @@
         "likes": 20,
         "quotes": 0,
         "views": 2002
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092404187376283742",
-      "url": "https://x.com/kunchenguid/status/2092404187376283742",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-26T00:10:07.000Z",
-      "sort_at": "2026-08-26T00:10:07.000Z",
-      "text": "a lot of people say “it’s so easy to workaround it”\n\njust look at this\n\ni’m not criticizing the user but rather this is a perfect example that shows the horribly inefficient things people end up doing\n\nif you don’t immediately get it, this does not load the content into system prompt, and it causes an extra turn for the agent for every single session to read the file",
-      "media": [
-        {
-          "id": "2092404182829658112",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQm2hKwacAABhxA.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1206,
-          "height": 933
-        }
-      ],
-      "quote": null,
-      "reply_to_id": "2092349661147529706",
-      "thread_root_id": "2092349661147529706",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 5,
-        "reposts": 1,
-        "likes": 52,
-        "quotes": 0,
-        "views": 8588
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092372857258975627",
-      "url": "https://x.com/rega1011/status/2092372857258975627",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "rega1011",
-        "name": "Rene G.",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1409212708/189_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-08-25T22:05:38.000Z",
-      "sort_at": "2026-08-26T00:10:06.000Z",
-      "text": "@kunchenguid SSHHIP has become a game changer... right next to @myfirstmate which changed my whole workflow!\nUsing it on the GO makes staying connected so effortless!! This is me on a plane and in an actual Ship :D. Ahoy mate!",
-      "media": [
-        {
-          "id": "2092372286116417536",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQmZgiPXUAAfU6i.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1200,
-          "height": 1600
-        },
-        {
-          "id": "2092372286120587265",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQmZgiQW8AELOe9.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 3024,
-          "height": 4032
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2092372857258975627",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 3,
-        "likes": 8,
-        "quotes": 0,
-        "views": 1237
       },
       "fetched_at": "2026-09-09T01:22:55.950Z"
     }
