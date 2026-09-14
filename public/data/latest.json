@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-09-14T19:26:36.584Z",
+  "generated_at": "2026-09-14T23:11:18.921Z",
   "posts": [
+    {
+      "id": "2099627078660624419",
+      "url": "https://x.com/kunchenguid/status/2099627078660624419",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T22:31:19.000Z",
+      "sort_at": "2026-09-14T22:31:19.000Z",
+      "text": "oooh this looks nice - a handy little skill to generate animated presentational videos",
+      "media": [],
+      "quote": {
+        "id": "2099609501943078913",
+        "url": "https://x.com/CalvinGrunewald/status/2099609501943078913",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-09-14T21:21:28.000Z",
+        "text": "Sharing a fun new skill/tool I built that helps me make videos for a variety of purposes. You have your coding agent install the skill, and then it writes react code to generate the video. It supports music composition as well as narration. I use it for making videos about products or tools we build or creating videos for myself to learn new things (IE, make a video of this ML paper).\n\nA bunch of examples are on the site below. Totally free to use (MIT)!\n\nhttps://clapper.archastro.tryintern.dev/",
+        "media": [
+          {
+            "id": "2099608297330593792",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2099608297330593792/vid/avc1/1280x720/fiFQzIHW6Ee2Jv-V.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099608297330593792/img/vWcWqDj2M4cWrtM2.jpg",
+            "width": 1280,
+            "height": 720,
+            "duration": 24.4
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2099627078660624419",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 15,
+        "quotes": 0,
+        "views": 2507
+      },
+      "fetched_at": "2026-09-14T23:11:18.250Z"
+    },
+    {
+      "id": "2099605005984759820",
+      "url": "https://x.com/kunchenguid/status/2099605005984759820",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T21:03:36.000Z",
+      "sort_at": "2026-09-14T21:03:36.000Z",
+      "text": "sharing an emotional milestone plus some tips for growing a social media presence\n\nif you came across my youtube channel, you might have seen i always had “ex-meta” or “L8 principal” mentioned in the title of my videos\n\ni hated doing it, and every time i published a video i always a/b tested removing that title\n\nunfortunately, every single time, removing it would destroy the reach and the videos simply wouldn’t be seen nearly as much\n\nthe latest video was the first one i ever had where the “ex-Meta L8” title no longer made any difference. and i have now picked the variant that’s just “with Kun”\n\ni’m _so_ happy to see it. it’s hard to detach from an identity that was built up over decades of experience. this video is the milestone that tells me i have now created my own identity over the past couple of months after quitting the big tech game\n\nthe learning i internalized for growing a social media presence is that everyone’s busy. no one’s going to spend time following content that they don’t know is good or not\n\nthe exact same tweet, the exact same video, when published by someone the audience trusts, will always get more engagement than when it’s shared by someone without proven credibility\n\nso to establish a new presence, my theory is that you need to figure out how to get people to recognize and trust you. that’s the real work, not learning all kinds of engagement baits which might work in the short term to a degree but doesn’t help you build a durable and trusted reputation\n\npeople do give some trust to authority and experience, so if you have that, you can use it to accelerate the cold start. otherwise, i suggest you focus on creating things that are genuinely useful for others. things, not opinions. an opinion from a random person is the most noisy thing on social media that no one has time for\n\nkeep showing up with cool stuff that others can actually benefit from, you’ll gradually establish your identity",
+      "media": [
+        {
+          "id": "2099605000163110912",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSNLn5tbMAAHYhr.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1010
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099605005984759820",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 20,
+        "reposts": 0,
+        "likes": 141,
+        "quotes": 0,
+        "views": 4098
+      },
+      "fetched_at": "2026-09-14T23:11:18.250Z"
+    },
+    {
+      "id": "2099589472535101582",
+      "url": "https://x.com/kunchenguid/status/2099589472535101582",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T20:01:53.000Z",
+      "sort_at": "2026-09-14T20:01:53.000Z",
+      "text": "looks like exercise helps with mental health, and video games help with cognitive performance\n\nmy mental health is fine. all i want is better cognitive performance\n\nlfg!",
+      "media": [],
+      "quote": {
+        "id": "2099579562208485582",
+        "url": "https://x.com/CalvinGrunewald/status/2099579562208485582",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-09-14T19:22:30.000Z",
+        "text": "Time to start playing my Switch while I ride the stationary bike! But seriously, it’s great to see studies like this. Video Games define many aspects of who I am today. I wish I had more time to play. \n\nWould be really interesting to see this broken down by type of game. Ie to mobile F2P have the same effect?",
+        "media": [
+          {
+            "id": "2099579557972176896",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HSM0e-KacAAK32y.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1644,
+            "height": 1378
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2099589472535101582",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 26,
+        "quotes": 0,
+        "views": 3132
+      },
+      "fetched_at": "2026-09-14T23:11:18.250Z"
+    },
     {
       "id": "2099535342391153065",
       "url": "https://x.com/kunchenguid/status/2099535342391153065",
@@ -3346,116 +3480,6 @@
         "likes": 145,
         "quotes": 2,
         "views": 34181
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092733975248744896",
-      "url": "https://x.com/ssbrouhard/status/2092733975248744896",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "ssbrouhard",
-        "name": "Stephen Brouhard",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-08-26T22:00:35.000Z",
-      "sort_at": "2026-08-26T23:56:12.000Z",
-      "text": "Want to use Grok for reviews in @kunchenguid's no-mistakes instead of Claude, Codex, or Pi? Here is what works and where the catches are. \n\nno-mistakes 1.56.0 added native Grok Build support (agent: grok now calls the CLI from @SpaceXAI directly, rather than Pi with an xAI model backend).\n\n1. Product Repos (Standard Setup)\nInstall Grok Build, then add this to ~/.no-mistakes/config.yaml:\n\nagent: grok\nagent_config:\n  grok:\n    model: grok-4.6\n    effort: medium or high\n\nRun no-mistakes doctor  and confirm Grok is runnable. On standard product repos, that is all you need.\n\n2. Operator Repos (The Catch)\nFor operator repos like Firstmate (or anything setting disable_project_settings: true), the reviewer must not load AGENTS.md so it doesn't mistake itself for the operator.\n\nClaude, Codex, and Pi support starting without repo instruction files. Official Grok CLI still loads AGENTS.md even with a custom system prompt, and @SpaceXAI does not yet provide a --no-context-files switch or accept external PRs. Because of this, no-mistakes blocks Grok on operator repos by default.\n\nWorkaround for Operator Repos:\n\n* Fork Grok Build: Add a session flag (e.g., --no-context-files tied to internal agentsMD off switches).\n* Fork no-mistakes: Update the Grok adapter to pass that flag and handle Grok as isolated.\n* Keep your daily Grok binary on PATH, point no-mistakes to your custom from-source build, and rebase when upstream updates.\n*After you install the forked no-mistakes, do not run no-mistakes update. That command installs the stock release and wipes the Grok isolation change. To pick up Kun’s newer no-mistakes, rebase your isolation change onto his latest, rebuild from that, and install that binary. Until an isolation change ships, stay on the fork you built.\n\nTL;DR until official @grok adds a skip flag:\n\n* Product repos: agent: grok works out of the box.\n* Operator repos:  Fork both builds, or stick with Claude, Codex, or Pi.\n\nLinks:\n\n* [no-mistakes on GitHub](https://github.com/kunchenguid/no-mistakes)\n* [Grok Build on GitHub](https://github.com/xai-org/grok-build)",
-      "media": [
-        {
-          "id": "2092723105160384512",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQrYk5BWUAAUzH0.png?name=orig",
-          "thumbnail_url": null,
-          "width": 814,
-          "height": 695
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2092733975248744896",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 2,
-        "likes": 12,
-        "quotes": 0,
-        "views": 2042
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092699326384640448",
-      "url": "https://x.com/kunchenguid/status/2092699326384640448",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-26T19:42:54.000Z",
-      "sort_at": "2026-08-26T19:42:54.000Z",
-      "text": "since i quit big tech a few months ago and started my own adventure, i have declined opportunities from anthropic, openai, google, microsoft, many other big companies, startups and investors\n\ni respect most of these companies and don’t take their gesture lightly. but my choice to go solo was very, very deliberate\n\ni did so because i strongly believe AI can now give every individual incredible leverage to achieve their ambitions that were previously impossible without a company. in many cases, an individual with extreme clarity and cohesion in their vision should actually be able to move faster than a company. and i’d like to help make that a reality for more people\n\nbut to truly understand how that would manifest, i must live and breathe that experience myself. i need to prove how far one person can go and figure out what the real bottlenecks are\n\nthat’s the driving force behind everything i did over the last couple of months and why i’m not for hire right now",
-      "media": [
-        {
-          "id": "2092699322697814016",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQrC8kcakAAGlaW.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1206,
-          "height": 991
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2092699326384640448",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 102,
-        "reposts": 28,
-        "likes": 996,
-        "quotes": 4,
-        "views": 76153
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092586490953904490",
-      "url": "https://x.com/BautiDeFi/status/2092586490953904490",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "BautiDeFi",
-        "name": "bauti.eth",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1905408429675470848/c1ts4pwG_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-08-26T12:14:32.000Z",
-      "sort_at": "2026-08-26T19:42:53.000Z",
-      "text": "If you guys are working heavily with AWS and agents, then I bring you AWS-AXI\n\nAWS-AXI is a library I made for agents to interact with AWS cloud from cli in a more token efficient manner. It follows @kunchenguid's AXI standard that greatly improves agentic tooling.\n\nv0.7.2 out now!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2092586490953904490",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 1,
-        "likes": 20,
-        "quotes": 0,
-        "views": 2002
       },
       "fetched_at": "2026-09-09T01:22:55.950Z"
     }

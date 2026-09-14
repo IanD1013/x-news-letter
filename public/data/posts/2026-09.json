@@ -2,6 +2,140 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2099627078660624419",
+      "url": "https://x.com/kunchenguid/status/2099627078660624419",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T22:31:19.000Z",
+      "sort_at": "2026-09-14T22:31:19.000Z",
+      "text": "oooh this looks nice - a handy little skill to generate animated presentational videos",
+      "media": [],
+      "quote": {
+        "id": "2099609501943078913",
+        "url": "https://x.com/CalvinGrunewald/status/2099609501943078913",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-09-14T21:21:28.000Z",
+        "text": "Sharing a fun new skill/tool I built that helps me make videos for a variety of purposes. You have your coding agent install the skill, and then it writes react code to generate the video. It supports music composition as well as narration. I use it for making videos about products or tools we build or creating videos for myself to learn new things (IE, make a video of this ML paper).\n\nA bunch of examples are on the site below. Totally free to use (MIT)!\n\nhttps://clapper.archastro.tryintern.dev/",
+        "media": [
+          {
+            "id": "2099608297330593792",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2099608297330593792/vid/avc1/1280x720/fiFQzIHW6Ee2Jv-V.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099608297330593792/img/vWcWqDj2M4cWrtM2.jpg",
+            "width": 1280,
+            "height": 720,
+            "duration": 24.4
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2099627078660624419",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 15,
+        "quotes": 0,
+        "views": 2507
+      },
+      "fetched_at": "2026-09-14T23:11:18.250Z"
+    },
+    {
+      "id": "2099605005984759820",
+      "url": "https://x.com/kunchenguid/status/2099605005984759820",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T21:03:36.000Z",
+      "sort_at": "2026-09-14T21:03:36.000Z",
+      "text": "sharing an emotional milestone plus some tips for growing a social media presence\n\nif you came across my youtube channel, you might have seen i always had “ex-meta” or “L8 principal” mentioned in the title of my videos\n\ni hated doing it, and every time i published a video i always a/b tested removing that title\n\nunfortunately, every single time, removing it would destroy the reach and the videos simply wouldn’t be seen nearly as much\n\nthe latest video was the first one i ever had where the “ex-Meta L8” title no longer made any difference. and i have now picked the variant that’s just “with Kun”\n\ni’m _so_ happy to see it. it’s hard to detach from an identity that was built up over decades of experience. this video is the milestone that tells me i have now created my own identity over the past couple of months after quitting the big tech game\n\nthe learning i internalized for growing a social media presence is that everyone’s busy. no one’s going to spend time following content that they don’t know is good or not\n\nthe exact same tweet, the exact same video, when published by someone the audience trusts, will always get more engagement than when it’s shared by someone without proven credibility\n\nso to establish a new presence, my theory is that you need to figure out how to get people to recognize and trust you. that’s the real work, not learning all kinds of engagement baits which might work in the short term to a degree but doesn’t help you build a durable and trusted reputation\n\npeople do give some trust to authority and experience, so if you have that, you can use it to accelerate the cold start. otherwise, i suggest you focus on creating things that are genuinely useful for others. things, not opinions. an opinion from a random person is the most noisy thing on social media that no one has time for\n\nkeep showing up with cool stuff that others can actually benefit from, you’ll gradually establish your identity",
+      "media": [
+        {
+          "id": "2099605000163110912",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSNLn5tbMAAHYhr.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1010
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099605005984759820",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 20,
+        "reposts": 0,
+        "likes": 141,
+        "quotes": 0,
+        "views": 4098
+      },
+      "fetched_at": "2026-09-14T23:11:18.250Z"
+    },
+    {
+      "id": "2099589472535101582",
+      "url": "https://x.com/kunchenguid/status/2099589472535101582",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-14T20:01:53.000Z",
+      "sort_at": "2026-09-14T20:01:53.000Z",
+      "text": "looks like exercise helps with mental health, and video games help with cognitive performance\n\nmy mental health is fine. all i want is better cognitive performance\n\nlfg!",
+      "media": [],
+      "quote": {
+        "id": "2099579562208485582",
+        "url": "https://x.com/CalvinGrunewald/status/2099579562208485582",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-09-14T19:22:30.000Z",
+        "text": "Time to start playing my Switch while I ride the stationary bike! But seriously, it’s great to see studies like this. Video Games define many aspects of who I am today. I wish I had more time to play. \n\nWould be really interesting to see this broken down by type of game. Ie to mobile F2P have the same effect?",
+        "media": [
+          {
+            "id": "2099579557972176896",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HSM0e-KacAAK32y.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1644,
+            "height": 1378
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2099589472535101582",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 26,
+        "quotes": 0,
+        "views": 3132
+      },
+      "fetched_at": "2026-09-14T23:11:18.250Z"
+    },
+    {
       "id": "2099535342391153065",
       "url": "https://x.com/kunchenguid/status/2099535342391153065",
       "creator": "kunchenguid",
