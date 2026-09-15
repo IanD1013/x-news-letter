@@ -2,6 +2,71 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2099941043592659416",
+      "url": "https://x.com/kunchenguid/status/2099941043592659416",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-15T19:18:54.000Z",
+      "sort_at": "2026-09-15T19:18:54.000Z",
+      "text": "https://github.com/kunchenguid/firstmate",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2099934006066450446",
+      "thread_root_id": "2099934006066450446",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 506
+      },
+      "fetched_at": "2026-09-15T21:30:30.037Z"
+    },
+    {
+      "id": "2099934006066450446",
+      "url": "https://x.com/kunchenguid/status/2099934006066450446",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-15T18:50:56.000Z",
+      "sort_at": "2026-09-15T18:50:56.000Z",
+      "text": "go firstmate! proud of you helping so many people become a captain",
+      "media": [
+        {
+          "id": "2099933767741915136",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSR2osYawAAhrU4.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1233,
+          "height": 823
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099934006066450446",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 2,
+        "likes": 106,
+        "quotes": 0,
+        "views": 2812
+      },
+      "fetched_at": "2026-09-15T21:30:30.037Z"
+    },
+    {
       "id": "2099700576229400891",
       "url": "https://x.com/yasuhito/status/2099700576229400891",
       "creator": "kunchenguid",

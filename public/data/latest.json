@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-15T07:50:37.591Z",
+  "generated_at": "2026-09-15T21:30:30.688Z",
   "posts": [
+    {
+      "id": "2099941043592659416",
+      "url": "https://x.com/kunchenguid/status/2099941043592659416",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-15T19:18:54.000Z",
+      "sort_at": "2026-09-15T19:18:54.000Z",
+      "text": "https://github.com/kunchenguid/firstmate",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2099934006066450446",
+      "thread_root_id": "2099934006066450446",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 506
+      },
+      "fetched_at": "2026-09-15T21:30:30.037Z"
+    },
+    {
+      "id": "2099934006066450446",
+      "url": "https://x.com/kunchenguid/status/2099934006066450446",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-15T18:50:56.000Z",
+      "sort_at": "2026-09-15T18:50:56.000Z",
+      "text": "go firstmate! proud of you helping so many people become a captain",
+      "media": [
+        {
+          "id": "2099933767741915136",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSR2osYawAAhrU4.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1233,
+          "height": 823
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2099934006066450446",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 2,
+        "likes": 106,
+        "quotes": 0,
+        "views": 2812
+      },
+      "fetched_at": "2026-09-15T21:30:30.037Z"
+    },
     {
       "id": "2099700576229400891",
       "url": "https://x.com/yasuhito/status/2099700576229400891",
@@ -3408,71 +3473,6 @@
         "likes": 81,
         "quotes": 0,
         "views": 7397
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2093042507580067889",
-      "url": "https://x.com/kunchenguid/status/2093042507580067889",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-27T18:26:35.000Z",
-      "sort_at": "2026-08-27T18:26:35.000Z",
-      "text": "i’ve been building and using agents since the gpt-4 days\n\nback then, the model couldn’t even reliably edit files. it couldn’t generate a valid unified diff, couldn’t preserve white spaces in find/replace tool calls, plus various kinds of quirks\n\nwe implemented many harness level tricks to compensate, it got a lot better than using the raw model, but it still sucked\n\nthen sonnet 3.5 v2 came out and it was trained with a coding harness with RL. it knew how to find/replace reliably. it knew how to compose good bash commands to get what it needs. all the tricks we did were reverted\n\nthat was the first time i internalized the bitter lesson http://www.incompleteideas.net/IncIdeas/BitterLesson.html\n\nmost of what we are doing in the harness today, all the smart context engineering tricks, all the useful markdown files we throw into our repo, they will all go away\n\neventually, the models just know\n\nthere will be a model that will do incredibly efficient and smart compaction that preserves what the continued session actually needs\n\nthere will be a model that know how to plan with you better than any skill you can find today\n\nthere will be a model that will do perfect code reviews with just the right feedback\n\nthe models just know\n\ni believe as humans today, most of us should not be fiddling too much with harness tricks. if you don’t believe they will go away, you can surely still believe they will keep changing rapidly to a point where anything you learn becomes obsolete every several weeks\n\ninstead, focus on what i call “the 3 fundamentals” -\n\n1. understanding the world\n\nthis is your input. how does the world work? what are people doing? what problems do they have? \n\nknowing how to ground yourself with real world knowledge helps you avoid hallucinations, and work on things that actually matter\n\n2. first-principles thinking\n\nthis is your compute. with the real world understanding you gathered, what insights can you derive that’s likely to be true? what predictions can you make about the future? \n\nbeing able to think in a disciplined way is what allows you to arrive at useful conclusions that can guide your actions\n\n3. articulating our thoughts\n\nthis is your output, and it’s your AI’s input. it may sound easy but it’s a real skill. not everyone can communicate effectively, whether it’s to humans or AI\n\nwith AI eventually becoming incredibly capable, the clarity in the articulation of our intent is the main, if not the only, bottleneck\n\nthese 3 fundamentals do not shift as models improve. they only become more and more critical as the bitter lesson manifests\n\nfor the vast majority, i suggest spending your time on what will still matter in a year, five years, a decade. let the geeks play with what’s hot this week - in the end, you will see that you didn’t miss anything",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2093042507580067889",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 54,
-        "reposts": 43,
-        "likes": 460,
-        "quotes": 5,
-        "views": 21069
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2092820665745494464",
-      "url": "https://x.com/kunchenguid/status/2092820665745494464",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-27T03:45:04.000Z",
-      "sort_at": "2026-08-27T03:45:04.000Z",
-      "text": "me and firstmate both trending on github today! \n\nshould i have a chicken dinner to celebrate?",
-      "media": [
-        {
-          "id": "2092819091472216065",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQsv4B5bcAE4m0v.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 2218,
-          "height": 1050
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2092820665745494464",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 33,
-        "reposts": 5,
-        "likes": 229,
-        "quotes": 1,
-        "views": 15195
       },
       "fetched_at": "2026-09-09T01:22:55.950Z"
     }
