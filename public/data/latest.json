@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-09-15T21:30:30.688Z",
+  "generated_at": "2026-09-16T00:26:52.740Z",
   "posts": [
+    {
+      "id": "2099992539239694599",
+      "url": "https://x.com/kunchenguid/status/2099992539239694599",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-15T22:43:31.000Z",
+      "sort_at": "2026-09-15T22:43:31.000Z",
+      "text": "big release for SSHHIP\n\nnow voice input can transcribe 10 languages on device\n\nthe entire command dial is now customizable and allows any custom keybinds",
+      "media": [
+        {
+          "id": "2099992384549650432",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2099992384549650432/vid/avc1/1206x2622/LY-j-kWSo7e5WYKw.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099992384549650432/img/pw8AR439ohZOMaMc.jpg",
+          "width": 1206,
+          "height": 2622,
+          "duration": 41.39
+        }
+      ],
+      "quote": {
+        "id": "2099974145295458478",
+        "url": "https://x.com/theSSHHIP/status/2099974145295458478",
+        "author": {
+          "screen_name": "theSSHHIP",
+          "name": "SSHHIP",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2080747283931664385/XdT4pm_w_200x200.jpg"
+        },
+        "created_at": "2026-09-15T21:30:26.000Z",
+        "text": "SSHHIP 1.33.0 is now live\n\nDictate in your language: voice input now understands many languages, picked from a new language list in Settings.\n\nhttps://apps.apple.com/us/app/sshhip/id6785186457",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2099992539239694599",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 18,
+        "quotes": 0,
+        "views": 2453
+      },
+      "fetched_at": "2026-09-16T00:26:52.180Z"
+    },
     {
       "id": "2099941043592659416",
       "url": "https://x.com/kunchenguid/status/2099941043592659416",
@@ -3436,43 +3485,6 @@
         "likes": 2,
         "quotes": 0,
         "views": 1757
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2093153092170891291",
-      "url": "https://x.com/kunchenguid/status/2093153092170891291",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-28T01:46:00.000Z",
-      "sort_at": "2026-08-28T01:46:00.000Z",
-      "text": "would like to give a shout out to @greptile for generously supporting the open source community\n\ni applied for their open source program for many repos i own, and greptile has been running a lot of code reviews on them for free, complementing no-mistakes as a panel",
-      "media": [
-        {
-          "id": "2093152278161334272",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HQxe6DCbIAARQkZ.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 2380,
-          "height": 922
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2093153092170891291",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 9,
-        "reposts": 1,
-        "likes": 81,
-        "quotes": 0,
-        "views": 7397
       },
       "fetched_at": "2026-09-09T01:22:55.950Z"
     }
