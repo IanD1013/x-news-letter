@@ -2,6 +2,55 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2100032815547220193",
+      "url": "https://x.com/kunchenguid/status/2100032815547220193",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-16T01:23:34.000Z",
+      "sort_at": "2026-09-16T01:23:34.000Z",
+      "text": "holy crap this is super exciting\n\nit’s not “generative”, so imo it’s a bit misleading to compare it with LLM. it can’t replace LLMs on most tasks\n\nbut it can automate a lot of things where the options are clear but choice is not - it’s basically a real time, almost free, intelligent decision engine\n\ni can already think of so many practical use cases. can’t wait to get my hands on it!",
+      "media": [],
+      "quote": {
+        "id": "2099925682726002904",
+        "url": "https://x.com/CompleteSkeptic/status/2099925682726002904",
+        "author": {
+          "screen_name": "CompleteSkeptic",
+          "name": "Diogo Almeida",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1650708125685800960/7k6r0UZg_200x200.jpg"
+        },
+        "created_at": "2026-09-15T18:17:52.000Z",
+        "text": "After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI?\n\nI’ve spent the last 2 years in stealth building a new way to train models (RLCD), and a new type of frontier AI model that we are releasing today: Jev\n\n• 20-200x faster\n• 40-400x cheaper (w/ output tokens free)\n• Frontier composable intelligence optimized for decisions\n\nAFAICT the shortest path to AI-based economic revolution",
+        "media": [
+          {
+            "id": "2099925575637057536",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2099925575637057536/vid/avc1/1920x1080/cy2CDedAjnEfjJZk.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 176.085
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2100032815547220193",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 36,
+        "reposts": 13,
+        "likes": 477,
+        "quotes": 2,
+        "views": 71681
+      },
+      "fetched_at": "2026-09-16T06:07:26.856Z"
+    },
+    {
       "id": "2099992539239694599",
       "url": "https://x.com/kunchenguid/status/2099992539239694599",
       "creator": "kunchenguid",
