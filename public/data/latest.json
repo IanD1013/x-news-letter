@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-16T06:07:27.556Z",
+  "generated_at": "2026-09-16T23:00:57.826Z",
   "posts": [
+    {
+      "id": "2100321145543344544",
+      "url": "https://x.com/kunchenguid/status/2100321145543344544",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-16T20:29:17.000Z",
+      "sort_at": "2026-09-16T20:29:17.000Z",
+      "text": "reminder that claude quota reduction is already in effect since Sept. 14\n\ni reran my evals and my empirically measured value for a claude $200 plan has reduced from $7200/mo to about $6000, sitting below the value of ChatGPT Pro 20x\n\nif you only use fable (i know some people indeed do this), then that's another 50% cut on the value you get, putting you at $3000/mo\n\nstill WAY cheaper than paying at API pricing, but gradually they are crawling back the subsidization\n\ni think we're entering an era where stacking multiple subscriptions will be somewhat mainstream",
+      "media": [],
+      "quote": {
+        "id": "2098256018836963382",
+        "url": "https://x.com/kunchenguid/status/2098256018836963382",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-09-11T03:43:13.000Z",
+        "text": "ok everyone, i took one for the team\n\nhere's the data we all wanted to see - real token value of each LLM subscription, empirically measured through usage on my real subscriptions\n\n- supergrok heavy has now become the highest value at $12k worth of tokens (40x ROI)\n\n- the $200 plan from openai and anthropic roughly give the same amount of token value, $7k give or take\n\n- cursor ultra's ROI is the lowest among mainstream subscriptions, roughly half of OAI or Ant. for individual consumers i'm afraid this no longer makes sense to purchase\n\nthis was done in a clean environment. i ran each provider across 5 whole % points of my quota through repeated eval tasks in open source repos, and measured the total token value from all the agent sessions based on API pricing\n\ncaveat 1 - this only measures their coding agent quota (which is the majority of the offered value), and does not include things like chat bot or grok bot\n\ncaveat 2 - none of the providers commit to never changing this, so this is a snapshot of what the offering looks like today. i cannot guarantee it won't change again\n\ncaveat 3 - the token value assumes you exhaust your subscription completely, which may not be realistic in real world usage",
+        "media": [
+          {
+            "id": "2098249680740392961",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HR5697aboAEZxkD.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1076,
+            "height": 1078
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2100321145543344544",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 17,
+        "reposts": 4,
+        "likes": 85,
+        "quotes": 1,
+        "views": 22223
+      },
+      "fetched_at": "2026-09-16T23:00:57.149Z"
+    },
     {
       "id": "2100032815547220193",
       "url": "https://x.com/kunchenguid/status/2100032815547220193",
@@ -3478,34 +3526,6 @@
         "likes": 42,
         "quotes": 0,
         "views": 4251
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
-    },
-    {
-      "id": "2093214012389634436",
-      "url": "https://x.com/kunchenguid/status/2093214012389634436",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-28T05:48:05.000Z",
-      "sort_at": "2026-08-28T05:48:05.000Z",
-      "text": "i still don’t understand the “local AI is free” point of view\n\nit literally costs thousands of dollars to get started on anything useful, a small data center worth of cost and complexity to do something near frontier \n\nif you sum up all the money spent buying hardware and paying power bill and your time spent fiddling with it, it’s almost decades worth of consumer subscription from frontier labs which give much better intelligence at much larger concurrent throughput \n\nthe only reasonable explanation for doing full-on local AI seems:\n\n1. it’s fun\n2. it’s cool\n3. you really hate the labs\n\ni do think we can look at it in another way - for those who already bought a capable computer, use the idle gpu capacity to do some secondary tasks that don’t require frontier intelligence while you continue to rely on cloud models for primary usage\n\ndid i miss anything? genuinely curious if there’s a sound argument",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2093214012389634436",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 886,
-        "reposts": 48,
-        "likes": 963,
-        "quotes": 61,
-        "views": 127323
       },
       "fetched_at": "2026-09-09T01:22:55.950Z"
     }
