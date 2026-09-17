@@ -2,6 +2,108 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2100477276945367454",
+      "url": "https://x.com/kunchenguid/status/2100477276945367454",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-17T06:49:42.000Z",
+      "sort_at": "2026-09-17T06:49:42.000Z",
+      "text": "https://github.com/kunchenguid/firstmate",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2100468943853085061",
+      "thread_root_id": "2100468943853085061",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3,
+        "quotes": 0,
+        "views": 717
+      },
+      "fetched_at": "2026-09-17T07:46:14.663Z"
+    },
+    {
+      "id": "2100468943853085061",
+      "url": "https://x.com/kunchenguid/status/2100468943853085061",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-17T06:16:35.000Z",
+      "sort_at": "2026-09-17T06:16:35.000Z",
+      "text": "alright - just got Jev deployed for a real production use case, which now performs at fable level quality but 10x faster and saves a ton of money\n\ncontext - a powerful capability of firstmate is that as an orchestrator it intelligently routes each task to an appropriate agent (permutation of harness, model, and reasoning effort) based on custom user preference\n\nby default, that's done by the firstmate agent and the LLM would have to do some thinking, make tool calls to read dispatch rules, quota data etc and then do the dispatch. this is slow and does cost a bit of LLM tokens\n\ni just replaced this dispatch process with Jev. it makes the same decision with no thinking or tool calls, done in ~200ms, and for the 25 tasks i evaluated this with, it gives the exact same answer fable would have given... \n\nthere's still a tool call needed to invoke Jev, done by the firstmate agent which uses an LLM. but even with that counted, the saving from Jev still resulted in a -71% reduction in cost and -90% reduction in wall time of completing the whole dispatching process\n\nJev API calls themselves are almost free.. i made 100+ calls, and my usage dashboard still shows $0.01 (which i think means \"haven't reached $0.01 yet\"). if we just look at the part Jev replaced and not the whole system, then the saving is on the magnitude of ~100x\n\nif you also have Jev and you use firstmate, set TYPESAFE_API_KEY in your .env file in your firstmate repo to activate this\n\nexciting times! i think this is starting to enable a whole new architectural paradigm for software. LLMs are just a small part of it. more on that soon",
+      "media": [
+        {
+          "id": "2100378362367868928",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSYK_gbagAAqKqr.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1076,
+          "height": 1078
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2100468943853085061",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 36,
+        "reposts": 18,
+        "likes": 339,
+        "quotes": 3,
+        "views": 10198
+      },
+      "fetched_at": "2026-09-17T07:46:14.663Z"
+    },
+    {
+      "id": "2100461539316920716",
+      "url": "https://x.com/kunchenguid/status/2100461539316920716",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-17T05:47:10.000Z",
+      "sort_at": "2026-09-17T05:47:10.000Z",
+      "text": "@trq212 nope i don’t think MCP can claim to be “better” while this exists -",
+      "media": [
+        {
+          "id": "2100461536968097792",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSZWo59awAAd-gf.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 352
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2100461539316920716",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 3,
+        "likes": 21,
+        "quotes": 0,
+        "views": 1706
+      },
+      "fetched_at": "2026-09-17T07:46:14.663Z"
+    },
+    {
       "id": "2100362436872200333",
       "url": "https://x.com/AmrTawfik160/status/2100362436872200333",
       "creator": "kunchenguid",
