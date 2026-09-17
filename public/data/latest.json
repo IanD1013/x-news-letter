@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-09-16T23:00:57.826Z",
+  "generated_at": "2026-09-17T01:29:52.439Z",
   "posts": [
+    {
+      "id": "2100362436872200333",
+      "url": "https://x.com/AmrTawfik160/status/2100362436872200333",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "AmrTawfik160",
+        "name": "amr",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2096944247903772672/spNGyO09_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-16T23:13:22.000Z",
+      "sort_at": "2026-09-17T01:29:51.747Z",
+      "text": "I keep ending up with like five coding agents open and I am just jumping between tabs all day\n\n@kunchenguid made FirstMate for that mess. Search GitHub for kunchenguid firstmate. About 6k stars\n\nYou clone the repo, open Claude Code or Pi or Grok or Codex in that folder, and you only talk to one agent. That agent is the first mate. It starts other agents for you. Each one gets its own git worktree so they do not overwrite each other. There is a tiny watcher that just waits and taps the first mate when something needs you. Watching does not burn model tokens\n\nDone work comes back as a PR or a short writeup. You decide. They do the busy work\n\nIf your day is mostly agent tabs, try this before you buy another seat",
+      "media": [
+        {
+          "id": "2100362434108108800",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSX8gXCWsAA8xuj.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1600,
+          "height": 800
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2100362436872200333",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 6,
+        "quotes": 0,
+        "views": 562
+      },
+      "fetched_at": "2026-09-17T01:29:51.747Z"
+    },
     {
       "id": "2100321145543344544",
       "url": "https://x.com/kunchenguid/status/2100321145543344544",
@@ -3500,34 +3541,6 @@
         "views": 44543
       },
       "fetched_at": "2026-09-09T01:22:55.195Z"
-    },
-    {
-      "id": "2093386009992155612",
-      "url": "https://x.com/kunchenguid/status/2093386009992155612",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-28T17:11:32.000Z",
-      "sort_at": "2026-08-28T17:11:32.000Z",
-      "text": "thanks everyone who shared thoughts! a quick summary of key points so far\n\nthe biggest theme is “independence”, not cost\n\nprivacy, avoiding censorship, availability/reliability, decouple from geopolitics etc are all ultimately about a desire for independence\n\nthere’s also a point about doing it purely for learning, which is valid\n\nthe main point being made about cost is IF subsidized subscriptions stop, then local AI may be more cost efficient",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2093214012389634436",
-      "thread_root_id": "2093214012389634436",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 11,
-        "reposts": 2,
-        "likes": 42,
-        "quotes": 0,
-        "views": 4251
-      },
-      "fetched_at": "2026-09-09T01:22:55.950Z"
     }
   ]
 }
