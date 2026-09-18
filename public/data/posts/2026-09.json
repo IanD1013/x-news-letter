@@ -2,6 +2,62 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2100849975655838207",
+      "url": "https://x.com/kunchenguid/status/2100849975655838207",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-18T07:30:40.000Z",
+      "sort_at": "2026-09-18T07:30:40.000Z",
+      "text": "for anyone who doesn't immediately get it - Jev is _so_ cheap.. i made so many calls and could't get the usage number to move by a cent\n\nall those talks about \"intelligence too cheap to meter\", jev is the only one actually living up to it",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2100846644304773541",
+      "thread_root_id": "2100846644304773541",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 1,
+        "likes": 142,
+        "quotes": 0,
+        "views": 5379
+      },
+      "fetched_at": "2026-09-18T11:24:27.814Z"
+    },
+    {
+      "id": "2100846644304773541",
+      "url": "https://x.com/kunchenguid/status/2100846644304773541",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-18T07:17:26.000Z",
+      "sort_at": "2026-09-18T07:17:26.000Z",
+      "text": "Jev gave me $5 of API credit when i signed up\n\nwhen i die, i will pass what's left of it to my son",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2100846644304773541",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 93,
+        "reposts": 130,
+        "likes": 3416,
+        "quotes": 12,
+        "views": 83144
+      },
+      "fetched_at": "2026-09-18T11:24:27.814Z"
+    },
+    {
       "id": "2100776484776661405",
       "url": "https://x.com/wabzqem/status/2100776484776661405",
       "creator": "kunchenguid",
