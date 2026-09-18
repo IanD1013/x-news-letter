@@ -2,6 +2,82 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2101032677940117875",
+      "url": "https://x.com/kunchenguid/status/2101032677940117875",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-18T19:36:40.000Z",
+      "sort_at": "2026-09-18T19:36:40.000Z",
+      "text": "almost every day i hear people ask \"when should i /compact my session\"\n\nthere's no easy answer because it depends on how likely your future action will need detailed context in the existing window\n\nbut we have Jev now! introducing compact-adviser - an agent plugin you can use in claude and pi today to help determine whether you're likely at a task boundary that's safe to compact\n\nhttps://github.com/kunchenguid/compact-adviser\n\ni built a private eval set from 40 real sessions and manually labeled all the safe vs unsafe checkpoints to evaluate this, and hillclimbed the Jev prompt till it performed quite well\n\ni also made it so that the classifier will\n\n- optimize for precision (not triggering a compaction prematurely) when context window is small\n\n- and gradually shift to optimize for recall (not missing an opportunity to compact) when context window fills up, because the cost of not compacting becomes higher, and at the end the agent will be forced to compact anyway\n\nit supports a \"hint\" mode (just give you a hint and it's up to you to run /compact) vs \"auto\" mode which runs compaction whenever Jev says it's safe to do so\n\nif you have Jev and want to put your compaction on autopilot, try this out and let me know how it goes! support for more harness is coming soon as well",
+      "media": [
+        {
+          "id": "2101029421163704320",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HShbIHcbcAAJvsR.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1078,
+          "height": 1078
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101032677940117875",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5,
+        "quotes": 0,
+        "views": 294
+      },
+      "fetched_at": "2026-09-18T19:41:29.262Z"
+    },
+    {
+      "id": "2101015969359655333",
+      "url": "https://x.com/kunchenguid/status/2101015969359655333",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-18T18:30:16.000Z",
+      "sort_at": "2026-09-18T18:30:16.000Z",
+      "text": "anthropic finally seems to be changing their approach to products\n\ni’m so, so happy to see this because i love their work on fable - it’s still undefeatedly the best. but their approach to product was honestly holding them back\n\nthis is a great step forward",
+      "media": [],
+      "quote": {
+        "id": "2101009392611278961",
+        "url": "https://x.com/trq212/status/2101009392611278961",
+        "author": {
+          "screen_name": "trq212",
+          "name": "Thariq",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_200x200.jpg"
+        },
+        "created_at": "2026-09-18T18:04:08.000Z",
+        "text": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2101015969359655333",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 1,
+        "likes": 97,
+        "quotes": 0,
+        "views": 4394
+      },
+      "fetched_at": "2026-09-18T19:41:29.262Z"
+    },
+    {
       "id": "2100849975655838207",
       "url": "https://x.com/kunchenguid/status/2100849975655838207",
       "creator": "kunchenguid",

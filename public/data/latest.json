@@ -1,6 +1,82 @@
 {
-  "generated_at": "2026-09-18T11:24:28.584Z",
+  "generated_at": "2026-09-18T19:41:30.089Z",
   "posts": [
+    {
+      "id": "2101032677940117875",
+      "url": "https://x.com/kunchenguid/status/2101032677940117875",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-18T19:36:40.000Z",
+      "sort_at": "2026-09-18T19:36:40.000Z",
+      "text": "almost every day i hear people ask \"when should i /compact my session\"\n\nthere's no easy answer because it depends on how likely your future action will need detailed context in the existing window\n\nbut we have Jev now! introducing compact-adviser - an agent plugin you can use in claude and pi today to help determine whether you're likely at a task boundary that's safe to compact\n\nhttps://github.com/kunchenguid/compact-adviser\n\ni built a private eval set from 40 real sessions and manually labeled all the safe vs unsafe checkpoints to evaluate this, and hillclimbed the Jev prompt till it performed quite well\n\ni also made it so that the classifier will\n\n- optimize for precision (not triggering a compaction prematurely) when context window is small\n\n- and gradually shift to optimize for recall (not missing an opportunity to compact) when context window fills up, because the cost of not compacting becomes higher, and at the end the agent will be forced to compact anyway\n\nit supports a \"hint\" mode (just give you a hint and it's up to you to run /compact) vs \"auto\" mode which runs compaction whenever Jev says it's safe to do so\n\nif you have Jev and want to put your compaction on autopilot, try this out and let me know how it goes! support for more harness is coming soon as well",
+      "media": [
+        {
+          "id": "2101029421163704320",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HShbIHcbcAAJvsR.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1078,
+          "height": 1078
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101032677940117875",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5,
+        "quotes": 0,
+        "views": 294
+      },
+      "fetched_at": "2026-09-18T19:41:29.262Z"
+    },
+    {
+      "id": "2101015969359655333",
+      "url": "https://x.com/kunchenguid/status/2101015969359655333",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-18T18:30:16.000Z",
+      "sort_at": "2026-09-18T18:30:16.000Z",
+      "text": "anthropic finally seems to be changing their approach to products\n\ni’m so, so happy to see this because i love their work on fable - it’s still undefeatedly the best. but their approach to product was honestly holding them back\n\nthis is a great step forward",
+      "media": [],
+      "quote": {
+        "id": "2101009392611278961",
+        "url": "https://x.com/trq212/status/2101009392611278961",
+        "author": {
+          "screen_name": "trq212",
+          "name": "Thariq",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_200x200.jpg"
+        },
+        "created_at": "2026-09-18T18:04:08.000Z",
+        "text": "We're adding support for AGENTS.md to Claude Code. \n\nStarting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md.\n\nYou can toggle this behavior in /config.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2101015969359655333",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 1,
+        "likes": 97,
+        "quotes": 0,
+        "views": 4394
+      },
+      "fetched_at": "2026-09-18T19:41:29.262Z"
+    },
     {
       "id": "2100849975655838207",
       "url": "https://x.com/kunchenguid/status/2100849975655838207",
@@ -3496,62 +3572,6 @@
         "likes": 14,
         "quotes": 0,
         "views": 8603
-      },
-      "fetched_at": "2026-09-09T01:22:55.195Z"
-    },
-    {
-      "id": "2093912739295195318",
-      "url": "https://x.com/kunchenguid/status/2093912739295195318",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-30T04:04:34.000Z",
-      "sort_at": "2026-08-30T04:04:34.000Z",
-      "text": "while maintaining my open source projects i noticed many people started using something called Oh My Pi\n\nout of curiosity i took a look and gave it a go myself, and oh my.. \n\nit’s a giant pile of harness tricks bundled into one. each trick seems to do well on benchmarks. but…\n\nthis is EXACTLY what the bitter lesson told us to avoid. it may indeed work well at the time it’s evaluated, but every model release can invalidate a bunch of these results\n\nunless every single part of the package gets rigorously re-evaluated on every model release, we simply can’t trust the bundle is actually helping. and in the long run, the bitter lesson has shown us over and over again that these tricks will not survive\n\nthat’s the core reason i’ve kept my own pi config extremely minimal. a simple harness gets better every time a stronger model comes out. a complex pile of tricks silently become a burden without you knowing",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2093912739295195318",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 123,
-        "reposts": 46,
-        "likes": 1098,
-        "quotes": 25,
-        "views": 180510
-      },
-      "fetched_at": "2026-09-09T01:22:55.195Z"
-    },
-    {
-      "id": "2093841135068500022",
-      "url": "https://x.com/kunchenguid/status/2093841135068500022",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-29T23:20:02.000Z",
-      "sort_at": "2026-08-29T23:20:02.000Z",
-      "text": "i suddenly realized that i haven’t opened neovim at all for many days\n\nit used to be the ONLY place i do anything kind of development\n\nwhile i’m happy that i’m now getting a lot more done with agents, i do miss the “flow” i used to have in code editors, profoundly\n\nthink, edit, save, and see the result. zen. focus. one thing at a time\n\nworking with agents we have today is almost the opposite of that. the experience is not right. we need a complete rethink",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2093841135068500022",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 39,
-        "reposts": 5,
-        "likes": 227,
-        "quotes": 0,
-        "views": 16359
       },
       "fetched_at": "2026-09-09T01:22:55.195Z"
     }
