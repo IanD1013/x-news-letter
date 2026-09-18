@@ -2,6 +2,55 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2100776484776661405",
+      "url": "https://x.com/wabzqem/status/2100776484776661405",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "wabzqem",
+        "name": "Richard Nelson",
+        "avatar_url": "https://pbs.twimg.com/profile_images/509344283455807491/jyvAobc-_200x200.jpeg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-18T02:38:39.000Z",
+      "sort_at": "2026-09-18T05:59:53.007Z",
+      "text": "Here's my AI workflow;\n- Use @kunchenguid 's firstmate. It seriously lowers cognitive overload of working on multiple items.\n- Crew are agents that then delegate work out to subagents with differing models and capabilities. A simple coding task? Luna is used.\n- Subagents also have review capabilities, so work is directly reviewed and iterated with the crew managing it. It also decides what kind of reviews are necessary; architecture, code-correctness, security etc.\n- At any point, if I want to, I can see what crew members are doing and overall plan status. This lets me use the firstmate to help guide if necessary\n\nThis results in an ability to do parallel work with strong outcomes - well reviewed work even before a PR is raised.",
+      "media": [
+        {
+          "id": "2100775321683525632",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSd0BlHagAAWDeP.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 3472,
+          "height": 2192
+        },
+        {
+          "id": "2100775939013828608",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSd0lg2bYAAHqYK.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 3932,
+          "height": 2204
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2100776484776661405",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 13,
+        "quotes": 0,
+        "views": 1798
+      },
+      "fetched_at": "2026-09-18T05:59:53.007Z"
+    },
+    {
       "id": "2100675262161826099",
       "url": "https://x.com/kunchenguid/status/2100675262161826099",
       "creator": "kunchenguid",

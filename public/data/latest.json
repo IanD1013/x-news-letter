@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-09-17T22:14:37.795Z",
+  "generated_at": "2026-09-18T05:59:53.561Z",
   "posts": [
+    {
+      "id": "2100776484776661405",
+      "url": "https://x.com/wabzqem/status/2100776484776661405",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "wabzqem",
+        "name": "Richard Nelson",
+        "avatar_url": "https://pbs.twimg.com/profile_images/509344283455807491/jyvAobc-_200x200.jpeg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-18T02:38:39.000Z",
+      "sort_at": "2026-09-18T05:59:53.007Z",
+      "text": "Here's my AI workflow;\n- Use @kunchenguid 's firstmate. It seriously lowers cognitive overload of working on multiple items.\n- Crew are agents that then delegate work out to subagents with differing models and capabilities. A simple coding task? Luna is used.\n- Subagents also have review capabilities, so work is directly reviewed and iterated with the crew managing it. It also decides what kind of reviews are necessary; architecture, code-correctness, security etc.\n- At any point, if I want to, I can see what crew members are doing and overall plan status. This lets me use the firstmate to help guide if necessary\n\nThis results in an ability to do parallel work with strong outcomes - well reviewed work even before a PR is raised.",
+      "media": [
+        {
+          "id": "2100775321683525632",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSd0BlHagAAWDeP.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 3472,
+          "height": 2192
+        },
+        {
+          "id": "2100775939013828608",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSd0lg2bYAAHqYK.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 3932,
+          "height": 2204
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2100776484776661405",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 13,
+        "quotes": 0,
+        "views": 1798
+      },
+      "fetched_at": "2026-09-18T05:59:53.007Z"
+    },
     {
       "id": "2100675262161826099",
       "url": "https://x.com/kunchenguid/status/2100675262161826099",
@@ -3525,34 +3574,6 @@
         "likes": 1012,
         "quotes": 14,
         "views": 154094
-      },
-      "fetched_at": "2026-09-09T01:22:55.195Z"
-    },
-    {
-      "id": "2093546043887780351",
-      "url": "https://x.com/kunchenguid/status/2093546043887780351",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-29T03:47:27.000Z",
-      "sort_at": "2026-08-29T03:47:27.000Z",
-      "text": "3. why don't i just create a new repo that merges both\n\n^ that's completely missing my point\n\nthe point was not that i think literally merging their codebases will give us something better\n\nit's that two OSS teams spending their energy building mostly the same thing twice is a huge waste. creating a 3rd one would waste even more\n\nimagine the two teams' resources were spent just improving a single project all this time. if there was no human ego, this would have created a better product for everyone",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2093491107229565248",
-      "thread_root_id": "2093433540386148710",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 2,
-        "reposts": 0,
-        "likes": 12,
-        "quotes": 0,
-        "views": 2964
       },
       "fetched_at": "2026-09-09T01:22:55.195Z"
     }
