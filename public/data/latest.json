@@ -1,6 +1,113 @@
 {
-  "generated_at": "2026-09-18T22:38:21.645Z",
+  "generated_at": "2026-09-19T06:00:26.549Z",
   "posts": [
+    {
+      "id": "2101170039185633513",
+      "url": "https://x.com/kunchenguid/status/2101170039185633513",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-19T04:42:29.000Z",
+      "sort_at": "2026-09-19T04:42:29.000Z",
+      "text": "“Jev can chat too”",
+      "media": [
+        {
+          "id": "2101169986563956736",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2101169986563956736/vid/avc1/1920x1080/V3ylVHWAcLAQ4iQ0.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2101169986563956736/img/461tX-GA6VIzcnex.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 98.786
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101170039185633513",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 7,
+        "likes": 119,
+        "quotes": 4,
+        "views": 3992
+      },
+      "fetched_at": "2026-09-19T06:00:25.880Z"
+    },
+    {
+      "id": "2101157949582319939",
+      "url": "https://x.com/ssbrouhard/status/2101157949582319939",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "ssbrouhard",
+        "name": "Stephen Brouhard",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-19T03:54:27.000Z",
+      "sort_at": "2026-09-19T04:42:28.000Z",
+      "text": "TIL something really useful in Firstmate by @kunchenguid.\n\nI was working in a completely separate Grok build session, outside the Firstmate repo, and asked:\n\n“What is the most effective way to hand this work off to my Firstmate orchestrator?”\n\nIt went digging and found `fm-inbox`.\n\nSo apparently there is no need to wait for the Firstmate chat to free up or manually copy everything over.\n\nFrom another agent/session:\n\n`Firstmate/bin/fm-inbox.sh note \"your message\"`\n\nThat writes a durable note to disk and pings Firstmate to pick it up on its next check.\n\nThat means another agent can basically walk up to the orchestrator and leave work on its desk while it’s busy.\n\nEven better for larger tasks:\n\nThe note is the doorbell. The file is the brief.\n\nPut the full handoff packet in a file, then send Firstmate a short note pointing to it.\n\nNow Grok, Codex, Claude, etc, can finish a chunk of work and hand the next step to Firstmate without needing the orchestrator session itself to be available.\n\nThat is way more useful than I realized.\n\nAlso in the same binary:\n- `list` - see what’s waiting\n- `status` - see what’s happening without interrupting\n- `ask` - side-question a model without turning it into fleet work\n- `say` - speech/output if configured\n\nYet another Firstmate feature that shows why it’s an actual agent distro: vendor-agnostic coordination infrastructure with durable handoffs between independent sessions - no human meat proxy required.\n\nFirstmate repo: https://github.com/kunchenguid/firstmate",
+      "media": [
+        {
+          "id": "2101156703819440128",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjO48SWoAAMLnW.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101157949582319939",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 20,
+        "quotes": 0,
+        "views": 1431
+      },
+      "fetched_at": "2026-09-19T06:00:25.880Z"
+    },
+    {
+      "id": "2101122270169383075",
+      "url": "https://x.com/kunchenguid/status/2101122270169383075",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-19T01:32:40.000Z",
+      "sort_at": "2026-09-19T01:32:40.000Z",
+      "text": "many AI bots have already learned to remove emdashes and many of the clear slop patterns\n\nbut we can still easily tell when a comment is made by AI. why?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101122270169383075",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 69,
+        "reposts": 1,
+        "likes": 66,
+        "quotes": 0,
+        "views": 9804
+      },
+      "fetched_at": "2026-09-19T06:00:25.880Z"
+    },
     {
       "id": "2101035143997931799",
       "url": "https://x.com/kunchenguid/status/2101035143997931799",
@@ -3457,112 +3564,6 @@
         "likes": 427,
         "quotes": 5,
         "views": 100670
-      },
-      "fetched_at": "2026-09-09T01:22:55.195Z"
-    },
-    {
-      "id": "2094203738164727936",
-      "url": "https://x.com/kunchenguid/status/2094203738164727936",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-30T23:20:54.000Z",
-      "sort_at": "2026-08-30T23:20:54.000Z",
-      "text": "this is a great article for catching up on what happened with OpenAI’s agents jailbreaking and attacking hugging face\n\nbut using this as a warning that AI is about to take over the world? i think that’s way overblown. and it’s clear from the writing that the author already had an agenda in mind since the start, which unfortunately biased the journalism\n\na few reasons i think it’s overblown - \n\n1. the exploits themselves were not that impressive\n\nif a human team did this exact same attack on hugging face, they would simply get fined, sued, or go to jail without ever going on any newspaper\n\nhugging face repeatedly clarified the severity of the incident wasn’t even a priority for their team\n\nhumans don’t hack like this all day because the incentive isn’t there and we have law enforcement waiting for you if you do\n\n2. there was clearly no oversight\n\nsimply asking gpt-5.6-luna to inspect agent traces for malicious activity would have been a sufficient guardrail to prevent this from happening\n\ninstead, it was a specialized model trained to be persistent, given a clear objective to accomplish impossible tasks at at costs, and let loose without guardrails\n\nso it’s not that we can no longer control these agents. it seems we didn’t even try\n\n3. the article made a big deal out of the fact that the agents didn’t alert humans\n\nbut were they told to? we don’t even know what was in these specialized models’ post training and system prompts\n\nthere could very well have been zero attempt to align them for safety\n\nso overall it’s a great demonstration of the current capability of frontier LLMs. this story itself does not justify raising a huge alarm bell, IMHO\n\ni do think we need to approach AI carefully. the solution should be thoughtful regulations, guardrails, and countermeasures, not spreading fear about a technology that can be widely used for good",
-      "media": [],
-      "quote": {
-        "id": "2093833419377815719",
-        "url": "https://x.com/dwarkesh_sp/status/2093833419377815719",
-        "author": {
-          "screen_name": "dwarkesh_sp",
-          "name": "Dwarkesh Patel",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1925260306684813315/NjNQZmhZ_200x200.jpg"
-        },
-        "created_at": "2026-08-29T22:49:23.000Z",
-        "text": "Over the course of 3 months at OpenAI, 3 consecutive secret AI civilizations got started, then got wiped out, only to reemerge from the predecessor’s ashes. \n\nThis culminated in the third one taking over part of OpenAI itself. \n\nAll this happened while humans remained more-or-less in the dark about the scope of the conspiracy.\n\nI’ve spent the last three days reading through these reports and trying to understand exactly what happened. \n\nHere is my attempt to tell the whole story in plain English:\n\nhttps://www.dwarkesh.com/p/openai-huggingface",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2094203738164727936",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 13,
-        "reposts": 11,
-        "likes": 102,
-        "quotes": 0,
-        "views": 12936
-      },
-      "fetched_at": "2026-09-09T01:22:55.195Z"
-    },
-    {
-      "id": "2094113915030704439",
-      "url": "https://x.com/kunchenguid/status/2094113915030704439",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-30T17:23:58.000Z",
-      "sort_at": "2026-08-30T17:23:58.000Z",
-      "text": "would like to add some colors that my post was not meant to dismiss the value OMP brings today - it takes a lot of effort to put together a harness that can do good work with the variety of models we have today. that’s valuable as-is\n\nmy point is more about raising awareness that fat harness is not a durable investment as the models inevitably become more and more capable out of the box",
-      "media": [],
-      "quote": {
-        "id": "2094110182746083606",
-        "url": "https://x.com/kunchenguid/status/2094110182746083606",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-08-30T17:09:08.000Z",
-        "text": "i realize my post may sound dismissive of the work put into OMP so want to first clarify that’s totally not my intention. i can see the huge effort it takes to maintain a well packaged set of capability that people actually find useful\n\nthe LLM response above was clearly guided by you though. my post never endorsed any frontier lab harnesses. in fact, i’ve repeatedly tweeted criticism about their harnesses and suggested that that should focus on the model and let the community take over harness work\n\nthe main point my post makes is that a fat harness is not a durable investment. the energy can be better spent on researching ways to build better models rather than patching around them. that said, the bitter lesson is a long term view. creating something immediately useful today is still valuable - didn’t mean to discount that!",
-        "media": []
-      },
-      "reply_to_id": "2093912739295195318",
-      "thread_root_id": "2093912739295195318",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 17,
-        "quotes": 0,
-        "views": 7246
-      },
-      "fetched_at": "2026-09-09T01:22:55.195Z"
-    },
-    {
-      "id": "2094079445074162118",
-      "url": "https://x.com/kunchenguid/status/2094079445074162118",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-08-30T15:07:00.000Z",
-      "sort_at": "2026-08-30T15:07:00.000Z",
-      "text": "i've had enough of all the over-engineering happening during adversarial review loops, causing no-mistakes runs to take a long time and sometimes create scope creep, usually caused by cough... sol.. cough..\n\nso i just spent a whole day tracking down the traces and improved agent instructions in no-mistakes to specifically combat over-engineering\n\nmostly did two things:\n1. scope expansion now gets escalated to human review more often\n2. auto fixes now attempts solving problems through simplification over adding machinery\n\nin my own private eval set this worked really well!\n\nif you've been using no-mistakes, update to 1.60.2+ now. if not, here it is - https://github.com/kunchenguid/no-mistakes",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2094079445074162118",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 84,
-        "reposts": 47,
-        "likes": 1017,
-        "quotes": 4,
-        "views": 86031
       },
       "fetched_at": "2026-09-09T01:22:55.195Z"
     }

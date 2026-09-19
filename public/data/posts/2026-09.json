@@ -2,6 +2,113 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2101170039185633513",
+      "url": "https://x.com/kunchenguid/status/2101170039185633513",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-19T04:42:29.000Z",
+      "sort_at": "2026-09-19T04:42:29.000Z",
+      "text": "“Jev can chat too”",
+      "media": [
+        {
+          "id": "2101169986563956736",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2101169986563956736/vid/avc1/1920x1080/V3ylVHWAcLAQ4iQ0.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2101169986563956736/img/461tX-GA6VIzcnex.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 98.786
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101170039185633513",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 7,
+        "likes": 119,
+        "quotes": 4,
+        "views": 3992
+      },
+      "fetched_at": "2026-09-19T06:00:25.880Z"
+    },
+    {
+      "id": "2101157949582319939",
+      "url": "https://x.com/ssbrouhard/status/2101157949582319939",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "ssbrouhard",
+        "name": "Stephen Brouhard",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-19T03:54:27.000Z",
+      "sort_at": "2026-09-19T04:42:28.000Z",
+      "text": "TIL something really useful in Firstmate by @kunchenguid.\n\nI was working in a completely separate Grok build session, outside the Firstmate repo, and asked:\n\n“What is the most effective way to hand this work off to my Firstmate orchestrator?”\n\nIt went digging and found `fm-inbox`.\n\nSo apparently there is no need to wait for the Firstmate chat to free up or manually copy everything over.\n\nFrom another agent/session:\n\n`Firstmate/bin/fm-inbox.sh note \"your message\"`\n\nThat writes a durable note to disk and pings Firstmate to pick it up on its next check.\n\nThat means another agent can basically walk up to the orchestrator and leave work on its desk while it’s busy.\n\nEven better for larger tasks:\n\nThe note is the doorbell. The file is the brief.\n\nPut the full handoff packet in a file, then send Firstmate a short note pointing to it.\n\nNow Grok, Codex, Claude, etc, can finish a chunk of work and hand the next step to Firstmate without needing the orchestrator session itself to be available.\n\nThat is way more useful than I realized.\n\nAlso in the same binary:\n- `list` - see what’s waiting\n- `status` - see what’s happening without interrupting\n- `ask` - side-question a model without turning it into fleet work\n- `say` - speech/output if configured\n\nYet another Firstmate feature that shows why it’s an actual agent distro: vendor-agnostic coordination infrastructure with durable handoffs between independent sessions - no human meat proxy required.\n\nFirstmate repo: https://github.com/kunchenguid/firstmate",
+      "media": [
+        {
+          "id": "2101156703819440128",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSjO48SWoAAMLnW.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1536,
+          "height": 1024
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101157949582319939",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 20,
+        "quotes": 0,
+        "views": 1431
+      },
+      "fetched_at": "2026-09-19T06:00:25.880Z"
+    },
+    {
+      "id": "2101122270169383075",
+      "url": "https://x.com/kunchenguid/status/2101122270169383075",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-19T01:32:40.000Z",
+      "sort_at": "2026-09-19T01:32:40.000Z",
+      "text": "many AI bots have already learned to remove emdashes and many of the clear slop patterns\n\nbut we can still easily tell when a comment is made by AI. why?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101122270169383075",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 69,
+        "reposts": 1,
+        "likes": 66,
+        "quotes": 0,
+        "views": 9804
+      },
+      "fetched_at": "2026-09-19T06:00:25.880Z"
+    },
+    {
       "id": "2101035143997931799",
       "url": "https://x.com/kunchenguid/status/2101035143997931799",
       "creator": "kunchenguid",
