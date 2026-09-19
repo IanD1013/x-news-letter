@@ -2,6 +2,45 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2101389661184946347",
+      "url": "https://x.com/kunchenguid/status/2101389661184946347",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-19T19:15:11.000Z",
+      "sort_at": "2026-09-19T19:15:11.000Z",
+      "text": "check this out - can immediately tell it’s AI",
+      "media": [],
+      "quote": {
+        "id": "2101387534970306612",
+        "url": "https://x.com/AIAppsAPI/status/2101387534970306612",
+        "author": {
+          "screen_name": "AIAppsAPI",
+          "name": "AI Apps API",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2018819452393951232/7IUvhePy_200x200.jpg"
+        },
+        "created_at": "2026-09-19T19:06:44.000Z",
+        "text": "Labeling 40 real sessions by hand is the part that makes this credible. Most compaction heuristics are vibes.\n\nThe framing that helped me most on the same problem: compact when the next action depends on conclusions rather than on the raw material that produced them. A summary keeps the conclusions and drops the material, so compacting right before a debugging pass is how you end up re-deriving what you already knew.",
+        "media": []
+      },
+      "reply_to_id": "2101122270169383075",
+      "thread_root_id": "2101122270169383075",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 5,
+        "quotes": 0,
+        "views": 913
+      },
+      "fetched_at": "2026-09-19T20:47:31.088Z"
+    },
+    {
       "id": "2101170039185633513",
       "url": "https://x.com/kunchenguid/status/2101170039185633513",
       "creator": "kunchenguid",
