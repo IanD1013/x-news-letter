@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-09-19T20:47:32.278Z",
+  "generated_at": "2026-09-20T06:25:27.439Z",
   "posts": [
+    {
+      "id": "2101534610710761923",
+      "url": "https://x.com/kunchenguid/status/2101534610710761923",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-20T04:51:10.000Z",
+      "sort_at": "2026-09-20T04:51:10.000Z",
+      "text": "poor guy claim to have built Jev a year ago but no one cared, and now Jev stole all the thunder\n\nmany people are saying “you gotta tell your story” or “marketing is important”, and they just completely missed what actually made the difference here\n\ni just looked into this laya model https://laya.convaiinnovations.com/ and:\n\n- it only supports 512-1k context… a lot of use cases won’t fit at all\n\n- evaluating the model directly shows its accuracy is as good as a coin flip. in order to get good results, you need to first fine tune it\n\ni’m sorry, but that’s not Jev\n\nthere’s a massive gap between an interesting research and a useful product\n\nyou can “tell your story” all you like, but you can’t blame Jev for stealing your thunder when Jev did all the work to make a well-packaged solution anyone can just grab and go\n\nJev is not completely new from an academic sense, just like how ChatGPT was not the first LLM\n\ndon’t underestimate the effort and value in putting together something that’s actually good enough for adoption - it makes all the difference",
+      "media": [
+        {
+          "id": "2101534607351201793",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HSoml0pbwAE8iDB.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1165
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101534610710761923",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 32,
+        "reposts": 15,
+        "likes": 323,
+        "quotes": 8,
+        "views": 13145
+      },
+      "fetched_at": "2026-09-20T06:25:26.825Z"
+    },
     {
       "id": "2101389661184946347",
       "url": "https://x.com/kunchenguid/status/2101389661184946347",
@@ -3521,49 +3558,6 @@
         "likes": 41,
         "quotes": 0,
         "views": 8002
-      },
-      "fetched_at": "2026-09-09T01:22:55.195Z"
-    },
-    {
-      "id": "2094243797387575767",
-      "url": "https://x.com/pucknorris/status/2094243797387575767",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "pucknorris",
-        "name": "Vivek Sharma",
-        "avatar_url": "https://pbs.twimg.com/profile_images/965075895483445248/1cNkluIN_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-08-31T02:00:05.000Z",
-      "sort_at": "2026-08-31T17:10:13.000Z",
-      "text": "We have something we have in house that helps with this very PR selection problem - if you want to try it out early hit me up! \n\nCc: @kunchenguid",
-      "media": [],
-      "quote": {
-        "id": "2094238000930848911",
-        "url": "https://x.com/kunchenguid/status/2094238000930848911",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-08-31T01:37:03.000Z",
-        "text": "@PremiumGoblin not necessarily - i’m nowhere near 1000s per day but i regularly do 100-200\n\nthe pressure i’m feeling is that i have to be very selective about which PRs need my eyes\n\ni can imagine as the velocity continues to increase, the % simply shrinks but doesn’t have to be 0",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2094243797387575767",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 4,
-        "quotes": 0,
-        "views": 2101
       },
       "fetched_at": "2026-09-09T01:22:55.195Z"
     }
