@@ -2,6 +2,82 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2101877657927655730",
+      "url": "https://x.com/kunchenguid/status/2101877657927655730",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-21T03:34:19.000Z",
+      "sort_at": "2026-09-21T03:34:19.000Z",
+      "text": "oh alternatively, which is what i do right now - let Jev tell you when to compact",
+      "media": [],
+      "quote": {
+        "id": "2101032677940117875",
+        "url": "https://x.com/kunchenguid/status/2101032677940117875",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-09-18T19:36:40.000Z",
+        "text": "almost every day i hear people ask \"when should i /compact my session\"\n\nthere's no easy answer because it depends on how likely your future action will need detailed context in the existing window\n\nbut we have Jev now! introducing compact-adviser - an agent plugin you can use in claude and pi today to help determine whether you're likely at a task boundary that's safe to compact\n\nhttps://github.com/kunchenguid/compact-adviser\n\ni built a private eval set from 40 real sessions and manually labeled all the safe vs unsafe checkpoints to evaluate this, and hillclimbed the Jev prompt till it performed quite well\n\ni also made it so that the classifier will\n\n- optimize for precision (not triggering a compaction prematurely) when context window is small\n\n- and gradually shift to optimize for recall (not missing an opportunity to compact) when context window fills up, because the cost of not compacting becomes higher, and at the end the agent will be forced to compact anyway\n\nit supports a \"hint\" mode (just give you a hint and it's up to you to run /compact) vs \"auto\" mode which runs compaction whenever Jev says it's safe to do so\n\nif you have Jev and want to put your compaction on autopilot, try this out and let me know how it goes! support for more harness is coming soon as well",
+        "media": [
+          {
+            "id": "2101029421163704320",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HShbIHcbcAAJvsR.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1078,
+            "height": 1078
+          }
+        ]
+      },
+      "reply_to_id": "2101872626968969713",
+      "thread_root_id": "2101872626968969713",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 22,
+        "quotes": 0,
+        "views": 3768
+      },
+      "fetched_at": "2026-09-21T06:27:48.416Z"
+    },
+    {
+      "id": "2101872626968969713",
+      "url": "https://x.com/kunchenguid/status/2101872626968969713",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-21T03:14:19.000Z",
+      "sort_at": "2026-09-21T03:14:19.000Z",
+      "text": "a quick tip that may surprise some folks\n\nan uncached prompt to fable at 500k context window will directly cost you over $5 for A SINGLE REQUEST. that's a cup of coffee or a cheese burger gone. even with subscription quota, this hits like a truck\n\nthe most common way to fall into that case is when you walk away from a long session and come back after a while when cache expired (claude is 1 hr, codex is 30 mins by default)\n\nin particular, when you come back to a long idle session, don't run \"/compact\" there thinking it'll reduce your cost, because the compaction request is still a real request and it will cost $5 by itself right there\n\nthe best thing to do is to /compact BEFORE you walk away\n\nthe next best thing is when you come back and see a large context window, just start a new session, and ask your agent to look for the last session's transcript if it needs context",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2101872626968969713",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 55,
+        "reposts": 38,
+        "likes": 696,
+        "quotes": 10,
+        "views": 37127
+      },
+      "fetched_at": "2026-09-21T06:27:48.416Z"
+    },
+    {
       "id": "2101534610710761923",
       "url": "https://x.com/kunchenguid/status/2101534610710761923",
       "creator": "kunchenguid",
