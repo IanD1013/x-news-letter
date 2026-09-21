@@ -2,6 +2,45 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2101955056858005694",
+      "url": "https://x.com/kunchenguid/status/2101955056858005694",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-21T08:41:52.000Z",
+      "sort_at": "2026-09-21T08:41:52.000Z",
+      "text": "people made poor Jev play video games nonstop for a few days straight\n\nwhen you do that you eventually black out on the spot\n\ni know because i heard it from a friend",
+      "media": [],
+      "quote": {
+        "id": "2101952261421474159",
+        "url": "https://x.com/typesafeai/status/2101952261421474159",
+        "author": {
+          "screen_name": "typesafeai",
+          "name": "TypeSafe AI",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2100293691227447296/bVoZ2u00_200x200.jpg"
+        },
+        "created_at": "2026-09-21T08:30:46.000Z",
+        "text": "We are seeing some issues on our API/console, we are investigating: https://status.typesafe.ai",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2101955056858005694",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 63,
+        "quotes": 0,
+        "views": 7282
+      },
+      "fetched_at": "2026-09-21T14:16:52.892Z"
+    },
+    {
       "id": "2101877657927655730",
       "url": "https://x.com/kunchenguid/status/2101877657927655730",
       "creator": "kunchenguid",
