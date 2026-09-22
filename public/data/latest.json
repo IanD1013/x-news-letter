@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-09-22T18:58:29.791Z",
+  "generated_at": "2026-09-22T22:16:06.563Z",
   "posts": [
+    {
+      "id": "2102507914481283402",
+      "url": "https://x.com/jayparkcanada/status/2102507914481283402",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "jayparkcanada",
+        "name": "Jay",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2102260532715646976/MlP4Qd9j_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-22T21:18:44.000Z",
+      "sort_at": "2026-09-22T22:16:05.696Z",
+      "text": "https://x.com/i/article/2102507454508470272",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2102507914481283402",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 7,
+        "quotes": 0,
+        "views": 448
+      },
+      "fetched_at": "2026-09-22T22:16:05.696Z"
+    },
     {
       "id": "2102469928695791809",
       "url": "https://x.com/kunchenguid/status/2102469928695791809",
@@ -3530,34 +3562,6 @@
         "likes": 1060,
         "quotes": 5,
         "views": 505589
-      },
-      "fetched_at": "2026-09-09T01:22:54.097Z"
-    },
-    {
-      "id": "2095247676380209247",
-      "url": "https://x.com/kunchenguid/status/2095247676380209247",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-02T20:29:08.000Z",
-      "sort_at": "2026-09-02T20:29:08.000Z",
-      "text": "i’ll believe we have AGI when i can no longer see bot replies\n\nbefore then, don’t tell me we have AGI when all these AI generated comments can do is to repeat the same point and ask the most useless question with zero original thought",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2095247676380209247",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 43,
-        "reposts": 9,
-        "likes": 174,
-        "quotes": 1,
-        "views": 11623
       },
       "fetched_at": "2026-09-09T01:22:54.097Z"
     }
