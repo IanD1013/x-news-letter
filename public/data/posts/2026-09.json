@@ -2,6 +2,153 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2102469928695791809",
+      "url": "https://x.com/kunchenguid/status/2102469928695791809",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-22T18:47:47.000Z",
+      "sort_at": "2026-09-22T18:47:47.000Z",
+      "text": "oh wait, no terra!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2102467926800621663",
+      "thread_root_id": "2102467926800621663",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 176
+      },
+      "fetched_at": "2026-09-22T18:58:29.137Z"
+    },
+    {
+      "id": "2102460975790137662",
+      "url": "https://x.com/OpenAI/status/2102460975790137662",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "OpenAI",
+        "name": "OpenAI",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-22T18:12:13.000Z",
+      "sort_at": "2026-09-22T18:47:46.000Z",
+      "text": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 promotional pricing.",
+      "media": [
+        {
+          "id": "2102460948430966784",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2102460948430966784/vid/avc1/1920x1080/2aqucgwb6tQ7xZ6U.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102460948430966784/img/AtB4MxYZuAKgOLey.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 8
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2102460975790137662",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 909,
+        "reposts": 1827,
+        "likes": 18277,
+        "quotes": 1261,
+        "views": 935680
+      },
+      "fetched_at": "2026-09-22T18:58:29.137Z"
+    },
+    {
+      "id": "2102467926800621663",
+      "url": "https://x.com/kunchenguid/status/2102467926800621663",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-22T18:39:50.000Z",
+      "sort_at": "2026-09-22T18:39:50.000Z",
+      "text": "ok i think xai, anthropic and openai have been in the same space for so long that their cycles started to synchronize\n\nit's quite something to see grok 4.7, opus 5.5, gpt 6 sol, terra, luna all coming out at the same time",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2102467926800621663",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 0,
+        "likes": 51,
+        "quotes": 4,
+        "views": 1428
+      },
+      "fetched_at": "2026-09-22T18:58:29.137Z"
+    },
+    {
+      "id": "2102448676107071610",
+      "url": "https://x.com/kunchenguid/status/2102448676107071610",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-22T17:23:20.000Z",
+      "sort_at": "2026-09-22T17:23:20.000Z",
+      "text": "time to try the new opus! hope this fixed the opus 5 problems",
+      "media": [],
+      "quote": {
+        "id": "2102435511222890900",
+        "url": "https://x.com/claudeai/status/2102435511222890900",
+        "author": {
+          "screen_name": "claudeai",
+          "name": "Claude",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg"
+        },
+        "created_at": "2026-09-22T16:31:01.000Z",
+        "text": "Introducing Claude Opus 5.5, the first model in our new Claude 5.5 family.\n\nIt performs at the level of Claude Fable 5.1 for most tasks, and costs 40% less to run than Opus 5.",
+        "media": [
+          {
+            "id": "2102432417352929280",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2102432417352929280/vid/avc1/1920x1080/yilx3O9YWu7w9vaX.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/media/HS1aPgYWMAAP9sw.jpg",
+            "width": 1280,
+            "height": 720,
+            "duration": 20
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2102448676107071610",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 16,
+        "reposts": 2,
+        "likes": 108,
+        "quotes": 0,
+        "views": 4535
+      },
+      "fetched_at": "2026-09-22T18:58:29.137Z"
+    },
+    {
       "id": "2102253738388083152",
       "url": "https://x.com/kunchenguid/status/2102253738388083152",
       "creator": "kunchenguid",
