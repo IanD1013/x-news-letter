@@ -2,6 +2,115 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2102902756403249515",
+      "url": "https://x.com/kunchenguid/status/2102902756403249515",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-23T23:27:41.000Z",
+      "sort_at": "2026-09-23T23:27:41.000Z",
+      "text": "the definition of \"slop\" is not constant\n\nsomething we may see as impressive today will be seen as slop a few months down the road\n\ni think the constant part is - if something can be one-shot by AI, it is slop\n\nbecause if you can one-shot it, millions of others can too. and when that happens, people associate it with being low-effort and worthless\n\nthis is one of the reasons that fully automated software factories are not going to work because by definition what they produce is always slop\n\nthe ones that do work are those that put humans at the center and are designed to help amplify human craftsmanship rather than trying to replace it",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2102902756403249515",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 4,
+        "likes": 24,
+        "quotes": 0,
+        "views": 724
+      },
+      "fetched_at": "2026-09-23T23:45:54.729Z"
+    },
+    {
+      "id": "2102893525495161140",
+      "url": "https://x.com/kunchenguid/status/2102893525495161140",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-23T22:51:01.000Z",
+      "sort_at": "2026-09-23T22:51:01.000Z",
+      "text": "claude has successfully broken in and out of the WoW addon sandbox",
+      "media": [],
+      "quote": {
+        "id": "2102818044372295953",
+        "url": "https://x.com/wachiperro_/status/2102818044372295953",
+        "author": {
+          "screen_name": "wachiperro_",
+          "name": "wachiperro - Realms of Victoria",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2089953508422258688/5ZV2tZks_200x200.jpg"
+        },
+        "created_at": "2026-09-23T17:51:04.000Z",
+        "text": "Chads.. you can now chat and vibe code with Claude while playing WoW Forever.\n\nOpen a chat window in game, send Claude a task, go back to leveling. It pings you when it's done. No alt-tab, no /reload. Link below. \n\n#worldofwarcraft  @Asmongold wow-claude",
+        "media": [
+          {
+            "id": "2102817000875503616",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2102817000875503616/vid/avc1/1152x720/NbAJi2ZWnlnflS5-.mp4?tag=14",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102817000875503616/img/pWCwULf_SMXIeCUr.jpg",
+            "width": 1920,
+            "height": 1200,
+            "duration": 100.8
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2102893525495161140",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 21,
+        "quotes": 0,
+        "views": 3464
+      },
+      "fetched_at": "2026-09-23T23:45:54.729Z"
+    },
+    {
+      "id": "2102868859833250132",
+      "url": "https://x.com/loveland_marcus/status/2102868859833250132",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "loveland_marcus",
+        "name": "Marcus Loveland",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1870517443518443521/t3jLrIE9_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-23T21:13:00.000Z",
+      "sort_at": "2026-09-23T22:51:00.000Z",
+      "text": "Using @kunchenguid firstmate with Opus 5.5 is an incredible experience.  Especially helpful for those with significant responsibility during the day unable to manage agents, firstmate keeps the work going without you having to babysit.",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2102868859833250132",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 10,
+        "quotes": 0,
+        "views": 957
+      },
+      "fetched_at": "2026-09-23T23:45:54.729Z"
+    },
+    {
       "id": "2102787931178176588",
       "url": "https://x.com/kunchenguid/status/2102787931178176588",
       "creator": "kunchenguid",
