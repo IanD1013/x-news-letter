@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-22T22:16:06.563Z",
+  "generated_at": "2026-09-23T00:43:22.911Z",
   "posts": [
+    {
+      "id": "2102537269450305945",
+      "url": "https://x.com/kunchenguid/status/2102537269450305945",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-22T23:15:22.000Z",
+      "sort_at": "2026-09-22T23:15:22.000Z",
+      "text": "ok i've used opus 5.5 enough now to have an informed opinion\n\nand i just want to say - hallelujah!!! opus 5.5 solved SO MANY problems. let me list them below in increasing importance\n\n1. verbosity is now used more appropriately\n\ni still see long responses, but only when it's justified. there's much less fluffy \"claude speak\". it's now mostly real talk\n\n2. the behavioral problems in opus 5 are fixed\n\ni haven't got a single \"honest mistake\" yet. unlike opus 5 which likes to jump into conclusion, make a wrong move, and then admit its problem and take more turns to fix it, 5.5 just does the right thing\n\nit also does it FAST - this made a visible difference when using as firstmate, and was one of the reasons i really liked grok. now i would say opus 5.5 is on par here\n\n3. MOST IMPORTANT - cost\n\ni can now finally ignore the 50% cap on fable, and fully utilize the subscription value with just opus for pretty much everything\n\ni still find myself wanting fable for some ambiguous, creative prototyping work where i kind of want to say \"surprise me\". i tried opus for one of those things earlier and it didn't surprise me.. \n\nbut for literally everything else, 5.5 is just nailing them without a miss so far. so for the first time in a long time, i finally stopped using opus 4.8 as my firstmate & all my second mates, and switched that to opus 5.5\n\noverall, very impressed - now i know anthropic did know opus 5 was bad despite not willing to acknowledge it. :) they knew exactly what to fix, and they got the job done",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2102537269450305945",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 32,
+        "reposts": 20,
+        "likes": 487,
+        "quotes": 0,
+        "views": 21761
+      },
+      "fetched_at": "2026-09-23T00:43:22.291Z"
+    },
     {
       "id": "2102507914481283402",
       "url": "https://x.com/jayparkcanada/status/2102507914481283402",
@@ -3523,45 +3551,6 @@
         "likes": 360,
         "quotes": 1,
         "views": 18844
-      },
-      "fetched_at": "2026-09-09T01:22:54.097Z"
-    },
-    {
-      "id": "2095256726849360002",
-      "url": "https://x.com/kunchenguid/status/2095256726849360002",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-02T21:05:06.000Z",
-      "sort_at": "2026-09-02T21:05:06.000Z",
-      "text": "omfg i had to triple check whether it’s real\n\nuber CEO did literally write those words in their layoff email pointing fingers at employee feedback as reason to layoff",
-      "media": [],
-      "quote": {
-        "id": "2095168146118463734",
-        "url": "https://x.com/CalvinGrunewald/status/2095168146118463734",
-        "author": {
-          "screen_name": "CalvinGrunewald",
-          "name": "Calvin Grunewald",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
-        },
-        "created_at": "2026-09-02T15:13:07.000Z",
-        "text": "Uber's layoff PR is wild. Yes, let's justify the layoff, in part, due to feedback from the employees themselves!!\n\n> In Pulse surveys and conversations with many of you, we’ve heard that too much work requires coordination across teams, debates take too long, and decision-making rights are unclear. I’m sure many of you have felt that you spend too much time “aligning” rather than building, shipping, or serving customers. To improve this, we have reduced roles primarily focused on coordination, and have clarified the remit of the coordination roles that remain.\n\nYes, point the finger back at the employees as one reason why you're firing their colleagues. Yeah, maybe I'm strawmanning here, but any org leader who runs and owns Pulse results knows that employee trust in how the feedback is managed is incredibly critical to getting honest results in the first place. And honest results are necessary to improve things.\n\nI actually do agree that more layers and more coordination hurts maximizing productivity in the agentic era. And yes, as much as they hurt, layoffs are a way of snapping quickly to that. But don't weaponize employee feedback so directly. Just own it!",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2095256726849360002",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 24,
-        "reposts": 20,
-        "likes": 1060,
-        "quotes": 5,
-        "views": 505589
       },
       "fetched_at": "2026-09-09T01:22:54.097Z"
     }
