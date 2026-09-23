@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-23T06:03:32.950Z",
+  "generated_at": "2026-09-23T17:10:34.689Z",
   "posts": [
+    {
+      "id": "2102787931178176588",
+      "url": "https://x.com/kunchenguid/status/2102787931178176588",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-23T15:51:25.000Z",
+      "sort_at": "2026-09-23T15:51:25.000Z",
+      "text": "just took gpt 6 luna for a spin, and… it’s a very weird model\n\n1. it’s insanely cheap, even with the point below considered\n\n2. it’s extremely slow, not in terms of time to first token or toks/sec, but how many turns it takes to get something done\n\n3. it eventually does get shit done.. \n\nthis created an interesting condition - using it interactively feels totally unusable because you have to wait for many turns before a useful outcome comes back\n\ni tried it with high reasoning as firstmate and it straight doesn’t work, because by the time it finishes the current turn there are already two more turns worth of events piled up for it to process. it cannot keep up and literally will never finish\n\nbut if used as a background workhorse, and you don’t care that much about e2e latency, then it’s _extremely_ cost-efficient and capable - nothing else even comes close to this ROI\n\nwhen the labs brought us “fast mode” which makes the models faster but costs more, i jokingly said i actually wanted a “slow mode”\n\nturns out luna is the slow mode",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2102787931178176588",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 17,
+        "reposts": 6,
+        "likes": 150,
+        "quotes": 2,
+        "views": 6567
+      },
+      "fetched_at": "2026-09-23T17:10:33.938Z"
+    },
     {
       "id": "2102615836242678094",
       "url": "https://x.com/kunchenguid/status/2102615836242678094",
@@ -3532,34 +3560,6 @@
         "likes": 698,
         "quotes": 1,
         "views": 241290
-      },
-      "fetched_at": "2026-09-09T01:22:54.097Z"
-    },
-    {
-      "id": "2095538297909268620",
-      "url": "https://x.com/kunchenguid/status/2095538297909268620",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-03T15:43:58.000Z",
-      "sort_at": "2026-09-03T15:43:58.000Z",
-      "text": "what on earth could take down gpt, claude and grok all AT THE SAME TIME????!!!!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2095538297909268620",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 2522,
-        "reposts": 694,
-        "likes": 18021,
-        "quotes": 541,
-        "views": 2456792
       },
       "fetched_at": "2026-09-09T01:22:54.097Z"
     }
