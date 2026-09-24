@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-24T09:50:17.038Z",
+  "generated_at": "2026-09-24T19:15:33.187Z",
   "posts": [
+    {
+      "id": "2103187897809842352",
+      "url": "https://x.com/kunchenguid/status/2103187897809842352",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-24T18:20:44.000Z",
+      "sort_at": "2026-09-24T18:20:44.000Z",
+      "text": "this is the first week ever since fable release that my claude weekly overall quota is running out faster than fable quota \n\nopus 5.5 seriously changed the game",
+      "media": [
+        {
+          "id": "2103187332287651840",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTAFvE0bYAAEm_j.png?name=orig",
+          "thumbnail_url": null,
+          "width": 445,
+          "height": 187
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103187897809842352",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 18,
+        "reposts": 1,
+        "likes": 101,
+        "quotes": 0,
+        "views": 3154
+      },
+      "fetched_at": "2026-09-24T19:15:32.422Z"
+    },
+    {
+      "id": "2103164030391296208",
+      "url": "https://x.com/kunchenguid/status/2103164030391296208",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-24T16:45:54.000Z",
+      "sort_at": "2026-09-24T16:45:54.000Z",
+      "text": "fable 5 was good. opus 5 and sonnet 5 fumbled\n\nastra 6 was good. sol 6 and luna 6 kind of fumbled\n\nnow opus 5.5 is good. i'm guessing sol and luna 6.5 will improve too\n\nit seems openai is a few months behind?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103164030391296208",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 39,
+        "reposts": 0,
+        "likes": 198,
+        "quotes": 2,
+        "views": 10404
+      },
+      "fetched_at": "2026-09-24T19:15:32.422Z"
+    },
     {
       "id": "2103033844370903466",
       "url": "https://x.com/kunchenguid/status/2103033844370903466",
@@ -3518,73 +3583,6 @@
         "likes": 76,
         "quotes": 0,
         "views": 8173
-      },
-      "fetched_at": "2026-09-09T01:22:54.097Z"
-    },
-    {
-      "id": "2095968666018009240",
-      "url": "https://x.com/kunchenguid/status/2095968666018009240",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-04T20:14:05.000Z",
-      "sort_at": "2026-09-04T20:14:05.000Z",
-      "text": "i was on a date with muse spark 1.3 at dinner when astra showed up at the window\n\ni killed muse spark on the spot and invited astra in\n\nthe dinner continued",
-      "media": [],
-      "quote": {
-        "id": "2095897820930908670",
-        "url": "https://x.com/kunchenguid/status/2095897820930908670",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-09-04T15:32:35.000Z",
-        "text": "one thing the recent model releases have consistently told us is that public benchmarks are completely useless now\n\nthey reflect how well the models are trained to solve benchmark-like problems, but are far from how we actually work, because just like RLVR, benchmarks are inherently evaluating machines with machines, without human in the loop\n\nasking the model to build a cool 3d game is also a silly way of understanding model performance unless you are a game dev who thinks these vibe coded demos have any economic value\n\nLLMs are “spiky”. they can be really good at something very difficult, yet suck at the most basic skills such as talking normally. measuring the spikes one at a time doesn’t tell you how much their weaknesses would hold them back\n\nmy way of really evaluating a model has become increasingly like a blind date - we hang out, we do a few things together. if it clicked, we get a second date\n\ndon’t tell me your IQ, your SAT or your GPA - they mean nothing on a date. it’s very vibe based - vibe is what i actually care about when choosing a partner\n\ni have private eval cases too, but they have been better at ruling out bad models than helping identify which ones indeed feel good\n\nin practice, i usually use the new model directly as my firstmate and just start doing work. by the end of the day, if neither me nor the agent has gone insane, it’s a good model. and so far, very few models can pass this bar\n\nif you aren’t sure if a model is good, consider a blind date. yeah you’ll have to pay for the date, but occasionally you’ll have a good time and get a new lover",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2095968666018009240",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 14,
-        "reposts": 0,
-        "likes": 83,
-        "quotes": 1,
-        "views": 9744
-      },
-      "fetched_at": "2026-09-09T01:22:54.097Z"
-    },
-    {
-      "id": "2095897820930908670",
-      "url": "https://x.com/kunchenguid/status/2095897820930908670",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-04T15:32:35.000Z",
-      "sort_at": "2026-09-04T15:32:35.000Z",
-      "text": "one thing the recent model releases have consistently told us is that public benchmarks are completely useless now\n\nthey reflect how well the models are trained to solve benchmark-like problems, but are far from how we actually work, because just like RLVR, benchmarks are inherently evaluating machines with machines, without human in the loop\n\nasking the model to build a cool 3d game is also a silly way of understanding model performance unless you are a game dev who thinks these vibe coded demos have any economic value\n\nLLMs are “spiky”. they can be really good at something very difficult, yet suck at the most basic skills such as talking normally. measuring the spikes one at a time doesn’t tell you how much their weaknesses would hold them back\n\nmy way of really evaluating a model has become increasingly like a blind date - we hang out, we do a few things together. if it clicked, we get a second date\n\ndon’t tell me your IQ, your SAT or your GPA - they mean nothing on a date. it’s very vibe based - vibe is what i actually care about when choosing a partner\n\ni have private eval cases too, but they have been better at ruling out bad models than helping identify which ones indeed feel good\n\nin practice, i usually use the new model directly as my firstmate and just start doing work. by the end of the day, if neither me nor the agent has gone insane, it’s a good model. and so far, very few models can pass this bar\n\nif you aren’t sure if a model is good, consider a blind date. yeah you’ll have to pay for the date, but occasionally you’ll have a good time and get a new lover",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2095897820930908670",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 42,
-        "reposts": 18,
-        "likes": 245,
-        "quotes": 6,
-        "views": 22097
       },
       "fetched_at": "2026-09-09T01:22:54.097Z"
     }
