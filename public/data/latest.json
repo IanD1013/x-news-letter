@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-09-24T19:15:33.187Z",
+  "generated_at": "2026-09-24T22:31:38.528Z",
   "posts": [
+    {
+      "id": "2103223609686704376",
+      "url": "https://x.com/deimantasnork/status/2103223609686704376",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "deimantasnork",
+        "name": "Deimantas Norkeliunas",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2097583992006381568/KkASc__l_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-24T20:42:39.000Z",
+      "sort_at": "2026-09-24T22:31:37.926Z",
+      "text": "Hey captain @kunchenguid, \n\nlook what I built for Firstmate on @fabienpenso’s Herdr-gpui edition 👀\n\nCaptain’s Deck: live Kanban - Charted Next → Underway → Captain’s Call → Awaiting Merge → Landed.\n\nAnswer Captain’s Calls from the board.\nhttps://github.com/Enk1do/captains-deck",
+      "media": [
+        {
+          "id": "2103222811065987072",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTAmANkWMAANqp8.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 3248,
+          "height": 2122
+        },
+        {
+          "id": "2103222906478051328",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTAmFxAWwAAly04.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 3248,
+          "height": 2122
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103223609686704376",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 2,
+        "likes": 14,
+        "quotes": 0,
+        "views": 1189
+      },
+      "fetched_at": "2026-09-24T22:31:37.926Z"
+    },
     {
       "id": "2103187897809842352",
       "url": "https://x.com/kunchenguid/status/2103187897809842352",
@@ -3544,45 +3593,6 @@
         "likes": 3,
         "quotes": 0,
         "views": 1624
-      },
-      "fetched_at": "2026-09-09T01:22:54.097Z"
-    },
-    {
-      "id": "2095978315287056464",
-      "url": "https://x.com/kunchenguid/status/2095978315287056464",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-04T20:52:26.000Z",
-      "sort_at": "2026-09-04T20:52:26.000Z",
-      "text": "a few minutes after astra started rolling out, fable limits got a reset\n\nshould have seen that coming and used fable like there's no tomorrow!",
-      "media": [],
-      "quote": {
-        "id": "2095967323412930677",
-        "url": "https://x.com/lydiahallie/status/2095967323412930677",
-        "author": {
-          "screen_name": "lydiahallie",
-          "name": "Lydia Hallie ✨",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1994238936345137154/exEBW2UI_200x200.jpg"
-        },
-        "created_at": "2026-09-04T20:08:45.000Z",
-        "text": "We've just reset weekly limits for everyone on a Claude Max plan.\n\nWith Fable 5.1 out and a long weekend ahead for many of you, we wanted to keep you building. I'd love to see what you build!",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2095978315287056464",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 12,
-        "reposts": 1,
-        "likes": 76,
-        "quotes": 0,
-        "views": 8173
       },
       "fetched_at": "2026-09-09T01:22:54.097Z"
     }

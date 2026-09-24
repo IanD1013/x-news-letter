@@ -2,6 +2,55 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2103223609686704376",
+      "url": "https://x.com/deimantasnork/status/2103223609686704376",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "deimantasnork",
+        "name": "Deimantas Norkeliunas",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2097583992006381568/KkASc__l_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-24T20:42:39.000Z",
+      "sort_at": "2026-09-24T22:31:37.926Z",
+      "text": "Hey captain @kunchenguid, \n\nlook what I built for Firstmate on @fabienpenso’s Herdr-gpui edition 👀\n\nCaptain’s Deck: live Kanban - Charted Next → Underway → Captain’s Call → Awaiting Merge → Landed.\n\nAnswer Captain’s Calls from the board.\nhttps://github.com/Enk1do/captains-deck",
+      "media": [
+        {
+          "id": "2103222811065987072",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTAmANkWMAANqp8.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 3248,
+          "height": 2122
+        },
+        {
+          "id": "2103222906478051328",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTAmFxAWwAAly04.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 3248,
+          "height": 2122
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103223609686704376",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 2,
+        "likes": 14,
+        "quotes": 0,
+        "views": 1189
+      },
+      "fetched_at": "2026-09-24T22:31:37.926Z"
+    },
+    {
       "id": "2103187897809842352",
       "url": "https://x.com/kunchenguid/status/2103187897809842352",
       "creator": "kunchenguid",
