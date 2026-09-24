@@ -33,6 +33,7 @@ GitHub Pages static site (Vite + React + Tailwind + PWA)
 3. Repository Settings → Secrets and variables → Actions → New repository secret:
    `NTFY_TOPIC` = a long random string (for example `xreader-7f3a9c2e1b`).
    The topic name is the only "password": anyone who knows it can receive and send notifications.
+   To use a self-hosted ntfy server, also add a repository **variable** `NTFY_SERVER` with its URL. Without it, ntfy.sh is used.
 4. Install the ntfy app (iOS / Android) and subscribe to that topic.
 5. Actions → pipeline → Run workflow.
    Tick `skip_notify` on the first run so the whole backfill is not announced as new posts.

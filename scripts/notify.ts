@@ -21,7 +21,8 @@ async function main(): Promise<void> {
   }
   const siteUrl = process.env.SITE_URL;
   if (!siteUrl) throw new Error("SITE_URL is required");
-  const server = (process.env.NTFY_SERVER ?? "https://ntfy.sh").replace(/\/+$/, "");
+  // Actions passes an undefined repository variable as "", so treat empty as unset.
+  const server = (process.env.NTFY_SERVER || "https://ntfy.sh").replace(/\/+$/, "");
 
   const ids = new Set((process.env.NEW_IDS ?? "").split(",").filter(Boolean));
   if (ids.size === 0) {
