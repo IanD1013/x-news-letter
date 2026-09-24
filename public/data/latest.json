@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-23T23:45:55.384Z",
+  "generated_at": "2026-09-24T09:50:17.038Z",
   "posts": [
+    {
+      "id": "2103033844370903466",
+      "url": "https://x.com/kunchenguid/status/2103033844370903466",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-24T08:08:35.000Z",
+      "sort_at": "2026-09-24T08:08:35.000Z",
+      "text": "one thing interesting about the AI space is that it’s not very easy to create a network effect\n\nwith social apps, every user makes the app itself more valuable. you can make a slightly better whatsapp - you still can’t get users to move because all their contacts are already there\n\nwith AI being used mostly in a private setting, there isn’t as much opportunity for network effect to kick in. users can easily switch if they found something better or cheaper\n\nas a result, being early and building a big user base doesn’t help secure a moat. a better product can easily take all the users away\n\nwhoever figures out a way to establish strong network effect on AI products will win big",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2103027625107288534",
+      "thread_root_id": "2103027625107288534",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 20,
+        "quotes": 0,
+        "views": 786
+      },
+      "fetched_at": "2026-09-24T09:50:16.330Z"
+    },
+    {
+      "id": "2103027625107288534",
+      "url": "https://x.com/kunchenguid/status/2103027625107288534",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-24T07:43:52.000Z",
+      "sort_at": "2026-09-24T07:43:52.000Z",
+      "text": "i used to think speed to market is very important\n\nthe new product and model releases over the last two years in the AI space have completely changed my mind",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103027625107288534",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 20,
+        "reposts": 3,
+        "likes": 86,
+        "quotes": 1,
+        "views": 4958
+      },
+      "fetched_at": "2026-09-24T09:50:16.330Z"
+    },
     {
       "id": "2102902756403249515",
       "url": "https://x.com/kunchenguid/status/2102902756403249515",
@@ -3529,62 +3585,6 @@
         "likes": 245,
         "quotes": 6,
         "views": 22097
-      },
-      "fetched_at": "2026-09-09T01:22:54.097Z"
-    },
-    {
-      "id": "2095684280026648757",
-      "url": "https://x.com/kunchenguid/status/2095684280026648757",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-04T01:24:02.000Z",
-      "sort_at": "2026-09-04T01:24:02.000Z",
-      "text": "after heavily testing out gpt-6-astra for a grand total of zero hours, my early first day read is -\n\nwhere is it??!!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2095684280026648757",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 44,
-        "reposts": 10,
-        "likes": 397,
-        "quotes": 3,
-        "views": 22408
-      },
-      "fetched_at": "2026-09-09T01:22:54.097Z"
-    },
-    {
-      "id": "2095679227001704769",
-      "url": "https://x.com/kunchenguid/status/2095679227001704769",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-04T01:03:58.000Z",
-      "sort_at": "2026-09-04T01:03:58.000Z",
-      "text": "my feedback is that you should allow subscription oauth in 3p harnesses, like almost every other LLM provider does already \n\nclaude code is great - don’t get me wrong! but it’s strongly coupled with the claude model\n\nthere are many people like me who use multiple LLMs and prefer to work in a vendor-neutral harness where we can keep the same workflow stable across a wide range of models\n\ncurrently being tied to the CC harness is actually a negative point when it comes to deciding whether to keep the anthropic subscription. not because CC isn’t good, but because it’s inherently vendor-biased and fights against a beautiful multi-model reality",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2095679227001704769",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 15,
-        "reposts": 12,
-        "likes": 168,
-        "quotes": 0,
-        "views": 7214
       },
       "fetched_at": "2026-09-09T01:22:54.097Z"
     }
