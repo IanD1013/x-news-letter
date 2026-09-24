@@ -4,7 +4,7 @@ const base = import.meta.env.BASE_URL;
 
 async function getJson<T>(path: string): Promise<T> {
   const res = await fetch(`${base}data/${path}?v=${encodeURIComponent(__BUILD_ID__)}`);
-  if (!res.ok) throw new Error(`加载 ${path} 失败（HTTP ${res.status}）`);
+  if (!res.ok) throw new Error(`Could not load ${path} (HTTP ${res.status})`);
   return (await res.json()) as T;
 }
 

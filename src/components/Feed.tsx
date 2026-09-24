@@ -12,6 +12,8 @@ type Props = {
   hasMore: boolean;
   loadingMore: boolean;
   loadError: string | null;
+  /** Shown when everything is loaded and nothing is left to display. */
+  emptyMessage: string;
   onLoadMore: () => void;
 };
 
@@ -22,12 +24,14 @@ export function Feed({
   hasMore,
   loadingMore,
   loadError,
+  emptyMessage,
   onLoadMore,
 }: Props) {
   const sentinel = useRef<HTMLDivElement>(null);
 
-  // Re-observe after every change in length: when content is inserted above the sentinel
-  // (deep link into an old month) it never leaves the viewport, so it must fire again by itself.
+  // Re-observe after every load and every change in length: when a filter hides everything that
+  // was loaded, or content is inserted above the sentinel (deep link into an old month), the
+  // sentinel never leaves the viewport, so it must fire again by itself.
   useEffect(() => {
     const el = sentinel.current;
     if (!el || !hasMore) return;
@@ -39,7 +43,7 @@ export function Feed({
     );
     observer.observe(el);
     return () => observer.disconnect();
-  }, [hasMore, onLoadMore, items.length]);
+  }, [hasMore, loadingMore, onLoadMore, items.length]);
 
   // Index of the first item that was already there last time. Everything above it is new.
   const firstOld = lastSeenAt ? items.findIndex((i) => i.sort_at <= lastSeenAt) : -1;
@@ -64,16 +68,16 @@ export function Feed({
             onClick={onLoadMore}
             className="text-sky-600 hover:underline dark:text-sky-400"
           >
-            {loadError}，点击重试
+            {loadError}. Tap to retry
           </button>
         ) : loadingMore ? (
-          "加载中…"
+          "Loading…"
         ) : hasMore ? (
           ""
         ) : items.length > 0 ? (
-          "已到最早的帖子"
+          "You have reached the oldest post"
         ) : (
-          "没有匹配的帖子"
+          <p className="mx-auto max-w-sm text-balance leading-relaxed">{emptyMessage}</p>
         )}
       </div>
     </div>
@@ -84,7 +88,7 @@ function NewDivider({ count }: { count: number }) {
   return (
     <div className="flex items-center gap-3 py-1 text-xs font-medium text-sky-600 dark:text-sky-400">
       <span className="h-px flex-1 bg-sky-200 dark:bg-sky-900" />
-      <span>↑ 上次访问后的 {count} 条新内容</span>
+      <span>↑ {count} new since your last visit</span>
       <span className="h-px flex-1 bg-sky-200 dark:bg-sky-900" />
     </div>
   );

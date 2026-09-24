@@ -42,16 +42,16 @@ async function main(): Promise<void> {
   const title =
     creators.length === 1
       ? n === 1
-        ? `@${creators[0]} 发布了新帖`
-        : `@${creators[0]} 发布了 ${n} 条新帖`
-      : `${n} 条新帖 · ${creators.map((c) => `@${c}`).join(", ")}`;
+        ? `@${creators[0]} posted`
+        : `@${creators[0]} posted ${n} times`
+      : `${n} new posts · ${creators.map((c) => `@${c}`).join(", ")}`;
 
   const prefix = !newest.reposted_by
     ? ""
     : newest.reposted_by.screen_name === newest.author.screen_name
-      ? "🔁 转发了自己的帖子\n"
-      : `🔁 转发自 @${newest.author.screen_name}\n`;
-  const body = newest.text.trim() ? snippet(newest.text, SNIPPET_LENGTH) : "(媒体帖)";
+      ? "🔁 Reposted their own post\n"
+      : `🔁 Reposted @${newest.author.screen_name}\n`;
+  const body = newest.text.trim() ? snippet(newest.text, SNIPPET_LENGTH) : "(media post)";
   const click = `${ensureSlash(siteUrl)}#p-${newest.id}`;
 
   const res = await fetch(server, {

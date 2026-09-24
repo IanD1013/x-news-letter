@@ -1,4 +1,11 @@
-import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
+import {
+  existsSync,
+  mkdirSync,
+  readdirSync,
+  readFileSync,
+  unlinkSync,
+  writeFileSync,
+} from "node:fs";
 import { join } from "node:path";
 import type { IndexFile, LatestFile, MonthFile, Post } from "../src/shared/types.ts";
 import { SCHEMA_VERSION } from "../src/shared/types.ts";
@@ -7,6 +14,7 @@ import { comparePosts, monthOf } from "../src/shared/posts.ts";
 export const DATA_DIR = "public/data";
 export const POSTS_DIR = join(DATA_DIR, "posts");
 const LATEST_COUNT = 100;
+const MONTH_FILE = /^\d{4}-\d{2}\.json$/;
 
 function toJson(value: unknown): string {
   return JSON.stringify(value, null, 2) + "\n";
@@ -16,11 +24,12 @@ export function readJson<T>(path: string): T {
   return JSON.parse(readFileSync(path, "utf8")) as T;
 }
 
+function monthFiles(): string[] {
+  return existsSync(POSTS_DIR) ? readdirSync(POSTS_DIR).filter((f) => MONTH_FILE.test(f)) : [];
+}
+
 export function readAllPosts(): Post[] {
-  if (!existsSync(POSTS_DIR)) return [];
-  return readdirSync(POSTS_DIR)
-    .filter((f) => /^\d{4}-\d{2}\.json$/.test(f))
-    .flatMap((f) => readJson<MonthFile>(join(POSTS_DIR, f)).posts);
+  return monthFiles().flatMap((f) => readJson<MonthFile>(join(POSTS_DIR, f)).posts);
 }
 
 function sameHandle(a: string, b: string): boolean {
@@ -42,6 +51,10 @@ export function writeStore(posts: Post[], creatorNames: string[]): void {
   for (const [month, list] of byMonth) {
     const file: MonthFile = { month, posts: list };
     writeFileSync(join(POSTS_DIR, `${month}.json`), toJson(file));
+  }
+  // A month can end up empty after an account was unfollowed.
+  for (const f of monthFiles()) {
+    if (!byMonth.has(f.slice(0, -".json".length))) unlinkSync(join(POSTS_DIR, f));
   }
 
   const creators = creatorNames.map((name) => {

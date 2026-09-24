@@ -1,5 +1,5 @@
 import { appendFileSync, readFileSync } from "node:fs";
-import type { Post } from "../src/shared/types.ts";
+import type { CreatorConfig, Post } from "../src/shared/types.ts";
 import { comparePosts, postKey } from "../src/shared/posts.ts";
 import { fxembed } from "./source/fxembed.ts";
 import type { PostSource } from "./source/types.ts";
@@ -8,13 +8,10 @@ import { readAllPosts, writeStore } from "./store.ts";
 const INCREMENTAL_PAGES = 10;
 const OUTPUT_ID_LIMIT = 50;
 
-type CreatorConfig = { screen_name: string };
-
+/** Handles from creators.json. An empty list is valid: every account was unfollowed. */
 function loadCreators(): string[] {
   const raw = JSON.parse(readFileSync("creators.json", "utf8")) as CreatorConfig[];
-  const names = raw.map((c) => c.screen_name.trim()).filter(Boolean);
-  if (names.length === 0) throw new Error("creators.json has no screen_name entries");
-  return names;
+  return raw.map((c) => c.screen_name.trim()).filter(Boolean);
 }
 
 function intEnv(name: string, fallback: number): number {
@@ -81,13 +78,19 @@ function linkThreads(existing: Post[], fresh: Post[]): void {
   }
 }
 
-function writeOutputs(fresh: Post[]): void {
+function sameHandle(a: string, b: string): boolean {
+  return a.toLowerCase() === b.toLowerCase();
+}
+
+function writeOutputs(fresh: Post[], dropped: string[]): void {
   const ids = [...fresh]
     .sort(comparePosts)
     .slice(0, OUTPUT_ID_LIMIT)
     .map((p) => p.id)
     .join(",");
-  const lines = `new_count=${fresh.length}\nnew_ids=${ids}\n`;
+  const parts = [`${fresh.length} new posts`];
+  if (dropped.length > 0) parts.push(`unfollowed ${dropped.map((c) => `@${c}`).join(", ")}`);
+  const lines = `new_count=${fresh.length}\nnew_ids=${ids}\nsummary=${parts.join(", ")}\n`;
   process.stdout.write(lines);
   const out = process.env.GITHUB_OUTPUT;
   if (out) appendFileSync(out, lines);
@@ -98,26 +101,36 @@ async function main(): Promise<void> {
   const backfillPages = intEnv("BACKFILL_PAGES", 25);
   const source = fxembed;
 
-  const existing = readAllPosts();
+  // Posts of accounts that are no longer in creators.json leave the store.
+  const stored = readAllPosts();
+  const existing = stored.filter((p) => creators.some((c) => sameHandle(c, p.creator)));
+  const dropped = [
+    ...new Set(
+      stored.filter((p) => !creators.some((c) => sameHandle(c, p.creator))).map((p) => p.creator),
+    ),
+  ];
   const known = new Set(existing.map(postKey));
-  console.log(`store: ${existing.length} posts, source: ${source.name}`);
+  console.log(
+    `store: ${stored.length} posts, following ${creators.length}, source: ${source.name}`,
+  );
+  for (const c of dropped) console.log(`@${c}: unfollowed, dropping their posts`);
 
   const fresh: Post[] = [];
   for (const creator of creators) {
-    const hasData = existing.some((p) => p.creator === creator);
+    const hasData = existing.some((p) => sameHandle(p.creator, creator));
     const maxPages = hasData ? INCREMENTAL_PAGES : backfillPages;
     if (!hasData) console.log(`@${creator}: first run, backfilling up to ${maxPages} pages`);
     fresh.push(...(await fetchNew(source, creator, known, maxPages)));
   }
 
-  if (fresh.length > 0) {
+  if (fresh.length > 0 || dropped.length > 0) {
     linkThreads(existing, fresh);
     writeStore([...existing, ...fresh], creators);
-    console.log(`wrote ${fresh.length} new posts`);
+    console.log(`wrote store: ${fresh.length} new posts, ${dropped.length} accounts dropped`);
   } else {
-    console.log("no new posts");
+    console.log("no changes");
   }
-  writeOutputs(fresh);
+  writeOutputs(fresh, dropped);
 }
 
 await main();

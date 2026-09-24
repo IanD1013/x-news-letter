@@ -1,7 +1,6 @@
 import type { QuotePost } from "../shared/types.ts";
 import { absoluteTime, relativeTime } from "../lib/time.ts";
-import { quoteTranslationKey } from "../translate/queue.ts";
-import { BilingualText } from "./BilingualText.tsx";
+import { PostText } from "./PostText.tsx";
 import { MediaGrid } from "./MediaGrid.tsx";
 
 export function QuoteCard({ quote }: { quote: QuotePost }) {
@@ -27,12 +26,7 @@ export function QuoteCard({ quote }: { quote: QuotePost }) {
         </a>
       </div>
       <div className="mt-1.5">
-        <BilingualText
-          text={quote.text}
-          lang="en"
-          translationKey={quoteTranslationKey(quote.id)}
-          compact
-        />
+        <PostText text={quote.text} lang="en" compact />
       </div>
       <MediaGrid media={quote.media} compact />
     </div>

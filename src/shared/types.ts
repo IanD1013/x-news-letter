@@ -1,5 +1,8 @@
 export const SCHEMA_VERSION = 1;
 
+/** One entry of creators.json: an X account whose timeline the pipeline follows. */
+export type CreatorConfig = { screen_name: string };
+
 export type Author = {
   screen_name: string;
   name: string;
@@ -31,7 +34,7 @@ export type QuotePost = {
 export type Post = {
   id: string;
   url: string;
-  /** Followed account (from creators.json) whose timeline produced this post. */
+  /** Followed account (screen_name from creators.json) whose timeline produced this post. */
   creator: string;
   /** Original author. Differs from creator on reposts. */
   author: Author;
@@ -40,7 +43,7 @@ export type Post = {
   created_at: string;
   /** created_at for originals, first-seen time for reposts. Feed order key. */
   sort_at: string;
-  /** Full English text, long posts included. */
+  /** Full text, long posts included. */
   text: string;
   media: Media[];
   quote: QuotePost | null;

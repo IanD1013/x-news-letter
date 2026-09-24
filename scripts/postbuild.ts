@@ -27,7 +27,7 @@ function mediaHtml(post: Post | QuotePost): string {
     .map((m) =>
       m.type === "photo"
         ? `<p><img src="${m.url}" width="${m.width}" height="${m.height}" alt=""/></p>`
-        : `<p><a href="${post.url}">▶ ${m.type === "gif" ? "GIF" : "视频"}</a></p>`,
+        : `<p><a href="${post.url}">▶ ${m.type === "gif" ? "GIF" : "Video"}</a></p>`,
     )
     .join("");
 }
@@ -46,7 +46,7 @@ function itemHtml(post: Post): string {
         `</blockquote>`,
     );
   }
-  parts.push(`<p><a href="${post.url}">在 X 上查看</a></p>`);
+  parts.push(`<p><a href="${post.url}">Open on X</a></p>`);
   return parts.join("");
 }
 
@@ -54,12 +54,12 @@ function repostLabel(post: Post): string {
   const by = post.reposted_by;
   if (!by) return "";
   return by.screen_name === post.author.screen_name
-    ? `🔁 @${by.screen_name} 转发了自己的帖子`
-    : `🔁 @${by.screen_name} 转发自 @${post.author.screen_name}`;
+    ? `🔁 @${by.screen_name} reposted their own post`
+    : `🔁 @${by.screen_name} reposted @${post.author.screen_name}`;
 }
 
 function itemTitle(post: Post): string {
-  const firstLine = post.text.split("\n").find((l) => l.trim()) ?? "(媒体帖)";
+  const firstLine = post.text.split("\n").find((l) => l.trim()) ?? "(media post)";
   const short = firstLine.length > 80 ? `${firstLine.slice(0, 79)}…` : firstLine;
   return post.reposted_by ? `🔁 ${short}` : short;
 }
@@ -79,7 +79,7 @@ function main(): void {
   const handles = (index?.creators ?? []).map((c) => `@${c.screen_name}`).join(", ");
 
   const feed = new Feed({
-    title: "双语 X 阅读器",
+    title: "X Reader",
     description: handles ? `Posts by ${handles}` : "Posts from X",
     id: site,
     link: site,

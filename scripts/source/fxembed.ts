@@ -50,7 +50,7 @@ type FxPage = {
 };
 
 const API = "https://api.fxtwitter.com/2/profile";
-const USER_AGENT = "x-news-letter/1.0 (personal bilingual reader; GitHub Actions)";
+const USER_AGENT = "x-news-letter/1.0 (personal reader; GitHub Actions)";
 
 export const fxembed: PostSource = {
   name: "fxembed",

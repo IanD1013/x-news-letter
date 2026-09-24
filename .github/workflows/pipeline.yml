@@ -46,15 +46,19 @@ jobs:
         run: node scripts/pipeline.ts
         env:
           BACKFILL_PAGES: ${{ inputs.backfill_pages || '25' }}
+      # creators.json may have been edited from the site while this run was fetching.
+      - name: Pick up commits pushed meanwhile
+        run: git pull --rebase --autostash
       - name: Commit data
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "data: ${{ steps.pipeline.outputs.new_count }} new posts"
+          commit_message: "data: ${{ steps.pipeline.outputs.summary }}"
           file_pattern: public/data/**
       - name: Build site
         run: npm run build
         env:
           VITE_BASE: ${{ steps.pages.outputs.base_path }}/
+          VITE_REPO: ${{ github.repository }}
           SITE_URL: ${{ steps.pages.outputs.base_url }}
           BUILD_ID: ${{ github.run_id }}
       - uses: actions/upload-pages-artifact@v5

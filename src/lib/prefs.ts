@@ -1,24 +1,15 @@
-export type LangMode = "both" | "zh" | "en";
 export type Theme = "system" | "light" | "dark";
 
 export type Prefs = {
-  langMode: LangMode;
   theme: Theme;
-  geminiApiKey: string;
-  geminiModel: string;
+  /** Fine-grained GitHub token with Contents read/write on this repository. Empty when not set. */
+  githubToken: string;
 };
-
-export const DEFAULT_GEMINI_MODEL = "gemini-3.8-flash";
 
 const PREFS_KEY = "xnl.prefs";
 const LAST_SEEN_KEY = "xnl.lastSeenAt";
 
-const DEFAULTS: Prefs = {
-  langMode: "both",
-  theme: "system",
-  geminiApiKey: "",
-  geminiModel: DEFAULT_GEMINI_MODEL,
-};
+const DEFAULTS: Prefs = { theme: "system", githubToken: "" };
 
 function read(key: string): string | null {
   try {
@@ -36,7 +27,6 @@ function write(key: string, value: string): void {
   }
 }
 
-const LANG_MODES: readonly LangMode[] = ["both", "zh", "en"];
 const THEMES: readonly Theme[] = ["system", "light", "dark"];
 
 export function loadPrefs(): Prefs {
@@ -45,13 +35,8 @@ export function loadPrefs(): Prefs {
   try {
     const p = JSON.parse(raw) as Partial<Record<keyof Prefs, unknown>>;
     return {
-      langMode: LANG_MODES.find((m) => m === p.langMode) ?? DEFAULTS.langMode,
       theme: THEMES.find((t) => t === p.theme) ?? DEFAULTS.theme,
-      geminiApiKey: typeof p.geminiApiKey === "string" ? p.geminiApiKey.trim() : "",
-      geminiModel:
-        typeof p.geminiModel === "string" && p.geminiModel.trim()
-          ? p.geminiModel.trim()
-          : DEFAULT_GEMINI_MODEL,
+      githubToken: typeof p.githubToken === "string" ? p.githubToken.trim() : "",
     };
   } catch {
     return DEFAULTS;

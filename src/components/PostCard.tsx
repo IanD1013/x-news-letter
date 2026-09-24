@@ -1,21 +1,11 @@
 import type { Post } from "../shared/types.ts";
-import { usePrefs } from "../lib/prefsContext.ts";
-import { useInView } from "../lib/useInView.ts";
-import { translationItemsFor, useAutoTranslate } from "../translate/useTranslation.ts";
 import { CARD_CLASS, HIGHLIGHT_CLASS, PostBody, PostHeader, RepostLine } from "./PostParts.tsx";
 
 type Props = { post: Post; highlighted: boolean };
 
 export function PostCard({ post, highlighted }: Props) {
-  const { prefs } = usePrefs();
-  const { ref, inView } = useInView<HTMLElement>();
-  useAutoTranslate(
-    inView && prefs.langMode !== "en" && prefs.geminiApiKey !== "",
-    translationItemsFor([post]),
-  );
   return (
     <article
-      ref={ref}
       id={`p-${post.id}`}
       className={highlighted ? `${CARD_CLASS} ${HIGHLIGHT_CLASS}` : CARD_CLASS}
     >
@@ -24,7 +14,7 @@ export function PostCard({ post, highlighted }: Props) {
         author={post.author}
         time={post.created_at}
         url={post.url}
-        badges={post.is_note_tweet ? ["长文"] : []}
+        badges={post.is_note_tweet ? ["Long post"] : []}
       />
       <div className="mt-3">
         <PostBody post={post} />

@@ -39,7 +39,7 @@ function MediaItem({ media: m, single, wide, compact }: ItemProps) {
         target="_blank"
         rel="noopener noreferrer"
         className={`block ${cell}`}
-        aria-label="查看原图"
+        aria-label="Open full-size image"
       >
         <img
           src={m.url}

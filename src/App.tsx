@@ -3,7 +3,9 @@ import { Feed } from "./components/Feed.tsx";
 import { FilterBar } from "./components/FilterBar.tsx";
 import { Header } from "./components/Header.tsx";
 import { SettingsDialog } from "./components/SettingsDialog.tsx";
+import { Sidebar, SidebarDrawer } from "./components/Sidebar.tsx";
 import { fetchIndex, fetchLatest, fetchMonth } from "./lib/data.ts";
+import { sameHandle } from "./lib/github.ts";
 import {
   applyTheme,
   loadLastSeenAt,
@@ -15,10 +17,9 @@ import {
 import { PrefsContext, type PrefsContextValue } from "./lib/prefsContext.ts";
 import { idToMonth } from "./lib/snowflake.ts";
 import { groupThreads } from "./lib/threads.ts";
+import { useSubscriptions } from "./lib/useSubscriptions.ts";
 import { comparePosts, postKey } from "./shared/posts.ts";
 import type { IndexFile, Post } from "./shared/types.ts";
-import { postTranslationKey, quoteTranslationKey, translationQueue } from "./translate/queue.ts";
-import { useTranslationVersion } from "./translate/useTranslation.ts";
 
 type LoadStatus = { phase: "loading" } | { phase: "ready" } | { phase: "error"; message: string };
 
@@ -32,16 +33,7 @@ function targetIdFromHash(): string | null {
 }
 
 function matches(post: Post, needle: string): boolean {
-  const zh = translationQueue.get(postTranslationKey(post.id));
-  const quoteZh = post.quote ? translationQueue.get(quoteTranslationKey(post.quote.id)) : null;
-  const haystack = [
-    post.text,
-    post.author.name,
-    post.author.screen_name,
-    post.quote?.text ?? "",
-    zh.status === "done" ? zh.zh : "",
-    quoteZh?.status === "done" ? quoteZh.zh : "",
-  ]
+  const haystack = [post.text, post.author.name, post.author.screen_name, post.quote?.text ?? ""]
     .join("\n")
     .toLowerCase();
   return haystack.includes(needle);
@@ -50,9 +42,15 @@ function matches(post: Post, needle: string): boolean {
 export default function App() {
   const [prefs, setPrefs] = useState<Prefs>(loadPrefs);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [drawerOpen, setDrawerOpen] = useState(false);
   const update = useCallback((patch: Partial<Prefs>) => setPrefs((p) => ({ ...p, ...patch })), []);
-  const openSettings = useCallback(() => setSettingsOpen(true), []);
+  const openSettings = useCallback(() => {
+    setDrawerOpen(false);
+    setSettingsOpen(true);
+  }, []);
   const closeSettings = useCallback(() => setSettingsOpen(false), []);
+  const openDrawer = useCallback(() => setDrawerOpen(true), []);
+  const closeDrawer = useCallback(() => setDrawerOpen(false), []);
   const prefsContext = useMemo<PrefsContextValue>(
     () => ({ prefs, update, openSettings }),
     [prefs, update, openSettings],
@@ -60,9 +58,6 @@ export default function App() {
 
   useEffect(() => savePrefs(prefs), [prefs]);
   useEffect(() => applyTheme(prefs.theme), [prefs.theme]);
-  useEffect(() => {
-    translationQueue.configure({ apiKey: prefs.geminiApiKey, model: prefs.geminiModel });
-  }, [prefs.geminiApiKey, prefs.geminiModel]);
 
   const [index, setIndex] = useState<IndexFile | null>(null);
   const [posts, setPosts] = useState<ReadonlyMap<string, Post>>(() => new Map());
@@ -71,7 +66,9 @@ export default function App() {
   const [loadError, setLoadError] = useState<string | null>(null);
   const [loadedMonths, setLoadedMonths] = useState<ReadonlySet<string>>(() => new Set());
   const [query, setQuery] = useState("");
-  const [selectedCreators, setSelectedCreators] = useState<ReadonlySet<string>>(() => new Set());
+  const [selectedCreator, setSelectedCreator] = useState<string | null>(null);
+
+  const subscriptions = useSubscriptions(index, prefs.githubToken);
 
   const lastSeenAt = useRef<string | null>(loadLastSeenAt());
   const knownKeys = useRef(new Set<string>());
@@ -159,7 +156,23 @@ export default function App() {
   );
   const loadOne = useCallback(() => void loadMore("one"), [loadMore]);
 
-  const hasMore = index !== null && index.months.some((m) => !loadedMonths.has(m.month));
+  // An account that was just unfollowed cannot stay selected.
+  const selected = useMemo(
+    () =>
+      selectedCreator === null
+        ? null
+        : (subscriptions.list.find((s) => sameHandle(s.screen_name, selectedCreator)) ?? null),
+    [selectedCreator, subscriptions.list],
+  );
+  useEffect(() => {
+    if (selectedCreator !== null && index !== null && selected === null) setSelectedCreator(null);
+  }, [selectedCreator, index, selected]);
+
+  // An account the pipeline has not fetched yet has no posts in any month, so skip the archive.
+  const hasMore =
+    index !== null &&
+    index.months.some((m) => !loadedMonths.has(m.month)) &&
+    !(selected !== null && !selected.ready);
   const searching = query.trim() !== "";
 
   // Search must cover the whole archive, so pull in every month while a query is active.
@@ -185,73 +198,107 @@ export default function App() {
     }
   }, [targetId, status, index, posts, hasMore, loadMonth, loadMore]);
 
-  const translationVersion = useTranslationVersion();
+  const { followed } = subscriptions;
   const sorted = useMemo(() => [...posts.values()].sort(comparePosts), [posts]);
   const filtered = useMemo(() => {
     const needle = query.trim().toLowerCase();
     return sorted.filter(
       (p) =>
-        (selectedCreators.size === 0 || selectedCreators.has(p.creator)) &&
+        (followed === null || followed.has(p.creator.toLowerCase())) &&
+        (selected === null || sameHandle(p.creator, selected.screen_name)) &&
         (needle === "" || matches(p, needle)),
     );
-    // translationVersion re-runs the search when new translations arrive.
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [sorted, query, selectedCreators, translationVersion]);
+  }, [sorted, query, selected, followed]);
   const items = useMemo(() => groupThreads(filtered), [filtered]);
 
-  const toggleCreator = useCallback((name: string) => {
-    setSelectedCreators((prev) => {
-      const next = new Set(prev);
-      if (next.has(name)) next.delete(name);
-      else next.add(name);
-      return next;
-    });
+  const selectCreator = useCallback((name: string | null) => {
+    setSelectedCreator(name);
+    setDrawerOpen(false);
+    window.scrollTo({ top: 0 });
   }, []);
+
+  const emptyMessage =
+    subscriptions.list.length === 0
+      ? "Not following anyone yet. Follow an X account from the subscriptions list and the next pipeline run will fetch their posts."
+      : selected && !selected.ready
+        ? `@${selected.screen_name} was just added. Posts show up after the next pipeline run, usually within a few minutes.`
+        : "No posts match.";
+
+  const sidebar = (
+    <Sidebar
+      subscriptions={subscriptions}
+      selected={selected?.screen_name ?? null}
+      onSelect={selectCreator}
+      onOpenSettings={openSettings}
+    />
+  );
 
   return (
     <PrefsContext.Provider value={prefsContext}>
       <div className="min-h-dvh">
-        <Header />
-        <main className="mx-auto max-w-2xl px-3 pb-16 pt-3 sm:px-4">
-          {index && (
-            <FilterBar
-              creators={index.creators}
-              selected={selectedCreators}
-              onToggleCreator={toggleCreator}
-              query={query}
-              onQuery={setQuery}
-              total={filtered.length}
-              newestAt={sorted[0]?.sort_at ?? null}
-              loadingAll={searching && hasMore}
-            />
-          )}
-          {status.phase === "loading" && <LoadingCards />}
-          {status.phase === "error" && (
-            <div className="rounded-2xl border border-red-200 bg-red-50 p-4 text-sm text-red-800 dark:border-red-900 dark:bg-red-950 dark:text-red-200">
-              加载失败：{status.message}
-            </div>
-          )}
-          {status.phase === "ready" && (
-            <Feed
-              items={items}
-              lastSeenAt={lastSeenAt.current}
-              highlightId={highlightId}
-              hasMore={hasMore}
-              loadingMore={loadingMore}
-              loadError={loadError}
-              onLoadMore={loadOne}
-            />
-          )}
-        </main>
+        <Header onOpenMenu={openDrawer} />
+        <div className="mx-auto flex max-w-[60rem] gap-8 px-3 sm:px-4">
+          <aside className="sticky top-[53px] hidden max-h-[calc(100dvh-53px)] w-64 shrink-0 self-start overflow-y-auto py-4 lg:block">
+            {index ? sidebar : <SidebarSkeleton />}
+          </aside>
+          <main className="mx-auto w-full max-w-2xl min-w-0 flex-1 pb-16 pt-3 lg:mx-0">
+            {index && (
+              <FilterBar
+                selected={selected}
+                onClearSelection={() => selectCreator(null)}
+                query={query}
+                onQuery={setQuery}
+                total={filtered.length}
+                newestAt={filtered[0]?.sort_at ?? null}
+                loadingAll={searching && hasMore}
+              />
+            )}
+            {status.phase === "loading" && <LoadingCards />}
+            {status.phase === "error" && (
+              <div className="rounded-2xl border border-red-200 bg-red-50 p-4 text-sm text-red-800 dark:border-red-900 dark:bg-red-950 dark:text-red-200">
+                Failed to load: {status.message}
+              </div>
+            )}
+            {status.phase === "ready" && (
+              <Feed
+                items={items}
+                lastSeenAt={lastSeenAt.current}
+                highlightId={highlightId}
+                hasMore={hasMore}
+                loadingMore={loadingMore}
+                loadError={loadError}
+                emptyMessage={emptyMessage}
+                onLoadMore={loadOne}
+              />
+            )}
+          </main>
+        </div>
+        <SidebarDrawer open={drawerOpen} onClose={closeDrawer}>
+          {sidebar}
+        </SidebarDrawer>
         <SettingsDialog open={settingsOpen} onClose={closeSettings} />
       </div>
     </PrefsContext.Provider>
   );
 }
 
+function SidebarSkeleton() {
+  return (
+    <div className="animate-pulse space-y-3 px-3 py-2" aria-hidden="true">
+      <div className="h-4 w-24 rounded bg-zinc-200 dark:bg-zinc-800" />
+      {[0, 1, 2].map((i) => (
+        <div key={i} className="flex items-center gap-3">
+          <div className="h-7 w-7 rounded-full bg-zinc-200 dark:bg-zinc-800" />
+          <div className="h-3.5 w-28 rounded bg-zinc-200 dark:bg-zinc-800" />
+        </div>
+      ))}
+    </div>
+  );
+}
+
 function LoadingCards() {
   return (
-    <div className="space-y-3" role="status" aria-label="加载中">
+    <div className="space-y-3" role="status" aria-label="Loading">
       {[0, 1, 2].map((i) => (
         <div
           key={i}

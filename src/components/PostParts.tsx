@@ -1,10 +1,9 @@
 import type { ReactNode } from "react";
 import type { Author, Post } from "../shared/types.ts";
 import { absoluteTime, compactNumber, relativeTime } from "../lib/time.ts";
-import { postTranslationKey } from "../translate/queue.ts";
-import { BilingualText } from "./BilingualText.tsx";
 import { Icon } from "./Icon.tsx";
 import { MediaGrid } from "./MediaGrid.tsx";
+import { PostText } from "./PostText.tsx";
 import { QuoteCard } from "./QuoteCard.tsx";
 
 export const CARD_CLASS =
@@ -27,7 +26,7 @@ export function RepostLine({ by, author }: { by: Author; author: Author }) {
   return (
     <div className="mb-2 flex items-center gap-1.5 text-xs font-medium text-zinc-500">
       <Icon.Repost className="h-3.5 w-3.5" />
-      <span>{self ? `${by.name} 转发了自己的帖子` : `${by.name} 转发`}</span>
+      <span>{self ? `${by.name} reposted their own post` : `${by.name} reposted`}</span>
     </div>
   );
 }
@@ -78,11 +77,7 @@ export function PostHeader({ author, time, url, badges }: HeaderProps) {
 export function PostBody({ post }: { post: Post }) {
   return (
     <>
-      <BilingualText
-        text={post.text}
-        lang={post.lang}
-        translationKey={postTranslationKey(post.id)}
-      />
+      <PostText text={post.text} lang={post.lang} />
       <MediaGrid media={post.media} />
       {post.quote && <QuoteCard quote={post.quote} />}
       <Metrics post={post} />
@@ -95,20 +90,20 @@ function Metrics({ post }: { post: Post }) {
   const item = "flex items-center gap-1";
   return (
     <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-zinc-500">
-      <span className={item} title="回复">
+      <span className={item} title="Replies">
         <Icon.Reply className="h-3.5 w-3.5" />
         {compactNumber(m.replies)}
       </span>
-      <span className={item} title="转发">
+      <span className={item} title="Reposts">
         <Icon.Repost className="h-3.5 w-3.5" />
         {compactNumber(m.reposts + m.quotes)}
       </span>
-      <span className={item} title="喜欢">
+      <span className={item} title="Likes">
         <Icon.Heart className="h-3.5 w-3.5" />
         {compactNumber(m.likes)}
       </span>
       {m.views !== null && (
-        <span className={item} title="浏览">
+        <span className={item} title="Views">
           <Icon.Eye className="h-3.5 w-3.5" />
           {compactNumber(m.views)}
         </span>
@@ -118,7 +113,7 @@ function Metrics({ post }: { post: Post }) {
         target="_blank"
         rel="noopener noreferrer"
         className={`${item} ml-auto hover:text-zinc-700 dark:hover:text-zinc-300`}
-        title="在 X 上查看"
+        title="Open on X"
       >
         <Icon.External className="h-3.5 w-3.5" />
         <span>X</span>
