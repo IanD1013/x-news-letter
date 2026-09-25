@@ -1,6 +1,76 @@
 {
-  "generated_at": "2026-09-25T07:55:52.766Z",
+  "generated_at": "2026-09-25T18:41:58.617Z",
   "posts": [
+    {
+      "id": "2103514287180485057",
+      "url": "https://x.com/petergyang/status/2103514287180485057",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "petergyang",
+        "name": "Peter Yang",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1454103621516206083/_klMwpkk_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-09-25T15:57:42.000Z",
+      "sort_at": "2026-09-25T18:41:58.058Z",
+      "text": "Today, I'm launching a new AI course so you can copy the exact AI skills and workflows that I use to run my work and life.\n\nSince going independent, the most useful thing that I've done with AI isn't trying every new tool or vibe coding apps. It's building an AI system that proactively takes work off my plate and can work across any model or harness.\n\nAcross 25+ bite-sized lessons, you'll:\n\n1. Build an AI chief of staff to manage your inbox, calendar, and other tasks.\n\n2. Set up an AI advisor to make better decisions about your life and career.\n\n3. Automate workflows by chaining together reusable AI skills.\n\n4. Make AI proactive with my best scheduled tasks for work and life.\n\nI've included 40+ copy/paste prompts for you to set all this up in an afternoon.\n\nIn addition to the self-paced course, you'll also get:\n\n- $600+ in AI tool credits for my favorite tools\n- 16 ready-to-install AI skills\n- Monthly live workshops with me in a private Slack community of 400+ builders\n\nGet instant access to all of the above by signing up as a paid subscriber to my newsletter: https://creatoreconomy.so/subscribe?utm_source=sept25social\n\nJoin by October 7 to lock in $150/year. After that, the price goes up to $200/year.\n\nLearn more at http://behindthecraft.com and thanks for your support!",
+      "media": [
+        {
+          "id": "2103514214925275136",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2103514214925275136/vid/avc1/1920x1080/zeVAHaIhSogWE5eW.mp4?tag=16",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103514214925275136/img/o8JTKwM4rYg8MRqs.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 50
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103514287180485057",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 22,
+        "reposts": 8,
+        "likes": 114,
+        "quotes": 1,
+        "views": 9506
+      },
+      "fetched_at": "2026-09-25T18:41:58.058Z"
+    },
+    {
+      "id": "2103520486487724348",
+      "url": "https://x.com/kunchenguid/status/2103520486487724348",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-25T16:22:20.000Z",
+      "sort_at": "2026-09-25T16:22:20.000Z",
+      "text": "my most important lessons on using voice input on agents\n\ntalking with voice is auto regressive, like an LLM:\n- we speak one word at a time\n- we think and talk simultaneously\n- and we can’t easily take back what we said\n\nthis created some interesting characteristics:\n\n- what we say first will influence what we say next. try starting your sentence with “the most important two things i want you to do are…” and you’ll find yourself cornered into a certain way of framing your message\n\n- we generally don’t have a ton of time to think while talking. and the faster we talk, the less thinking we do. this is why people who trained themselves to take pause are often more eloquent and perceived as thoughtful\n\n- we often perceive talking as higher stake than typing because correction is a lot harder\n\nthese traits made voice input a terrible method for writing content. say you want to write a blog post, and using voice means you have to think through most things upfront, and randomly derail the content during talking due to choice of words, and can’t correct what’s written (unless you fallback to typing in the end)\n\nBUT.. when using agents, most of these traits don’t apply! agents can understand messy rambling just fine. they can understand your corrections if you said “no no scratch that, let me rephrase”. and they couldn’t care less if you take a pause\n\nso when using voice input on agents, you have to think of it differently from talking to real people or writing real content\n\nmy advice:\n\n- don’t try to speak only the “final result”. speak your thinking process out loud\n\nthis gives yourself a lot more room to reason through the concepts and arrive at something that actually represents what you want\n\nit also gives the agent more context on why you made certain choices\n\nyou can even intentionally use phrases like “let’s think through this..”, or “here’s why..” to elicit more thinking\n\n- correct yourself often\n\nwhen you realized something you said earlier was wrong, you can either just stop the voice input and discard what you said so far, or start correcting yourself \n\nthe good thing about agents is that they don’t judge. they are trained to never shame you for making mistakes or walking back your decisions\n\nonce you started doing this more, you will perceive voice input as low stake, which makes it feel more natural and less demanding\n\non the other hand, typing is text diffusion - you think in your head and type out the results, and you constantly refine what you already wrote\n\nit’s great for writing polished content, or precise text such as code. but it’s not as good for prompting agents because all your thinking tokens were hidden so the agent only sees the final “what” but rarely the “why”",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103520486487724348",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 22,
+        "reposts": 2,
+        "likes": 132,
+        "quotes": 3,
+        "views": 4937
+      },
+      "fetched_at": "2026-09-25T18:41:58.058Z"
+    },
     {
       "id": "2103364352216830350",
       "url": "https://x.com/kunchenguid/status/2103364352216830350",
@@ -3526,62 +3596,6 @@
         "likes": 349,
         "quotes": 5,
         "views": 38184
-      },
-      "fetched_at": "2026-09-09T01:22:53.130Z"
-    },
-    {
-      "id": "2096083417377255447",
-      "url": "https://x.com/kunchenguid/status/2096083417377255447",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-05T03:50:04.000Z",
-      "sort_at": "2026-09-05T03:50:04.000Z",
-      "text": "waiting for someone to give a mathematically correct answer",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2096083123784335819",
-      "thread_root_id": "2096077755553345973",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 2,
-        "reposts": 0,
-        "likes": 5,
-        "quotes": 0,
-        "views": 4410
-      },
-      "fetched_at": "2026-09-09T01:22:53.130Z"
-    },
-    {
-      "id": "2096083123784335819",
-      "url": "https://x.com/kunchenguid/status/2096083123784335819",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-05T03:48:54.000Z",
-      "sort_at": "2026-09-05T03:48:54.000Z",
-      "text": "looks like the hive mind is very split brain on this 🍿",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2096077755553345973",
-      "thread_root_id": "2096077755553345973",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 4,
-        "quotes": 0,
-        "views": 5234
       },
       "fetched_at": "2026-09-09T01:22:53.130Z"
     }
