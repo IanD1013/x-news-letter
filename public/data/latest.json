@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-09-26T01:38:50.323Z",
+  "generated_at": "2026-09-26T07:48:46.352Z",
   "posts": [
+    {
+      "id": "2103730633780674626",
+      "url": "https://x.com/kunchenguid/status/2103730633780674626",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-26T06:17:23.000Z",
+      "sort_at": "2026-09-26T06:17:23.000Z",
+      "text": "aha! with the benefit of hindsight, i just figured out openai’s marketing team seriously cooked hard with their gpt 5.6 release\n\nlet me reverse GTM what happened for you\n\nat that time, fable was already released and people were loving it. but openai knew astra was far from being ready\n\nif people ask “what’s your answer to fable” and they say “we are a few months behind”, it’ll damage their brand\n\nso instead of doing the typical 2-tier “gpt 5.6” and “gpt 5.6 mini”, they artificially created a 3-tier system with a new naming scheme - sol, terra, luna\n\npretty sure terra was not even originally planned but added last minute to make this plan work. in their release announcement, terra was said to be the same performance as gpt 5.5, while sol is a step function better\n\nthis created a perception that sol was openai’s fable equivalent. if you still remember, most of the reviews back then were comparing sol with fable. many of which even said sol was better\n\nthat bought so much time for openai to catch up without being seen as falling behind\n\nand now that astra is here, terra immediately got killed in the 6 series because it was never real!\n\neverything made sense now, and it’s absolutely brilliant",
+      "media": [
+        {
+          "id": "2103730630634950656",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTHz3M4a0AAAmuk.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1007,
+          "height": 1561
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103730633780674626",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 3,
+        "likes": 74,
+        "quotes": 1,
+        "views": 5879
+      },
+      "fetched_at": "2026-09-26T07:48:45.808Z"
+    },
     {
       "id": "2103655015449756131",
       "url": "https://x.com/kunchenguid/status/2103655015449756131",
@@ -3616,34 +3653,6 @@
         "likes": 967,
         "quotes": 16,
         "views": 34030
-      },
-      "fetched_at": "2026-09-09T01:22:53.130Z"
-    },
-    {
-      "id": "2096723730022248722",
-      "url": "https://x.com/kunchenguid/status/2096723730022248722",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-06T22:14:27.000Z",
-      "sort_at": "2026-09-06T22:14:27.000Z",
-      "text": "it reads from a knowledge base that's refreshed daily based on what i said, did and built (automation managed by Grok @Bot)\n\nso this is not a static skill, but an always up-to-date distillation of my knowledge\n\nmy hope is i can be of help to more people this way!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2096723728814264427",
-      "thread_root_id": "2096723728814264427",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 2,
-        "reposts": 1,
-        "likes": 35,
-        "quotes": 0,
-        "views": 3593
       },
       "fetched_at": "2026-09-09T01:22:53.130Z"
     }
