@@ -2,6 +2,175 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2103655015449756131",
+      "url": "https://x.com/kunchenguid/status/2103655015449756131",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-26T01:16:54.000Z",
+      "sort_at": "2026-09-26T01:16:54.000Z",
+      "text": "here's the tension - when i told some people \"you can use agents to build anything you want now\", they literally don't give a damn, because they never wanted to build anything in the first place\n\nbut i don't agree we should then look at that and say \"people lack imagination\"\n\nit's actually the classic question of pain killer vs vitamin. for the most part, AI feels like vitamin right now. people are living their lives just fine without it\n\nwhen they look at how AI people talk about AI, it's either a tech bro posting screenshot of 10 monitors running 50 terminals shipping absolutely nothing useful, or \"look you can book a whole vacation trip with this agent\" while many people don't even have the money or time for a vacation\n\nthe problem is not people's imagination. i don't think people are responsible for imagining problems they don't have\n\ni think the problem is that people making AI are all silicon valley multi-millionaires who have a very different set of problems from the mainstream consumers\n\nthis is not meant as criticism to AI builders (i am one myself) - i just think it's worth pointing out the disconnect and the fact that we still have a long way to go to figure out what real problems AI can actually solve for a lot of people as a pain killer not a vitamin, and nail both the messaging and the actual products to deliver the value",
+      "media": [
+        {
+          "id": "2103652518551228416",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTGs0esaEAApn4r.png?name=orig",
+          "thumbnail_url": null,
+          "width": 526,
+          "height": 199
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103655015449756131",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 3,
+        "likes": 23,
+        "quotes": 2,
+        "views": 1000
+      },
+      "fetched_at": "2026-09-26T01:38:49.793Z"
+    },
+    {
+      "id": "2103624388025446480",
+      "url": "https://x.com/kunchenguid/status/2103624388025446480",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-25T23:15:12.000Z",
+      "sort_at": "2026-09-25T23:15:12.000Z",
+      "text": "\"Take your time, OpenAI\" lol",
+      "media": [
+        {
+          "id": "2103624261172924416",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTGTHrwbEAAJ9Hi.png?name=orig",
+          "thumbnail_url": null,
+          "width": 804,
+          "height": 234
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103624388025446480",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 3,
+        "likes": 29,
+        "quotes": 0,
+        "views": 1429
+      },
+      "fetched_at": "2026-09-26T01:38:49.793Z"
+    },
+    {
+      "id": "2103620199950029174",
+      "url": "https://x.com/kunchenguid/status/2103620199950029174",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-25T22:58:33.000Z",
+      "sort_at": "2026-09-25T22:58:33.000Z",
+      "text": "codex just went completely down!",
+      "media": [
+        {
+          "id": "2103620049483493376",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTGPSh_acAAHL6V.png?name=orig",
+          "thumbnail_url": null,
+          "width": 644,
+          "height": 160
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2103620199950029174",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 18,
+        "reposts": 0,
+        "likes": 48,
+        "quotes": 0,
+        "views": 3314
+      },
+      "fetched_at": "2026-09-26T01:38:49.793Z"
+    },
+    {
+      "id": "2103615924075139087",
+      "url": "https://x.com/kunchenguid/status/2103615924075139087",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-25T22:41:34.000Z",
+      "sort_at": "2026-09-25T22:41:34.000Z",
+      "text": "railway offering a free VM for each IP\n\nthe catch is it only lasts for 1hr. you lose it unless you pay. it's also only reachable from the IP that created it, so can't be used to host a server\n\ncan use it to offload quick tasks from our machine, but otherwise no free lunch",
+      "media": [
+        {
+          "id": "2103614368407826432",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTGKH2VbMAAR4bv.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 954,
+          "height": 176
+        }
+      ],
+      "quote": {
+        "id": "2103566393862136150",
+        "url": "https://x.com/Railway/status/2103566393862136150",
+        "author": {
+          "screen_name": "Railway",
+          "name": "Railway",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2060407291996692484/ave6xJl9_200x200.jpg"
+        },
+        "created_at": "2026-09-25T19:24:45.000Z",
+        "text": "Get a free VM from your terminal or from @muse.  \n\nZero sign-up. One command.\n\nssh https://railway.new",
+        "media": [
+          {
+            "id": "2103566202085761025",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2103566202085761025/vid/avc1/1920x1080/h1Na5ZAN2Tz0CLkI.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103566202085761025/img/3iJZeC9ECLfvVhld.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 30.1
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2103615924075139087",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 23,
+        "quotes": 0,
+        "views": 3450
+      },
+      "fetched_at": "2026-09-26T01:38:49.793Z"
+    },
+    {
       "id": "2103603688233431356",
       "url": "https://x.com/kunchenguid/status/2103603688233431356",
       "creator": "kunchenguid",
