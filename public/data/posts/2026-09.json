@@ -2,6 +2,62 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2104241434211889514",
+      "url": "https://x.com/kunchenguid/status/2104241434211889514",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T16:07:07.000Z",
+      "sort_at": "2026-09-27T16:07:07.000Z",
+      "text": "if you are interested in learning more about how backpass works to reliably improve your agent memory, i wrote a blog post about it a while ago - https://blog.kunchenguid.com/p/your-agentsmd-is-a-neural-net?utm_campaign=post&utm_medium=web",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2104241432467067343",
+      "thread_root_id": "2104241432467067343",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8,
+        "quotes": 1,
+        "views": 1144
+      },
+      "fetched_at": "2026-09-27T19:01:12.236Z"
+    },
+    {
+      "id": "2104241432467067343",
+      "url": "https://x.com/kunchenguid/status/2104241432467067343",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T16:07:07.000Z",
+      "sort_at": "2026-09-27T16:07:07.000Z",
+      "text": "sharing a real world case study for how i optimized AGENTS.md for the firstmate repo and cut down its token count by almost 50% while improving its quality\n\ni believe this is a low hanging fruit for improving how agents work in your projects that most people don't know about yet!\n\nfirstmate repo's AGENTS.md is big because it's what shapes all its core behaviors. previously i had manually done a few rounds of pruning and got it to be contained at ~30k tokens - that's still a lot to load at the start of every main firstmate session!\n\ni had stopped pursuing further reduction because in the previous manual rounds, i observed regression when i tried to remove more instructions that were on the borderline\n\nbut with a recent nudge from @kamranali i decided to take another look, and i just realized this time i have backpass https://github.com/kunchenguid/backpass and A TON of real transcripts sitting there that can help! \n\nso i did a backpass run and had it analyze 100 recent session transcripts. it produced this proposal https://d08124f6.ht-ml.app/ - sharing here openly so you can all see how it came up with each proposed edit, based on evidence identified from the transcripts\n\ni reviewed the proposal and rejected two of the edits as i didn't fully agree with the rationale and ROI. most edits were accepted and it resulted in a -48% cut in token count\n\nbiggest win came from a lot of instructions getting moved into skills, based on observation that they weren't actually needed in most transcripts\n\nbesides token reduction, it also rewrote a few sections based on observing which instructions were followed vs missed, and what mistakes were made that could have benefited from explicit guidance\n\nthe result is this PR - https://github.com/kunchenguid/firstmate/pull/5872 and i ran my private eval set to validate no regression in core behaviors\n\nif you are not sure if your AGENTS.md is optimal (it's most likely not), you can also try backpass on it. i've been regularly optimizing my repos' memory files and skills with it, and i get pleasantly surprised - every, single, time",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104241432467067343",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 35,
+        "reposts": 15,
+        "likes": 322,
+        "quotes": 2,
+        "views": 13461
+      },
+      "fetched_at": "2026-09-27T19:01:12.236Z"
+    },
+    {
       "id": "2104129536019542318",
       "url": "https://x.com/kunchenguid/status/2104129536019542318",
       "creator": "kunchenguid",
