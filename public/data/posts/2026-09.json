@@ -2,6 +2,62 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2104068862564344034",
+      "url": "https://x.com/kunchenguid/status/2104068862564344034",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T04:41:23.000Z",
+      "sort_at": "2026-09-27T04:41:23.000Z",
+      "text": "i suspect those influencers telling people to “rent a VPS and move your agents to cloud” are getting a commission helping sell VPS\n\ni’m using a mac mini which i bought at $2500 and i’m often running it near full capacity building various ios and mac apps\n\nif i rent a VPS instead, it cost about $300/month for a similar spec. with just 9 months, the rent would have exceeded the full price\n\nlet’s say i decide to keep going for 5 years, total VPS cost would be $18k and that’s for just running 1 machine for 5 years. at the end i own nothing\n\nif i invest that $18k to buy my own hardware instead, i could have got 7 mac minis so 7x more compute capacity, and they would be mine forever\n\nif you are considering a long term setup, i can’t think of any good reason to be renting VPS. own your hardware - my desk is my cloud",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104068862564344034",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 77,
+        "reposts": 8,
+        "likes": 280,
+        "quotes": 3,
+        "views": 20084
+      },
+      "fetched_at": "2026-09-27T08:18:06.103Z"
+    },
+    {
+      "id": "2104051927709540709",
+      "url": "https://x.com/kunchenguid/status/2104051927709540709",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T03:34:05.000Z",
+      "sort_at": "2026-09-27T03:34:05.000Z",
+      "text": "computer use is interesting because it's a self-deprecating capability\n\nit's super useful today, because most software was built for humans\n\nthe more we use agents, the more software will be built for agents not humans, which will eventually make computer use obsolete",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104051927709540709",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 34,
+        "reposts": 4,
+        "likes": 163,
+        "quotes": 3,
+        "views": 5711
+      },
+      "fetched_at": "2026-09-27T08:18:06.103Z"
+    },
+    {
       "id": "2103979729443504300",
       "url": "https://x.com/kunchenguid/status/2103979729443504300",
       "creator": "kunchenguid",

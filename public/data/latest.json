@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-26T22:56:56.129Z",
+  "generated_at": "2026-09-27T08:18:06.580Z",
   "posts": [
+    {
+      "id": "2104068862564344034",
+      "url": "https://x.com/kunchenguid/status/2104068862564344034",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T04:41:23.000Z",
+      "sort_at": "2026-09-27T04:41:23.000Z",
+      "text": "i suspect those influencers telling people to “rent a VPS and move your agents to cloud” are getting a commission helping sell VPS\n\ni’m using a mac mini which i bought at $2500 and i’m often running it near full capacity building various ios and mac apps\n\nif i rent a VPS instead, it cost about $300/month for a similar spec. with just 9 months, the rent would have exceeded the full price\n\nlet’s say i decide to keep going for 5 years, total VPS cost would be $18k and that’s for just running 1 machine for 5 years. at the end i own nothing\n\nif i invest that $18k to buy my own hardware instead, i could have got 7 mac minis so 7x more compute capacity, and they would be mine forever\n\nif you are considering a long term setup, i can’t think of any good reason to be renting VPS. own your hardware - my desk is my cloud",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104068862564344034",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 77,
+        "reposts": 8,
+        "likes": 280,
+        "quotes": 3,
+        "views": 20084
+      },
+      "fetched_at": "2026-09-27T08:18:06.103Z"
+    },
+    {
+      "id": "2104051927709540709",
+      "url": "https://x.com/kunchenguid/status/2104051927709540709",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T03:34:05.000Z",
+      "sort_at": "2026-09-27T03:34:05.000Z",
+      "text": "computer use is interesting because it's a self-deprecating capability\n\nit's super useful today, because most software was built for humans\n\nthe more we use agents, the more software will be built for agents not humans, which will eventually make computer use obsolete",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104051927709540709",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 34,
+        "reposts": 4,
+        "likes": 163,
+        "quotes": 3,
+        "views": 5711
+      },
+      "fetched_at": "2026-09-27T08:18:06.103Z"
+    },
     {
       "id": "2103979729443504300",
       "url": "https://x.com/kunchenguid/status/2103979729443504300",
@@ -3610,72 +3666,6 @@
         "likes": 25,
         "quotes": 0,
         "views": 1876
-      },
-      "fetched_at": "2026-09-09T01:22:53.130Z"
-    },
-    {
-      "id": "2097345968022892588",
-      "url": "https://x.com/kunchenguid/status/2097345968022892588",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-08T15:27:00.000Z",
-      "sort_at": "2026-09-08T15:27:00.000Z",
-      "text": "i heard the new LLMs are good at 3d, so i tried making something useful with them\n\nhere's \"Fly with me\" - a calm bird flying over an infinite procedurally generated world. i leave it open on my second monitor to help me focus\n\nhttps://kunchenguid.github.io/fly-with-me/\n\nhow i made it 👇",
-      "media": [
-        {
-          "id": "2097219869964173313",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2097219869964173313/vid/avc1/1920x1080/VE30bUBsPjC9G3wF.mp4?tag=29",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2097219869964173313/img/wVhmielW1w2y-CiQ.jpg",
-          "width": 1920,
-          "height": 1080,
-          "duration": 60
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2097345968022892588",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 12,
-        "reposts": 4,
-        "likes": 103,
-        "quotes": 0,
-        "views": 7833
-      },
-      "fetched_at": "2026-09-09T01:22:53.130Z"
-    },
-    {
-      "id": "2097079905301504360",
-      "url": "https://x.com/kunchenguid/status/2097079905301504360",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-07T21:49:45.000Z",
-      "sort_at": "2026-09-07T21:49:45.000Z",
-      "text": "poteto poteto poteto\n\nsome improvement opportunities i noticed when developing this template -\n\n1. it seems in order to create a template, the bot needs to put all the data into a single tool call\n\nwhen the data is large enough, this tool call becomes difficult for the agent to do correctly. my bot made multiple rounds of mistakes before getting it right, and because of that, i had to manually review everything to make sure it didn't mess things up\n\nit might be good to allow the agent to first write the template data to files, then make the tool call by specifying where the files are\n\n2. it's currently a bit hard for template developers to test the template in an isolated environment before publishing\n\nmy firstmate template for example has to write some global state on the computer. if i test it with my own account, it would conflict with my real data\n\nit would be super useful for template developers to have a sandbox computer where they can test things out\n\n3. it would be good to allow bot templates to be version controlled - like committed to a git repo\n\nthis has the benefit of better persistence of template data, as well as allowing open source collaborations\n\nthe overall idea of a bot marketplace is brilliant and this is probably the best implementation of reusable agents that's in the market right now - well done!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2097076598499668193",
-      "thread_root_id": "2097076598499668193",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 2,
-        "likes": 44,
-        "quotes": 0,
-        "views": 4030
       },
       "fetched_at": "2026-09-09T01:22:53.130Z"
     }
