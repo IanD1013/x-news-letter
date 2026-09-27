@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-09-27T19:01:12.706Z",
+  "generated_at": "2026-09-27T22:17:23.981Z",
   "posts": [
+    {
+      "id": "2104311385836638360",
+      "url": "https://x.com/kunchenguid/status/2104311385836638360",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T20:45:05.000Z",
+      "sort_at": "2026-09-27T20:45:05.000Z",
+      "text": "that was the first video i made about my agentic engineering workflow: \nhttps://youtu.be/iQyg-KypKAA\n\ni’ve since published a few more videos with updates and more depth as well\n\nwill keep going as long as people find them helpful!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2104311383345258591",
+      "thread_root_id": "2104311383345258591",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6,
+        "quotes": 0,
+        "views": 992
+      },
+      "fetched_at": "2026-09-27T22:17:22.727Z"
+    },
+    {
+      "id": "2104311383345258591",
+      "url": "https://x.com/kunchenguid/status/2104311383345258591",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T20:45:04.000Z",
+      "sort_at": "2026-09-27T20:45:04.000Z",
+      "text": "ONE, MILLION, VIEWS!!!\n\nnever thought what i share would be watched by so many people around the world! i’m completely blown away!\n\nthanks everyone who showed up, and please know that i’m very grateful for having the platform to share my learnings with you all!",
+      "media": [
+        {
+          "id": "2104311380254011392",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTQEDRzaMAAg3y-.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1350
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104311383345258591",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 21,
+        "reposts": 2,
+        "likes": 133,
+        "quotes": 0,
+        "views": 2720
+      },
+      "fetched_at": "2026-09-27T22:17:22.727Z"
+    },
     {
       "id": "2104241434211889514",
       "url": "https://x.com/kunchenguid/status/2104241434211889514",
@@ -3577,93 +3642,6 @@
         "views": 2093
       },
       "fetched_at": "2026-09-09T07:26:10.188Z"
-    },
-    {
-      "id": "2097488019146375535",
-      "url": "https://x.com/kunchenguid/status/2097488019146375535",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-09T00:51:27.000Z",
-      "sort_at": "2026-09-09T00:51:27.000Z",
-      "text": "herdr + firstmate is indeed a great combo. that's my daily driver too\n\nherdr provides the lifecycle management and organization of all the agents\n\nfirstmate serves as a single point of contact to orchestrate all of them without going insane",
-      "media": [],
-      "quote": {
-        "id": "2097486518298542327",
-        "url": "https://x.com/Jasmeetsb/status/2097486518298542327",
-        "author": {
-          "screen_name": "Jasmeetsb",
-          "name": "Jasmeet Bhatia",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2097486728068255744/9lIXTuOm_200x200.jpg"
-        },
-        "created_at": "2026-09-09T00:45:30.000Z",
-        "text": "Really enjoying Herdr(@herdrdev) and Firstmate lately.\n\nWhat started as experimenting with a couple of tools turned into rebuilding my entire agentic dev workflow around them.\nNice work @cancelik @kunchenguid 👏 #herdr #firstmate\n\nAnds thanks @rajesh_thallam for putting them on my radar!",
-        "media": [
-          {
-            "id": "2097485916407496704",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HRvEU_jagAARsSJ.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1082,
-            "height": 696
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2097488019146375535",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 18,
-        "quotes": 0,
-        "views": 1455
-      },
-      "fetched_at": "2026-09-09T01:22:53.130Z"
-    },
-    {
-      "id": "2097448070506324093",
-      "url": "https://x.com/kunchenguid/status/2097448070506324093",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-08T22:12:43.000Z",
-      "sort_at": "2026-09-08T22:12:43.000Z",
-      "text": "found a gem - good recommendation from Keith here\n\nit's a video walking through the basics of firstmate, many of the key principles behind the whole stack, and Hal's own thoughts\n\ni just watched it and honestly felt like i couldn't have made a better one myself",
-      "media": [],
-      "quote": {
-        "id": "2097440227102965835",
-        "url": "https://x.com/EachWayAI/status/2097440227102965835",
-        "author": {
-          "screen_name": "EachWayAI",
-          "name": "Keith Moon 🐎",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1888928718996869121/8ZqzZMDB_200x200.jpg"
-        },
-        "created_at": "2026-09-08T21:41:33.000Z",
-        "text": "If you're looking at herdr / firstmate by @kunchenguid \n\nI'd recommend watching this video by @_halshin \n\nhttps://www.youtube.com/watch?v=TlmTypTQFj8\n\nGreat video, very comprehensive and concise.",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2097448070506324093",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 2,
-        "likes": 61,
-        "quotes": 0,
-        "views": 8525
-      },
-      "fetched_at": "2026-09-09T01:22:53.130Z"
     }
   ]
 }
