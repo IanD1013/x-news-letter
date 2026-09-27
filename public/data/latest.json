@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-27T08:18:06.580Z",
+  "generated_at": "2026-09-27T14:44:04.888Z",
   "posts": [
+    {
+      "id": "2104129536019542318",
+      "url": "https://x.com/kunchenguid/status/2104129536019542318",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T08:42:28.000Z",
+      "sort_at": "2026-09-27T08:42:28.000Z",
+      "text": "ok a few faq!\n\n\"people only need a $20/month vps\" - in that case just own a raspberry pi instead of mac mini. it's a really good machine. similar economics that about a year of renting VPS would cover the purchase cost\n\n\"but with vps you can scale up and down at any time\" - yes this is totally valid. if your workload is not consistent and fluctuates a lot, renting is a great option to deal with the surge\n\n\"unless you run local llm, your mac mini won't be used\" - my mac mini is almost constantly at full capacity because i run builds and tests for all my ios and mac apps there, as well as self-hosted github actions runners that process a ton of jobs across my repos every day (which saves me a very big gitub bill)",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2104068862564344034",
+      "thread_root_id": "2104068862564344034",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 18,
+        "quotes": 0,
+        "views": 2509
+      },
+      "fetched_at": "2026-09-27T14:44:03.987Z"
+    },
     {
       "id": "2104068862564344034",
       "url": "https://x.com/kunchenguid/status/2104068862564344034",
@@ -3638,34 +3666,6 @@
         "likes": 9,
         "quotes": 0,
         "views": 1257
-      },
-      "fetched_at": "2026-09-09T01:22:53.130Z"
-    },
-    {
-      "id": "2097345968622747801",
-      "url": "https://x.com/kunchenguid/status/2097345968622747801",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-08T15:27:00.000Z",
-      "sort_at": "2026-09-08T15:27:00.000Z",
-      "text": "there's no blender, no compute use, no image generation. it's purely LLMs writing code\n\ni used grok 4.6 as the orchestrator (firstmate), fable 5.1 for figuring out art direction, gpt 6 astra for the bulk of the implementation, opus 5 for hillclimbing performance optimizations, and muse spark 1.3 for some features like mouse control and persistence\n\nthese models get along much better than their makers :)\n\nthrough this exercise, i learned a few things -\n\n1. don't give astra anything that requires aesthetics - it just can't. fable is still the king at making beautiful things\n\n2. astra is however great at implementing complex things without using many tokens. it seems it just knows what the correct implementation is, and there's very little trial and error or rework\n\n3. even with these powerful models, A TON of human steering was still needed to create a look that i feel good about. the sun, moon, milky way and clouds, coloring, and the cel-shading art style - the LLMs just couldn't come up with coherent result without me providing inputs",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2097345968022892588",
-      "thread_root_id": "2097345968022892588",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 5,
-        "reposts": 0,
-        "likes": 25,
-        "quotes": 0,
-        "views": 1876
       },
       "fetched_at": "2026-09-09T01:22:53.130Z"
     }

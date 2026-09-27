@@ -2,6 +2,34 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2104129536019542318",
+      "url": "https://x.com/kunchenguid/status/2104129536019542318",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-27T08:42:28.000Z",
+      "sort_at": "2026-09-27T08:42:28.000Z",
+      "text": "ok a few faq!\n\n\"people only need a $20/month vps\" - in that case just own a raspberry pi instead of mac mini. it's a really good machine. similar economics that about a year of renting VPS would cover the purchase cost\n\n\"but with vps you can scale up and down at any time\" - yes this is totally valid. if your workload is not consistent and fluctuates a lot, renting is a great option to deal with the surge\n\n\"unless you run local llm, your mac mini won't be used\" - my mac mini is almost constantly at full capacity because i run builds and tests for all my ios and mac apps there, as well as self-hosted github actions runners that process a ton of jobs across my repos every day (which saves me a very big gitub bill)",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2104068862564344034",
+      "thread_root_id": "2104068862564344034",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 18,
+        "quotes": 0,
+        "views": 2509
+      },
+      "fetched_at": "2026-09-27T14:44:03.987Z"
+    },
+    {
       "id": "2104068862564344034",
       "url": "https://x.com/kunchenguid/status/2104068862564344034",
       "creator": "kunchenguid",
