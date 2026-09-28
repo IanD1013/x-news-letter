@@ -2,6 +2,132 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2104657437777408400",
+      "url": "https://x.com/kunchenguid/status/2104657437777408400",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-28T19:40:10.000Z",
+      "sort_at": "2026-09-28T19:40:10.000Z",
+      "text": "how did sol go from a fable competitor to a sonnet equivalent in just a few weeks?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104657437777408400",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 35,
+        "reposts": 10,
+        "likes": 926,
+        "quotes": 2,
+        "views": 43662
+      },
+      "fetched_at": "2026-09-28T23:20:56.719Z"
+    },
+    {
+      "id": "2104634615063629827",
+      "url": "https://x.com/kunchenguid/status/2104634615063629827",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-28T18:09:29.000Z",
+      "sort_at": "2026-09-28T18:09:29.000Z",
+      "text": "sonnet 5.5 is here! \n\nvery good addition that finally gives a cheaper workhorse in the anthropic line-up\n\nhaiku coming soon",
+      "media": [],
+      "quote": {
+        "id": "2104633115620823187",
+        "url": "https://x.com/claudeai/status/2104633115620823187",
+        "author": {
+          "screen_name": "claudeai",
+          "name": "Claude",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg"
+        },
+        "created_at": "2026-09-28T18:03:31.000Z",
+        "text": "Introducing Claude Sonnet 5.5, the second model in the Claude 5.5 family.\n\nIt’s a clear upgrade over Sonnet 5, runs more than 30% faster, and costs up to 30% less for most work.",
+        "media": [
+          {
+            "id": "2104629272543399936",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2104629272543399936/vid/avc1/1920x1080/psIdtRJzfm_fmopA.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/media/HTUthyeWIAAInna.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 13.28
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2104634615063629827",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 0,
+        "likes": 106,
+        "quotes": 1,
+        "views": 7868
+      },
+      "fetched_at": "2026-09-28T23:20:56.719Z"
+    },
+    {
+      "id": "2104631824249221485",
+      "url": "https://x.com/kunchenguid/status/2104631824249221485",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-28T17:58:23.000Z",
+      "sort_at": "2026-09-28T17:58:23.000Z",
+      "text": "gotta take a moment to appreciate the fact that this is not a movie clip any more",
+      "media": [],
+      "quote": {
+        "id": "2104560708969259344",
+        "url": "https://x.com/SpaceX/status/2104560708969259344",
+        "author": {
+          "screen_name": "SpaceX",
+          "name": "SpaceX",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_200x200.jpg"
+        },
+        "created_at": "2026-09-28T13:15:48.000Z",
+        "text": "Starship performs its orbital insertion burn and enters orbit of Earth for the first time",
+        "media": [
+          {
+            "id": "2104560614626766848",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2104560614626766848/vid/avc1/3840x2160/WMLBYlBCU0AQ5vn3.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104560614626766848/img/WR9uvl1CQ0MlhUhG.jpg",
+            "width": 3840,
+            "height": 2160,
+            "duration": 55.33
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2104631824249221485",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 61,
+        "quotes": 0,
+        "views": 6366
+      },
+      "fetched_at": "2026-09-28T23:20:56.719Z"
+    },
+    {
       "id": "2104596236083048512",
       "url": "https://x.com/kunchenguid/status/2104596236083048512",
       "creator": "kunchenguid",
