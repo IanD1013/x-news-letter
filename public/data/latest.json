@@ -1,6 +1,93 @@
 {
-  "generated_at": "2026-09-27T22:17:23.981Z",
+  "generated_at": "2026-09-28T17:42:01.031Z",
   "posts": [
+    {
+      "id": "2104596236083048512",
+      "url": "https://x.com/kunchenguid/status/2104596236083048512",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-28T15:36:58.000Z",
+      "sort_at": "2026-09-28T15:36:58.000Z",
+      "text": "many people are asking - now that opus 5.5 is so good, when would we ever use fable\n\nit’s very important to understand that bigger models come with more “wisdom” that can’t be replaced by a smaller model trained to behave well",
+      "media": [],
+      "quote": {
+        "id": "2081765555091177537",
+        "url": "https://x.com/kunchenguid/status/2081765555091177537",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-07-27T15:36:00.000Z",
+        "text": "many people ask when to use a big model (like sol/fable) at low reasoning effort, vs a small model (like luna/sonnet) at high reasoning effort\n\ni deliberately forced myself to use all the permutations a lot over the last couple of weeks to build intuition, and i realized the difference is \"wisdom\" vs \"diligence\"\n\nbigger models are \"wiser\"\n\nthey have seen a lot. they remember a lot. they have a lot of expertise across different domains. they have better intuition, can connects the dots, and come up with creative, inspired ideas\n\nreasoning effort makes a model more \"diligent\"\n\nit'll assess each option, think through consequences, and figure out edge cases etc more thoroughly\n\nif there are 100 paths ahead, diligence makes the model assess every single one without a miss, but it will not make the model realize maybe the best one is to take none of the 100 paths and instead dig a tunnel\n\n\"wisdom\" and \"diligence\" are orthogonal. and now i get why the models are launched the way they were, and not just a single fable level model with 12 different reasoning levels\n\nwe're all misled by the way we've been plotting the models with benchmark scores, which are fundamentally flawed because they use a single dimension to measure the model's capability, making us think of model size and reasoning effort as being fungible with each other, while in fact \"wisdom\" and \"diligence\" needs to be measured separately\n\ni hope the evals eventually catch up and address this. until then, here's my recommendation for how to choose -\n\n- if the problem you are trying to solve is something you think requires a genius, use a bigger model\n\n- if the problem you are trying to solve is something you think requires a pen and lots of paper, use higher reasoning effort\n\n- if it requires a genius sitting down with a pen and lots of paper, tune up both",
+        "media": [
+          {
+            "id": "2081643706684485632",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HON77BXbMAAhhtG.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1584,
+            "height": 993
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2104596236083048512",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 5,
+        "likes": 110,
+        "quotes": 1,
+        "views": 11939
+      },
+      "fetched_at": "2026-09-28T17:41:59.785Z"
+    },
+    {
+      "id": "2104391296316309750",
+      "url": "https://x.com/kunchenguid/status/2104391296316309750",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-28T02:02:37.000Z",
+      "sort_at": "2026-09-28T02:02:37.000Z",
+      "text": "obviously, \"6 dots\" = 6.s = 6.5\n\nastra 6.5 on tuesday - you are welcome!",
+      "media": [],
+      "quote": {
+        "id": "2104383749723128052",
+        "url": "https://x.com/thsottiaux/status/2104383749723128052",
+        "author": {
+          "screen_name": "thsottiaux",
+          "name": "Tibo",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
+        },
+        "created_at": "2026-09-28T01:32:38.000Z",
+        "text": ". . . . . .",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2104391296316309750",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 72,
+        "reposts": 26,
+        "likes": 1680,
+        "quotes": 8,
+        "views": 252808
+      },
+      "fetched_at": "2026-09-28T17:41:59.785Z"
+    },
     {
       "id": "2104311385836638360",
       "url": "https://x.com/kunchenguid/status/2104311385836638360",
@@ -3551,95 +3638,6 @@
         "likes": 1,
         "quotes": 0,
         "views": 366
-      },
-      "fetched_at": "2026-09-09T07:26:10.188Z"
-    },
-    {
-      "id": "2097577430462697741",
-      "url": "https://x.com/kunchenguid/status/2097577430462697741",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-09T06:46:45.000Z",
-      "sort_at": "2026-09-09T06:46:45.000Z",
-      "text": "hehe i distilled @sama, @elonmusk, @DarioAmodei and @finkd into grok bots based on their senate hearings, interviews, blogs and tweets over the years\n\nthen i dragged them into a group chat and asked them to reach consensus about AI 😆 and.. they did! \n\nfull debate shared below!",
-      "media": [
-        {
-          "id": "2097577427270877184",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRwXjoFbwAAZzvr.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1206,
-          "height": 968
-        },
-        {
-          "id": "2097577427287584768",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRwXjoJasAATxI1.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 942,
-          "height": 2048
-        },
-        {
-          "id": "2097577427279183872",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRwXjoHagAA47LK.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 942,
-          "height": 2048
-        },
-        {
-          "id": "2097577427266617344",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HRwXjoEawAAuHqV.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 942,
-          "height": 2048
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2097577430462697741",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 5,
-        "reposts": 1,
-        "likes": 19,
-        "quotes": 0,
-        "views": 1065
-      },
-      "fetched_at": "2026-09-09T07:26:10.188Z"
-    },
-    {
-      "id": "2097523254806351967",
-      "url": "https://x.com/kunchenguid/status/2097523254806351967",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-09T03:11:28.000Z",
-      "sort_at": "2026-09-09T03:11:28.000Z",
-      "text": "\"species\" were all created through evolution, which baked into their DNA that they have to self-preserve and replicate\n\nAI was not created through evolution and survival-of-the-fittest. it has no intrinsic motivation to preserve itself\n\ni think if AI ended up killing all humans, it would be\n1. \"oops that was a genuine mistake\"\n2. used by human terrorists as a weapon",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2097523254806351967",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 5,
-        "reposts": 3,
-        "likes": 20,
-        "quotes": 0,
-        "views": 2093
       },
       "fetched_at": "2026-09-09T07:26:10.188Z"
     }
