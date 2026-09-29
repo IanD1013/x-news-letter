@@ -2,6 +2,62 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2104998134279762141",
+      "url": "https://x.com/kunchenguid/status/2104998134279762141",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-29T18:13:58.000Z",
+      "sort_at": "2026-09-29T18:13:58.000Z",
+      "text": "ok here's my key takeaways from OpenAI DevDay keynote\n\n1. dots\n\ngrok bot, muse, and now dots - they may look similar, but they are not\n\ni think openai's dots is a significantly more cohesive implementation that spans across personal and business use, and also across single player and multiplayer\n\npretty excited to see where it goes\n\n2. sol 6.1\n\nbiggest thing? openai caught up on cheaper cached tokens. this is a big deal and affects the overall cost of long horizon work a lot\n\nin terms of sol the model itself, honestly it's bit weird that 6.1 is released only a few days after 6, making it feel like sol 6 was a premature release and 6.1 is what's supposed to be sol 6 all along\n\nwe'll just have to put our hands on it to see how big of a jump it is\n\n3. jev clone\n\non one hand, it's incredible to see how quickly they cloned it. but on the other hand, it's scary to see how these frontier labs would not blink an eye to destroy smaller startups in their space\n\nopenai's decision model already has image understanding which jev doesn't. it speaks to the moat openai has accumulated which makes it hard for startups to disrupt\n\n4. ultrafast\n\n8x speed at 6x price, only on astra right now but said to be coming for sol as well\n\ni don't know... how many use cases can actually get a positive ROI using astra at 6x price? \n\n5. $500 subscription\n\nwith the adjustment to the $200 plan and the introduction of $500, it's become clear that subsidization is coming to an end\n\n$200 is simply 10x of what $20 gives, and $500 is simply 25x - zero discount at these higher price points\n\ni'd rather they create $100 \"packs\" that you can stack onto your account\n\n6. sign-in with chatgpt, and marketplace\n\nthis is a BIG DEAL!!! why? because it means other companies can finally build agentic products without having to sell tokens\n\nselling tokens is a very bad business model for the vast majority of SaaS companies. it complicates their pricing structure and creates almost no profit margin at all\n\nthis move from openai means customers just buy tokens from openai, and use them everywhere - very good for the ecosystem\n\nthe impact to the broader industry will be amplified if anthropic gets pressured to follow the same pattern\n\nalright - might share more thoughts after actually putting my hands on the new things, but those are the initial reactions for now. curious to hear what you all took away from it as well!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104998134279762141",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 11,
+        "likes": 112,
+        "quotes": 1,
+        "views": 5151
+      },
+      "fetched_at": "2026-09-29T18:40:46.975Z"
+    },
+    {
+      "id": "2104980533700935841",
+      "url": "https://x.com/kunchenguid/status/2104980533700935841",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-29T17:04:02.000Z",
+      "sort_at": "2026-09-29T17:04:02.000Z",
+      "text": "so @sama still calls X \"twitter\"",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104980533700935841",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 26,
+        "reposts": 0,
+        "likes": 45,
+        "quotes": 0,
+        "views": 4345
+      },
+      "fetched_at": "2026-09-29T18:40:46.975Z"
+    },
+    {
       "id": "2104830224785605105",
       "url": "https://x.com/kunchenguid/status/2104830224785605105",
       "creator": "kunchenguid",
