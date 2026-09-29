@@ -1,6 +1,130 @@
 {
-  "generated_at": "2026-09-28T23:20:57.244Z",
+  "generated_at": "2026-09-29T05:50:10.978Z",
   "posts": [
+    {
+      "id": "2104785276531007829",
+      "url": "https://x.com/kunchenguid/status/2104785276531007829",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-29T04:08:09.000Z",
+      "sort_at": "2026-09-29T04:08:09.000Z",
+      "text": "https://x.com/kunchenguid/status/2104784315251126495",
+      "media": [],
+      "quote": {
+        "id": "2104784315251126495",
+        "url": "https://x.com/kunchenguid/status/2104784315251126495",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-09-29T04:04:20.000Z",
+        "text": "uh oh - no astra 6.5 tomorrow. at least a sol upgrade?",
+        "media": [
+          {
+            "id": "2104784311887314944",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HTWyLhbbwAAjHIq.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1206,
+            "height": 1201
+          }
+        ]
+      },
+      "reply_to_id": "2104391296316309750",
+      "thread_root_id": "2104391296316309750",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 647
+      },
+      "fetched_at": "2026-09-29T05:50:10.491Z"
+    },
+    {
+      "id": "2104784315251126495",
+      "url": "https://x.com/kunchenguid/status/2104784315251126495",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-29T04:04:20.000Z",
+      "sort_at": "2026-09-29T04:04:20.000Z",
+      "text": "uh oh - no astra 6.5 tomorrow. at least a sol upgrade?",
+      "media": [
+        {
+          "id": "2104784311887314944",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTWyLhbbwAAjHIq.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1201
+        }
+      ],
+      "quote": {
+        "id": "2104391296316309750",
+        "url": "https://x.com/kunchenguid/status/2104391296316309750",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-09-28T02:02:37.000Z",
+        "text": "obviously, \"6 dots\" = 6.s = 6.5\n\nastra 6.5 on tuesday - you are welcome!",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2104784315251126495",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 21,
+        "quotes": 1,
+        "views": 4214
+      },
+      "fetched_at": "2026-09-29T05:50:10.491Z"
+    },
+    {
+      "id": "2104749177456722354",
+      "url": "https://x.com/kunchenguid/status/2104749177456722354",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-29T01:44:42.000Z",
+      "sort_at": "2026-09-29T01:44:42.000Z",
+      "text": "thoughts on sonnet 5.5 after a day of real use\n\nsonnet and opus 5.5 are clearly taught by the same teacher model (which i can only guess to be mythos 5.5 or even 6). their behaviors and personality are highly similar this time\n\nbut sonnet is definitely NOT “same as opus just 50% cheaper” - that’s true only for problems that don’t need much wisdom\n\nthere’s a clear difference when they are asked to propose plans for ambiguous product problems. you should be able to repro this by asking them to plan a complex enough feature whose direction is unclear\n\nopus is able to approach problems with more strategic thinking “what’s the real goal here” while sonnet is more just looking at tactically “how do i get this done”\n\ni also tested heavily using sonnet 5.5 as my firstmate and it’s working super well! i even prefer it over opus, because it’s faster, cheaper, and smart enough to understand my intent and handle the orchestration\n\nmy overall approach now is -\n- opus plans\n- sonnet implements\n- once haiku 5.5 is here, i’ll use haiku for “fixes”\n- if anything’s not going well, fable advises\n\nsometimes i’ll go straight to fable for plans that i know requires its wisdom but this is becoming more and more rare in my experience (perhaps fable 5.5 will change it!)\n\ni must say, anthropic’s latest line-up is incredibly compelling both in terms of quality and efficiency. we’ll see what openai cooked soon but they definitely have their work cut out for them",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2104749177456722354",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 55,
+        "reposts": 36,
+        "likes": 888,
+        "quotes": 8,
+        "views": 62000
+      },
+      "fetched_at": "2026-09-29T05:50:10.491Z"
+    },
     {
       "id": "2104657437777408400",
       "url": "https://x.com/kunchenguid/status/2104657437777408400",
@@ -3566,111 +3690,6 @@
         "views": 7124
       },
       "fetched_at": "2026-09-10T06:02:31.116Z"
-    },
-    {
-      "id": "2097839769875280269",
-      "url": "https://x.com/kunchenguid/status/2097839769875280269",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-10T00:09:11.000Z",
-      "sort_at": "2026-09-10T00:09:11.000Z",
-      "text": "this is actually a big problem i have with some of the newer models. opus 5 was the same\n\nin real world usage, there isn’t so many “ambitious goals” we can just throw to agents in a way that actually makes economic sense\n\nnone of those 3d fps games people vibe code can actually make nearly enough money compared to the tokens they burn\n\npractical real world tasks often need human in the loop to provide judgment and steering to generate valuable outcomes\n\nfable is so good because it can go off on long horizon tasks, and also sit down and talk nicely if needed\n\nwe can have both long horizon and human in the loop capabilities, and we shouldn’t give up either",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2097839769875280269",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 11,
-        "quotes": 0,
-        "views": 1040
-      },
-      "fetched_at": "2026-09-10T01:08:49.206Z"
-    },
-    {
-      "id": "2097801368618824011",
-      "url": "https://x.com/kunchenguid/status/2097801368618824011",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-09T21:36:36.000Z",
-      "sort_at": "2026-09-09T21:36:36.000Z",
-      "text": "Matt was one of the most brilliant product people i had the pleasure to work with\n\nrecommend a follow for real world product insights, and throw your questions at him!",
-      "media": [],
-      "quote": {
-        "id": "2097743721643291019",
-        "url": "https://x.com/matthewcanham/status/2097743721643291019",
-        "author": {
-          "screen_name": "matthewcanham",
-          "name": "Matt Canham",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2044189732306059264/zVkvcLR5_200x200.jpg"
-        },
-        "created_at": "2026-09-09T17:47:32.000Z",
-        "text": "Hey, I’m Matt. I’m a Director of Product at Atlassian working to bring agents to the millions of builders who use Jira. Prior to getting into product I was a founder and engineer. Now based in SF and grew up in New Zealand 🥝 \n\nIn an effort to bring more product voices to X, I’m going to start sharing what I’m building and how I think about product craft. If that’s of interest, let’s connect. My DMs are open and I’ll be answering questions in the thread.",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2097801368618824011",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 14,
-        "quotes": 0,
-        "views": 4038
-      },
-      "fetched_at": "2026-09-09T22:36:24.392Z"
-    },
-    {
-      "id": "2097777508326518883",
-      "url": "https://x.com/kunchenguid/status/2097777508326518883",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-09T20:01:47.000Z",
-      "sort_at": "2026-09-09T20:01:47.000Z",
-      "text": "i had to really push astra on this, but it did end up coding this nice transition from sunset -> nightfall -> moonrise -> milky way\n\nthere's not a single image in here. it's all just JS code. i'm mildly impressed\n\nrepo: https://github.com/kunchenguid/fly-with-me",
-      "media": [
-        {
-          "id": "2097775822266601472",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2097775822266601472/vid/avc1/1920x1080/2lhXs9gd8RfkmKP6.mp4?tag=29",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2097775822266601472/img/mdZEnt8vvMo1ZeXV.jpg",
-          "width": 1920,
-          "height": 1080,
-          "duration": 75
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2097777508326518883",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 7,
-        "reposts": 2,
-        "likes": 41,
-        "quotes": 0,
-        "views": 3114
-      },
-      "fetched_at": "2026-09-09T22:36:24.392Z"
     }
   ]
 }
