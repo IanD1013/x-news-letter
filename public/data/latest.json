@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-09-29T18:40:47.508Z",
+  "generated_at": "2026-09-30T02:10:05.472Z",
   "posts": [
+    {
+      "id": "2105037902224785454",
+      "url": "https://x.com/kunchenguid/status/2105037902224785454",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-29T20:52:00.000Z",
+      "sort_at": "2026-09-29T20:52:00.000Z",
+      "text": "something to internalize about ultrafast mode\n\n8x speed at 6x cost means it will cost 48x $ per second\n\nit might be okay if it got the job done. but if it ever went down a wrong direction, it will be burning astra $ at 48x speed before we even have time to see and stop it",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2105037902224785454",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 14,
+        "reposts": 3,
+        "likes": 89,
+        "quotes": 0,
+        "views": 7593
+      },
+      "fetched_at": "2026-09-30T02:10:04.804Z"
+    },
     {
       "id": "2104998134279762141",
       "url": "https://x.com/kunchenguid/status/2104998134279762141",
@@ -3629,45 +3657,6 @@
         "likes": 8,
         "quotes": 0,
         "views": 581
-      },
-      "fetched_at": "2026-09-10T19:46:39.394Z"
-    },
-    {
-      "id": "2098118138797953499",
-      "url": "https://x.com/kunchenguid/status/2098118138797953499",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-10T18:35:20.000Z",
-      "sort_at": "2026-09-10T18:35:20.000Z",
-      "text": "another implication of AI manifesting in real world engineering\n\nreact native existed for a single reason which was to reduce the development and maintenance cost of multi-platform mobile apps. they allow you to write a single codebase (kind of) that can work on both ios and android, with a tech stack that many web devs are already familiar with\n\nbut with AI being particularly good at mechanically repeating something that already exists, replicating one platform's implementation to another has become trivial\n\nin general LLMs can write a ton of code at very low cost, especially when there's a source of truth for requirements\n\nthis is a very good thing happening, because it basically shifts the cost vs quality tradeoff towards the quality side - we'll worry more about how to build better things, not how to make things good enough with less code",
-      "media": [],
-      "quote": {
-        "id": "2098047492772249730",
-        "url": "https://x.com/mustafa01ali/status/2098047492772249730",
-        "author": {
-          "screen_name": "mustafa01ali",
-          "name": "Mustafa Ali",
-          "avatar_url": "https://pbs.twimg.com/profile_images/942964841249214465/WQwb1iIH_200x200.jpg"
-        },
-        "created_at": "2026-09-10T13:54:36.000Z",
-        "text": "https://x.com/i/article/2098045587400658947",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2098118138797953499",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 2,
-        "likes": 35,
-        "quotes": 0,
-        "views": 2803
       },
       "fetched_at": "2026-09-10T19:46:39.394Z"
     }
