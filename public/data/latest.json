@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-09-30T02:10:05.472Z",
+  "generated_at": "2026-09-30T08:39:45.614Z",
   "posts": [
+    {
+      "id": "2105134806791229719",
+      "url": "https://x.com/kunchenguid/status/2105134806791229719",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-30T03:17:04.000Z",
+      "sort_at": "2026-09-30T03:17:04.000Z",
+      "text": "why is real world applications of robotics still so behind? \n\nliterally none of my vacuum cleaner robots ever finished a single job without getting stuck one way or another\n\nwhere did all the research go??",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2105134806791229719",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 1,
+        "likes": 43,
+        "quotes": 1,
+        "views": 4241
+      },
+      "fetched_at": "2026-09-30T08:39:45.014Z"
+    },
+    {
+      "id": "2105127678831726632",
+      "url": "https://x.com/kunchenguid/status/2105127678831726632",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-30T02:48:44.000Z",
+      "sort_at": "2026-09-30T02:48:44.000Z",
+      "text": "this is my dot. his name is - surprise surprise - Firstmate!",
+      "media": [
+        {
+          "id": "2105127278271455232",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2105127278271455232/vid/avc1/384x524/lsp9gyiQadtqt_BS.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105127278271455232/img/ePibXLH5i1x7dHZN.jpg",
+          "width": 384,
+          "height": 524,
+          "duration": 16.825
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2105127678831726632",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 14,
+        "reposts": 2,
+        "likes": 136,
+        "quotes": 0,
+        "views": 6967
+      },
+      "fetched_at": "2026-09-30T08:39:45.014Z"
+    },
     {
       "id": "2105037902224785454",
       "url": "https://x.com/kunchenguid/status/2105037902224785454",
@@ -3581,84 +3647,6 @@
         "views": 413
       },
       "fetched_at": "2026-09-10T22:39:10.305Z"
-    },
-    {
-      "id": "2098152967765680302",
-      "url": "https://x.com/kunchenguid/status/2098152967765680302",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-10T20:53:43.000Z",
-      "sort_at": "2026-09-10T20:53:43.000Z",
-      "text": "omfg\n\nQwen, GLM, Kimi, DeepSeek\n\nlooks like they are all just claude",
-      "media": [],
-      "quote": {
-        "id": "2098097512544444447",
-        "url": "https://x.com/AnthropicAI/status/2098097512544444447",
-        "author": {
-          "screen_name": "AnthropicAI",
-          "name": "Anthropic",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg"
-        },
-        "created_at": "2026-09-10T17:13:22.000Z",
-        "text": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with authorities and other AI companies.\n\nThese cases are not typical: we’re highlighting some of the most sophisticated misuse we’ve seen. But they’re especially important to discuss, because they show us where AI misuse is headed, where our safeguards work, and where they need to improve.\n\nWe’re publishing this report so others can spot the same activity on their own platforms, and so we can give the public a clearer view of how emerging threats develop.\n\nRead the report: https://www.anthropic.com/threat-intelligence-report-september-2026",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2098152967765680302",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 24,
-        "reposts": 10,
-        "likes": 430,
-        "quotes": 4,
-        "views": 86733
-      },
-      "fetched_at": "2026-09-10T22:39:10.305Z"
-    },
-    {
-      "id": "2098134178164617409",
-      "url": "https://x.com/kunchenguid/status/2098134178164617409",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-10T19:39:04.000Z",
-      "sort_at": "2026-09-10T19:39:04.000Z",
-      "text": "when claude kept going down, anthropic defended it as \"too much demand\"\n\nnow the same demand explosion happens to openai, and they just showed how it's done by taking the steps to protect their customers\n\nlook back on ant - was it too much demand or too much greed?",
-      "media": [],
-      "quote": {
-        "id": "2098113585683808624",
-        "url": "https://x.com/thsottiaux/status/2098113585683808624",
-        "author": {
-          "screen_name": "thsottiaux",
-          "name": "Tibo",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
-        },
-        "created_at": "2026-09-10T18:17:14.000Z",
-        "text": "To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All other plans and the api remain available.\n\nThere is no impact to existing accounts and we are working on adding more capacity as fast as we can. Thanks!",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2098134178164617409",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 1,
-        "likes": 8,
-        "quotes": 0,
-        "views": 581
-      },
-      "fetched_at": "2026-09-10T19:46:39.394Z"
     }
   ]
 }
