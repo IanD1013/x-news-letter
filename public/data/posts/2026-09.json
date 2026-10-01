@@ -2,6 +2,62 @@
   "month": "2026-09",
   "posts": [
     {
+      "id": "2105436685173727448",
+      "url": "https://x.com/kunchenguid/status/2105436685173727448",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-30T23:16:37.000Z",
+      "sort_at": "2026-09-30T23:16:37.000Z",
+      "text": "used sol 6.1 for a whole day and i'm very.. confused\n\nwill try my best to break down the key things to know\n\n1. sol 6.1 reminds me of opus 5\n\nthis is a model that makes me constantly have to ask \"wtf are you talking about\"\n\nit's very capable. most of the time once i understood what it meant, it did mean the right thing. but it's a pain to get through its choice of words\n\ni hope there's a sol 6.5 coming that ends up being what opus 5.5 was to opus 5 and get this fixed\n\n2. it's bigger than previous sol\n\nyou can easily observe the slowness that comes with this model. this hints at it being a bigger model than 5.6 sol. but my confusion is why it's priced at terra and sonnet range\n\nthen i realized, the pricing is set to attract enterprise customers who pay at API rate\n\nfor consumers who buy the $200 subscription, the lower price doesn't mean more usage because they're cutting the subscription's quota by half\n\nso i guess the intention is to give enterprise customers an opus competitor at lower price, while holding back the benefit from consumers\n\n3. all gpt models still suffer from poor judgment\n\nsol 6.1 is likely taught by astra. if you read some of its code, it smell like astra code. it also inherited astra's strength which is that it can get stuff done with less turns and tokens (even opus 5.5 hasn't got to this level of efficiency yet)\n\nbut... the biggest problem to me is still \"judgment\". this is most obvious when i start to use either astra or sol 6.1 as my firstmate - everything simply starts to fall apart because of poor decision making\n\nfor example it would see me approving a plan and decide to file it in the backlog rather than the more obvious next step which is to start implementation (which opus 5.5 and fable would always \"just know\" it should do)\n\nall signs point to a lack of human judgment in post training - all gpt models are likely heavily optimized by RLVR\n\noverall - i'd categorize sol 6.1 as a solid implementer and reviewer, but i would not use it interactively\n\nopenai has work to do - right now they simply don't have an opus 5.5 equivalent anywhere in its line up, which is problematic\n\nbut seeing how anthropic could come back from opus 5, there's still hope :)",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2105436685173727448",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 25,
+        "reposts": 4,
+        "likes": 165,
+        "quotes": 0,
+        "views": 11218
+      },
+      "fetched_at": "2026-10-01T00:35:42.548Z"
+    },
+    {
+      "id": "2105357448861393081",
+      "url": "https://x.com/kunchenguid/status/2105357448861393081",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-09-30T18:01:46.000Z",
+      "sort_at": "2026-09-30T18:01:46.000Z",
+      "text": "comparing dots, muse, and grok bot just made me realize something important\n\ngrok bot is the ONLY one that made sharing bots easy\n\ni came across quite some grok bot users in the wild using the Firstmate bot i shared https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r (this is basically how i use grok bot btw!)\n\ni can see openai may be hesitant to do something like this because \"custom GPTs\" never quite took off (anyone still remember it?)\n\nbut i think this time it's a bit different. these cloud agents now all have their VM, a code execution environment, and a ton of connectors - they can do far more things than what custom GPTs could do when it was introduced\n\nwith this explosion of possibilities, prepackaged bots now make more sense because people want proven playbooks and not having to reinvent the wheel each time\n\na marketplace like this also creates some network effect which is good for building an ecosystem moat. this is something i think dots and muse should both think a bit more about",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2105357448861393081",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 4,
+        "likes": 117,
+        "quotes": 2,
+        "views": 7796
+      },
+      "fetched_at": "2026-10-01T00:35:42.548Z"
+    },
+    {
       "id": "2105134806791229719",
       "url": "https://x.com/kunchenguid/status/2105134806791229719",
       "creator": "kunchenguid",
