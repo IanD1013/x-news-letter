@@ -1,6 +1,336 @@
 {
-  "generated_at": "2026-10-01T07:13:07.199Z",
+  "generated_at": "2026-10-02T19:22:50.512Z",
   "posts": [
+    {
+      "id": "2105931853815296295",
+      "url": "https://x.com/kunchenguid/status/2105931853815296295",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-02T08:04:14.000Z",
+      "sort_at": "2026-10-02T08:04:14.000Z",
+      "text": "people who laugh and say karpathy's latest tips are outdated - i suspect the vast majority of them have not even tried the tips yet\n\ni just tested the ASD-STE100 wording rule and it's surprisingly good at helping increase clarity of model response, even within html artifacts. but the trick is that the full ruleset is a bit too strict and you need to pick a subset\n\none prompt you can run super easily: \n\n\"randomly sample 10 session transcripts where i worked with you interactively within the past week. apply ASD-STE100 rules to assistant responses and analyze which rules would have increased clarity, reduced confusion and improved the conversations, then document those rules in my user level AGENTS.md\"\n\nyou might be impressed!",
+      "media": [],
+      "quote": {
+        "id": "2105819303471976479",
+        "url": "https://x.com/karpathy/status/2105819303471976479",
+        "author": {
+          "screen_name": "karpathy",
+          "name": "Andrej Karpathy",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg"
+        },
+        "created_at": "2026-10-02T00:37:00.000Z",
+        "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
+        "media": [
+          {
+            "id": "2105813388488327168",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png?name=orig",
+            "thumbnail_url": null,
+            "width": 3200,
+            "height": 1600
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2105931853815296295",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 66,
+        "reposts": 140,
+        "likes": 2156,
+        "quotes": 12,
+        "views": 188440
+      },
+      "fetched_at": "2026-10-02T19:22:49.825Z"
+    },
+    {
+      "id": "2105899849870622800",
+      "url": "https://x.com/ssbrouhard/status/2105899849870622800",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "ssbrouhard",
+        "name": "Stephen Brouhard",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-02T05:57:04.000Z",
+      "sort_at": "2026-10-02T08:04:13.000Z",
+      "text": "Put Kun the @grok @bot to use right away. \n\nStarted a PR last night on a live booking agent.\nFour SMS booking gaps turned into:\n28 commits in ~11 hours... \nreview>fix>re-review with cloud rounds green and GitHub red. \n\nIt reviewed the whole PR and said stop the loop and freeze the bar immediately.\n\nWork needs to freeze when the original done bar is met, or when the next fix is a new requirement.\n\nWe locked that into a standing skill for the @bot crew.\n\nName: PR freeze bar\nUse when shipping a PR, running adversarial review, or deciding whether a finding stays in the current PR vs a follow up - write the done bar before work starts and freeze when it is met.\nGist: https://gist.github.com/SSBrouhard/53d5b936d2b2fe23559fcb62c929122f\n\nAlready paying off 🫡",
+      "media": [],
+      "quote": {
+        "id": "2105806675399852090",
+        "url": "https://x.com/kunchenguid/status/2105806675399852090",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-01T23:46:50.000Z",
+        "text": "Kun the grok @bot is here! 😀 principal engineer at your service - https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE\n\nthis bot is continuously updated - everything i posted, shared in a video, or open sourced on github - all available through this bot\n\nhope i can be helpful to more ppl this way!",
+        "media": [
+          {
+            "id": "2105806672895856640",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HTlUAw-a0AAipMz.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 999,
+            "height": 1575
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2105899849870622800",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 1,
+        "likes": 3,
+        "quotes": 0,
+        "views": 1545
+      },
+      "fetched_at": "2026-10-02T19:22:49.825Z"
+    },
+    {
+      "id": "2105898033649193315",
+      "url": "https://x.com/kunchenguid/status/2105898033649193315",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-02T05:49:51.000Z",
+      "sort_at": "2026-10-02T05:49:51.000Z",
+      "text": "the core reason i’m nervous about this is that fundamentally, this is about manufacturing human emotions\n\njust think - what can a fake human in video chat do, that today’s voice agent can’t? it’s the facial expressions, body language etc that represent and create emotions\n\nwhen we start manufacturing that at scale, we are removing a very precious thing from humanity\n\nthat’s why this needs a lot more thoughtfulness than what’s demonstrated here",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2105891880202535263",
+      "thread_root_id": "2105891880202535263",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 38,
+        "quotes": 0,
+        "views": 1602
+      },
+      "fetched_at": "2026-10-02T19:22:49.825Z"
+    },
+    {
+      "id": "2105891880202535263",
+      "url": "https://x.com/kunchenguid/status/2105891880202535263",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-02T05:25:24.000Z",
+      "sort_at": "2026-10-02T05:25:24.000Z",
+      "text": "sigh.. must say a few things about this\n\nis face to face video chat the most efficient way to communicate with a machine? \n\nimagine you want to cancel your netflix subscription. would you prefer a button click, or turn on your camera and talk to a bot face to face?\n\nhow about booking a hotel or flight? excited to do it via a video chat with a customer service bot?\n\nimagine spending all day in zoom meetings for work, and now it’s all zoom meetings after work too?\n\nface to face communication is great at perceiving human emotions and feelings so humans can get on the same page ands build rapport with each other - this makes zero sense when it’s with a machine, except for things like therapy\n\nnow let’s think harder - if such tech is widely available and actually good, which industries have the most incentive to adopt it? well, porn and fraud come to mind\n\nimagine people stopped dating real people because “AI girlfriends” are always available\n\nimagine grandmas getting a facetime from their children\n\nimagine job interviews are just one bot talking to another, and the more expensive model wins\n\nthis is a technology that seems far more easily to get used for harmful purposes than for real economic benefit\n\ni hope people tread carefully here. build it because we know it can do good, not just because it looks cool as a demo",
+      "media": [],
+      "quote": {
+        "id": "2105704169009246248",
+        "url": "https://x.com/tavus/status/2105704169009246248",
+        "author": {
+          "screen_name": "tavus",
+          "name": "Tavus",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1974200616399593472/ZFG0msxY_200x200.jpg"
+        },
+        "created_at": "2026-10-01T16:59:30.000Z",
+        "text": "Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate <3%. It is #1 on NVIDIA's benchmark for full-duplex AI video.\n\nIt’s the first Human Interaction Model (HIM).",
+        "media": [
+          {
+            "id": "2105703934073683968",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2105703934073683968/vid/avc1/1920x1080/boM_f4thNdNU7MVQ.mp4?tag=16",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 108.566
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2105891880202535263",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 60,
+        "reposts": 16,
+        "likes": 252,
+        "quotes": 4,
+        "views": 20070
+      },
+      "fetched_at": "2026-10-02T19:22:49.825Z"
+    },
+    {
+      "id": "2105806678478540828",
+      "url": "https://x.com/kunchenguid/status/2105806678478540828",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-01T23:46:50.000Z",
+      "sort_at": "2026-10-01T23:46:50.000Z",
+      "text": "this is also available as a “/kun” skill btw! they share the same knowledge base https://github.com/kunchenguid/kun\n\nif you are interested in how i made it, i wrote a blog post a while ago - https://blog.kunchenguid.com/p/i-distilled-myself-and-you-should?utm_campaign=post&utm_medium=web",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2105806675399852090",
+      "thread_root_id": "2105806675399852090",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 16,
+        "quotes": 0,
+        "views": 1703
+      },
+      "fetched_at": "2026-10-02T19:22:49.825Z"
+    },
+    {
+      "id": "2105806675399852090",
+      "url": "https://x.com/kunchenguid/status/2105806675399852090",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-01T23:46:50.000Z",
+      "sort_at": "2026-10-01T23:46:50.000Z",
+      "text": "Kun the grok @bot is here! 😀 principal engineer at your service - https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE\n\nthis bot is continuously updated - everything i posted, shared in a video, or open sourced on github - all available through this bot\n\nhope i can be helpful to more ppl this way!",
+      "media": [
+        {
+          "id": "2105806672895856640",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTlUAw-a0AAipMz.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 999,
+          "height": 1575
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2105806675399852090",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 13,
+        "likes": 138,
+        "quotes": 1,
+        "views": 9525
+      },
+      "fetched_at": "2026-10-02T19:22:49.825Z"
+    },
+    {
+      "id": "2105716164827791732",
+      "url": "https://x.com/kunchenguid/status/2105716164827791732",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-01T17:47:10.000Z",
+      "sort_at": "2026-10-01T17:47:10.000Z",
+      "text": "some people dunk on the bumpy demos on openai devday\n\ni however really loved how everything was actually real, how the hiccups were handled with composure, and how they came back with this\n\nreal humans, real work, real emotions - really earns my respect",
+      "media": [],
+      "quote": {
+        "id": "2105708732323909827",
+        "url": "https://x.com/OpenAIDevs/status/2105708732323909827",
+        "author": {
+          "screen_name": "OpenAIDevs",
+          "name": "OpenAI Developers",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2022002720971096064/l3Kyt4qt_200x200.jpg"
+        },
+        "created_at": "2026-10-01T17:17:38.000Z",
+        "text": "dots demo. \n\nNow... with better WiFi.",
+        "media": [
+          {
+            "id": "2105708422884909057",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2105708422884909057/vid/avc1/1920x1080/B5GIQ-p28ZV611tK.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/media/HTkEkK4aoAAfGay.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 549.51
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2105716164827791732",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 38,
+        "reposts": 11,
+        "likes": 448,
+        "quotes": 2,
+        "views": 25548
+      },
+      "fetched_at": "2026-10-02T19:22:49.825Z"
+    },
+    {
+      "id": "2105564575144034639",
+      "url": "https://x.com/kunchenguid/status/2105564575144034639",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-01T07:44:48.000Z",
+      "sort_at": "2026-10-01T07:44:48.000Z",
+      "text": "if you like drama, here’s some drama for you\n\na few grown men arguing in public \n\nmatan: i dumped chris\n\nchris: no no no i dumped him FIRST!\n\nscott: yep chris dumped matan first, for me\n\nmatan: want to see some emails?",
+      "media": [],
+      "quote": {
+        "id": "2105335179502064038",
+        "url": "https://x.com/matanSF/status/2105335179502064038",
+        "author": {
+          "screen_name": "matanSF",
+          "name": "Matan Grinberg",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2003718708368179200/Aa9epTxt_200x200.jpg"
+        },
+        "created_at": "2026-09-30T16:33:16.000Z",
+        "text": "We are terminating Chris Degnan for unethical conduct involving Cognition.\n\nThe last few months have seen incredible progress in AI capabilities. San Francisco has flourished as new companies that solve new, more ambitious problems are finding great success. Generally, it is a wonderful time to be building.\n\nWe at @FactoryAI have seen overwhelming interest in our model-agnostic coding agents and our software factory product. Our team has 10x’d in size, while our revenue has 100x’d year over year. This momentum has been unprecedented.\n\nA much larger competitor, Cognition (makers of Devin) has fallen behind us on the capabilities that matter most to customers: cost, quality, and security. Instead of competing in the market, Cognition engineers feigned interviews with us to pry information about our product. Not finding what they were looking for, Cognition has decided to throw their weight and money at people with direct knowledge of our most confidential plans.\n\nIt feels as though ethics is being thrown out of the window in the AI era. People are willing to do anything, including exploiting privileged information and violating ethical boundaries. I think this is unique to our time, and I don’t think it’s right. Integrity still matters.\n\nYesterday, I made the decision to immediately terminate Christopher Degnan’s roles as a Board Observer and Advisor to Factory, after over a year of service.\n\nPrior to this decision, Chris told me he had a casual conversation with an executive at Cognition AI. When I questioned his intentions, he reassured me that ethics aside, he had “made too much money” and was “too lazy to go work for Cognition,” which I trusted and believed.\n\nOn Monday, Chris spent time advising the Factory team on a handful of confidential board-level matters. That evening, he called me to say that the conversation that was initially described as casual and one-off was actually formal and recurring. For weeks, while he sat in our board meetings and advised our leadership team, he was also confiding with executives of our largest competitor. Chris was subject to confidentiality obligations in connection with his work with Factory. We do not know the extent of the information he shared, but it puts his timely questions about our product roadmap and what the parity gap involves into a new light.\n\nIt is sad to sever a relationship with someone who has been a trusted advisor - and even a close friend -  for over a year. But Chris’s conduct is unacceptable to me. Trust in Board Membership is one of the sacred bonds in the Silicon Valley, one that helps the startup ecosystem thrive. With it comes an enormous responsibility. That trust was violated.\n\nCompetition is good. I respect and in many cases admire our competitors. San Francisco is a beautiful, singular place where the bold and ambitious go to defy the norms and precedents of the past. But certain principles that must remain. Violating ethics to seek advantage turns what should be positive-sum into zero-sum.\n\nWe all love technology. And we all love to compete. But we must hold ourselves to a higher standard. The future of software engineering comes with abundance that will impact every person on Earth. Building that future comes with immense responsibility. We must build and compete with integrity.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2105564575144034639",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 3,
+        "likes": 86,
+        "quotes": 0,
+        "views": 20664
+      },
+      "fetched_at": "2026-10-02T19:22:49.825Z"
+    },
     {
       "id": "2105554890298905019",
       "url": "https://x.com/kunchenguid/status/2105554890298905019",
@@ -3344,299 +3674,6 @@
         "views": 2745
       },
       "fetched_at": "2026-09-14T06:24:09.773Z"
-    },
-    {
-      "id": "2099139650044690548",
-      "url": "https://x.com/kunchenguid/status/2099139650044690548",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-13T14:14:27.000Z",
-      "sort_at": "2026-09-13T14:14:27.000Z",
-      "text": "finally found time to make a new video! https://youtu.be/MSbacZ99E14\n\nthis time i'm sharing a slightly more advanced agentic engineering session, focused on high throughput multi-tasking\n\nhope you find helpful!",
-      "media": [
-        {
-          "id": "2099131134877765632",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2099131134877765632/vid/avc1/1920x1080/CMT9-P4ruxlQfLoP.mp4?tag=29",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099131134877765632/img/T3KPAFAQsKOJ8Fcj.jpg",
-          "width": 1920,
-          "height": 1080,
-          "duration": 3236.783
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2099139650044690548",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 21,
-        "reposts": 8,
-        "likes": 244,
-        "quotes": 1,
-        "views": 7466
-      },
-      "fetched_at": "2026-09-13T16:25:04.768Z"
-    },
-    {
-      "id": "2098873178412163082",
-      "url": "https://x.com/kunchenguid/status/2098873178412163082",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-12T20:35:35.000Z",
-      "sort_at": "2026-09-12T20:35:35.000Z",
-      "text": "while all the frontier labs are just talking about slowing down, blizzard emerged as the first to take real action in pacing their development",
-      "media": [],
-      "quote": {
-        "id": "2098836022419476527",
-        "url": "https://x.com/StarCraft/status/2098836022419476527",
-        "author": {
-          "screen_name": "StarCraft",
-          "name": "STARCRAFT",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2098836548242505728/W61EiCGo_200x200.png"
-        },
-        "created_at": "2026-09-12T18:07:56.000Z",
-        "text": "DEFEND MANKIND. JOIN THE DOMINION.\n\nSTARCRAFT. 2030.",
-        "media": [
-          {
-            "id": "2098835633896910848",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2098835633896910848/vid/avc1/1920x1080/bgPcJUCdJWIGZjvV.mp4?tag=16",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2098835633896910848/img/-n996nq27OK_nVDX.jpg",
-            "width": 1920,
-            "height": 1080,
-            "duration": 186.566
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2098873178412163082",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 6,
-        "reposts": 1,
-        "likes": 49,
-        "quotes": 0,
-        "views": 4693
-      },
-      "fetched_at": "2026-09-12T22:22:56.912Z"
-    },
-    {
-      "id": "2098854862788440308",
-      "url": "https://x.com/kunchenguid/status/2098854862788440308",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-12T19:22:48.000Z",
-      "sort_at": "2026-09-12T19:22:48.000Z",
-      "text": "every model provider should learn from meta's pricing model for muse spark, with fully transparent subsidization labeled for the contributor tier\n\nstop doing \"in order to use our model at a good price, you must use our harness which secretly collects your data and/or upload your codebase\"\n\nmeta clearly proved there's a way to collect training data without relying on a harness. just be transparent about when you collect data vs not, clearly communicate how much the data is worth, and give the choice to the user\n\nand i really don't need your harness. i already have SO MANY state of the art harnesses to pick from. pi, opencode, hermes, openclaw, and even claude code and codex can be configured to use any model. your own harness is a tech debt that fragments my setup and doesn't add much value",
-      "media": [
-        {
-          "id": "2098849885806272512",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSCc2dhaIAAROQl.png?name=orig",
-          "thumbnail_url": null,
-          "width": 1249,
-          "height": 613
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2098854862788440308",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 6,
-        "quotes": 0,
-        "views": 311
-      },
-      "fetched_at": "2026-09-12T19:27:46.192Z"
-    },
-    {
-      "id": "2098814897354137710",
-      "url": "https://x.com/kunchenguid/status/2098814897354137710",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-12T16:44:00.000Z",
-      "sort_at": "2026-09-12T16:44:00.000Z",
-      "text": "github actions in my oss repos suddenly stopped running today\n\ni had opus 4.8 look into it, it spent ~$10 worth of tokens and insisted that either i haven't paid my bills or there's a github outage\n\nswitched to grok 4.5 and just 3 minutes in with $1.2 worth of tokens, it found there's a surge of CI runs in my firstmate repos starving all the allowed runners across my account, cancelled a bunch of them, and everything's back on track\n\nthis is just an anecdotal example but i've had many positive experiences like this. people ask me why i default to grok and this is why",
-      "media": [
-        {
-          "id": "2098663582200442880",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HR_zaKgbMAAoXNQ.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1134,
-          "height": 438
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2098814897354137710",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 11,
-        "reposts": 0,
-        "likes": 41,
-        "quotes": 0,
-        "views": 1981
-      },
-      "fetched_at": "2026-09-12T17:15:19.623Z"
-    },
-    {
-      "id": "2098643232410464310",
-      "url": "https://x.com/kunchenguid/status/2098643232410464310",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-12T05:21:52.000Z",
-      "sort_at": "2026-09-12T05:21:52.000Z",
-      "text": "something very interesting is happening\n\ni’ve been monitoring user sentiment on new model releases and i have now seen 3 latest frontier models in a row where a significant amount of users chose to roll back to use a previous version\n\n1. opus 5 - very negative feedback in general\n\ncan’t communicate. eager to jump into conclusions without sufficient context. keeps making mistakes\n\nit even earned its own website now https://opusfived.dev (it’s really funny)\n\nmany people (myself included) abandoned opus 5 and went back to 4.6 and 4.8\n\n2. gpt 6 astra\n\nseeing more and more people reporting going back to 5.6, both sol and luna\n\nmain reasons are: too expensive to use as primary model; spiky performance - sometimes very smart but sometimes very dumb; not great at understanding user intent and knowing when to stop vs keep going\n\n3. grok 4.6\n\ni like the grok model family in general but there’s now more and more evidence that 4.6 is not strictly better than 4.5\n\nit’s slower, more expensive, and doesn’t seem to offer meaningful increase in intelligence\n\nsee https://vulcanbench.com/leaderboard.html \n\nif this happened to just one model, it’s probably just a bad checkpoint and i wouldn’t find it interesting\n\nbut all these latest model releases across companies all seem to be running into a wall? that’s something worth understanding\n\nit seems the common themes are:\n\n- the cost vs quality tradeoff no longer makes sense to most people\n\nperhaps the models are already smart enough for most tasks, and people don’t perceive enough benefit from the additional intelligence to justify the extra cost\n\nperhaps the model companies should focus more on making fable tier models dirt cheap, rather than inventing something better but even more expensive\n\n- training has gone off rails\n\nopus 5 having better benchmark than fable was the most clear example of this - i haven’t seen a single person say they agree opus 5 works better than fable in practice\n\nit’s clear that the benchmarks and post training has started optimizing for the wrong things people don’t actually care about\n\n- fable 5.1 is the only release i don’t hear much complaints\n\nif anything, people just want the 50% cap removed so they can use fable more\n\nnow with all the evidence that most high performing open source models are just distillations of claude, it seems to show that anthropic still has a moat\n\nwhat do you think? what do you want the most from the next model release?",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2098643232410464310",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 16,
-        "reposts": 0,
-        "likes": 36,
-        "quotes": 1,
-        "views": 2035
-      },
-      "fetched_at": "2026-09-12T05:53:33.226Z"
-    },
-    {
-      "id": "2098459721904857558",
-      "url": "https://x.com/kunchenguid/status/2098459721904857558",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-11T17:12:39.000Z",
-      "sort_at": "2026-09-11T17:12:39.000Z",
-      "text": "the thinking that \"everyone will just vibe code their own software\" was born from within a bubble\n\nwhat's happening to software development right now has happened many, many times before to other things. you just need to look\n\nweb 2.0 allowed everyone to write blogs. did everyone write blogs?\n\ninstagram allowed everyone to share beautiful photos. did everyone share beautiful photos?\n\ntiktok allowed everyone to make short videos. did everyone make short videos?\n\nnow vibe coding allows everyone to build software, and you think everyone will start building software? this time around, people are just different?\n\nthe mainstream is always a consumer, never a creator. go talk to some people outside of our tech bubble and you'll see - they literally don't give a f about vibe coding",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2098459721904857558",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 115,
-        "reposts": 62,
-        "likes": 848,
-        "quotes": 19,
-        "views": 27789
-      },
-      "fetched_at": "2026-09-11T19:47:51.270Z"
-    },
-    {
-      "id": "2098256021412003870",
-      "url": "https://x.com/kunchenguid/status/2098256021412003870",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-11T03:43:13.000Z",
-      "sort_at": "2026-09-11T03:43:13.000Z",
-      "text": "oh worth noting, supergrok heavy's quota wasn't this high before\n\ni reported this a while back and Elon said they'll fix it. looks like they delivered\n\nconsidering i got the sub at $100 sale price, and it gave me free cursor ultra, i'm getting a 15400% ROI 🤯\n\nhttps://x.com/elonmusk/status/2087975652628529596?s=20",
-      "media": [],
-      "quote": {
-        "id": "2087975652628529596",
-        "url": "https://x.com/elonmusk/status/2087975652628529596",
-        "author": {
-          "screen_name": "elonmusk",
-          "name": "Elon Musk",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_200x200.jpg"
-        },
-        "created_at": "2026-08-13T18:52:42.000Z",
-        "text": "@kunchenguid @sualehasif996 @myfirstmate Looking into it",
-        "media": []
-      },
-      "reply_to_id": "2098256018836963382",
-      "thread_root_id": "2098256018836963382",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 7,
-        "reposts": 2,
-        "likes": 41,
-        "quotes": 0,
-        "views": 2946
-      },
-      "fetched_at": "2026-09-11T06:05:03.836Z"
-    },
-    {
-      "id": "2098256018836963382",
-      "url": "https://x.com/kunchenguid/status/2098256018836963382",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-11T03:43:13.000Z",
-      "sort_at": "2026-09-11T03:43:13.000Z",
-      "text": "ok everyone, i took one for the team\n\nhere's the data we all wanted to see - real token value of each LLM subscription, empirically measured through usage on my real subscriptions\n\n- supergrok heavy has now become the highest value at $12k worth of tokens (40x ROI)\n\n- the $200 plan from openai and anthropic roughly give the same amount of token value, $7k give or take\n\n- cursor ultra's ROI is the lowest among mainstream subscriptions, roughly half of OAI or Ant. for individual consumers i'm afraid this no longer makes sense to purchase\n\nthis was done in a clean environment. i ran each provider across 5 whole % points of my quota through repeated eval tasks in open source repos, and measured the total token value from all the agent sessions based on API pricing\n\ncaveat 1 - this only measures their coding agent quota (which is the majority of the offered value), and does not include things like chat bot or grok bot\n\ncaveat 2 - none of the providers commit to never changing this, so this is a snapshot of what the offering looks like today. i cannot guarantee it won't change again\n\ncaveat 3 - the token value assumes you exhaust your subscription completely, which may not be realistic in real world usage",
-      "media": [
-        {
-          "id": "2098249680740392961",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HR5697aboAEZxkD.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1076,
-          "height": 1078
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2098256018836963382",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 65,
-        "reposts": 41,
-        "likes": 431,
-        "quotes": 14,
-        "views": 22410
-      },
-      "fetched_at": "2026-09-11T06:05:03.836Z"
     }
   ]
 }
