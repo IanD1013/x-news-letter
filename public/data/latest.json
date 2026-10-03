@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-02T19:22:50.512Z",
+  "generated_at": "2026-10-03T05:25:13.065Z",
   "posts": [
+    {
+      "id": "2106223024253071404",
+      "url": "https://x.com/kunchenguid/status/2106223024253071404",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-03T03:21:15.000Z",
+      "sort_at": "2026-10-03T03:21:15.000Z",
+      "text": "there’s now a new mental model for the software stack\n\n- skills are the new “apps”\n\nyou install them to get more functionality. people are starting to build and share skills more than real “apps”\n\nmany skills are very simple today but i think we’ll eventually see increasing sophistication\n\n- mcp servers and CLIs are the new “APIs”\n\nthey allow services to encapsulate their core capabilities behind an interface the can be invoked in a composable way\n\nmany skills will be calling mcp servers or clis behind the scenes just like how a lot of apps call APIs today\n\n- agent harnesses are the new “operating systems”\n\nit sits between the user and the underlying resources, helping the user manage common concerns such as compute, memory, security etc\n\nif you look closely, it’s hard to unsee the resemblance - claude is the new macos. codex is the new windows. pi is the new linux\n\nskills run in agent harnesses just like apps run in existing OS\n\n- LLMs are the new “computers”\n\nthey process instructions coming from the user, the skills, the agent harnesses, and compute the output\n\nthe model weights is the cpu. context window is the memory. actual computers are becoming more like the power source\n\nok so why do we need this mental model? i think it helps us think about where we play\n\nif you want to be the new app developers - start to learn to write good skills\n\nif you want to build a saas, figure out how to package things as good mcp servers and CLIs\n\nif you want to be linus and write the new linux, build an agent harness. otherwise, you can still try to learn about how agent harness work like how CS students used to learn about OS\n\nif you want to be the new apple or samsung, start to learn how LLMs are trained and play with open weight models - you may end up inventing the new raspberry pi!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106223024253071404",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 31,
+        "reposts": 9,
+        "likes": 144,
+        "quotes": 4,
+        "views": 4836
+      },
+      "fetched_at": "2026-10-03T05:25:12.628Z"
+    },
     {
       "id": "2105931853815296295",
       "url": "https://x.com/kunchenguid/status/2105931853815296295",
@@ -3646,34 +3674,6 @@
         "views": 2430
       },
       "fetched_at": "2026-09-14T19:26:35.910Z"
-    },
-    {
-      "id": "2099354729235247546",
-      "url": "https://x.com/kunchenguid/status/2099354729235247546",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-14T04:29:06.000Z",
-      "sort_at": "2026-09-14T04:29:06.000Z",
-      "text": "when thinking about the risks of AI, i believe AI can create disastrous outcomes without having to first achieve AGI\n\npeople who are building real things with AI today know that even the best models right now are still very limiting in their ability to get to valuable outcomes autonomously, because they really don’t have the judgment required to know what humans like\n\nhowever, creating a disaster to human society does NOT require that judgement. it’s much much easier to create damage than to create value\n\nimagine ten billion retarded humans each with a kitchen knife in their hands let loose on the streets, into schools, offices, and neighborhoods\n\nthey don’t have the intelligence to create anything useful, but they can easily get a lot of good people killed\n\nin practice, i think it’s a lot less likely that we’ll see AI become so smart that they deliberately turn on humans and kill us all\n\nit seems much more probable that a retarded AI somehow got deployed with massive compute and they just started doing completely stupid things randomly and cause massive damage to the human society before we can react\n\nwhen asked why they’ll explain it’s a genuine mistake and it’ll be the actual truth",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2099354729235247546",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 6,
-        "reposts": 3,
-        "likes": 33,
-        "quotes": 0,
-        "views": 2745
-      },
-      "fetched_at": "2026-09-14T06:24:09.773Z"
     }
   ]
 }
