@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-10-03T05:25:13.065Z",
+  "generated_at": "2026-10-03T19:58:09.074Z",
   "posts": [
+    {
+      "id": "2106416486340276543",
+      "url": "https://x.com/kunchenguid/status/2106416486340276543",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-03T16:10:00.000Z",
+      "sort_at": "2026-10-03T16:10:00.000Z",
+      "text": "coding is solved. where is the moat?\n\nnew apple guy tweets one word “hello” and gets 90 million views\n\nthere’s the moat",
+      "media": [
+        {
+          "id": "2106311160530423808",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTse1z3bUAAuW__.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 593
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106416486340276543",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 5,
+        "likes": 153,
+        "quotes": 1,
+        "views": 8316
+      },
+      "fetched_at": "2026-10-03T19:58:08.479Z"
+    },
+    {
+      "id": "2106260726071341175",
+      "url": "https://x.com/jayparkcanada/status/2106260726071341175",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "jayparkcanada",
+        "name": "Jay",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2102260532715646976/MlP4Qd9j_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-03T05:51:04.000Z",
+      "sort_at": "2026-10-03T16:09:59.000Z",
+      "text": "I made fleetdeck, a terminal dashboard for firstmate by @kunchenguid \n\nfirstmate keeps all fleet state in plain files. fleetdeck reads them and shows one screen:\n- tasks, PRs, CI and conflicts\n- open decisions and second mates\n- the context each session loads\n- activity events",
+      "media": [
+        {
+          "id": "2106259996333821952",
+          "type": "gif",
+          "url": "https://video.twimg.com/tweet_video/HTrwTqYX0AAvfo-.mp4",
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HTrwTqYX0AAvfo-.jpg",
+          "width": 1280,
+          "height": 760
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106260726071341175",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 13,
+        "quotes": 0,
+        "views": 1528
+      },
+      "fetched_at": "2026-10-03T19:58:08.479Z"
+    },
     {
       "id": "2106223024253071404",
       "url": "https://x.com/kunchenguid/status/2106223024253071404",
@@ -3609,71 +3687,6 @@
         "views": 3132
       },
       "fetched_at": "2026-09-14T23:11:18.250Z"
-    },
-    {
-      "id": "2099535342391153065",
-      "url": "https://x.com/kunchenguid/status/2099535342391153065",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-14T16:26:47.000Z",
-      "sort_at": "2026-09-14T16:26:47.000Z",
-      "text": "\"the last one\" was such a good name. too bad it didn't last",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2099533194655846425",
-      "thread_root_id": "2099533194655846425",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 1,
-        "quotes": 0,
-        "views": 669
-      },
-      "fetched_at": "2026-09-14T19:26:35.910Z"
-    },
-    {
-      "id": "2099533194655846425",
-      "url": "https://x.com/kunchenguid/status/2099533194655846425",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-14T16:18:15.000Z",
-      "sort_at": "2026-09-14T16:18:15.000Z",
-      "text": "this thing was widely reported as “the end of programming” in 1981 \n\nhttps://en.wikipedia.org/wiki/The_Last_One_(software)\n\nright before that, in 1960s, people thought COBOL would allow everyone to build whatever software they wanted and there’s no need for programmers\n\nnow the same people in the same bubble think agents will finally end it, because they spent a weekend and got impressed by how quickly the agent could produce a toy. now they think that’s how everyone wants to spend their weekends\n\nopen your eyes - most regular humans don’t even want to talk to an agent",
-      "media": [
-        {
-          "id": "2099533191564644357",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSMKUF1aUAUAiYb.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1293,
-          "height": 1216
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2099533194655846425",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 8,
-        "reposts": 3,
-        "likes": 32,
-        "quotes": 1,
-        "views": 2430
-      },
-      "fetched_at": "2026-09-14T19:26:35.910Z"
     }
   ]
 }

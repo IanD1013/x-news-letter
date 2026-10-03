@@ -2,6 +2,84 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2106416486340276543",
+      "url": "https://x.com/kunchenguid/status/2106416486340276543",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-03T16:10:00.000Z",
+      "sort_at": "2026-10-03T16:10:00.000Z",
+      "text": "coding is solved. where is the moat?\n\nnew apple guy tweets one word “hello” and gets 90 million views\n\nthere’s the moat",
+      "media": [
+        {
+          "id": "2106311160530423808",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTse1z3bUAAuW__.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 593
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106416486340276543",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 5,
+        "likes": 153,
+        "quotes": 1,
+        "views": 8316
+      },
+      "fetched_at": "2026-10-03T19:58:08.479Z"
+    },
+    {
+      "id": "2106260726071341175",
+      "url": "https://x.com/jayparkcanada/status/2106260726071341175",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "jayparkcanada",
+        "name": "Jay",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2102260532715646976/MlP4Qd9j_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-03T05:51:04.000Z",
+      "sort_at": "2026-10-03T16:09:59.000Z",
+      "text": "I made fleetdeck, a terminal dashboard for firstmate by @kunchenguid \n\nfirstmate keeps all fleet state in plain files. fleetdeck reads them and shows one screen:\n- tasks, PRs, CI and conflicts\n- open decisions and second mates\n- the context each session loads\n- activity events",
+      "media": [
+        {
+          "id": "2106259996333821952",
+          "type": "gif",
+          "url": "https://video.twimg.com/tweet_video/HTrwTqYX0AAvfo-.mp4",
+          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HTrwTqYX0AAvfo-.jpg",
+          "width": 1280,
+          "height": 760
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106260726071341175",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 13,
+        "quotes": 0,
+        "views": 1528
+      },
+      "fetched_at": "2026-10-03T19:58:08.479Z"
+    },
+    {
       "id": "2106223024253071404",
       "url": "https://x.com/kunchenguid/status/2106223024253071404",
       "creator": "kunchenguid",
