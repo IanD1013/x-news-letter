@@ -2,6 +2,127 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2106651847092039801",
+      "url": "https://x.com/HaseebMir91/status/2106651847092039801",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "HaseebMir91",
+        "name": "Haseeb Mir",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2031282149798932480/SmHOyGd-_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-04T07:45:14.000Z",
+      "sort_at": "2026-10-04T09:54:33.150Z",
+      "text": "Most agent frameworks make you juggle 10 terminal tabs babysitting context.\n\n@kunchenguid built Firstmate and flipped the entire model: you talk to one agent, and it orchestrates the entire crew across git worktrees and tmux sessions.\n\nHands down the best agent orchestrator on the market right now.\n\nCheck it out: https://github.com/kunchenguid/firstmate #AI #CodingAgents #OpenSource #DevTools",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106651847092039801",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 9,
+        "quotes": 0,
+        "views": 707
+      },
+      "fetched_at": "2026-10-04T09:54:33.150Z"
+    },
+    {
+      "id": "2106618064863137953",
+      "url": "https://x.com/ssbrouhard/status/2106618064863137953",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "ssbrouhard",
+        "name": "Stephen Brouhard",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-04T05:31:00.000Z",
+      "sort_at": "2026-10-04T09:54:33.150Z",
+      "text": "new test on the hybrid firstmate/pstack. \ntwo advisors, zero authority.\n\n@kunchenguid's kun bot for planning and locked-bar pass/fail and distilled @poteto that only does pstack judgment: go deep before parallel, verify before autopilot, codebase as memory.\n\nfirstmate bot asks each once, on a real design fork and before adversarial review. their notes are input. they don't route, don't merge, and don't install a second router. grok-ship adversarial review is still the code gate.\n\ni did need to tweak the distillation a bit. i used lauren's dr. eggbot to ensure the bot brief was a checklist with a point of view answering from pstack rules vs \"what would lauren say on her blog?\" this keeps it focused for my purpose. \n\nthe \"distill anyone\" bot is linked that kun made. many use cases and malleable.\n\ndistill bot: https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt\nkun bot: https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE\ndr eggbot: https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+      "media": [
+        {
+          "id": "2106612507154464768",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTww6fhWQAAWE2p.png?name=orig",
+          "thumbnail_url": null,
+          "width": 512,
+          "height": 611
+        }
+      ],
+      "quote": {
+        "id": "2094992750378664267",
+        "url": "https://x.com/ssbrouhard/status/2094992750378664267",
+        "author": {
+          "screen_name": "ssbrouhard",
+          "name": "Stephen Brouhard",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+        },
+        "created_at": "2026-09-02T03:36:09.000Z",
+        "text": "How I applied the pstack / Firstmate hybrid to Grok Ship and how you can set it up.\n\nLast week I wrote about combining @poteto's pstack and @kunchenguid's Firstmate without letting their routers fight. Firstmate stays the outer loop. pstack's engineering habits go into the workers.\n\nGrok Ship is that same idea on Grok Bot. One Firstmate. Scout vs ship. Project crewmates drive Cursor cloud agents. A throwaway reviewer reads the branch before any PR. You still merge.\n\nIf you bolt pstack on as another commander, you get two captains arguing about leftover wording. Don't.\n\nKeep Grok Ship as the fleet. Inject pstack into the writers.\n\nSetup:\n\n1. Tell any Grok Bot:\nfollow https://github.com/kunchenguid/grok-ship/blob/main/GROK_SHIP.md\n\n2. Talk only to Firstmate after that.\n\n3. Do not install the pstack plugin into the factory. Do not add a pstack bot. Put a short worker brief on each project crewmate that launches cloud writers.\n\nWorker brief (copy this):\n- Firstmate is the only commander. Do not become a second product router.\n- Cloud-agent ships load a short play just-in-time, not a prompt dump.\n- Smallest logical change. Subtract code before adding. Analyze blast radius.\n- Map other parts of the system only if the change actually crosses into them. If you skip that, write one line why.\n- Done means the project's tests plus real artifact proof (a live command or repo verifier), not a passing opinion.\n\n4. Thin the adversarial reviewer:\n- Auto-fix and real errors only.\n- Ask-user only for merge, deploy, customer send, or a true product fork.\n- Leftover wording is not a fork. Translate it against standing product rules.\n\n5. You still merge. Factory never merges on its own. Scout stays a report, never a PR.\n\nSo the hybrid is Grok Ship isolates the fleet. The worker brief carries the discipline. The reviewer does not get a vote on product.\n\npstack: https://github.com/cursor/plugins/tree/main/pstack\nGrok Ship: \nhttps://github.com/kunchenguid/grok-ship\n@orca_build artifact:\nhttps://share.onorca.dev/a/A959eORtRvEY",
+        "media": [
+          {
+            "id": "2094992141059608576",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HRLoQKcX0AAxQq_.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2400,
+            "height": 3000
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2106618064863137953",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 2,
+        "likes": 21,
+        "quotes": 0,
+        "views": 2793
+      },
+      "fetched_at": "2026-10-04T09:54:33.150Z"
+    },
+    {
+      "id": "2106612888987443424",
+      "url": "https://x.com/kunchenguid/status/2106612888987443424",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-04T05:10:26.000Z",
+      "sort_at": "2026-10-04T05:10:26.000Z",
+      "text": "there’s something quite awkward about all the personal agents in the current hype cycle\n\nmuse, grok bot, instinct, dots, and whatever google, anthropic will come up with\n\nnone of them is “mine”\n\ni’d be trusting a vendor for some of the most sensitive data about me and bet on them handling it with extreme responsibility. what if they have a data leakage incident? what if they hired a wrong employee? what if they simply break bad?\n\ni’d also be betting on their model. right now i’ve set up a lot of my stuff in grok bot, but what if their model falls behind? what if another model becomes 10x better on pure intelligence? then i’ll either miss out on a better assistant, or have to bite the bullet and do a full migration\n\ni’d also have to bet on their product. they may not build the features i want. they may not allow me to customize enough. and one day my assistant may show me ads\n\nthat feels like way too much betting than what i’d be comfortable with, if i truly want literally everything in my life to go through and be taken care of by an assistant\n\nwith all that considered, i’m more bullish on open source personal agents that run on people’s own computers. but i think these open source projects have to break out of the assumption that their users are developers and they can just throw a repo at them and ask them to launch a terminal\n\na well polished, fool proof, community maintained, vendor agnostic, free personal agent that everyone can run by themselves without locking into a SaaS - that’s what i think many people will need",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106612888987443424",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 94,
+        "reposts": 11,
+        "likes": 290,
+        "quotes": 4,
+        "views": 14005
+      },
+      "fetched_at": "2026-10-04T09:54:33.150Z"
+    },
+    {
       "id": "2106416486340276543",
       "url": "https://x.com/kunchenguid/status/2106416486340276543",
       "creator": "kunchenguid",

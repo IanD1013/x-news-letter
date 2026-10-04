@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-10-03T19:58:09.074Z",
+  "generated_at": "2026-10-04T09:54:34.217Z",
   "posts": [
+    {
+      "id": "2106651847092039801",
+      "url": "https://x.com/HaseebMir91/status/2106651847092039801",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "HaseebMir91",
+        "name": "Haseeb Mir",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2031282149798932480/SmHOyGd-_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-04T07:45:14.000Z",
+      "sort_at": "2026-10-04T09:54:33.150Z",
+      "text": "Most agent frameworks make you juggle 10 terminal tabs babysitting context.\n\n@kunchenguid built Firstmate and flipped the entire model: you talk to one agent, and it orchestrates the entire crew across git worktrees and tmux sessions.\n\nHands down the best agent orchestrator on the market right now.\n\nCheck it out: https://github.com/kunchenguid/firstmate #AI #CodingAgents #OpenSource #DevTools",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106651847092039801",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 9,
+        "quotes": 0,
+        "views": 707
+      },
+      "fetched_at": "2026-10-04T09:54:33.150Z"
+    },
+    {
+      "id": "2106618064863137953",
+      "url": "https://x.com/ssbrouhard/status/2106618064863137953",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "ssbrouhard",
+        "name": "Stephen Brouhard",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-04T05:31:00.000Z",
+      "sort_at": "2026-10-04T09:54:33.150Z",
+      "text": "new test on the hybrid firstmate/pstack. \ntwo advisors, zero authority.\n\n@kunchenguid's kun bot for planning and locked-bar pass/fail and distilled @poteto that only does pstack judgment: go deep before parallel, verify before autopilot, codebase as memory.\n\nfirstmate bot asks each once, on a real design fork and before adversarial review. their notes are input. they don't route, don't merge, and don't install a second router. grok-ship adversarial review is still the code gate.\n\ni did need to tweak the distillation a bit. i used lauren's dr. eggbot to ensure the bot brief was a checklist with a point of view answering from pstack rules vs \"what would lauren say on her blog?\" this keeps it focused for my purpose. \n\nthe \"distill anyone\" bot is linked that kun made. many use cases and malleable.\n\ndistill bot: https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt\nkun bot: https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE\ndr eggbot: https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
+      "media": [
+        {
+          "id": "2106612507154464768",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HTww6fhWQAAWE2p.png?name=orig",
+          "thumbnail_url": null,
+          "width": 512,
+          "height": 611
+        }
+      ],
+      "quote": {
+        "id": "2094992750378664267",
+        "url": "https://x.com/ssbrouhard/status/2094992750378664267",
+        "author": {
+          "screen_name": "ssbrouhard",
+          "name": "Stephen Brouhard",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+        },
+        "created_at": "2026-09-02T03:36:09.000Z",
+        "text": "How I applied the pstack / Firstmate hybrid to Grok Ship and how you can set it up.\n\nLast week I wrote about combining @poteto's pstack and @kunchenguid's Firstmate without letting their routers fight. Firstmate stays the outer loop. pstack's engineering habits go into the workers.\n\nGrok Ship is that same idea on Grok Bot. One Firstmate. Scout vs ship. Project crewmates drive Cursor cloud agents. A throwaway reviewer reads the branch before any PR. You still merge.\n\nIf you bolt pstack on as another commander, you get two captains arguing about leftover wording. Don't.\n\nKeep Grok Ship as the fleet. Inject pstack into the writers.\n\nSetup:\n\n1. Tell any Grok Bot:\nfollow https://github.com/kunchenguid/grok-ship/blob/main/GROK_SHIP.md\n\n2. Talk only to Firstmate after that.\n\n3. Do not install the pstack plugin into the factory. Do not add a pstack bot. Put a short worker brief on each project crewmate that launches cloud writers.\n\nWorker brief (copy this):\n- Firstmate is the only commander. Do not become a second product router.\n- Cloud-agent ships load a short play just-in-time, not a prompt dump.\n- Smallest logical change. Subtract code before adding. Analyze blast radius.\n- Map other parts of the system only if the change actually crosses into them. If you skip that, write one line why.\n- Done means the project's tests plus real artifact proof (a live command or repo verifier), not a passing opinion.\n\n4. Thin the adversarial reviewer:\n- Auto-fix and real errors only.\n- Ask-user only for merge, deploy, customer send, or a true product fork.\n- Leftover wording is not a fork. Translate it against standing product rules.\n\n5. You still merge. Factory never merges on its own. Scout stays a report, never a PR.\n\nSo the hybrid is Grok Ship isolates the fleet. The worker brief carries the discipline. The reviewer does not get a vote on product.\n\npstack: https://github.com/cursor/plugins/tree/main/pstack\nGrok Ship: \nhttps://github.com/kunchenguid/grok-ship\n@orca_build artifact:\nhttps://share.onorca.dev/a/A959eORtRvEY",
+        "media": [
+          {
+            "id": "2094992141059608576",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HRLoQKcX0AAxQq_.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2400,
+            "height": 3000
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2106618064863137953",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 2,
+        "likes": 21,
+        "quotes": 0,
+        "views": 2793
+      },
+      "fetched_at": "2026-10-04T09:54:33.150Z"
+    },
+    {
+      "id": "2106612888987443424",
+      "url": "https://x.com/kunchenguid/status/2106612888987443424",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-04T05:10:26.000Z",
+      "sort_at": "2026-10-04T05:10:26.000Z",
+      "text": "there’s something quite awkward about all the personal agents in the current hype cycle\n\nmuse, grok bot, instinct, dots, and whatever google, anthropic will come up with\n\nnone of them is “mine”\n\ni’d be trusting a vendor for some of the most sensitive data about me and bet on them handling it with extreme responsibility. what if they have a data leakage incident? what if they hired a wrong employee? what if they simply break bad?\n\ni’d also be betting on their model. right now i’ve set up a lot of my stuff in grok bot, but what if their model falls behind? what if another model becomes 10x better on pure intelligence? then i’ll either miss out on a better assistant, or have to bite the bullet and do a full migration\n\ni’d also have to bet on their product. they may not build the features i want. they may not allow me to customize enough. and one day my assistant may show me ads\n\nthat feels like way too much betting than what i’d be comfortable with, if i truly want literally everything in my life to go through and be taken care of by an assistant\n\nwith all that considered, i’m more bullish on open source personal agents that run on people’s own computers. but i think these open source projects have to break out of the assumption that their users are developers and they can just throw a repo at them and ask them to launch a terminal\n\na well polished, fool proof, community maintained, vendor agnostic, free personal agent that everyone can run by themselves without locking into a SaaS - that’s what i think many people will need",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106612888987443424",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 94,
+        "reposts": 11,
+        "likes": 290,
+        "quotes": 4,
+        "views": 14005
+      },
+      "fetched_at": "2026-10-04T09:54:33.150Z"
+    },
     {
       "id": "2106416486340276543",
       "url": "https://x.com/kunchenguid/status/2106416486340276543",
@@ -3553,140 +3674,6 @@
         "views": 2713
       },
       "fetched_at": "2026-09-15T07:50:36.804Z"
-    },
-    {
-      "id": "2099627078660624419",
-      "url": "https://x.com/kunchenguid/status/2099627078660624419",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-14T22:31:19.000Z",
-      "sort_at": "2026-09-14T22:31:19.000Z",
-      "text": "oooh this looks nice - a handy little skill to generate animated presentational videos",
-      "media": [],
-      "quote": {
-        "id": "2099609501943078913",
-        "url": "https://x.com/CalvinGrunewald/status/2099609501943078913",
-        "author": {
-          "screen_name": "CalvinGrunewald",
-          "name": "Calvin Grunewald",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
-        },
-        "created_at": "2026-09-14T21:21:28.000Z",
-        "text": "Sharing a fun new skill/tool I built that helps me make videos for a variety of purposes. You have your coding agent install the skill, and then it writes react code to generate the video. It supports music composition as well as narration. I use it for making videos about products or tools we build or creating videos for myself to learn new things (IE, make a video of this ML paper).\n\nA bunch of examples are on the site below. Totally free to use (MIT)!\n\nhttps://clapper.archastro.tryintern.dev/",
-        "media": [
-          {
-            "id": "2099608297330593792",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2099608297330593792/vid/avc1/1280x720/fiFQzIHW6Ee2Jv-V.mp4?tag=29",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099608297330593792/img/vWcWqDj2M4cWrtM2.jpg",
-            "width": 1280,
-            "height": 720,
-            "duration": 24.4
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2099627078660624419",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 15,
-        "quotes": 0,
-        "views": 2507
-      },
-      "fetched_at": "2026-09-14T23:11:18.250Z"
-    },
-    {
-      "id": "2099605005984759820",
-      "url": "https://x.com/kunchenguid/status/2099605005984759820",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-14T21:03:36.000Z",
-      "sort_at": "2026-09-14T21:03:36.000Z",
-      "text": "sharing an emotional milestone plus some tips for growing a social media presence\n\nif you came across my youtube channel, you might have seen i always had “ex-meta” or “L8 principal” mentioned in the title of my videos\n\ni hated doing it, and every time i published a video i always a/b tested removing that title\n\nunfortunately, every single time, removing it would destroy the reach and the videos simply wouldn’t be seen nearly as much\n\nthe latest video was the first one i ever had where the “ex-Meta L8” title no longer made any difference. and i have now picked the variant that’s just “with Kun”\n\ni’m _so_ happy to see it. it’s hard to detach from an identity that was built up over decades of experience. this video is the milestone that tells me i have now created my own identity over the past couple of months after quitting the big tech game\n\nthe learning i internalized for growing a social media presence is that everyone’s busy. no one’s going to spend time following content that they don’t know is good or not\n\nthe exact same tweet, the exact same video, when published by someone the audience trusts, will always get more engagement than when it’s shared by someone without proven credibility\n\nso to establish a new presence, my theory is that you need to figure out how to get people to recognize and trust you. that’s the real work, not learning all kinds of engagement baits which might work in the short term to a degree but doesn’t help you build a durable and trusted reputation\n\npeople do give some trust to authority and experience, so if you have that, you can use it to accelerate the cold start. otherwise, i suggest you focus on creating things that are genuinely useful for others. things, not opinions. an opinion from a random person is the most noisy thing on social media that no one has time for\n\nkeep showing up with cool stuff that others can actually benefit from, you’ll gradually establish your identity",
-      "media": [
-        {
-          "id": "2099605000163110912",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSNLn5tbMAAHYhr.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1206,
-          "height": 1010
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2099605005984759820",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 20,
-        "reposts": 0,
-        "likes": 141,
-        "quotes": 0,
-        "views": 4098
-      },
-      "fetched_at": "2026-09-14T23:11:18.250Z"
-    },
-    {
-      "id": "2099589472535101582",
-      "url": "https://x.com/kunchenguid/status/2099589472535101582",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-14T20:01:53.000Z",
-      "sort_at": "2026-09-14T20:01:53.000Z",
-      "text": "looks like exercise helps with mental health, and video games help with cognitive performance\n\nmy mental health is fine. all i want is better cognitive performance\n\nlfg!",
-      "media": [],
-      "quote": {
-        "id": "2099579562208485582",
-        "url": "https://x.com/CalvinGrunewald/status/2099579562208485582",
-        "author": {
-          "screen_name": "CalvinGrunewald",
-          "name": "Calvin Grunewald",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
-        },
-        "created_at": "2026-09-14T19:22:30.000Z",
-        "text": "Time to start playing my Switch while I ride the stationary bike! But seriously, it’s great to see studies like this. Video Games define many aspects of who I am today. I wish I had more time to play. \n\nWould be really interesting to see this broken down by type of game. Ie to mobile F2P have the same effect?",
-        "media": [
-          {
-            "id": "2099579557972176896",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HSM0e-KacAAK32y.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1644,
-            "height": 1378
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2099589472535101582",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 3,
-        "likes": 26,
-        "quotes": 0,
-        "views": 3132
-      },
-      "fetched_at": "2026-09-14T23:11:18.250Z"
     }
   ]
 }
