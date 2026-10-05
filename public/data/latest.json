@@ -1,6 +1,168 @@
 {
-  "generated_at": "2026-10-04T23:15:24.631Z",
+  "generated_at": "2026-10-05T18:32:54.790Z",
   "posts": [
+    {
+      "id": "2107171410837934440",
+      "url": "https://x.com/kunchenguid/status/2107171410837934440",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-05T18:09:48.000Z",
+      "sort_at": "2026-10-05T18:09:48.000Z",
+      "text": "looks like the watermarks are here to stay.. \n\ni have mixed feeling about this\n\non one hand, i don't let LLM write any of my content, and i hate all the bot replies. i wish we have a solution to kill them all, but i don't think this is it\n\nthe fundamental problem with doing watermarking is that it puts too much emphasis on the tool being used to produce a piece of work, and diminishes the human effort behind it\n\na human producing a piece of complete slop using LLM alone, vs a human spending hours and hours crafting their idea but let LLM handle some of the final touch, will both be labeled as \"AI-generated\"\n\nand the people who truly want to keep spamming the world with slop will simply use an uncensored model to do a rewording pass which removes the watermark. so the watermarking will apply to regular people much more than malicious ones\n\ntime will tell, but this feels like just another cookie banner kind of thing that's going to poison the internet much more than helping it",
+      "media": [],
+      "quote": {
+        "id": "2107164650249101695",
+        "url": "https://x.com/OpenAI/status/2107164650249101695",
+        "author": {
+          "screen_name": "OpenAI",
+          "name": "OpenAI",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg"
+        },
+        "created_at": "2026-10-05T17:42:56.000Z",
+        "text": "We're expanding our approach to content provenance to include text in response to EU regulatory requirements, while recognizing the significant limitations of current text watermarking technology.\n\nOur tools already help verify whether an image or audio file was created with our models. This work builds on those efforts to help people better understand when content may have been generated or edited with an OpenAI model.\n\nIn the EU, we’ll start watermarking eligible text from ChatGPT and Codex over the coming weeks to comply with the EU AI Act.\n\nCustomers using our API can turn on text watermarking for select models worldwide today.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2107171410837934440",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 2,
+        "likes": 21,
+        "quotes": 0,
+        "views": 1112
+      },
+      "fetched_at": "2026-10-05T18:32:53.973Z"
+    },
+    {
+      "id": "2107160019066409391",
+      "url": "https://x.com/kunchenguid/status/2107160019066409391",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-05T17:24:32.000Z",
+      "sort_at": "2026-10-05T17:24:32.000Z",
+      "text": "sounds like a good start of the 28-day challenge!",
+      "media": [],
+      "quote": {
+        "id": "2107158998495748264",
+        "url": "https://x.com/thsottiaux/status/2107158998495748264",
+        "author": {
+          "screen_name": "thsottiaux",
+          "name": "Tibo",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
+        },
+        "created_at": "2026-10-05T17:20:29.000Z",
+        "text": "Day 1/\n\nWe have optimized the default speed to be ~50% faster across GPT-6 Astra and GPT-6.1 Sol through the subscription across all our products and partners using Sign in With ChatGPT (including OpenCode, Pi, Amp, Devin, ...).\n\nNo changes needed on your end and this should be felt within the next two hours.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2107160019066409391",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 65,
+        "quotes": 0,
+        "views": 4766
+      },
+      "fetched_at": "2026-10-05T18:32:53.973Z"
+    },
+    {
+      "id": "2107129937715224951",
+      "url": "https://x.com/kunchenguid/status/2107129937715224951",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-05T15:25:00.000Z",
+      "sort_at": "2026-10-05T15:25:00.000Z",
+      "text": "i just gave the exact same task to Muse, Dots, and Instinct (didn't do grok bot because my quota's already tight)\n\ni asked them to research good product names for something i want to ship, and i gave a bunch of criteria for what i look for\n\n1. muse was very fast, but outcome was questionable\n\nmuse was the only agent that went straight into the work without asking me any questions - not sure i like this\n\nbut boy was it fast. i did 3 rounds of iterations with muse while dots and instinct were both still working on the first iteration\n\nBUT... guess what was the top suggestion from muse? \n\nit was \"endframe\"  🤦 i was like.. dude, did you not watch silicon valley?\n\nin follow up iterations, i also noticed muse was not quite good at following my intent in a way i like. for example, i said in the very beginning that every name needs to check for domain availability, but later i found out that some names weren't checked\n\noverall, it seems to optimize for quick iterations rather than thoroughness\n\n2. instinct was very slow, but quite autonomous\n\ninstinct first asked me some questions to anchor its work. i liked that because it helps steer its work to be more aligned with what i want\n\nthen it went dark for 20 minutes to do the work. it did a pretty thorough research and came back with a file i could open and read. the file had a table with all the candidates and their readiness\n\noverall i thought that was pretty good, except for the names themselves.. they aren't that good. this feels like a general problem with LLMs - they seem to be really bad at coming up with names humans would really find appealing\n\n3. dots was also slow, but it's more \"asynchronous\" and more intelligent\n\nlike indistinct, dots also started with asking me some questions, but it didn't let the questions block its work! \n\nit had already started work in the background, and my questions were sent to it asynchronously as steers. i think this shows openai's slightly more experienced with harness engineering\n\nit also didn't go dark for the full duration of its work. it kept giving me updates about its progress, which was useful because i spotted some names i liked and didn't like, and gave it feedback early for what to lean into\n\nalso gotta say, having astra in dots is clearly an advantage. the model is just smarter. it kept all my inputs in its mind, including the original goal i stated plus all the follow up steers. it \"gets me\"\n\ndots was also the only solution that actually gave me a few names i'd consider\n\njust a one-off experience here - take it with a grain of salt. i'll share more examples like this when i give them tasks!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2107129937715224951",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 1,
+        "likes": 86,
+        "quotes": 0,
+        "views": 7505
+      },
+      "fetched_at": "2026-10-05T18:32:53.973Z"
+    },
+    {
+      "id": "2106993188493992443",
+      "url": "https://x.com/kunchenguid/status/2106993188493992443",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-05T06:21:36.000Z",
+      "sort_at": "2026-10-05T06:21:36.000Z",
+      "text": "i hope i didn't jinx something.. 😅",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2106991513238679639",
+      "thread_root_id": "2106991513238679639",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 19,
+        "quotes": 0,
+        "views": 6165
+      },
+      "fetched_at": "2026-10-05T18:32:53.973Z"
+    },
+    {
+      "id": "2106991513238679639",
+      "url": "https://x.com/kunchenguid/status/2106991513238679639",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-05T06:14:57.000Z",
+      "sort_at": "2026-10-05T06:14:57.000Z",
+      "text": "hmm i just got astra to do SO MANY meaty tasks for me and my quota barely moved\n\nthis was not the case when it first released. what's going on? anyone else getting this?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2106991513238679639",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 74,
+        "reposts": 4,
+        "likes": 377,
+        "quotes": 4,
+        "views": 51600
+      },
+      "fetched_at": "2026-10-05T18:32:53.973Z"
+    },
     {
       "id": "2106858646709895410",
       "url": "https://x.com/kunchenguid/status/2106858646709895410",
@@ -3459,217 +3621,6 @@
         "views": 562
       },
       "fetched_at": "2026-09-17T01:29:51.747Z"
-    },
-    {
-      "id": "2100321145543344544",
-      "url": "https://x.com/kunchenguid/status/2100321145543344544",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-16T20:29:17.000Z",
-      "sort_at": "2026-09-16T20:29:17.000Z",
-      "text": "reminder that claude quota reduction is already in effect since Sept. 14\n\ni reran my evals and my empirically measured value for a claude $200 plan has reduced from $7200/mo to about $6000, sitting below the value of ChatGPT Pro 20x\n\nif you only use fable (i know some people indeed do this), then that's another 50% cut on the value you get, putting you at $3000/mo\n\nstill WAY cheaper than paying at API pricing, but gradually they are crawling back the subsidization\n\ni think we're entering an era where stacking multiple subscriptions will be somewhat mainstream",
-      "media": [],
-      "quote": {
-        "id": "2098256018836963382",
-        "url": "https://x.com/kunchenguid/status/2098256018836963382",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-09-11T03:43:13.000Z",
-        "text": "ok everyone, i took one for the team\n\nhere's the data we all wanted to see - real token value of each LLM subscription, empirically measured through usage on my real subscriptions\n\n- supergrok heavy has now become the highest value at $12k worth of tokens (40x ROI)\n\n- the $200 plan from openai and anthropic roughly give the same amount of token value, $7k give or take\n\n- cursor ultra's ROI is the lowest among mainstream subscriptions, roughly half of OAI or Ant. for individual consumers i'm afraid this no longer makes sense to purchase\n\nthis was done in a clean environment. i ran each provider across 5 whole % points of my quota through repeated eval tasks in open source repos, and measured the total token value from all the agent sessions based on API pricing\n\ncaveat 1 - this only measures their coding agent quota (which is the majority of the offered value), and does not include things like chat bot or grok bot\n\ncaveat 2 - none of the providers commit to never changing this, so this is a snapshot of what the offering looks like today. i cannot guarantee it won't change again\n\ncaveat 3 - the token value assumes you exhaust your subscription completely, which may not be realistic in real world usage",
-        "media": [
-          {
-            "id": "2098249680740392961",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HR5697aboAEZxkD.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1076,
-            "height": 1078
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2100321145543344544",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 17,
-        "reposts": 4,
-        "likes": 85,
-        "quotes": 1,
-        "views": 22223
-      },
-      "fetched_at": "2026-09-16T23:00:57.149Z"
-    },
-    {
-      "id": "2100032815547220193",
-      "url": "https://x.com/kunchenguid/status/2100032815547220193",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-16T01:23:34.000Z",
-      "sort_at": "2026-09-16T01:23:34.000Z",
-      "text": "holy crap this is super exciting\n\nit’s not “generative”, so imo it’s a bit misleading to compare it with LLM. it can’t replace LLMs on most tasks\n\nbut it can automate a lot of things where the options are clear but choice is not - it’s basically a real time, almost free, intelligent decision engine\n\ni can already think of so many practical use cases. can’t wait to get my hands on it!",
-      "media": [],
-      "quote": {
-        "id": "2099925682726002904",
-        "url": "https://x.com/CompleteSkeptic/status/2099925682726002904",
-        "author": {
-          "screen_name": "CompleteSkeptic",
-          "name": "Diogo Almeida",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1650708125685800960/7k6r0UZg_200x200.jpg"
-        },
-        "created_at": "2026-09-15T18:17:52.000Z",
-        "text": "After co-inventing ChatGPT, I kept asking myself: why have superhuman chat models not led to AGI?\n\nI’ve spent the last 2 years in stealth building a new way to train models (RLCD), and a new type of frontier AI model that we are releasing today: Jev\n\n• 20-200x faster\n• 40-400x cheaper (w/ output tokens free)\n• Frontier composable intelligence optimized for decisions\n\nAFAICT the shortest path to AI-based economic revolution",
-        "media": [
-          {
-            "id": "2099925575637057536",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2099925575637057536/vid/avc1/1920x1080/cy2CDedAjnEfjJZk.mp4?tag=29",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099925575637057536/img/l4J_ZhkaxAe8FJXv.jpg",
-            "width": 1920,
-            "height": 1080,
-            "duration": 176.085
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2100032815547220193",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 36,
-        "reposts": 13,
-        "likes": 477,
-        "quotes": 2,
-        "views": 71681
-      },
-      "fetched_at": "2026-09-16T06:07:26.856Z"
-    },
-    {
-      "id": "2099992539239694599",
-      "url": "https://x.com/kunchenguid/status/2099992539239694599",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-15T22:43:31.000Z",
-      "sort_at": "2026-09-15T22:43:31.000Z",
-      "text": "big release for SSHHIP\n\nnow voice input can transcribe 10 languages on device\n\nthe entire command dial is now customizable and allows any custom keybinds",
-      "media": [
-        {
-          "id": "2099992384549650432",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2099992384549650432/vid/avc1/1206x2622/LY-j-kWSo7e5WYKw.mp4?tag=29",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2099992384549650432/img/pw8AR439ohZOMaMc.jpg",
-          "width": 1206,
-          "height": 2622,
-          "duration": 41.39
-        }
-      ],
-      "quote": {
-        "id": "2099974145295458478",
-        "url": "https://x.com/theSSHHIP/status/2099974145295458478",
-        "author": {
-          "screen_name": "theSSHHIP",
-          "name": "SSHHIP",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2080747283931664385/XdT4pm_w_200x200.jpg"
-        },
-        "created_at": "2026-09-15T21:30:26.000Z",
-        "text": "SSHHIP 1.33.0 is now live\n\nDictate in your language: voice input now understands many languages, picked from a new language list in Settings.\n\nhttps://apps.apple.com/us/app/sshhip/id6785186457",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2099992539239694599",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 1,
-        "likes": 18,
-        "quotes": 0,
-        "views": 2453
-      },
-      "fetched_at": "2026-09-16T00:26:52.180Z"
-    },
-    {
-      "id": "2099941043592659416",
-      "url": "https://x.com/kunchenguid/status/2099941043592659416",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-15T19:18:54.000Z",
-      "sort_at": "2026-09-15T19:18:54.000Z",
-      "text": "https://github.com/kunchenguid/firstmate",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2099934006066450446",
-      "thread_root_id": "2099934006066450446",
-      "is_note_tweet": false,
-      "lang": "und",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "quotes": 0,
-        "views": 506
-      },
-      "fetched_at": "2026-09-15T21:30:30.037Z"
-    },
-    {
-      "id": "2099934006066450446",
-      "url": "https://x.com/kunchenguid/status/2099934006066450446",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-15T18:50:56.000Z",
-      "sort_at": "2026-09-15T18:50:56.000Z",
-      "text": "go firstmate! proud of you helping so many people become a captain",
-      "media": [
-        {
-          "id": "2099933767741915136",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSR2osYawAAhrU4.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1233,
-          "height": 823
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2099934006066450446",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 15,
-        "reposts": 2,
-        "likes": 106,
-        "quotes": 0,
-        "views": 2812
-      },
-      "fetched_at": "2026-09-15T21:30:30.037Z"
     }
   ]
 }
