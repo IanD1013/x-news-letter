@@ -1,6 +1,130 @@
 {
-  "generated_at": "2026-10-07T07:18:01.874Z",
+  "generated_at": "2026-10-07T21:20:56.297Z",
   "posts": [
+    {
+      "id": "2107930592340066621",
+      "url": "https://x.com/kunchenguid/status/2107930592340066621",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T20:26:31.000Z",
+      "sort_at": "2026-10-07T20:26:31.000Z",
+      "text": "good answer to the prioritization question in the age of AI\n\nwhen implementation cost almost goes to zero, attention is all you need!",
+      "media": [],
+      "quote": {
+        "id": "2107927475007152420",
+        "url": "https://x.com/CalvinGrunewald/status/2107927475007152420",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-10-07T20:14:08.000Z",
+        "text": "There were some really good comments on this post! The ones closest to my mental model all focused on the role people still need to play when working with LLMs. There were also some good thoughts on how to define cost/impact.\n\nSo here is how I think about prioritization with agents. Instead of the prioritization orienting around features or things to build, the prioritization framework must orient around the new scarce resource: my attention.\n\nThis is how I work now. In a world where I can build anything, I need to be super intentional with my attention. And so given a particular item of work, I think about how much attention it needs and then choose the right tool for the job. More on the tools later!\n\nThe below diagram calls out this idea of the loop. I mean this in the abstract sense - a software development lifecycle process - with observable points. When a Human is the loop, you are managing the SDLC yourself. When you have a human around the loop, you are monitoring those observable points of the SDLC yourself. When an agent is around the loop, you've built a harness or some type of adversarial review system to monitor the points of the SDLC. And finally, you can of course just ask the agent to do it all (there is no SDLC - it's just the agent).\n\nI like this framework because it flips the focus on how to optimize workflows - you go from optimizing how you build to what you pay attention to.",
+        "media": [
+          {
+            "id": "2107926674159357952",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUDcJFHW0AAh5Iy.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2754,
+            "height": 1638
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2107930592340066621",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 24,
+        "quotes": 0,
+        "views": 1344
+      },
+      "fetched_at": "2026-10-07T21:20:55.748Z"
+    },
+    {
+      "id": "2107889728083353717",
+      "url": "https://x.com/kunchenguid/status/2107889728083353717",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T17:44:08.000Z",
+      "sort_at": "2026-10-07T17:44:08.000Z",
+      "text": "looking at things i’ve asked my agent to do\n\nif it was a human employee, they would have smashed their keyboard and splashed their coffee at my face",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2107889728083353717",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 14,
+        "reposts": 2,
+        "likes": 66,
+        "quotes": 0,
+        "views": 3898
+      },
+      "fetched_at": "2026-10-07T21:20:55.748Z"
+    },
+    {
+      "id": "2107868549792641099",
+      "url": "https://x.com/kunchenguid/status/2107868549792641099",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T16:19:59.000Z",
+      "sort_at": "2026-10-07T16:19:59.000Z",
+      "text": "banning AI assisted contributions to your open source projects is like banning electronics in your house\n\none would do it either for the romance of living like a caveman, or that they suck at learning the new technology",
+      "media": [],
+      "quote": {
+        "id": "2107841437635076502",
+        "url": "https://x.com/LundukeJournal/status/2107841437635076502",
+        "author": {
+          "screen_name": "LundukeJournal",
+          "name": "The Lunduke Journal",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1784836672175120384/XH6pIfYL_200x200.jpg"
+        },
+        "created_at": "2026-10-07T14:32:15.000Z",
+        "text": "Linux hardware vendor, System76, has banned all AI generated contributions to their Cosmic Desktop Environment (part of the Pop!_OS Linux distribution).\n\nAll contributors must agree to the following when submitting any changes:\n\n“I have not included any LLM (also known as AI) generated content in this PR, including code, comments, and descriptions.”",
+        "media": [
+          {
+            "id": "2107841434246123520",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUCOndsXEAAP8QX.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1836,
+            "height": 1054
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2107868549792641099",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 4,
+        "likes": 77,
+        "quotes": 0,
+        "views": 3670
+      },
+      "fetched_at": "2026-10-07T21:20:55.748Z"
+    },
     {
       "id": "2107672615171355097",
       "url": "https://x.com/kunchenguid/status/2107672615171355097",
@@ -3464,131 +3588,6 @@
         "views": 5379
       },
       "fetched_at": "2026-09-18T11:24:27.814Z"
-    },
-    {
-      "id": "2100846644304773541",
-      "url": "https://x.com/kunchenguid/status/2100846644304773541",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-18T07:17:26.000Z",
-      "sort_at": "2026-09-18T07:17:26.000Z",
-      "text": "Jev gave me $5 of API credit when i signed up\n\nwhen i die, i will pass what's left of it to my son",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2100846644304773541",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 93,
-        "reposts": 130,
-        "likes": 3416,
-        "quotes": 12,
-        "views": 83144
-      },
-      "fetched_at": "2026-09-18T11:24:27.814Z"
-    },
-    {
-      "id": "2100776484776661405",
-      "url": "https://x.com/wabzqem/status/2100776484776661405",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "wabzqem",
-        "name": "Richard Nelson",
-        "avatar_url": "https://pbs.twimg.com/profile_images/509344283455807491/jyvAobc-_200x200.jpeg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-09-18T02:38:39.000Z",
-      "sort_at": "2026-09-18T05:59:53.007Z",
-      "text": "Here's my AI workflow;\n- Use @kunchenguid 's firstmate. It seriously lowers cognitive overload of working on multiple items.\n- Crew are agents that then delegate work out to subagents with differing models and capabilities. A simple coding task? Luna is used.\n- Subagents also have review capabilities, so work is directly reviewed and iterated with the crew managing it. It also decides what kind of reviews are necessary; architecture, code-correctness, security etc.\n- At any point, if I want to, I can see what crew members are doing and overall plan status. This lets me use the firstmate to help guide if necessary\n\nThis results in an ability to do parallel work with strong outcomes - well reviewed work even before a PR is raised.",
-      "media": [
-        {
-          "id": "2100775321683525632",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSd0BlHagAAWDeP.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 3472,
-          "height": 2192
-        },
-        {
-          "id": "2100775939013828608",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSd0lg2bYAAHqYK.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 3932,
-          "height": 2204
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2100776484776661405",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 2,
-        "reposts": 2,
-        "likes": 13,
-        "quotes": 0,
-        "views": 1798
-      },
-      "fetched_at": "2026-09-18T05:59:53.007Z"
-    },
-    {
-      "id": "2100675262161826099",
-      "url": "https://x.com/kunchenguid/status/2100675262161826099",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-17T19:56:25.000Z",
-      "sort_at": "2026-09-17T19:56:25.000Z",
-      "text": "one fresh example of the advantage of being vendor-agnostic - i could ship a jev integration in firstmate the same day jev was released. anthropic can't :)\n\nhttps://x.com/kunchenguid/status/2100468943853085061?s=20",
-      "media": [],
-      "quote": {
-        "id": "2100468943853085061",
-        "url": "https://x.com/kunchenguid/status/2100468943853085061",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-09-17T06:16:35.000Z",
-        "text": "alright - just got Jev deployed for a real production use case, which now performs at fable level quality but 10x faster and saves a ton of money\n\ncontext - a powerful capability of firstmate is that as an orchestrator it intelligently routes each task to an appropriate agent (permutation of harness, model, and reasoning effort) based on custom user preference\n\nby default, that's done by the firstmate agent and the LLM would have to do some thinking, make tool calls to read dispatch rules, quota data etc and then do the dispatch. this is slow and does cost a bit of LLM tokens\n\ni just replaced this dispatch process with Jev. it makes the same decision with no thinking or tool calls, done in ~200ms, and for the 25 tasks i evaluated this with, it gives the exact same answer fable would have given... \n\nthere's still a tool call needed to invoke Jev, done by the firstmate agent which uses an LLM. but even with that counted, the saving from Jev still resulted in a -71% reduction in cost and -90% reduction in wall time of completing the whole dispatching process\n\nJev API calls themselves are almost free.. i made 100+ calls, and my usage dashboard still shows $0.01 (which i think means \"haven't reached $0.01 yet\"). if we just look at the part Jev replaced and not the whole system, then the saving is on the magnitude of ~100x\n\nif you also have Jev and you use firstmate, set TYPESAFE_API_KEY in your .env file in your firstmate repo to activate this\n\nexciting times! i think this is starting to enable a whole new architectural paradigm for software. LLMs are just a small part of it. more on that soon",
-        "media": [
-          {
-            "id": "2100378362367868928",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HSYK_gbagAAqKqr.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1076,
-            "height": 1078
-          }
-        ]
-      },
-      "reply_to_id": "2100665809861476408",
-      "thread_root_id": "2100665809861476408",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 18,
-        "quotes": 0,
-        "views": 2003
-      },
-      "fetched_at": "2026-09-17T22:14:36.672Z"
     }
   ]
 }

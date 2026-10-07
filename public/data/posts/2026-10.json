@@ -2,6 +2,130 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2107930592340066621",
+      "url": "https://x.com/kunchenguid/status/2107930592340066621",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T20:26:31.000Z",
+      "sort_at": "2026-10-07T20:26:31.000Z",
+      "text": "good answer to the prioritization question in the age of AI\n\nwhen implementation cost almost goes to zero, attention is all you need!",
+      "media": [],
+      "quote": {
+        "id": "2107927475007152420",
+        "url": "https://x.com/CalvinGrunewald/status/2107927475007152420",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-10-07T20:14:08.000Z",
+        "text": "There were some really good comments on this post! The ones closest to my mental model all focused on the role people still need to play when working with LLMs. There were also some good thoughts on how to define cost/impact.\n\nSo here is how I think about prioritization with agents. Instead of the prioritization orienting around features or things to build, the prioritization framework must orient around the new scarce resource: my attention.\n\nThis is how I work now. In a world where I can build anything, I need to be super intentional with my attention. And so given a particular item of work, I think about how much attention it needs and then choose the right tool for the job. More on the tools later!\n\nThe below diagram calls out this idea of the loop. I mean this in the abstract sense - a software development lifecycle process - with observable points. When a Human is the loop, you are managing the SDLC yourself. When you have a human around the loop, you are monitoring those observable points of the SDLC yourself. When an agent is around the loop, you've built a harness or some type of adversarial review system to monitor the points of the SDLC. And finally, you can of course just ask the agent to do it all (there is no SDLC - it's just the agent).\n\nI like this framework because it flips the focus on how to optimize workflows - you go from optimizing how you build to what you pay attention to.",
+        "media": [
+          {
+            "id": "2107926674159357952",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUDcJFHW0AAh5Iy.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2754,
+            "height": 1638
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2107930592340066621",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 24,
+        "quotes": 0,
+        "views": 1344
+      },
+      "fetched_at": "2026-10-07T21:20:55.748Z"
+    },
+    {
+      "id": "2107889728083353717",
+      "url": "https://x.com/kunchenguid/status/2107889728083353717",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T17:44:08.000Z",
+      "sort_at": "2026-10-07T17:44:08.000Z",
+      "text": "looking at things i’ve asked my agent to do\n\nif it was a human employee, they would have smashed their keyboard and splashed their coffee at my face",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2107889728083353717",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 14,
+        "reposts": 2,
+        "likes": 66,
+        "quotes": 0,
+        "views": 3898
+      },
+      "fetched_at": "2026-10-07T21:20:55.748Z"
+    },
+    {
+      "id": "2107868549792641099",
+      "url": "https://x.com/kunchenguid/status/2107868549792641099",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T16:19:59.000Z",
+      "sort_at": "2026-10-07T16:19:59.000Z",
+      "text": "banning AI assisted contributions to your open source projects is like banning electronics in your house\n\none would do it either for the romance of living like a caveman, or that they suck at learning the new technology",
+      "media": [],
+      "quote": {
+        "id": "2107841437635076502",
+        "url": "https://x.com/LundukeJournal/status/2107841437635076502",
+        "author": {
+          "screen_name": "LundukeJournal",
+          "name": "The Lunduke Journal",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1784836672175120384/XH6pIfYL_200x200.jpg"
+        },
+        "created_at": "2026-10-07T14:32:15.000Z",
+        "text": "Linux hardware vendor, System76, has banned all AI generated contributions to their Cosmic Desktop Environment (part of the Pop!_OS Linux distribution).\n\nAll contributors must agree to the following when submitting any changes:\n\n“I have not included any LLM (also known as AI) generated content in this PR, including code, comments, and descriptions.”",
+        "media": [
+          {
+            "id": "2107841434246123520",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUCOndsXEAAP8QX.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1836,
+            "height": 1054
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2107868549792641099",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 4,
+        "likes": 77,
+        "quotes": 0,
+        "views": 3670
+      },
+      "fetched_at": "2026-10-07T21:20:55.748Z"
+    },
+    {
       "id": "2107672615171355097",
       "url": "https://x.com/kunchenguid/status/2107672615171355097",
       "creator": "kunchenguid",
