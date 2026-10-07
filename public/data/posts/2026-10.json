@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2107672615171355097",
+      "url": "https://x.com/kunchenguid/status/2107672615171355097",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T03:21:24.000Z",
+      "sort_at": "2026-10-07T03:21:24.000Z",
+      "text": "tokenmaxxing is dead\n\nlong live cpumaxxing",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2107672615171355097",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 2,
+        "likes": 91,
+        "quotes": 0,
+        "views": 5179
+      },
+      "fetched_at": "2026-10-07T07:18:01.279Z"
+    },
+    {
       "id": "2107548477458985363",
       "url": "https://x.com/kunchenguid/status/2107548477458985363",
       "creator": "kunchenguid",
