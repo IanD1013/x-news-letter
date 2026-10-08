@@ -2,6 +2,83 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2107977864738111638",
+      "url": "https://x.com/kunchenguid/status/2107977864738111638",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T23:34:21.000Z",
+      "sort_at": "2026-10-07T23:34:21.000Z",
+      "text": "holy crap this is massive! grok bot can now read X with NO API COST\n\none of my favorite use of it is to quickly understand what’s going on when i hear about a new thing\n\npulling a large amount of human discussions on X is the best way to get the full picture",
+      "media": [],
+      "quote": {
+        "id": "2107949161878606089",
+        "url": "https://x.com/bot/status/2107949161878606089",
+        "author": {
+          "screen_name": "bot",
+          "name": "Grok Bot",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2087219239275069440/KW6C403V_200x200.jpg"
+        },
+        "created_at": "2026-10-07T21:40:18.000Z",
+        "text": "Grok Bot can now search, read, and monitor X.",
+        "media": [
+          {
+            "id": "2107948628950298624",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2107948628950298624/vid/avc1/1920x1080/tlGtL_3iQXfm7WuO.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2107948628950298624/img/8oAAyGCZx3U1VURs.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 12.166
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2107977864738111638",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 22,
+        "reposts": 18,
+        "likes": 443,
+        "quotes": 3,
+        "views": 23899
+      },
+      "fetched_at": "2026-10-08T02:01:27.625Z"
+    },
+    {
+      "id": "2107956274944229628",
+      "url": "https://x.com/kunchenguid/status/2107956274944229628",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-07T22:08:34.000Z",
+      "sort_at": "2026-10-07T22:08:34.000Z",
+      "text": "@ClaudeDevs wait.. this is super confusing\n\nis “claude -p” and agents sdk banned from using subscription quota again now??",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2107956274944229628",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 2,
+        "likes": 56,
+        "quotes": 0,
+        "views": 10069
+      },
+      "fetched_at": "2026-10-08T02:01:27.625Z"
+    },
+    {
       "id": "2107930592340066621",
       "url": "https://x.com/kunchenguid/status/2107930592340066621",
       "creator": "kunchenguid",
