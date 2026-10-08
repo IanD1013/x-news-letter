@@ -2,6 +2,119 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2108055737188671760",
+      "url": "https://x.com/kunchenguid/status/2108055737188671760",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-08T04:43:48.000Z",
+      "sort_at": "2026-10-08T04:43:48.000Z",
+      "text": "some people confused the conclusion as “don’t write any tests” - no that’s not what this post is saying\n\n1. the point is - tests written autonomously by agents do not prove to have value. but i explicitly called out human guidance can change that\n\n2. also explicitly stated e2e tests aren’t part of this analysis yet. tests written in this eval were almost exclusively unit and integration tests",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2108030812776255567",
+      "thread_root_id": "2108030810691629403",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 5,
+        "likes": 54,
+        "quotes": 1,
+        "views": 7301
+      },
+      "fetched_at": "2026-10-08T09:06:11.983Z"
+    },
+    {
+      "id": "2108030812776255567",
+      "url": "https://x.com/kunchenguid/status/2108030812776255567",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-08T03:04:45.000Z",
+      "sort_at": "2026-10-08T03:04:45.000Z",
+      "text": "if you are thinking \"oh what if we do TDD\", i have news for you - https://x.com/kunchenguid/status/2064196342248030352?s=20",
+      "media": [],
+      "quote": {
+        "id": "2064196342248030352",
+        "url": "https://x.com/kunchenguid/status/2064196342248030352",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-06-09T04:02:13.000Z",
+        "text": "oh gosh, this is kind of a big deal\n\nDO NOT ASK YOUR AGENTS TO DO TDD!\n\ni now have empirical evidence that Test Driven Development is harmful for coding agents\n\nwhat other popular skills do you want me to debunk?\n\ndetails about the evaluation below 👇",
+        "media": [
+          {
+            "id": "2064187778120957952",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HKV32QCaQAAw3MT.png?name=orig",
+            "thumbnail_url": null,
+            "width": 1080,
+            "height": 1080
+          }
+        ]
+      },
+      "reply_to_id": "2108030810691629403",
+      "thread_root_id": "2108030810691629403",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 39,
+        "quotes": 0,
+        "views": 7463
+      },
+      "fetched_at": "2026-10-08T09:06:11.983Z"
+    },
+    {
+      "id": "2108030810691629403",
+      "url": "https://x.com/kunchenguid/status/2108030810691629403",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-08T03:04:45.000Z",
+      "sort_at": "2026-10-08T03:04:45.000Z",
+      "text": "ok it's official... AI-written unit tests and integration tests are empirically proven to be unhelpful. you should tell your agents to stop writing tests by themselves\n\non the deepswe eval set, banning sonnet 5.5 high from writing any tests actually resulted in slightly higher success rate (non stat-sig), with less time and token spent (stat-sig). this is pretty hard empirical evidence\n\nacross the tests that were written by the \"tests allowed\" baseline arm, 65% of them were unit tests, 35% were integration tests, neither bucket resulted in any improvement compared to not writing any tests at all\n\ni also picked a random sample of 44 tasks subset where i completely disabled executing even existing tests - it also did not affect success rate at all\n\ni spot checked many tests written in the baseline arm, and my intuition is that most tests are simply a repetition of the implementation\n\nagent-written tests do not add any value because both the implementation and the tests were simply the agent's interpretation of our intent. the tests aren't any more accurate than the implementation itself\n\ni suspect we can still extract some value from unit tests and integration tests if we describe them ourselves when we believe we can articulate our intent better through test cases than through requirements. but i have not proven this yet\n\nalso worth noting, during deepswe eval the agent wrote almost no e2e tests (only 17, compared to 3000+ unit/integration tests written). so this analysis does not prove nor disprove the value of e2e tests - i will do another eval specifically for that",
+      "media": [
+        {
+          "id": "2108025759734599680",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUE2QnpakAAmtGc.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2160,
+          "height": 2160
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2108030810691629403",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 205,
+        "reposts": 86,
+        "likes": 1277,
+        "quotes": 60,
+        "views": 86108
+      },
+      "fetched_at": "2026-10-08T09:06:11.983Z"
+    },
+    {
       "id": "2107977864738111638",
       "url": "https://x.com/kunchenguid/status/2107977864738111638",
       "creator": "kunchenguid",
