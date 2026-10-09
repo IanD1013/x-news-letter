@@ -2,6 +2,62 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2108438256807551359",
+      "url": "https://x.com/kunchenguid/status/2108438256807551359",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-09T06:03:47.000Z",
+      "sort_at": "2026-10-09T06:03:47.000Z",
+      "text": "you can do coding work there for free too btw! \n\njust remember to tell it “don’t use codex cloud environments” so it gets done by your dot, not codex which will drain quota!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2108431557824500204",
+      "thread_root_id": "2108431557824500204",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 79,
+        "quotes": 0,
+        "views": 9962
+      },
+      "fetched_at": "2026-10-09T16:21:55.601Z"
+    },
+    {
+      "id": "2108431557824500204",
+      "url": "https://x.com/kunchenguid/status/2108431557824500204",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-09T05:37:10.000Z",
+      "sort_at": "2026-10-09T05:37:10.000Z",
+      "text": "my dot has been running astra non-stop for almost 72 hrs now\n\nit seems there’s no quota limit right now so it’s free astra + 8 cpu + 10G RAM\n\ni don’t think this will last long so if you haven’t made use of it yet i highly recommend taking advantage before it ends",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2108431557824500204",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 82,
+        "reposts": 16,
+        "likes": 783,
+        "quotes": 5,
+        "views": 95622
+      },
+      "fetched_at": "2026-10-09T16:21:55.601Z"
+    },
+    {
       "id": "2108327893122286018",
       "url": "https://x.com/nicksherrow/status/2108327893122286018",
       "creator": "kunchenguid",
