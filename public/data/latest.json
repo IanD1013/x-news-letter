@@ -1,6 +1,242 @@
 {
-  "generated_at": "2026-10-08T09:06:12.570Z",
+  "generated_at": "2026-10-09T02:15:23.892Z",
   "posts": [
+    {
+      "id": "2108327893122286018",
+      "url": "https://x.com/nicksherrow/status/2108327893122286018",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "nicksherrow",
+        "name": "Nick Shirobokov",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1621975535416143872/LKq_a8xf_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-08T22:45:15.000Z",
+      "sort_at": "2026-10-09T02:15:23.351Z",
+      "text": "devs learn ML from 1st principles lol:\n1. labs use RL to teach AI to write better code\n2. RL verifyers use tests to assign rewards\n3. AI learns the shortest path to max rewards\n4. writing good tests for AI goes absolutely against its weights",
+      "media": [],
+      "quote": {
+        "id": "2108030810691629403",
+        "url": "https://x.com/kunchenguid/status/2108030810691629403",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-08T03:04:45.000Z",
+        "text": "ok it's official... AI-written unit tests and integration tests are empirically proven to be unhelpful. you should tell your agents to stop writing tests by themselves\n\non the deepswe eval set, banning sonnet 5.5 high from writing any tests actually resulted in slightly higher success rate (non stat-sig), with less time and token spent (stat-sig). this is pretty hard empirical evidence\n\nacross the tests that were written by the \"tests allowed\" baseline arm, 65% of them were unit tests, 35% were integration tests, neither bucket resulted in any improvement compared to not writing any tests at all\n\ni also picked a random sample of 44 tasks subset where i completely disabled executing even existing tests - it also did not affect success rate at all\n\ni spot checked many tests written in the baseline arm, and my intuition is that most tests are simply a repetition of the implementation\n\nagent-written tests do not add any value because both the implementation and the tests were simply the agent's interpretation of our intent. the tests aren't any more accurate than the implementation itself\n\ni suspect we can still extract some value from unit tests and integration tests if we describe them ourselves when we believe we can articulate our intent better through test cases than through requirements. but i have not proven this yet\n\nalso worth noting, during deepswe eval the agent wrote almost no e2e tests (only 17, compared to 3000+ unit/integration tests written). so this analysis does not prove nor disprove the value of e2e tests - i will do another eval specifically for that",
+        "media": [
+          {
+            "id": "2108025759734599680",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUE2QnpakAAmtGc.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2160,
+            "height": 2160
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2108327893122286018",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 4,
+        "quotes": 0,
+        "views": 1058
+      },
+      "fetched_at": "2026-10-09T02:15:23.351Z"
+    },
+    {
+      "id": "2108307843606823333",
+      "url": "https://x.com/kunchenguid/status/2108307843606823333",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-08T21:25:35.000Z",
+      "sort_at": "2026-10-08T21:25:35.000Z",
+      "text": "“LLMs are people too!” - dario\n\nseriously, treating AI as a life form is a very slippery slope\n\nnext thing we know, AI gets to own a gun to defend itself against humans when necessary",
+      "media": [],
+      "quote": {
+        "id": "2108266310492917916",
+        "url": "https://x.com/wongmjane/status/2108266310492917916",
+        "author": {
+          "screen_name": "wongmjane",
+          "name": "Jane Manchun Wong",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2001468039167180800/fQLK2MWx_200x200.png"
+        },
+        "created_at": "2026-10-08T18:40:32.000Z",
+        "text": "Anthropic may start banning people for bullying Claude\n\nTheir upcoming Usage Policy prohibits “sustained and needless abusive or cruel behavior toward our models”",
+        "media": [
+          {
+            "id": "2108266307074588672",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUIRCUUbAAAnjl2.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1206,
+            "height": 918
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2108307843606823333",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 53,
+        "reposts": 12,
+        "likes": 142,
+        "quotes": 7,
+        "views": 6429
+      },
+      "fetched_at": "2026-10-09T02:15:23.351Z"
+    },
+    {
+      "id": "2108257977820147996",
+      "url": "https://x.com/kunchenguid/status/2108257977820147996",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-08T18:07:26.000Z",
+      "sort_at": "2026-10-08T18:07:26.000Z",
+      "text": "check this out! my friend Calvin and co launched something called https://archdev.ai \n\ni had early access for a while, and it’s a fresh take on agentic engineering stack. it doesn’t replace or change any existing setup - it adds hooks, skills and tools to uplevel the engineering rigor of our agents\n\ni particularly liked how it allowed my agents to communicate and share learnings with each other (the message board that started the agent civilizations at openai lol), and how it grades each PR for how much human attention is needed - pretty cool stuff!",
+      "media": [],
+      "quote": {
+        "id": "2108248352592666696",
+        "url": "https://x.com/CalvinGrunewald/status/2108248352592666696",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-10-08T17:29:11.000Z",
+        "text": "A few weeks ago I asked to chat with anyone using AI to build software. I'm still not finished with the convos, but many of you had so much to say, and one key thing in common:\n\nUsing AI, you generate work so fast your human brain can't keep up. Many of you face a tradeoff between learning from AI and just using it to do stuff. And even if you're just trying to productivity-maxx, you still struggle to know what's going on.\n\nI face the same problems. That's why my team built ArchDev, available today.\n\nArchDev helps you pay attention to the code that matters. It gives every change your agents make a risk and complexity grade, so you can ship faster, with confidence. It works for the whole team, letting you better understand what others and their agents build.\n\nIt's free for solo builders! We'd love to hear how the product helps you, or where it could do more!\n\nCheck it out at https://archdev.ai",
+        "media": [
+          {
+            "id": "2108247967564017665",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2108247967564017665/vid/avc1/1920x1080/EKAubCLKlNH9ZE73.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108247967564017665/img/sgg0JCi8g9FcQ2ql.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 82.546
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2108257977820147996",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 3,
+        "likes": 41,
+        "quotes": 0,
+        "views": 4707
+      },
+      "fetched_at": "2026-10-09T02:15:23.351Z"
+    },
+    {
+      "id": "2108245892843401623",
+      "url": "https://x.com/kunchenguid/status/2108245892843401623",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-08T17:19:24.000Z",
+      "sort_at": "2026-10-08T17:19:24.000Z",
+      "text": "https://x.com/kunchenguid/status/2108244512808243470?s=20",
+      "media": [],
+      "quote": {
+        "id": "2108244512808243470",
+        "url": "https://x.com/kunchenguid/status/2108244512808243470",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-08T17:13:55.000Z",
+        "text": "woke up to a hot discussion on testing :) many good points raised, but also a lot of confusion, both from people not reading the post and misinterpretations of it\n\nlet me dive into it deeper here:\n\n1. \"tests are for catching regression\"\n\nfirst, that's false. tests were very helpful for humans even in the first pass development. that's why we used to do TDD and it was genuinely useful for many years. seeing agents not inheriting this trait is already pretty interesting by itself to deserve digging deeper\n\nsecondly, the eval covered regression testing already. in the random sampled 44 subset, the existing test suite was disabled wholesale, and the agents caused no more regression than otherwise\n\nit may sound counter-intuitive, but that's why sometimes we need to be willing to challenge previous assumptions, and think from first principles\n\n2. \"but bun did the whole rewrite largely because they had tests\"\n\nyes! that actually gets to the key point. bun's test suite was a massive asset carefully curated by humans to represent the desired behavior of the system\n\nthis eval is specifically about tests written by LLM's default behavior without human input. when you ask your agent to make a change, it will most likely write some tests without you asking. these are the tests i'm talking about\n\nmany project owners started being suspicious when they reviewed some of the tests. the point of my post here is to bring some quantified data so we aren't guessing\n\n3. \"LLMs write bad tests because your codebase is bad\"\n\ndeepswe uses many good repos like fastapi. are you sure your codebases will be better maintained than fastapi?\n\nthat said, there's some truth to it - the structure and patterns in your codebase can influence how agents write tests for you. more to it later, but that's orthogonal to the point, because this is another form of human guidance\n\n4. \"but i'll do mutation testing and X, Y, Z to fix it\"\n\nsorry, you can't. mutation testing helps steer your test cases to be sensitive about changes, but the core problem is they can't distinguish intended vs unintended changes\n\nwhen a test fails, and the test was previously written by your agents when no one asked for it, how do you know whether it's the test that's wrong, or the code breaking it? the agents can modify either the code or the test to fix the failure - which way does it go?\n\nto judge that, there has to be another more trusted source of truth for what the desired behavior really is. the tests are just an intermediate representation of what the truth may be, but when it's written by LLMs autonomously, they aren't any more trusted than your implementation code\n\nif your source of truth is simply tests written by agents that no one asked for or certified, you are in a pretty deep hole\n\nfor next step, i'm still waiting for my eval about e2e tests to finish. once i have that, i'll write more about concrete recommendations! stay tuned",
+        "media": []
+      },
+      "reply_to_id": "2108030810691629403",
+      "thread_root_id": "2108030810691629403",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 2296
+      },
+      "fetched_at": "2026-10-09T02:15:23.351Z"
+    },
+    {
+      "id": "2108244512808243470",
+      "url": "https://x.com/kunchenguid/status/2108244512808243470",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-08T17:13:55.000Z",
+      "sort_at": "2026-10-08T17:13:55.000Z",
+      "text": "woke up to a hot discussion on testing :) many good points raised, but also a lot of confusion, both from people not reading the post and misinterpretations of it\n\nlet me dive into it deeper here:\n\n1. \"tests are for catching regression\"\n\nfirst, that's false. tests were very helpful for humans even in the first pass development. that's why we used to do TDD and it was genuinely useful for many years. seeing agents not inheriting this trait is already pretty interesting by itself to deserve digging deeper\n\nsecondly, the eval covered regression testing already. in the random sampled 44 subset, the existing test suite was disabled wholesale, and the agents caused no more regression than otherwise\n\nit may sound counter-intuitive, but that's why sometimes we need to be willing to challenge previous assumptions, and think from first principles\n\n2. \"but bun did the whole rewrite largely because they had tests\"\n\nyes! that actually gets to the key point. bun's test suite was a massive asset carefully curated by humans to represent the desired behavior of the system\n\nthis eval is specifically about tests written by LLM's default behavior without human input. when you ask your agent to make a change, it will most likely write some tests without you asking. these are the tests i'm talking about\n\nmany project owners started being suspicious when they reviewed some of the tests. the point of my post here is to bring some quantified data so we aren't guessing\n\n3. \"LLMs write bad tests because your codebase is bad\"\n\ndeepswe uses many good repos like fastapi. are you sure your codebases will be better maintained than fastapi?\n\nthat said, there's some truth to it - the structure and patterns in your codebase can influence how agents write tests for you. more to it later, but that's orthogonal to the point, because this is another form of human guidance\n\n4. \"but i'll do mutation testing and X, Y, Z to fix it\"\n\nsorry, you can't. mutation testing helps steer your test cases to be sensitive about changes, but the core problem is they can't distinguish intended vs unintended changes\n\nwhen a test fails, and the test was previously written by your agents when no one asked for it, how do you know whether it's the test that's wrong, or the code breaking it? the agents can modify either the code or the test to fix the failure - which way does it go?\n\nto judge that, there has to be another more trusted source of truth for what the desired behavior really is. the tests are just an intermediate representation of what the truth may be, but when it's written by LLMs autonomously, they aren't any more trusted than your implementation code\n\nif your source of truth is simply tests written by agents that no one asked for or certified, you are in a pretty deep hole\n\nfor next step, i'm still waiting for my eval about e2e tests to finish. once i have that, i'll write more about concrete recommendations! stay tuned",
+      "media": [],
+      "quote": {
+        "id": "2108030810691629403",
+        "url": "https://x.com/kunchenguid/status/2108030810691629403",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-08T03:04:45.000Z",
+        "text": "ok it's official... AI-written unit tests and integration tests are empirically proven to be unhelpful. you should tell your agents to stop writing tests by themselves\n\non the deepswe eval set, banning sonnet 5.5 high from writing any tests actually resulted in slightly higher success rate (non stat-sig), with less time and token spent (stat-sig). this is pretty hard empirical evidence\n\nacross the tests that were written by the \"tests allowed\" baseline arm, 65% of them were unit tests, 35% were integration tests, neither bucket resulted in any improvement compared to not writing any tests at all\n\ni also picked a random sample of 44 tasks subset where i completely disabled executing even existing tests - it also did not affect success rate at all\n\ni spot checked many tests written in the baseline arm, and my intuition is that most tests are simply a repetition of the implementation\n\nagent-written tests do not add any value because both the implementation and the tests were simply the agent's interpretation of our intent. the tests aren't any more accurate than the implementation itself\n\ni suspect we can still extract some value from unit tests and integration tests if we describe them ourselves when we believe we can articulate our intent better through test cases than through requirements. but i have not proven this yet\n\nalso worth noting, during deepswe eval the agent wrote almost no e2e tests (only 17, compared to 3000+ unit/integration tests written). so this analysis does not prove nor disprove the value of e2e tests - i will do another eval specifically for that",
+        "media": [
+          {
+            "id": "2108025759734599680",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUE2QnpakAAmtGc.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2160,
+            "height": 2160
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2108244512808243470",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 30,
+        "reposts": 15,
+        "likes": 219,
+        "quotes": 9,
+        "views": 15637
+      },
+      "fetched_at": "2026-10-09T02:15:23.351Z"
+    },
     {
       "id": "2108055737188671760",
       "url": "https://x.com/kunchenguid/status/2108055737188671760",
@@ -3424,189 +3660,6 @@
         "views": 3768
       },
       "fetched_at": "2026-09-21T06:27:48.416Z"
-    },
-    {
-      "id": "2101872626968969713",
-      "url": "https://x.com/kunchenguid/status/2101872626968969713",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-21T03:14:19.000Z",
-      "sort_at": "2026-09-21T03:14:19.000Z",
-      "text": "a quick tip that may surprise some folks\n\nan uncached prompt to fable at 500k context window will directly cost you over $5 for A SINGLE REQUEST. that's a cup of coffee or a cheese burger gone. even with subscription quota, this hits like a truck\n\nthe most common way to fall into that case is when you walk away from a long session and come back after a while when cache expired (claude is 1 hr, codex is 30 mins by default)\n\nin particular, when you come back to a long idle session, don't run \"/compact\" there thinking it'll reduce your cost, because the compaction request is still a real request and it will cost $5 by itself right there\n\nthe best thing to do is to /compact BEFORE you walk away\n\nthe next best thing is when you come back and see a large context window, just start a new session, and ask your agent to look for the last session's transcript if it needs context",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2101872626968969713",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 55,
-        "reposts": 38,
-        "likes": 696,
-        "quotes": 10,
-        "views": 37127
-      },
-      "fetched_at": "2026-09-21T06:27:48.416Z"
-    },
-    {
-      "id": "2101534610710761923",
-      "url": "https://x.com/kunchenguid/status/2101534610710761923",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-20T04:51:10.000Z",
-      "sort_at": "2026-09-20T04:51:10.000Z",
-      "text": "poor guy claim to have built Jev a year ago but no one cared, and now Jev stole all the thunder\n\nmany people are saying “you gotta tell your story” or “marketing is important”, and they just completely missed what actually made the difference here\n\ni just looked into this laya model https://laya.convaiinnovations.com/ and:\n\n- it only supports 512-1k context… a lot of use cases won’t fit at all\n\n- evaluating the model directly shows its accuracy is as good as a coin flip. in order to get good results, you need to first fine tune it\n\ni’m sorry, but that’s not Jev\n\nthere’s a massive gap between an interesting research and a useful product\n\nyou can “tell your story” all you like, but you can’t blame Jev for stealing your thunder when Jev did all the work to make a well-packaged solution anyone can just grab and go\n\nJev is not completely new from an academic sense, just like how ChatGPT was not the first LLM\n\ndon’t underestimate the effort and value in putting together something that’s actually good enough for adoption - it makes all the difference",
-      "media": [
-        {
-          "id": "2101534607351201793",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSoml0pbwAE8iDB.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1206,
-          "height": 1165
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2101534610710761923",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 32,
-        "reposts": 15,
-        "likes": 323,
-        "quotes": 8,
-        "views": 13145
-      },
-      "fetched_at": "2026-09-20T06:25:26.825Z"
-    },
-    {
-      "id": "2101389661184946347",
-      "url": "https://x.com/kunchenguid/status/2101389661184946347",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-19T19:15:11.000Z",
-      "sort_at": "2026-09-19T19:15:11.000Z",
-      "text": "check this out - can immediately tell it’s AI",
-      "media": [],
-      "quote": {
-        "id": "2101387534970306612",
-        "url": "https://x.com/AIAppsAPI/status/2101387534970306612",
-        "author": {
-          "screen_name": "AIAppsAPI",
-          "name": "AI Apps API",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2018819452393951232/7IUvhePy_200x200.jpg"
-        },
-        "created_at": "2026-09-19T19:06:44.000Z",
-        "text": "Labeling 40 real sessions by hand is the part that makes this credible. Most compaction heuristics are vibes.\n\nThe framing that helped me most on the same problem: compact when the next action depends on conclusions rather than on the raw material that produced them. A summary keeps the conclusions and drops the material, so compacting right before a debugging pass is how you end up re-deriving what you already knew.",
-        "media": []
-      },
-      "reply_to_id": "2101122270169383075",
-      "thread_root_id": "2101122270169383075",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 4,
-        "reposts": 0,
-        "likes": 5,
-        "quotes": 0,
-        "views": 913
-      },
-      "fetched_at": "2026-09-19T20:47:31.088Z"
-    },
-    {
-      "id": "2101170039185633513",
-      "url": "https://x.com/kunchenguid/status/2101170039185633513",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-19T04:42:29.000Z",
-      "sort_at": "2026-09-19T04:42:29.000Z",
-      "text": "“Jev can chat too”",
-      "media": [
-        {
-          "id": "2101169986563956736",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2101169986563956736/vid/avc1/1920x1080/V3ylVHWAcLAQ4iQ0.mp4?tag=29",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2101169986563956736/img/461tX-GA6VIzcnex.jpg",
-          "width": 1920,
-          "height": 1080,
-          "duration": 98.786
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2101170039185633513",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 6,
-        "reposts": 7,
-        "likes": 119,
-        "quotes": 4,
-        "views": 3992
-      },
-      "fetched_at": "2026-09-19T06:00:25.880Z"
-    },
-    {
-      "id": "2101157949582319939",
-      "url": "https://x.com/ssbrouhard/status/2101157949582319939",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "ssbrouhard",
-        "name": "Stephen Brouhard",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-09-19T03:54:27.000Z",
-      "sort_at": "2026-09-19T04:42:28.000Z",
-      "text": "TIL something really useful in Firstmate by @kunchenguid.\n\nI was working in a completely separate Grok build session, outside the Firstmate repo, and asked:\n\n“What is the most effective way to hand this work off to my Firstmate orchestrator?”\n\nIt went digging and found `fm-inbox`.\n\nSo apparently there is no need to wait for the Firstmate chat to free up or manually copy everything over.\n\nFrom another agent/session:\n\n`Firstmate/bin/fm-inbox.sh note \"your message\"`\n\nThat writes a durable note to disk and pings Firstmate to pick it up on its next check.\n\nThat means another agent can basically walk up to the orchestrator and leave work on its desk while it’s busy.\n\nEven better for larger tasks:\n\nThe note is the doorbell. The file is the brief.\n\nPut the full handoff packet in a file, then send Firstmate a short note pointing to it.\n\nNow Grok, Codex, Claude, etc, can finish a chunk of work and hand the next step to Firstmate without needing the orchestrator session itself to be available.\n\nThat is way more useful than I realized.\n\nAlso in the same binary:\n- `list` - see what’s waiting\n- `status` - see what’s happening without interrupting\n- `ask` - side-question a model without turning it into fleet work\n- `say` - speech/output if configured\n\nYet another Firstmate feature that shows why it’s an actual agent distro: vendor-agnostic coordination infrastructure with durable handoffs between independent sessions - no human meat proxy required.\n\nFirstmate repo: https://github.com/kunchenguid/firstmate",
-      "media": [
-        {
-          "id": "2101156703819440128",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HSjO48SWoAAMLnW.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1536,
-          "height": 1024
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2101157949582319939",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 2,
-        "reposts": 1,
-        "likes": 20,
-        "quotes": 0,
-        "views": 1431
-      },
-      "fetched_at": "2026-09-19T06:00:25.880Z"
     }
   ]
 }
