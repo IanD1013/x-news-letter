@@ -2,6 +2,99 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2109137330812657814",
+      "url": "https://x.com/kunchenguid/status/2109137330812657814",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-11T04:21:40.000Z",
+      "sort_at": "2026-10-11T04:21:40.000Z",
+      "text": "@grok don't think of an elephant",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2109130837929456066",
+      "thread_root_id": "2109130837929456066",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3,
+        "quotes": 0,
+        "views": 552
+      },
+      "fetched_at": "2026-10-11T05:56:45.311Z"
+    },
+    {
+      "id": "2109130837929456066",
+      "url": "https://x.com/kunchenguid/status/2109130837929456066",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-11T03:55:52.000Z",
+      "sort_at": "2026-10-11T03:55:52.000Z",
+      "text": "haha tell your agent “don’t think of an elephant” and check its response!\n\nmuse was amusing",
+      "media": [
+        {
+          "id": "2109130835656101888",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUUjUgQa0AAkE59.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 821
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2109130837929456066",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 7,
+        "reposts": 0,
+        "likes": 10,
+        "quotes": 0,
+        "views": 1823
+      },
+      "fetched_at": "2026-10-11T05:56:45.311Z"
+    },
+    {
+      "id": "2109034238880501884",
+      "url": "https://x.com/kunchenguid/status/2109034238880501884",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-10T21:32:01.000Z",
+      "sort_at": "2026-10-10T21:32:01.000Z",
+      "text": "an interesting thought experiment:\n\ntwo dental businesses\n1. one uses AI and automated all its office jobs (assuming good quality)\n2. the other is all human, like today\n\nwhich ones wins, and why?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2109034238880501884",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 55,
+        "reposts": 1,
+        "likes": 19,
+        "quotes": 0,
+        "views": 8621
+      },
+      "fetched_at": "2026-10-11T05:56:45.311Z"
+    },
+    {
       "id": "2108438256807551359",
       "url": "https://x.com/kunchenguid/status/2108438256807551359",
       "creator": "kunchenguid",
