@@ -2,6 +2,45 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2109444999259787682",
+      "url": "https://x.com/kunchenguid/status/2109444999259787682",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-12T00:44:14.000Z",
+      "sort_at": "2026-10-12T00:44:14.000Z",
+      "text": "very interesting discussions under this AI vs human poll\n\nit makes me think our tech bubble may be vastly over-estimating the impact AI can make in the near term\n\nyes LLMs can greatly improve knowledge work velocity, but if we look at the dental business as a real example, doing knowledge work faster doesn't really change things too much\n\nso if a business has one bottleneck that cannot be removed by AI - one bottleneck is all it takes - then the whole business is still going to operate at roughly the same pace, just with slightly better profit margins, which may not create a meaningful competitive advantage that customers can perceive\n\nhow many industries will truly see a transformative impact vs an incremental gain?",
+      "media": [],
+      "quote": {
+        "id": "2109034238880501884",
+        "url": "https://x.com/kunchenguid/status/2109034238880501884",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-10T21:32:01.000Z",
+        "text": "an interesting thought experiment:\n\ntwo dental businesses\n1. one uses AI and automated all its office jobs (assuming good quality)\n2. the other is all human, like today\n\nwhich ones wins, and why?",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2109444999259787682",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 13,
+        "quotes": 1,
+        "views": 1279
+      },
+      "fetched_at": "2026-10-12T01:23:29.581Z"
+    },
+    {
       "id": "2109137330812657814",
       "url": "https://x.com/kunchenguid/status/2109137330812657814",
       "creator": "kunchenguid",
