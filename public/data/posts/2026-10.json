@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2110103932085338564",
+      "url": "https://x.com/kunchenguid/status/2110103932085338564",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-13T20:22:35.000Z",
+      "sort_at": "2026-10-13T20:22:35.000Z",
+      "text": "i'm not testing muse wonder, because:\n1. without contributor tier, it's opus 5.5 at API price. why don't i just run opus 5.5 then...\n2. it's weird to lock the \"full\" model behind their subscription\n\ni'm also not testing gemini 4 argon, because:\n1. previous gemini models had lost my trust, and nothing so far gives me enough motivation to revisit\n2. google's AI subscription doesn't allow the models to be used in 3p harnesses\n\ni know this sounds harsh to those companies, but i see many consumers are in a similar situation - we have way too many options, some of which are absolutely AMAZING right now. the bar is extremely high for us to justify spending any second of our time on an unproven model family\n\nmeta and google need to both realize they are catching up on market perception, and are in no position to gate anything\n\nmy suggestion to them would be to allow heavily subsidized access everywhere including openrouter and all 3p harnesses, and leverage that to get enough people to try their models. if the models are good, the words will then spread",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2110103932085338564",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 28,
+        "reposts": 7,
+        "likes": 162,
+        "quotes": 0,
+        "views": 6848
+      },
+      "fetched_at": "2026-10-13T22:52:31.870Z"
+    },
+    {
       "id": "2110042216307814578",
       "url": "https://x.com/kunchenguid/status/2110042216307814578",
       "creator": "kunchenguid",
