@@ -1,6 +1,111 @@
 {
-  "generated_at": "2026-10-13T02:04:59.077Z",
+  "generated_at": "2026-10-13T17:38:33.323Z",
   "posts": [
+    {
+      "id": "2110042216307814578",
+      "url": "https://x.com/kunchenguid/status/2110042216307814578",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-13T16:17:21.000Z",
+      "sort_at": "2026-10-13T16:17:21.000Z",
+      "text": "hmmm… apple’s new product is a big apple watch, or small ipad, depends on how you look\n\ntbh i would probably consider something like this if it’s made by openai so the AI is not siri, and would actually work",
+      "media": [],
+      "quote": {
+        "id": "2109995948407476369",
+        "url": "https://x.com/johnternus/status/2109995948407476369",
+        "author": {
+          "screen_name": "johnternus",
+          "name": "John Ternus",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2094817326155939840/MVSN5mvP_200x200.jpg"
+        },
+        "created_at": "2026-10-13T13:13:30.000Z",
+        "text": "Welcome HomeView",
+        "media": [
+          {
+            "id": "2109995483389149184",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2109995483389149184/vid/avc1/1080x1080/mrwv_QQcZZDy7p1H.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109995483389149184/img/kgJHrcUs87eqJkPI.jpg",
+            "width": 1080,
+            "height": 1080,
+            "duration": 11.311
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2110042216307814578",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 7,
+        "reposts": 0,
+        "likes": 19,
+        "quotes": 0,
+        "views": 2272
+      },
+      "fetched_at": "2026-10-13T17:38:31.585Z"
+    },
+    {
+      "id": "2109891801457016895",
+      "url": "https://x.com/kunchenguid/status/2109891801457016895",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-13T06:19:40.000Z",
+      "sort_at": "2026-10-13T06:19:40.000Z",
+      "text": "ok just one more example and i'll shut up :)\n\nyour agent can call an uber for you\nbut your agent needs to call uber to make that call",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2109879371058332062",
+      "thread_root_id": "2109879371058332062",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 33,
+        "quotes": 0,
+        "views": 4267
+      },
+      "fetched_at": "2026-10-13T17:38:31.585Z"
+    },
+    {
+      "id": "2109879371058332062",
+      "url": "https://x.com/kunchenguid/status/2109879371058332062",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-13T05:30:16.000Z",
+      "sort_at": "2026-10-13T05:30:16.000Z",
+      "text": "let me break down “software is dead” for you\n\nthe latest argument is “you just tell your agent what you want, and your agent will vibe code software on the fly to get that done, so no one will need real software any more”\n\nsounds reasonable, until you realize it costs tokens, compute, and wall clock time to build those software on the fly\n\nso instead of one-click launching an app, the bet is people will prefer to write a prompt, wait for 15 minutes, then get something that may or may not do what they want, and at the end of the month pay more $$$ for the token spend, higher than all their software combined\n\nthat’s literally the argument\n\nand if we look at the world in aggregate, most people would just end up building the exact same “personal” software repeatedly\n\noh - your agent just spent 3 days and $500 of tokens vibe coding your terminal multiplexer? mine just did exactly the same! let’s celebrate how personal our terminal multiplexers are!\n\nsorry - i just don’t see that as being a happy scenario for anyone, other than people who profit from telling others how to waste $ on tokens\n\nto be constructive, here’s what i believe as the future state -\n\n- high quality software that takes high cost to make will continue to thrive. just like good restaurants don’t compete with your air fryer and microwave \n\n- most of those software will be offered headlessly for people to use via their agents, and they can continue to monetize such usage. this is already the case with products like jira, linear, stripe\n\n- human-facing software will all offer dynamic UI that can be adjusted with natural language on the fly so they can be personalized easily, but their core doesn’t have to be rebuilt by every user repeatedly\n\ninstead of “software is dead”, i believe good software becomes “strong core, headless service, fluid interface”\n\nwhich future do you think is more likely?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2109879371058332062",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 216,
+        "reposts": 78,
+        "likes": 1209,
+        "quotes": 31,
+        "views": 92338
+      },
+      "fetched_at": "2026-10-13T17:38:31.585Z"
+    },
     {
       "id": "2109805381291798861",
       "url": "https://x.com/kunchenguid/status/2109805381291798861",
@@ -3543,108 +3648,6 @@
         "views": 21761
       },
       "fetched_at": "2026-09-23T00:43:22.291Z"
-    },
-    {
-      "id": "2102507914481283402",
-      "url": "https://x.com/jayparkcanada/status/2102507914481283402",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "jayparkcanada",
-        "name": "Jay",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2102260532715646976/MlP4Qd9j_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-09-22T21:18:44.000Z",
-      "sort_at": "2026-09-22T22:16:05.696Z",
-      "text": "https://x.com/i/article/2102507454508470272",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2102507914481283402",
-      "is_note_tweet": false,
-      "lang": "und",
-      "metrics": {
-        "replies": 3,
-        "reposts": 1,
-        "likes": 7,
-        "quotes": 0,
-        "views": 448
-      },
-      "fetched_at": "2026-09-22T22:16:05.696Z"
-    },
-    {
-      "id": "2102469928695791809",
-      "url": "https://x.com/kunchenguid/status/2102469928695791809",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-22T18:47:47.000Z",
-      "sort_at": "2026-09-22T18:47:47.000Z",
-      "text": "oh wait, no terra!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2102467926800621663",
-      "thread_root_id": "2102467926800621663",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 2,
-        "quotes": 0,
-        "views": 176
-      },
-      "fetched_at": "2026-09-22T18:58:29.137Z"
-    },
-    {
-      "id": "2102460975790137662",
-      "url": "https://x.com/OpenAI/status/2102460975790137662",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "OpenAI",
-        "name": "OpenAI",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-09-22T18:12:13.000Z",
-      "sort_at": "2026-09-22T18:47:46.000Z",
-      "text": "Please welcome GPT-6 Sol and GPT-6 Luna to the GPT-6 universe.\n\nGPT-6 Sol and Luna build on the advances behind GPT-6 Astra, bringing much of its strengths into faster and more affordable models to support work at scale.\n\nWe’ve also made caching and inference more efficient, and we’re passing the savings directly to you: 50% lower API prices for Sol and Luna compared with GPT‑5.6 promotional pricing.",
-      "media": [
-        {
-          "id": "2102460948430966784",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2102460948430966784/vid/avc1/1920x1080/2aqucgwb6tQ7xZ6U.mp4?tag=29",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2102460948430966784/img/AtB4MxYZuAKgOLey.jpg",
-          "width": 1920,
-          "height": 1080,
-          "duration": 8
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2102460975790137662",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 909,
-        "reposts": 1827,
-        "likes": 18277,
-        "quotes": 1261,
-        "views": 935680
-      },
-      "fetched_at": "2026-09-22T18:58:29.137Z"
     }
   ]
 }
