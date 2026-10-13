@@ -2,6 +2,94 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2109805381291798861",
+      "url": "https://x.com/kunchenguid/status/2109805381291798861",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-13T00:36:15.000Z",
+      "sort_at": "2026-10-13T00:36:15.000Z",
+      "text": "EDIT: see clarification below - $200 individual plan is still available!",
+      "media": [],
+      "quote": {
+        "id": "2109801278817833361",
+        "url": "https://x.com/poteto/status/2109801278817833361",
+        "author": {
+          "screen_name": "poteto",
+          "name": "lauren",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093473719830315008/oo09g1Ov_200x200.jpg"
+        },
+        "created_at": "2026-10-13T00:19:57.000Z",
+        "text": "@kunchenguid hmm yeah we can improve the pricing table, the ultra plan is still there for individuals, it's just at the bottom \n\nhttps://grok.com/dashboard/billing?openUpgrade=true&tier=ultra&yearly=false",
+        "media": []
+      },
+      "reply_to_id": "2109797694684479669",
+      "thread_root_id": "2109797694684479669",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3,
+        "quotes": 0,
+        "views": 626
+      },
+      "fetched_at": "2026-10-13T02:04:57.738Z"
+    },
+    {
+      "id": "2109797694684479669",
+      "url": "https://x.com/kunchenguid/status/2109797694684479669",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-13T00:05:43.000Z",
+      "sort_at": "2026-10-13T00:05:43.000Z",
+      "text": "huge change consolidating X, cursor, grok subscriptions \n\nnow the weird thing is that for indies the tier caps at $100/month which i don’t think will give me enough quota. the $200 tier is a team plan\n\nguess i’ll just have to call myself a team now?",
+      "media": [],
+      "quote": {
+        "id": "2109783335296008414",
+        "url": "https://x.com/SpaceXSI/status/2109783335296008414",
+        "author": {
+          "screen_name": "SpaceXSI",
+          "name": "SpaceX Super Intelligence",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2108973816865067008/eES3dbLy_200x200.jpg"
+        },
+        "created_at": "2026-10-12T23:08:39.000Z",
+        "text": "We've unified plans across Grok, Cursor, and X Premium.\n\nIntroducing The X Subscription.",
+        "media": [
+          {
+            "id": "2109782667579322368",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2109782667579322368/vid/avc1/1920x1080/ThJXAcymAf1pV1vL.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109782667579322368/img/mg9FwK4PAT7m7_mU.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 10
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2109797694684479669",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 2,
+        "likes": 72,
+        "quotes": 3,
+        "views": 10495
+      },
+      "fetched_at": "2026-10-13T02:04:57.738Z"
+    },
+    {
       "id": "2109714264516915363",
       "url": "https://x.com/kunchenguid/status/2109714264516915363",
       "creator": "kunchenguid",
