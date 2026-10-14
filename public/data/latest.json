@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-14T13:48:25.473Z",
+  "generated_at": "2026-10-14T18:41:52.592Z",
   "posts": [
+    {
+      "id": "2110410852025458810",
+      "url": "https://x.com/kunchenguid/status/2110410852025458810",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-14T16:42:11.000Z",
+      "sort_at": "2026-10-14T16:42:11.000Z",
+      "text": "over the past couple of weeks, i heard multiple people telling me they could no longer use up their LLM subscriptions\n\nthe reasons were a mix of:\n1. the frontier models became more efficient \n2. they felt exhausted managing agents\n3. they ran out of problems that they can throw to AI\n\n1 will continue to happen. 2 is a tooling and workflow problem (just use firstmate haha) that will be solved as well\n\n3 is an interesting one - it points at a novelty effect that may be wearing off, and a capability gap that AI just hasn’t reached the level that most people can trust to run their daily lives yet\n\nmeanwhile, my quotas have never been tighter because i have an endless number of things i want to build\n\nthat points at the reality of user segmentation - R&D is such a niche use case that needs an astounding amount of tokens. there aren’t many other use cases that are so token intensive \n\nrealistically, how many % of the world’s population will want to run an army of agents and build software all day? i don’t expect that to ever become a big number\n\nso my speculation is that the current $200 subscriptions are likely already close to the ceiling of most people’s consumption needs. better models will unlock more use cases, but efficiency gains may cancel that out\n\nlike water, gas, power - most households will simply get one or two monthly AI subscription and be done\n\nnow the important part - this means if you are building a B2C business, you should almost never sell tokens as part of your offering, because there will be no demand. people already have their subscriptions and that’s enough\n\ninstead, allow people to bring their own LLM subscriptions to your product, and add value on top. i suspect this will hold for most B2B businesses as well, but for B2C this is almost certain at this point",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2110410852025458810",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 19,
+        "reposts": 1,
+        "likes": 76,
+        "quotes": 1,
+        "views": 5391
+      },
+      "fetched_at": "2026-10-14T18:41:51.436Z"
+    },
     {
       "id": "2110234716729463195",
       "url": "https://x.com/kunchenguid/status/2110234716729463195",
@@ -3611,34 +3639,6 @@
         "views": 957
       },
       "fetched_at": "2026-09-23T23:45:54.729Z"
-    },
-    {
-      "id": "2102787931178176588",
-      "url": "https://x.com/kunchenguid/status/2102787931178176588",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-23T15:51:25.000Z",
-      "sort_at": "2026-09-23T15:51:25.000Z",
-      "text": "just took gpt 6 luna for a spin, and… it’s a very weird model\n\n1. it’s insanely cheap, even with the point below considered\n\n2. it’s extremely slow, not in terms of time to first token or toks/sec, but how many turns it takes to get something done\n\n3. it eventually does get shit done.. \n\nthis created an interesting condition - using it interactively feels totally unusable because you have to wait for many turns before a useful outcome comes back\n\ni tried it with high reasoning as firstmate and it straight doesn’t work, because by the time it finishes the current turn there are already two more turns worth of events piled up for it to process. it cannot keep up and literally will never finish\n\nbut if used as a background workhorse, and you don’t care that much about e2e latency, then it’s _extremely_ cost-efficient and capable - nothing else even comes close to this ROI\n\nwhen the labs brought us “fast mode” which makes the models faster but costs more, i jokingly said i actually wanted a “slow mode”\n\nturns out luna is the slow mode",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2102787931178176588",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 17,
-        "reposts": 6,
-        "likes": 150,
-        "quotes": 2,
-        "views": 6567
-      },
-      "fetched_at": "2026-09-23T17:10:33.938Z"
     }
   ]
 }
