@@ -2,6 +2,43 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2110460551122002276",
+      "url": "https://x.com/kunchenguid/status/2110460551122002276",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-14T19:59:40.000Z",
+      "sort_at": "2026-10-14T19:59:40.000Z",
+      "text": "saw a good comment on “software is dead”\n\ntechnically anyone can 3d print anything they want. they can either get a printer themselves or just print stuff online\n\nin reality, buying mass produced products is both cheaper and better quality. people couldn’t care less about making everyday products “personal”\n\nvibe coding is the new 3d printer",
+      "media": [
+        {
+          "id": "2110460547837861888",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUncr8JaIAAdYA7.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1140
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2110460551122002276",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 26,
+        "reposts": 12,
+        "likes": 173,
+        "quotes": 2,
+        "views": 9525
+      },
+      "fetched_at": "2026-10-14T22:20:58.545Z"
+    },
+    {
       "id": "2110410852025458810",
       "url": "https://x.com/kunchenguid/status/2110410852025458810",
       "creator": "kunchenguid",
