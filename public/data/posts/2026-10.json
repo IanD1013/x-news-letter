@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2110234716729463195",
+      "url": "https://x.com/kunchenguid/status/2110234716729463195",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-14T05:02:17.000Z",
+      "sort_at": "2026-10-14T05:02:17.000Z",
+      "text": "hot AI startup character ai just filed for bankruptcy! https://blog.character.ai/an-update-on-character-ai/\n\ni gathered insights from the actual bankruptcy filing itself https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910132680000000119.pdf and this is an interesting one to break down\n\n1. they have adoption and engagement\n\n12M MAU, with average 2 hours of daily time spent per user! \n\nthat’s.. quite a lot. many startup products would dream to reach this level of usage, but it didn’t work\n\n2. they have real network effect\n\nthey have user generated characters and many users like to engage with characters made by others. so the more users they have, the richer this ecosystem becomes - textbook network effect\n\nsome people seem to think network effect is gold. nope! didn’t work\n\n3. they have proprietary data and custom trained models\n\nmany people say software is dead and only data is moat. this gives a sobering look - private data didn’t help either\n\n4. so what’s wrong?\n\nthey burn over $7M of compute and only get $5M of revenue per month\n\nthat’s the whole problem\n\npeople would engage for free or when subsidized, but they are not willing to pay enough $ for the value they are getting\n\nnow… the real dark side of this \n\nif you take a few steps back and look at all LLM usage, especially all the people on social media using tokens to make the same 3d demos every day - \n\nhow many people are actually creating more economical value than the tokens they burnt? if there’s no subsidization and everyone has to pay at API price, how much of the current usage can actually be justified with positive ROI and sustain? \n\nwe have limited runway to make AI work. and if we can’t, what happened to character ai may just be a preview for the entire AI industry",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2110234716729463195",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 32,
+        "reposts": 10,
+        "likes": 174,
+        "quotes": 4,
+        "views": 9824
+      },
+      "fetched_at": "2026-10-14T13:48:24.980Z"
+    },
+    {
       "id": "2110103932085338564",
       "url": "https://x.com/kunchenguid/status/2110103932085338564",
       "creator": "kunchenguid",
