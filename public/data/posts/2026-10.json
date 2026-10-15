@@ -2,6 +2,106 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2110608566847688707",
+      "url": "https://x.com/kunchenguid/status/2110608566847688707",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-15T05:47:50.000Z",
+      "sort_at": "2026-10-15T05:47:50.000Z",
+      "text": "so far in Tibo's 28d challenge of ship or reset, day 2, 3, 6, 8, 10 all got a reset, so averaging one reset every 2-3 days\n\nmy advice - if you have any banked reset available as a backup, you should aim to exhaust your codex quota every 3 days\n\nstill 2.5 weeks left LFG",
+      "media": [],
+      "quote": {
+        "id": "2110595484180214059",
+        "url": "https://x.com/thsottiaux/status/2110595484180214059",
+        "author": {
+          "screen_name": "thsottiaux",
+          "name": "Tibo",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
+        },
+        "created_at": "2026-10-15T04:55:51.000Z",
+        "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2110608566847688707",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 12,
+        "reposts": 0,
+        "likes": 39,
+        "quotes": 0,
+        "views": 2477
+      },
+      "fetched_at": "2026-10-15T07:32:06.933Z"
+    },
+    {
+      "id": "2110544242829566033",
+      "url": "https://x.com/poteto/status/2110544242829566033",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "poteto",
+        "name": "lauren",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2093473719830315008/oo09g1Ov_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-15T01:32:14.000Z",
+      "sort_at": "2026-10-15T05:47:49.000Z",
+      "text": "ask @bot to make you one!",
+      "media": [
+        {
+          "id": "2110543979880271872",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUookUuaUAAUUir.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1280,
+          "height": 1036
+        }
+      ],
+      "quote": {
+        "id": "2110486928868999325",
+        "url": "https://x.com/AdamHoltererer/status/2110486928868999325",
+        "author": {
+          "screen_name": "AdamHoltererer",
+          "name": "Adam Holter",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093828048684544001/5JR0MimQ_200x200.jpg"
+        },
+        "created_at": "2026-10-14T21:44:29.000Z",
+        "text": "I just told bot literally \"go do this for me\"\n\nthis was the result",
+        "media": [
+          {
+            "id": "2110486871272783872",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUn0oKlXAAAh3GY.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1200,
+            "height": 1180
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2110544242829566033",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 265,
+        "reposts": 20,
+        "likes": 855,
+        "quotes": 65,
+        "views": 108746
+      },
+      "fetched_at": "2026-10-15T07:32:06.933Z"
+    },
+    {
       "id": "2110460551122002276",
       "url": "https://x.com/kunchenguid/status/2110460551122002276",
       "creator": "kunchenguid",
