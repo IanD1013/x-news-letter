@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-15T13:30:09.476Z",
+  "generated_at": "2026-10-15T22:25:26.143Z",
   "posts": [
+    {
+      "id": "2110803715108294695",
+      "url": "https://x.com/kunchenguid/status/2110803715108294695",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-15T18:43:17.000Z",
+      "sort_at": "2026-10-15T18:43:17.000Z",
+      "text": "i've been bashing on \"software is dead\" for a while now. it's probably time for me to start sharing what i think will happen instead as well\n\nthere's so much to unpack, so i'm going to split it into a series of a few parts\n\ntoday i'll start with part 1 - jevons paradox\n\nstory time - let's rewind to the industrial revolution, when steam engines powered all the factories, railways and effectively the economy\n\nbut steam engines had to burn coal - a lot of them. there's a limited amount of coal available, so people started to optimize the steam engines to use less coal\n\nthat's when the counter-intuitive thing happened - when steam engines used less coal, the industry actually ended up using more coal in total\n\nhow?? what jevons found and documented in his book was - when steam engines used less coal, they became cheaper to deploy and run, and hence became economically viable in more places, so the total demand rose significantly as a result\n\nwhen the barrier of entry to create software is significantly reduced, the same will happen - software will become much cheaper and more accessible\n\nhesitant to pay $100/month for the adobe suite today? well, what if it becomes $10 lifetime purchase?\n\nsick of so many mobile apps having a paywall? well, what if the entire app store is $5/month all-you-can-eat?\n\nthe price point for each individual piece of software will drop, but the software economy as a whole will become a lot larger because of the rising consumption demand\n\nso many more people and businesses will get access to software that's too costly for them to use today\n\nso many more people who aren't developing software today will be able to participate, create, help grow the economy and make a living out of it\n\nsoftware is nowhere near \"dead\". it's just about to take off",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2110803715108294695",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 39,
+        "reposts": 13,
+        "likes": 237,
+        "quotes": 5,
+        "views": 13051
+      },
+      "fetched_at": "2026-10-15T22:25:25.121Z"
+    },
     {
       "id": "2110640313199141171",
       "url": "https://x.com/kunchenguid/status/2110640313199141171",
@@ -3639,34 +3667,6 @@
         "views": 10404
       },
       "fetched_at": "2026-09-24T19:15:32.422Z"
-    },
-    {
-      "id": "2103033844370903466",
-      "url": "https://x.com/kunchenguid/status/2103033844370903466",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-24T08:08:35.000Z",
-      "sort_at": "2026-09-24T08:08:35.000Z",
-      "text": "one thing interesting about the AI space is that it’s not very easy to create a network effect\n\nwith social apps, every user makes the app itself more valuable. you can make a slightly better whatsapp - you still can’t get users to move because all their contacts are already there\n\nwith AI being used mostly in a private setting, there isn’t as much opportunity for network effect to kick in. users can easily switch if they found something better or cheaper\n\nas a result, being early and building a big user base doesn’t help secure a moat. a better product can easily take all the users away\n\nwhoever figures out a way to establish strong network effect on AI products will win big",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2103027625107288534",
-      "thread_root_id": "2103027625107288534",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 0,
-        "likes": 20,
-        "quotes": 0,
-        "views": 786
-      },
-      "fetched_at": "2026-09-24T09:50:16.330Z"
     }
   ]
 }
