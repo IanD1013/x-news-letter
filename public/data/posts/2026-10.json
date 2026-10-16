@@ -2,6 +2,43 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2110954317129961881",
+      "url": "https://x.com/kunchenguid/status/2110954317129961881",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-16T04:41:43.000Z",
+      "sort_at": "2026-10-16T04:41:43.000Z",
+      "text": "what’s going on with DeepSWE? \n\nofficial chart hasn’t been updated for weeks, missing all the new models, and best model on default chart is gemini 3.8 flash",
+      "media": [
+        {
+          "id": "2110954314223214593",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUudw7RaYAEXxsA.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 967
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2110954317129961881",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 1,
+        "likes": 47,
+        "quotes": 0,
+        "views": 5557
+      },
+      "fetched_at": "2026-10-16T12:33:55.698Z"
+    },
+    {
       "id": "2110803715108294695",
       "url": "https://x.com/kunchenguid/status/2110803715108294695",
       "creator": "kunchenguid",

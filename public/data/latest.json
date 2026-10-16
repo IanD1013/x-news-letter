@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-15T22:25:26.143Z",
+  "generated_at": "2026-10-16T12:33:56.240Z",
   "posts": [
+    {
+      "id": "2110954317129961881",
+      "url": "https://x.com/kunchenguid/status/2110954317129961881",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-16T04:41:43.000Z",
+      "sort_at": "2026-10-16T04:41:43.000Z",
+      "text": "what’s going on with DeepSWE? \n\nofficial chart hasn’t been updated for weeks, missing all the new models, and best model on default chart is gemini 3.8 flash",
+      "media": [
+        {
+          "id": "2110954314223214593",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUudw7RaYAEXxsA.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 967
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2110954317129961881",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 1,
+        "likes": 47,
+        "quotes": 0,
+        "views": 5557
+      },
+      "fetched_at": "2026-10-16T12:33:55.698Z"
+    },
     {
       "id": "2110803715108294695",
       "url": "https://x.com/kunchenguid/status/2110803715108294695",
@@ -3637,34 +3674,6 @@
         "likes": 101,
         "quotes": 0,
         "views": 3154
-      },
-      "fetched_at": "2026-09-24T19:15:32.422Z"
-    },
-    {
-      "id": "2103164030391296208",
-      "url": "https://x.com/kunchenguid/status/2103164030391296208",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-24T16:45:54.000Z",
-      "sort_at": "2026-09-24T16:45:54.000Z",
-      "text": "fable 5 was good. opus 5 and sonnet 5 fumbled\n\nastra 6 was good. sol 6 and luna 6 kind of fumbled\n\nnow opus 5.5 is good. i'm guessing sol and luna 6.5 will improve too\n\nit seems openai is a few months behind?",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2103164030391296208",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 39,
-        "reposts": 0,
-        "likes": 198,
-        "quotes": 2,
-        "views": 10404
       },
       "fetched_at": "2026-09-24T19:15:32.422Z"
     }
