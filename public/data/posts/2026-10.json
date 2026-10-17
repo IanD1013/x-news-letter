@@ -2,6 +2,217 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2111278732464074941",
+      "url": "https://x.com/kunchenguid/status/2111278732464074941",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-17T02:10:50.000Z",
+      "sort_at": "2026-10-17T02:10:50.000Z",
+      "text": "interesting write-up from ceo of e2b\n\nbut let me rephrase the title honestly for you -\n\n\"Your sandboxes are dead. My sandboxes are great!\"",
+      "media": [],
+      "quote": {
+        "id": "2111102659377946821",
+        "url": "https://x.com/mlejva/status/2111102659377946821",
+        "author": {
+          "screen_name": "mlejva",
+          "name": "Vasek Mlejnsky",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1943457701935099905/FPcOnaOf_200x200.jpg"
+        },
+        "created_at": "2026-10-16T14:31:11.000Z",
+        "text": "https://x.com/i/article/2110958631810220032",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2111278732464074941",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 35,
+        "quotes": 0,
+        "views": 3782
+      },
+      "fetched_at": "2026-10-17T05:39:03.726Z"
+    },
+    {
+      "id": "2111167382484111853",
+      "url": "https://x.com/kunchenguid/status/2111167382484111853",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-16T18:48:22.000Z",
+      "sort_at": "2026-10-16T18:48:22.000Z",
+      "text": "part 2 is here - https://x.com/kunchenguid/status/2111158192931762335?s=20",
+      "media": [],
+      "quote": {
+        "id": "2111158192931762335",
+        "url": "https://x.com/kunchenguid/status/2111158192931762335",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-16T18:11:51.000Z",
+        "text": "part 2 of \"software is taking off\"\n\nmany people argued - now that everyone will just have their agent build whatever they need, software businesses will no longer be able to make money, hence \"software is dead\"\n\ni'm here to show you why that's wrong, by exploring what happened to major technological transformations in the past\n\nfig 1. microwave vs restaurants\n\nin the 1980s, the adoption of microwave in households started to explode. it allowed pretty much anyone to cook a simple meal for themselves in a matter of minutes\n\nmany predicted that the restaurant businesses will collapse because why pay for expensive restaurant dining when it's so easy to make food at home\n\nnow with the benefit of hindsight, we can see the adoption of microwave did not slow down restaurant business growth AT ALL - not by a single bit\n\nfig 2. espresso machines vs coffee shops\n\nsimilarly to the above, espresso machines gained significant adoption since 2000\n\nintuitively, every cup of coffee people make at home is a few dollars the coffee shops would lose, so the growth of espresso machines and coffee shops should go in opposite direction\n\nbut they did not. they both grew at the same time\n\nfig 3. iphone camera vs photographers\n\nwhen everyone has a camera in their pocket all the time, it would surely put photographers out of their jobs, right? ...right?\n\ncounter to many people's intuition, employment of professional photographers remained stable after iphone adoption exploded in the 2010s\n\nthere was a little dip due to COVID, but it's recovered since, and overall it even grew slightly since 2000\n\nfig 4. tiktok vs streaming\n\nshort form videos absolutely exploded in growth since its introduction. tiktok allowed pretty much everyone to easily create entertaining videos others can watch\n\nas the incumbent entertainment video format, TVs and movies would totally take a massive hit, right?\n\nbut no it didn't\n\nhow?? all these industries got democratized by technology and became accessible to a much larger number of people, why won't they just die, like the hype trains said they would?\n\nyou see - \n\npeople go to coffee shops and restaurants to be lazy, to be serviced, to socialize, to celebrate. you can't do any of that with a microwave and espresso machine at home\n\npeople hire photographers for their wedding because it's a special day and they want the beautifully captured memory to stand out in their album. using a phone is the opposite of special\n\npeople watch tv shows and movies to enjoy a well crafted story, feel moved, touched, and sometimes to share some emotion and bond with others. tiktok scrolling does not give them that at all\n\nwhen technology is democratized and made accessible to the general public, they tend to be used to create a different set of things, not a replacement to the existing professional business\n\ngo to your phone settings and take a look at the apps where you spent the most time. for me, that's X, discord, wechat, whatsapp, youtube, youtube music, tiktok\n\nyour agent can't create a replacement for any single one of them. look at yours and ask yourself which one would you bother to vibe code?\n\nwhat regular people will create with AI is going to be an exciting set of new things. things that never existed before, that would open up new markets and be net new to the economy. things that are way more interesting than \"you built your kanban board, and i did one too\"",
+        "media": [
+          {
+            "id": "2111141471604858880",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUxH-62aYAANDur.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1785,
+            "height": 1033
+          },
+          {
+            "id": "2111143102224474112",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUxJd1YbIAA_k--.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1785,
+            "height": 1038
+          },
+          {
+            "id": "2111145183320629248",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUxLW-EaYAA_J6K.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1785,
+            "height": 1033
+          },
+          {
+            "id": "2111146852230090752",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HUxM4HPb0AA5Pws.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1785,
+            "height": 1038
+          }
+        ]
+      },
+      "reply_to_id": "2110803715108294695",
+      "thread_root_id": "2110803715108294695",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4,
+        "quotes": 0,
+        "views": 839
+      },
+      "fetched_at": "2026-10-17T05:39:03.726Z"
+    },
+    {
+      "id": "2111158194773094877",
+      "url": "https://x.com/kunchenguid/status/2111158194773094877",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-16T18:11:51.000Z",
+      "sort_at": "2026-10-16T18:11:51.000Z",
+      "text": "if you missed part 1, here it is https://x.com/kunchenguid/status/2110803715108294695?s=20",
+      "media": [],
+      "quote": {
+        "id": "2110803715108294695",
+        "url": "https://x.com/kunchenguid/status/2110803715108294695",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-15T18:43:17.000Z",
+        "text": "i've been bashing on \"software is dead\" for a while now. it's probably time for me to start sharing what i think will happen instead as well\n\nthere's so much to unpack, so i'm going to split it into a series of a few parts\n\ntoday i'll start with part 1 - jevons paradox\n\nstory time - let's rewind to the industrial revolution, when steam engines powered all the factories, railways and effectively the economy\n\nbut steam engines had to burn coal - a lot of them. there's a limited amount of coal available, so people started to optimize the steam engines to use less coal\n\nthat's when the counter-intuitive thing happened - when steam engines used less coal, the industry actually ended up using more coal in total\n\nhow?? what jevons found and documented in his book was - when steam engines used less coal, they became cheaper to deploy and run, and hence became economically viable in more places, so the total demand rose significantly as a result\n\nwhen the barrier of entry to create software is significantly reduced, the same will happen - software will become much cheaper and more accessible\n\nhesitant to pay $100/month for the adobe suite today? well, what if it becomes $10 lifetime purchase?\n\nsick of so many mobile apps having a paywall? well, what if the entire app store is $5/month all-you-can-eat?\n\nthe price point for each individual piece of software will drop, but the software economy as a whole will become a lot larger because of the rising consumption demand\n\nso many more people and businesses will get access to software that's too costly for them to use today\n\nso many more people who aren't developing software today will be able to participate, create, help grow the economy and make a living out of it\n\nsoftware is nowhere near \"dead\". it's just about to take off",
+        "media": []
+      },
+      "reply_to_id": "2111158192931762335",
+      "thread_root_id": "2111158192931762335",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3,
+        "quotes": 0,
+        "views": 1579
+      },
+      "fetched_at": "2026-10-17T05:39:03.726Z"
+    },
+    {
+      "id": "2111158192931762335",
+      "url": "https://x.com/kunchenguid/status/2111158192931762335",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-16T18:11:51.000Z",
+      "sort_at": "2026-10-16T18:11:51.000Z",
+      "text": "part 2 of \"software is taking off\"\n\nmany people argued - now that everyone will just have their agent build whatever they need, software businesses will no longer be able to make money, hence \"software is dead\"\n\ni'm here to show you why that's wrong, by exploring what happened to major technological transformations in the past\n\nfig 1. microwave vs restaurants\n\nin the 1980s, the adoption of microwave in households started to explode. it allowed pretty much anyone to cook a simple meal for themselves in a matter of minutes\n\nmany predicted that the restaurant businesses will collapse because why pay for expensive restaurant dining when it's so easy to make food at home\n\nnow with the benefit of hindsight, we can see the adoption of microwave did not slow down restaurant business growth AT ALL - not by a single bit\n\nfig 2. espresso machines vs coffee shops\n\nsimilarly to the above, espresso machines gained significant adoption since 2000\n\nintuitively, every cup of coffee people make at home is a few dollars the coffee shops would lose, so the growth of espresso machines and coffee shops should go in opposite direction\n\nbut they did not. they both grew at the same time\n\nfig 3. iphone camera vs photographers\n\nwhen everyone has a camera in their pocket all the time, it would surely put photographers out of their jobs, right? ...right?\n\ncounter to many people's intuition, employment of professional photographers remained stable after iphone adoption exploded in the 2010s\n\nthere was a little dip due to COVID, but it's recovered since, and overall it even grew slightly since 2000\n\nfig 4. tiktok vs streaming\n\nshort form videos absolutely exploded in growth since its introduction. tiktok allowed pretty much everyone to easily create entertaining videos others can watch\n\nas the incumbent entertainment video format, TVs and movies would totally take a massive hit, right?\n\nbut no it didn't\n\nhow?? all these industries got democratized by technology and became accessible to a much larger number of people, why won't they just die, like the hype trains said they would?\n\nyou see - \n\npeople go to coffee shops and restaurants to be lazy, to be serviced, to socialize, to celebrate. you can't do any of that with a microwave and espresso machine at home\n\npeople hire photographers for their wedding because it's a special day and they want the beautifully captured memory to stand out in their album. using a phone is the opposite of special\n\npeople watch tv shows and movies to enjoy a well crafted story, feel moved, touched, and sometimes to share some emotion and bond with others. tiktok scrolling does not give them that at all\n\nwhen technology is democratized and made accessible to the general public, they tend to be used to create a different set of things, not a replacement to the existing professional business\n\ngo to your phone settings and take a look at the apps where you spent the most time. for me, that's X, discord, wechat, whatsapp, youtube, youtube music, tiktok\n\nyour agent can't create a replacement for any single one of them. look at yours and ask yourself which one would you bother to vibe code?\n\nwhat regular people will create with AI is going to be an exciting set of new things. things that never existed before, that would open up new markets and be net new to the economy. things that are way more interesting than \"you built your kanban board, and i did one too\"",
+      "media": [
+        {
+          "id": "2111141471604858880",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUxH-62aYAANDur.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1785,
+          "height": 1033
+        },
+        {
+          "id": "2111143102224474112",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUxJd1YbIAA_k--.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1785,
+          "height": 1038
+        },
+        {
+          "id": "2111145183320629248",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUxLW-EaYAA_J6K.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1785,
+          "height": 1033
+        },
+        {
+          "id": "2111146852230090752",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HUxM4HPb0AA5Pws.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1785,
+          "height": 1038
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2111158192931762335",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 48,
+        "reposts": 21,
+        "likes": 286,
+        "quotes": 9,
+        "views": 17786
+      },
+      "fetched_at": "2026-10-17T05:39:03.726Z"
+    },
+    {
       "id": "2110954317129961881",
       "url": "https://x.com/kunchenguid/status/2110954317129961881",
       "creator": "kunchenguid",
