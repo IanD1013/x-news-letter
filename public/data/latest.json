@@ -1,6 +1,112 @@
 {
-  "generated_at": "2026-10-17T05:39:04.290Z",
+  "generated_at": "2026-10-17T23:10:52.182Z",
   "posts": [
+    {
+      "id": "2111564374271992291",
+      "url": "https://x.com/kunchenguid/status/2111564374271992291",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-17T21:05:52.000Z",
+      "sort_at": "2026-10-17T21:05:52.000Z",
+      "text": "part 3 is here - https://x.com/kunchenguid/status/2111536655442264387?s=20",
+      "media": [],
+      "quote": {
+        "id": "2111536655442264387",
+        "url": "https://x.com/kunchenguid/status/2111536655442264387",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-17T19:15:43.000Z",
+        "text": "part 3 of \"software is taking off\"\n\nthere's a profound misconception that led to people saying \"software is dead\": they think software = code\n\nif software = code, and anyone's agent can write said code as needed, then of course it'll be hard to sell software\n\nbut most of the valuable software we use today is not just a pile of code!\n\ngood software is often the glue behind a network. your agent can vibe code a clone of X, instagram, uber all you want - but you won't even use it yourself, because the people you care about aren't there\n\ngood software is often the tip of an infrastructure iceberg. can your agent vibe code google on the fly? even if it wrote the code, where do you get the billion-dollar data centers to run the code?\n\ngood software is often a business model. want to vibe code a tinder clone? even if we ignore the network effect which your agent has absolutely no way to replicate, you still have to figure out - how on earth are you going to afford all the servers? \n\nif you charge every user, you instantly kill the network. if you let people use it for free, you bankrupt yourself. it took a lot of effort to find the delicate balance between who would pay, for what features, and by how much\n\ngood software is often also its compliance. do you honestly think companies buy salesforce and workday etc because they have beautiful high quality code that no one else can write? i mean.. have you looked at those products? \n\nbut if you let your agents vibe code a clone, you immediately get into a rabbit hole of questions like - where do you store which piece of your data? how long can you keep them? what laws and regulations in each country just changed that require your vibe coded clone to keep up? one little mistake, and you get a very costly lawsuit\n\ncompanies pay for those saas because they want someone else to take care of those complexity, so they can focus on their actual business, not spending their own time and take legal risks on their own shoulders\n\ngood software is often a lot of negotiations. want to vibe code spotify? well, first hire a big law firm and good luck negotiating all the licensing and rev share agreements\n\ni can keep going on and on, but i think what i wrote above already gives a clear idea that valuable software is not just code, and cannot be replaced by an agent replicating its implementation\n\nnow, i should also point out that some software today is indeed just a small pile of code, like a fitness tracker. simple client-only applications may be what some indie hackers were counting on, but they would likely not carry a sustainable business, even today. that's never been what defines the software industry\n\ni also think it's a profound mistake if people use AI only to repeat what already exists. i think the majority of the value AI brings will come from achieving things that weren't quite possible before. and i'll talk more about that in a subsequent part of this series",
+        "media": []
+      },
+      "reply_to_id": "2111158194773094877",
+      "thread_root_id": "2111158192931762335",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 563
+      },
+      "fetched_at": "2026-10-17T23:10:50.994Z"
+    },
+    {
+      "id": "2111536656591540383",
+      "url": "https://x.com/kunchenguid/status/2111536656591540383",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-17T19:15:44.000Z",
+      "sort_at": "2026-10-17T19:15:44.000Z",
+      "text": "if you missed previous parts, start here - https://x.com/kunchenguid/status/2110803715108294695?s=20",
+      "media": [],
+      "quote": {
+        "id": "2110803715108294695",
+        "url": "https://x.com/kunchenguid/status/2110803715108294695",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-15T18:43:17.000Z",
+        "text": "i've been bashing on \"software is dead\" for a while now. it's probably time for me to start sharing what i think will happen instead as well\n\nthere's so much to unpack, so i'm going to split it into a series of a few parts\n\ntoday i'll start with part 1 - jevons paradox\n\nstory time - let's rewind to the industrial revolution, when steam engines powered all the factories, railways and effectively the economy\n\nbut steam engines had to burn coal - a lot of them. there's a limited amount of coal available, so people started to optimize the steam engines to use less coal\n\nthat's when the counter-intuitive thing happened - when steam engines used less coal, the industry actually ended up using more coal in total\n\nhow?? what jevons found and documented in his book was - when steam engines used less coal, they became cheaper to deploy and run, and hence became economically viable in more places, so the total demand rose significantly as a result\n\nwhen the barrier of entry to create software is significantly reduced, the same will happen - software will become much cheaper and more accessible\n\nhesitant to pay $100/month for the adobe suite today? well, what if it becomes $10 lifetime purchase?\n\nsick of so many mobile apps having a paywall? well, what if the entire app store is $5/month all-you-can-eat?\n\nthe price point for each individual piece of software will drop, but the software economy as a whole will become a lot larger because of the rising consumption demand\n\nso many more people and businesses will get access to software that's too costly for them to use today\n\nso many more people who aren't developing software today will be able to participate, create, help grow the economy and make a living out of it\n\nsoftware is nowhere near \"dead\". it's just about to take off",
+        "media": []
+      },
+      "reply_to_id": "2111536655442264387",
+      "thread_root_id": "2111536655442264387",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 831
+      },
+      "fetched_at": "2026-10-17T23:10:50.994Z"
+    },
+    {
+      "id": "2111536655442264387",
+      "url": "https://x.com/kunchenguid/status/2111536655442264387",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-17T19:15:43.000Z",
+      "sort_at": "2026-10-17T19:15:43.000Z",
+      "text": "part 3 of \"software is taking off\"\n\nthere's a profound misconception that led to people saying \"software is dead\": they think software = code\n\nif software = code, and anyone's agent can write said code as needed, then of course it'll be hard to sell software\n\nbut most of the valuable software we use today is not just a pile of code!\n\ngood software is often the glue behind a network. your agent can vibe code a clone of X, instagram, uber all you want - but you won't even use it yourself, because the people you care about aren't there\n\ngood software is often the tip of an infrastructure iceberg. can your agent vibe code google on the fly? even if it wrote the code, where do you get the billion-dollar data centers to run the code?\n\ngood software is often a business model. want to vibe code a tinder clone? even if we ignore the network effect which your agent has absolutely no way to replicate, you still have to figure out - how on earth are you going to afford all the servers? \n\nif you charge every user, you instantly kill the network. if you let people use it for free, you bankrupt yourself. it took a lot of effort to find the delicate balance between who would pay, for what features, and by how much\n\ngood software is often also its compliance. do you honestly think companies buy salesforce and workday etc because they have beautiful high quality code that no one else can write? i mean.. have you looked at those products? \n\nbut if you let your agents vibe code a clone, you immediately get into a rabbit hole of questions like - where do you store which piece of your data? how long can you keep them? what laws and regulations in each country just changed that require your vibe coded clone to keep up? one little mistake, and you get a very costly lawsuit\n\ncompanies pay for those saas because they want someone else to take care of those complexity, so they can focus on their actual business, not spending their own time and take legal risks on their own shoulders\n\ngood software is often a lot of negotiations. want to vibe code spotify? well, first hire a big law firm and good luck negotiating all the licensing and rev share agreements\n\ni can keep going on and on, but i think what i wrote above already gives a clear idea that valuable software is not just code, and cannot be replaced by an agent replicating its implementation\n\nnow, i should also point out that some software today is indeed just a small pile of code, like a fitness tracker. simple client-only applications may be what some indie hackers were counting on, but they would likely not carry a sustainable business, even today. that's never been what defines the software industry\n\ni also think it's a profound mistake if people use AI only to repeat what already exists. i think the majority of the value AI brings will come from achieving things that weren't quite possible before. and i'll talk more about that in a subsequent part of this series",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2111536655442264387",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 22,
+        "reposts": 6,
+        "likes": 94,
+        "quotes": 2,
+        "views": 4994
+      },
+      "fetched_at": "2026-10-17T23:10:50.994Z"
+    },
     {
       "id": "2111278732464074941",
       "url": "https://x.com/kunchenguid/status/2111278732464074941",
@@ -3647,104 +3753,6 @@
         "views": 1722
       },
       "fetched_at": "2026-09-25T22:27:09.062Z"
-    },
-    {
-      "id": "2103514287180485057",
-      "url": "https://x.com/petergyang/status/2103514287180485057",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "petergyang",
-        "name": "Peter Yang",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1454103621516206083/_klMwpkk_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-09-25T15:57:42.000Z",
-      "sort_at": "2026-09-25T18:41:58.058Z",
-      "text": "Today, I'm launching a new AI course so you can copy the exact AI skills and workflows that I use to run my work and life.\n\nSince going independent, the most useful thing that I've done with AI isn't trying every new tool or vibe coding apps. It's building an AI system that proactively takes work off my plate and can work across any model or harness.\n\nAcross 25+ bite-sized lessons, you'll:\n\n1. Build an AI chief of staff to manage your inbox, calendar, and other tasks.\n\n2. Set up an AI advisor to make better decisions about your life and career.\n\n3. Automate workflows by chaining together reusable AI skills.\n\n4. Make AI proactive with my best scheduled tasks for work and life.\n\nI've included 40+ copy/paste prompts for you to set all this up in an afternoon.\n\nIn addition to the self-paced course, you'll also get:\n\n- $600+ in AI tool credits for my favorite tools\n- 16 ready-to-install AI skills\n- Monthly live workshops with me in a private Slack community of 400+ builders\n\nGet instant access to all of the above by signing up as a paid subscriber to my newsletter: https://creatoreconomy.so/subscribe?utm_source=sept25social\n\nJoin by October 7 to lock in $150/year. After that, the price goes up to $200/year.\n\nLearn more at http://behindthecraft.com and thanks for your support!",
-      "media": [
-        {
-          "id": "2103514214925275136",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2103514214925275136/vid/avc1/1920x1080/zeVAHaIhSogWE5eW.mp4?tag=16",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103514214925275136/img/o8JTKwM4rYg8MRqs.jpg",
-          "width": 1920,
-          "height": 1080,
-          "duration": 50
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2103514287180485057",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 22,
-        "reposts": 8,
-        "likes": 114,
-        "quotes": 1,
-        "views": 9506
-      },
-      "fetched_at": "2026-09-25T18:41:58.058Z"
-    },
-    {
-      "id": "2103520486487724348",
-      "url": "https://x.com/kunchenguid/status/2103520486487724348",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-25T16:22:20.000Z",
-      "sort_at": "2026-09-25T16:22:20.000Z",
-      "text": "my most important lessons on using voice input on agents\n\ntalking with voice is auto regressive, like an LLM:\n- we speak one word at a time\n- we think and talk simultaneously\n- and we can’t easily take back what we said\n\nthis created some interesting characteristics:\n\n- what we say first will influence what we say next. try starting your sentence with “the most important two things i want you to do are…” and you’ll find yourself cornered into a certain way of framing your message\n\n- we generally don’t have a ton of time to think while talking. and the faster we talk, the less thinking we do. this is why people who trained themselves to take pause are often more eloquent and perceived as thoughtful\n\n- we often perceive talking as higher stake than typing because correction is a lot harder\n\nthese traits made voice input a terrible method for writing content. say you want to write a blog post, and using voice means you have to think through most things upfront, and randomly derail the content during talking due to choice of words, and can’t correct what’s written (unless you fallback to typing in the end)\n\nBUT.. when using agents, most of these traits don’t apply! agents can understand messy rambling just fine. they can understand your corrections if you said “no no scratch that, let me rephrase”. and they couldn’t care less if you take a pause\n\nso when using voice input on agents, you have to think of it differently from talking to real people or writing real content\n\nmy advice:\n\n- don’t try to speak only the “final result”. speak your thinking process out loud\n\nthis gives yourself a lot more room to reason through the concepts and arrive at something that actually represents what you want\n\nit also gives the agent more context on why you made certain choices\n\nyou can even intentionally use phrases like “let’s think through this..”, or “here’s why..” to elicit more thinking\n\n- correct yourself often\n\nwhen you realized something you said earlier was wrong, you can either just stop the voice input and discard what you said so far, or start correcting yourself \n\nthe good thing about agents is that they don’t judge. they are trained to never shame you for making mistakes or walking back your decisions\n\nonce you started doing this more, you will perceive voice input as low stake, which makes it feel more natural and less demanding\n\non the other hand, typing is text diffusion - you think in your head and type out the results, and you constantly refine what you already wrote\n\nit’s great for writing polished content, or precise text such as code. but it’s not as good for prompting agents because all your thinking tokens were hidden so the agent only sees the final “what” but rarely the “why”",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2103520486487724348",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 22,
-        "reposts": 2,
-        "likes": 132,
-        "quotes": 3,
-        "views": 4937
-      },
-      "fetched_at": "2026-09-25T18:41:58.058Z"
-    },
-    {
-      "id": "2103364352216830350",
-      "url": "https://x.com/kunchenguid/status/2103364352216830350",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-25T06:01:54.000Z",
-      "sort_at": "2026-09-25T06:01:54.000Z",
-      "text": "youtube discovered i decided to start eating healthy, so it decided to recommend a michelin chef cooking ramen to me at 11pm...\n\nwatching the first half i was like \"i do that too\"\n\nthe second half just showed me why i'm not a michelin chef\n\nhttps://www.youtube.com/watch?v=WW62RWXMlTc",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2103364352216830350",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 4,
-        "reposts": 0,
-        "likes": 11,
-        "quotes": 0,
-        "views": 1920
-      },
-      "fetched_at": "2026-09-25T07:55:52.049Z"
     }
   ]
 }
