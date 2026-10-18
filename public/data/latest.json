@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-18T06:00:14.128Z",
+  "generated_at": "2026-10-18T15:56:32.665Z",
   "posts": [
+    {
+      "id": "2111841732308668832",
+      "url": "https://x.com/kunchenguid/status/2111841732308668832",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-18T15:27:59.000Z",
+      "sort_at": "2026-10-18T15:27:59.000Z",
+      "text": "a lot of the shortcomings we are seeing with coding agents today ultimately boil down to limitations in post training\n\nwhy agents don’t write good tests by default? why do they spit out a ton of useless comments? why do vibe coded codebases all turn into a mess without human steering and intervention? \n\nbecause in current RLVR pipelines, we reward task resolution. as long as the agents wrote code that could pass predefined hidden tests, that’s a success\n\nwhether the architecture is clean, whether the code is easy to maintain and evolve, whether the comments are actually helpful in future work, whether the test cases help catch real problems down the road - none of these make a difference in how the model was rewarded when the reward is done at task level\n\nwe have been “fixing” a lot of these problems with system prompts, skills, and harness features, which is very necessary in the near term\n\nbut i think eventually the post training pipeline will keep evolving and take more and more of these long term considerations into account\n\nwhen it does, we will finally have agents that can write good code by default. anyone will be able to build very complex software as long as they can articulate their intent clearly\n\nexperienced engineers will not have an advantage any more just because they know a little more than average people on how to write good code (including myself)\n\nand i think that’ll be a very beautiful world",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2111841732308668832",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 3,
+        "likes": 42,
+        "quotes": 0,
+        "views": 1821
+      },
+      "fetched_at": "2026-10-18T15:56:31.870Z"
+    },
     {
       "id": "2111672985111470379",
       "url": "https://x.com/kunchenguid/status/2111672985111470379",
@@ -3693,64 +3721,6 @@
         "likes": 48,
         "quotes": 0,
         "views": 3314
-      },
-      "fetched_at": "2026-09-26T01:38:49.793Z"
-    },
-    {
-      "id": "2103615924075139087",
-      "url": "https://x.com/kunchenguid/status/2103615924075139087",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-25T22:41:34.000Z",
-      "sort_at": "2026-09-25T22:41:34.000Z",
-      "text": "railway offering a free VM for each IP\n\nthe catch is it only lasts for 1hr. you lose it unless you pay. it's also only reachable from the IP that created it, so can't be used to host a server\n\ncan use it to offload quick tasks from our machine, but otherwise no free lunch",
-      "media": [
-        {
-          "id": "2103614368407826432",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTGKH2VbMAAR4bv.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 954,
-          "height": 176
-        }
-      ],
-      "quote": {
-        "id": "2103566393862136150",
-        "url": "https://x.com/Railway/status/2103566393862136150",
-        "author": {
-          "screen_name": "Railway",
-          "name": "Railway",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2060407291996692484/ave6xJl9_200x200.jpg"
-        },
-        "created_at": "2026-09-25T19:24:45.000Z",
-        "text": "Get a free VM from your terminal or from @muse.  \n\nZero sign-up. One command.\n\nssh https://railway.new",
-        "media": [
-          {
-            "id": "2103566202085761025",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2103566202085761025/vid/avc1/1920x1080/h1Na5ZAN2Tz0CLkI.mp4?tag=29",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2103566202085761025/img/3iJZeC9ECLfvVhld.jpg",
-            "width": 1920,
-            "height": 1080,
-            "duration": 30.1
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2103615924075139087",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 23,
-        "quotes": 0,
-        "views": 3450
       },
       "fetched_at": "2026-09-26T01:38:49.793Z"
     }
