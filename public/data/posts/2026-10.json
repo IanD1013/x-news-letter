@@ -2,6 +2,62 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2112414941970145509",
+      "url": "https://x.com/kunchenguid/status/2112414941970145509",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T05:25:43.000Z",
+      "sort_at": "2026-10-20T05:25:43.000Z",
+      "text": "more and more products are straight blocking access from cloud data centers because they are 99%+ agents\n\nat this rate, owning a local machine with a residential IP might become one of the things that prove you are a human",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2112414941970145509",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 32,
+        "reposts": 4,
+        "likes": 163,
+        "quotes": 0,
+        "views": 7507
+      },
+      "fetched_at": "2026-10-20T13:37:32.152Z"
+    },
+    {
+      "id": "2112372460125569207",
+      "url": "https://x.com/kunchenguid/status/2112372460125569207",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T02:36:55.000Z",
+      "sort_at": "2026-10-20T02:36:55.000Z",
+      "text": "something i’m very curious about\n\nif you tried personal agents but it didn’t stick with you, what was the main reason?\n\n(comment if it’s some other reasons)",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2112372460125569207",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 52,
+        "reposts": 3,
+        "likes": 32,
+        "quotes": 0,
+        "views": 9518
+      },
+      "fetched_at": "2026-10-20T13:37:32.152Z"
+    },
+    {
       "id": "2112307458848997803",
       "url": "https://x.com/kunchenguid/status/2112307458848997803",
       "creator": "kunchenguid",
