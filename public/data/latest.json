@@ -1,6 +1,146 @@
 {
-  "generated_at": "2026-10-21T07:45:50.061Z",
+  "generated_at": "2026-10-21T22:25:38.416Z",
   "posts": [
+    {
+      "id": "2112992485823914355",
+      "url": "https://x.com/kunchenguid/status/2112992485823914355",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T19:40:40.000Z",
+      "sort_at": "2026-10-21T19:40:40.000Z",
+      "text": "it’s interesting how anthropic has the best model yet slowest to market with a personal agent that shows no clear differentiation \n\nwhy do you think that’s the case?",
+      "media": [],
+      "quote": {
+        "id": "2112984664256241837",
+        "url": "https://x.com/claudeai/status/2112984664256241837",
+        "author": {
+          "screen_name": "claudeai",
+          "name": "Claude",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg"
+        },
+        "created_at": "2026-10-21T19:09:35.000Z",
+        "text": "We’re opening a research preview of Claude Duet, a new app where Claude works as a proactive agent.\n\nIt comes to you with what needs your attention, completes tasks you ask of it, keeps working when you step away, and checks with you before it acts on your behalf.",
+        "media": [
+          {
+            "id": "2112982862186106880",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2112982862186106880/vid/avc1/640x360/L7zosiEUW76tqYr-.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/media/HVLUnMDWsAAn7Pw.png",
+            "width": 1920,
+            "height": 1080,
+            "duration": 100.01
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2112992485823914355",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 119,
+        "reposts": 3,
+        "likes": 158,
+        "quotes": 4,
+        "views": 24201
+      },
+      "fetched_at": "2026-10-21T22:25:37.580Z"
+    },
+    {
+      "id": "2112984659953152284",
+      "url": "https://x.com/kunchenguid/status/2112984659953152284",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T19:09:34.000Z",
+      "sort_at": "2026-10-21T19:09:34.000Z",
+      "text": "interesting read walking through a practical example of building a reasonably polished app with ~1hr of human time\n\nnot sure how i feel about “shotgun prompting” though! what i like to do is “ramble prompting” with voice 😄",
+      "media": [],
+      "quote": {
+        "id": "2112979178526323056",
+        "url": "https://x.com/CalvinGrunewald/status/2112979178526323056",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-10-21T18:47:48.000Z",
+        "text": "New blog post is out! This provides a good example of how I work these days on a piece of low-consequence, personal software. I cover two concepts that might be interesting to you:\n\n1. Shotgun prompting: the idea here is to get what you want with a lot of short, direct fast prompts that are mostly subconscious (thinking fast instead of slow) so you can focus on other things. \n\n2. Building the system that lets an agent drive: the idea here is to build in a mechanism to make it very easy for your agents to use the software. This is different than embedding an agent.\n\nStet is a markdown editor - it's like iaWriter, but free and has a bunch of features I want (like posting to Substack, vim keybindings, and suggestion editing). I hope the techniques I used to build it are useful, or maybe you find Stet useful too!\n\nhttps://open.substack.com/pub/thebuildingmachine/p/stet-shotgunning-an-editor-my-agents?r=2pj09&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2112984659953152284",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 28,
+        "quotes": 0,
+        "views": 3832
+      },
+      "fetched_at": "2026-10-21T22:25:37.580Z"
+    },
+    {
+      "id": "2112795764409745415",
+      "url": "https://x.com/ssbrouhard/status/2112795764409745415",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "ssbrouhard",
+        "name": "Stephen Brouhard",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-21T06:38:58.000Z",
+      "sort_at": "2026-10-21T19:09:33.000Z",
+      "text": "Tripwire @bot \n\nI built a security watcher grok bot. It's called Tripwire, and I just published it as a free template.\n\nIt doesn't spam you with every CVE. It learns your actual stack (repos, hosting, domains, accounts, devices) and only speaks up when something touches you.\n\nWhat it watches:\n- actively exploited vulns (CISA KEV, EPSS, NVD/GHSA, vendor advisories)\n- certificate transparency for your domains, plus CA distrust events\n- breaches for your emails and domains\n- scams and lookalike domains\n- leaked keys and permission creep in your bot setup\n\nSkills it ships with:\n- stack-inventory: a read-only map of your repos, hosting, domains, accounts, devices and bots\n- vuln-triage: checks whether a new vuln or breach affects you, how urgent it is, and how to alert you\n- cert-watch: certificate transparency, CA distrust, and lookalike domain checks\n- incident-playbooks: the next 3 steps for a leaked key, an RCE, a bad dependency, a distrusted CA, a lost phone, an account takeover, phishing or prompt injection\n- getting-started: a 5-question setup chat\n\nHow it works:\n- confirms each item with two independent sources and labels rumors as unconfirmed\n- critical issues come to you right away, any hour\n- everything else goes into one quiet summary\n- every alert says what happened, whether you're affected, the next 3 steps, and the deadline\n- read-only everywhere, so it never patches or changes anything for you\n\nIt checks 3x a day and refreshes your inventory weekly. You get a Monday roundup, plus monthly device and backup checks and a quarterly 2FA audit.\n\nOn day one it flagged a site of mine running PHP that needed a patch before an embargoed fix dropped.\n\nGrab it here:\nhttps://x.ai/bot/XoYfr_5me3IicLxWfpP3n",
+      "media": [
+        {
+          "id": "2112794545452675072",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVInce0W8AAZZsr.png?name=orig",
+          "thumbnail_url": null,
+          "width": 506,
+          "height": 260
+        }
+      ],
+      "quote": {
+        "id": "2112744580315816270",
+        "url": "https://x.com/theonejvo/status/2112744580315816270",
+        "author": {
+          "screen_name": "theonejvo",
+          "name": "Jamieson O'Reilly",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998364954471333888/YabDL8aN_200x200.jpg"
+        },
+        "created_at": "2026-10-21T03:15:35.000Z",
+        "text": "In the last 24 hours alone, I've seen.\n\n1. iPhone 11 through 16 are apparently vulnerable to remote attacks.  \n\n2. SSL certificates are broken until browsers remove eMudhra CA.  \n\n3. PHP RCE (php2shell)\n\nOne is a leaked remote unlock capability for the most common phones on the planet. \n\nOne is a broken link in the certificate authority system that underpins the entire encrypted web and another is a core language vulnerability that affects a huge fraction of the internet’s servers.\n\nThis is the pace now. \n\nAI does not have to \"take over\" for the environment to become unmanageable by traditional human processes. It only has to make discovery, weaponisation, and automation faster than the average organisation’s inventory, patching, and monitoring cycle. \n\nIf your plan was still \"wait and see how AI plays out in security,\" I hope you have loyal religiously loyal customers and a hell of an insurance policy.\n\nInventory what you run (especially PHP and anything that trusts public CAs), prepare to patch at the speed these things now appear, and start treating AI-assisted detection and response as table stakes rather than a future project. \n\nThe window for comfortable observation is closed.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2112795764409745415",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 2,
+        "likes": 9,
+        "quotes": 1,
+        "views": 1459
+      },
+      "fetched_at": "2026-10-21T22:25:37.580Z"
+    },
     {
       "id": "2112761840044548172",
       "url": "https://x.com/kunchenguid/status/2112761840044548172",
@@ -3597,142 +3737,6 @@
         "views": 7868
       },
       "fetched_at": "2026-09-28T23:20:56.719Z"
-    },
-    {
-      "id": "2104631824249221485",
-      "url": "https://x.com/kunchenguid/status/2104631824249221485",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-28T17:58:23.000Z",
-      "sort_at": "2026-09-28T17:58:23.000Z",
-      "text": "gotta take a moment to appreciate the fact that this is not a movie clip any more",
-      "media": [],
-      "quote": {
-        "id": "2104560708969259344",
-        "url": "https://x.com/SpaceX/status/2104560708969259344",
-        "author": {
-          "screen_name": "SpaceX",
-          "name": "SpaceX",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_200x200.jpg"
-        },
-        "created_at": "2026-09-28T13:15:48.000Z",
-        "text": "Starship performs its orbital insertion burn and enters orbit of Earth for the first time",
-        "media": [
-          {
-            "id": "2104560614626766848",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2104560614626766848/vid/avc1/3840x2160/WMLBYlBCU0AQ5vn3.mp4?tag=29",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2104560614626766848/img/WR9uvl1CQ0MlhUhG.jpg",
-            "width": 3840,
-            "height": 2160,
-            "duration": 55.33
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2104631824249221485",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 1,
-        "likes": 61,
-        "quotes": 0,
-        "views": 6366
-      },
-      "fetched_at": "2026-09-28T23:20:56.719Z"
-    },
-    {
-      "id": "2104596236083048512",
-      "url": "https://x.com/kunchenguid/status/2104596236083048512",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-28T15:36:58.000Z",
-      "sort_at": "2026-09-28T15:36:58.000Z",
-      "text": "many people are asking - now that opus 5.5 is so good, when would we ever use fable\n\nit’s very important to understand that bigger models come with more “wisdom” that can’t be replaced by a smaller model trained to behave well",
-      "media": [],
-      "quote": {
-        "id": "2081765555091177537",
-        "url": "https://x.com/kunchenguid/status/2081765555091177537",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-07-27T15:36:00.000Z",
-        "text": "many people ask when to use a big model (like sol/fable) at low reasoning effort, vs a small model (like luna/sonnet) at high reasoning effort\n\ni deliberately forced myself to use all the permutations a lot over the last couple of weeks to build intuition, and i realized the difference is \"wisdom\" vs \"diligence\"\n\nbigger models are \"wiser\"\n\nthey have seen a lot. they remember a lot. they have a lot of expertise across different domains. they have better intuition, can connects the dots, and come up with creative, inspired ideas\n\nreasoning effort makes a model more \"diligent\"\n\nit'll assess each option, think through consequences, and figure out edge cases etc more thoroughly\n\nif there are 100 paths ahead, diligence makes the model assess every single one without a miss, but it will not make the model realize maybe the best one is to take none of the 100 paths and instead dig a tunnel\n\n\"wisdom\" and \"diligence\" are orthogonal. and now i get why the models are launched the way they were, and not just a single fable level model with 12 different reasoning levels\n\nwe're all misled by the way we've been plotting the models with benchmark scores, which are fundamentally flawed because they use a single dimension to measure the model's capability, making us think of model size and reasoning effort as being fungible with each other, while in fact \"wisdom\" and \"diligence\" needs to be measured separately\n\ni hope the evals eventually catch up and address this. until then, here's my recommendation for how to choose -\n\n- if the problem you are trying to solve is something you think requires a genius, use a bigger model\n\n- if the problem you are trying to solve is something you think requires a pen and lots of paper, use higher reasoning effort\n\n- if it requires a genius sitting down with a pen and lots of paper, tune up both",
-        "media": [
-          {
-            "id": "2081643706684485632",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HON77BXbMAAhhtG.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1584,
-            "height": 993
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2104596236083048512",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 10,
-        "reposts": 5,
-        "likes": 110,
-        "quotes": 1,
-        "views": 11939
-      },
-      "fetched_at": "2026-09-28T17:41:59.785Z"
-    },
-    {
-      "id": "2104391296316309750",
-      "url": "https://x.com/kunchenguid/status/2104391296316309750",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-28T02:02:37.000Z",
-      "sort_at": "2026-09-28T02:02:37.000Z",
-      "text": "obviously, \"6 dots\" = 6.s = 6.5\n\nastra 6.5 on tuesday - you are welcome!",
-      "media": [],
-      "quote": {
-        "id": "2104383749723128052",
-        "url": "https://x.com/thsottiaux/status/2104383749723128052",
-        "author": {
-          "screen_name": "thsottiaux",
-          "name": "Tibo",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
-        },
-        "created_at": "2026-09-28T01:32:38.000Z",
-        "text": ". . . . . .",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2104391296316309750",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 72,
-        "reposts": 26,
-        "likes": 1680,
-        "quotes": 8,
-        "views": 252808
-      },
-      "fetched_at": "2026-09-28T17:41:59.785Z"
     }
   ]
 }
