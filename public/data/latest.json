@@ -1,6 +1,84 @@
 {
-  "generated_at": "2026-10-21T01:40:08.067Z",
+  "generated_at": "2026-10-21T07:45:50.061Z",
   "posts": [
+    {
+      "id": "2112761840044548172",
+      "url": "https://x.com/kunchenguid/status/2112761840044548172",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T04:24:10.000Z",
+      "sort_at": "2026-10-21T04:24:10.000Z",
+      "text": "Derek was my former manager, VP of eng at both MSFT and Atlassian\n\none of the most technical, forward thinking, hands-on eng leaders I’ve had the pleasure to work with\n\ngreat to see him sharing on X and definitely recommend as a high quality connection!",
+      "media": [],
+      "quote": {
+        "id": "2112588713419305324",
+        "url": "https://x.com/derekcheng/status/2112588713419305324",
+        "author": {
+          "screen_name": "derekcheng",
+          "name": "Derek Cheng",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1884724236302123008/zrhik4RK_200x200.jpg"
+        },
+        "created_at": "2026-10-20T16:56:13.000Z",
+        "text": "Hey everyone, I’m Derek. I lead engineering at Atlassian for Jira and Developer AI. I’ve been a builder most of my career at both startups and big tech. Grew up in Canada but now based in Seattle.\n\nI’ll start sharing more of what we’ve got cooking. Would love to connect - DMs are open or feel free to drop a question.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2112761840044548172",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 2,
+        "likes": 414,
+        "quotes": 0,
+        "views": 55007
+      },
+      "fetched_at": "2026-10-21T07:45:49.070Z"
+    },
+    {
+      "id": "2112739524036149506",
+      "url": "https://x.com/kunchenguid/status/2112739524036149506",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T02:55:29.000Z",
+      "sort_at": "2026-10-21T02:55:29.000Z",
+      "text": "wait.. what? permanent prompt caching for subscription users\n\ni suspect it’s not truly keeping the cache forever, but instead they know the probability of resuming an old conversation is close to zero so they’ll just eat the pricing difference when it happens",
+      "media": [],
+      "quote": {
+        "id": "2112712984644784534",
+        "url": "https://x.com/thsottiaux/status/2112712984644784534",
+        "author": {
+          "screen_name": "thsottiaux",
+          "name": "Tibo",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
+        },
+        "created_at": "2026-10-21T01:10:02.000Z",
+        "text": "Day 16/\n\nYou can now cache for 12h in the API and for logged in users across Codex & Work we keep cache forever and you don’t have any penalty for coming back to an old conversation or resuming after a few hours and are now guaranteed to hit the cache.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2112739524036149506",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 35,
+        "reposts": 4,
+        "likes": 350,
+        "quotes": 1,
+        "views": 21304
+      },
+      "fetched_at": "2026-10-21T07:45:49.070Z"
+    },
     {
       "id": "2112718856594796624",
       "url": "https://x.com/kunchenguid/status/2112718856594796624",
@@ -3655,71 +3733,6 @@
         "views": 252808
       },
       "fetched_at": "2026-09-28T17:41:59.785Z"
-    },
-    {
-      "id": "2104311385836638360",
-      "url": "https://x.com/kunchenguid/status/2104311385836638360",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-27T20:45:05.000Z",
-      "sort_at": "2026-09-27T20:45:05.000Z",
-      "text": "that was the first video i made about my agentic engineering workflow: \nhttps://youtu.be/iQyg-KypKAA\n\ni’ve since published a few more videos with updates and more depth as well\n\nwill keep going as long as people find them helpful!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2104311383345258591",
-      "thread_root_id": "2104311383345258591",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 6,
-        "quotes": 0,
-        "views": 992
-      },
-      "fetched_at": "2026-09-27T22:17:22.727Z"
-    },
-    {
-      "id": "2104311383345258591",
-      "url": "https://x.com/kunchenguid/status/2104311383345258591",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-27T20:45:04.000Z",
-      "sort_at": "2026-09-27T20:45:04.000Z",
-      "text": "ONE, MILLION, VIEWS!!!\n\nnever thought what i share would be watched by so many people around the world! i’m completely blown away!\n\nthanks everyone who showed up, and please know that i’m very grateful for having the platform to share my learnings with you all!",
-      "media": [
-        {
-          "id": "2104311380254011392",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTQEDRzaMAAg3y-.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1206,
-          "height": 1350
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2104311383345258591",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 21,
-        "reposts": 2,
-        "likes": 133,
-        "quotes": 0,
-        "views": 2720
-      },
-      "fetched_at": "2026-09-27T22:17:22.727Z"
     }
   ]
 }
