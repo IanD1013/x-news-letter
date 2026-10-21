@@ -1,6 +1,239 @@
 {
-  "generated_at": "2026-10-20T13:37:32.709Z",
+  "generated_at": "2026-10-21T01:40:08.067Z",
   "posts": [
+    {
+      "id": "2112718856594796624",
+      "url": "https://x.com/kunchenguid/status/2112718856594796624",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T01:33:22.000Z",
+      "sort_at": "2026-10-21T01:33:22.000Z",
+      "text": "here's the chart for wall time\n\n- again, grok 4.7 is very efficient at read-only tasks, but a lot worse when it comes to writing code\n\n- sonnet 5.5 is extremely fast. somehow it's a lot faster than sol despite taking about the same cost",
+      "media": [
+        {
+          "id": "2112718364640702464",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVHiKLLacAA7_mq.png?name=orig",
+          "thumbnail_url": null,
+          "width": 867,
+          "height": 477
+        }
+      ],
+      "quote": null,
+      "reply_to_id": "2112714875264979449",
+      "thread_root_id": "2112714875264979449",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 1,
+        "views": 83
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112714875264979449",
+      "url": "https://x.com/kunchenguid/status/2112714875264979449",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T01:17:33.000Z",
+      "sort_at": "2026-10-21T01:17:33.000Z",
+      "text": "interesting data from my most recent 2000 real tasks\n\nall of these tasks' outcome got accepted by me, so consider them all successful. when a model didn't give me good results, i would get it to do more iterations until it succeeded\n\nthe main caveat is the \"plan\" bucket - if i didn't like a model's plan, i would sometimes just abandon it and it wouldn't show up here. sometimes i also explicitly ask astra / fable for difficult plans. so take the plan row with a grain of salt. the other rows are mostly randomized and fair\n\nreasoning effort was set at xhigh for plan, medium for others\n\nexplaining the task types:\n- research: these are mostly answering my questions\n- plan: these are technical planning. it could be designing a new feature, or reproducing a bug\n- implement: implementing an already defined spec\n- fix: fix a bug that's already reproduced\n\na few interesting signals:\n\n- sol 6.1 and sonnet 5.5 are almost exact equivalents, and they are both 5-10x more efficient at my implement and fix tasks than opus and astra\n\n- grok 4.7 is efficient at read-only tasks, but quite expensive for writing code - this is likely because of its high price point for cached tokens so long coding sessions become very costly\n\n- astra is a lot more expensive than opus 5.5, despite its token efficiency advantage. this is awkward because if sonnet matches sol, opus is better than astra, fable 5.5 is coming, and openai's subscription's $ value is getting cut in half, how do they compete?",
+      "media": [
+        {
+          "id": "2112708018450391040",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVHYv8na4AAswWO.png?name=orig",
+          "thumbnail_url": null,
+          "width": 842,
+          "height": 474
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2112714875264979449",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 1,
+        "likes": 7,
+        "quotes": 0,
+        "views": 941
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112651927049970058",
+      "url": "https://x.com/kunchenguid/status/2112651927049970058",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T21:07:25.000Z",
+      "sort_at": "2026-10-20T21:07:25.000Z",
+      "text": "i just discovered my 9y old son and his friends all think AI = low effort = bad\n\nthey can tell a picture is AI generated, and they don't care how good it looks - \"that's just AI\"\n\nthey prefer to hand-draw much worse looking cards to each other and they love it",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2112651927049970058",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 48,
+        "reposts": 3,
+        "likes": 224,
+        "quotes": 5,
+        "views": 9250
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112625144434983336",
+      "url": "https://x.com/kunchenguid/status/2112625144434983336",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T19:20:59.000Z",
+      "sort_at": "2026-10-20T19:20:59.000Z",
+      "text": "my explanation for why \"writing good code\" will not survive as a moat is here - https://x.com/kunchenguid/status/2111841732308668832?s=20",
+      "media": [],
+      "quote": {
+        "id": "2111841732308668832",
+        "url": "https://x.com/kunchenguid/status/2111841732308668832",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-18T15:27:59.000Z",
+        "text": "a lot of the shortcomings we are seeing with coding agents today ultimately boil down to limitations in post training\n\nwhy agents don’t write good tests by default? why do they spit out a ton of useless comments? why do vibe coded codebases all turn into a mess without human steering and intervention? \n\nbecause in current RLVR pipelines, we reward task resolution. as long as the agents wrote code that could pass predefined hidden tests, that’s a success\n\nwhether the architecture is clean, whether the code is easy to maintain and evolve, whether the comments are actually helpful in future work, whether the test cases help catch real problems down the road - none of these make a difference in how the model was rewarded when the reward is done at task level\n\nwe have been “fixing” a lot of these problems with system prompts, skills, and harness features, which is very necessary in the near term\n\nbut i think eventually the post training pipeline will keep evolving and take more and more of these long term considerations into account\n\nwhen it does, we will finally have agents that can write good code by default. anyone will be able to build very complex software as long as they can articulate their intent clearly\n\nexperienced engineers will not have an advantage any more just because they know a little more than average people on how to write good code (including myself)\n\nand i think that’ll be a very beautiful world",
+        "media": []
+      },
+      "reply_to_id": "2112625142979576250",
+      "thread_root_id": "2112625141209514289",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 850
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112625142979576250",
+      "url": "https://x.com/kunchenguid/status/2112625142979576250",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T19:20:59.000Z",
+      "sort_at": "2026-10-20T19:20:59.000Z",
+      "text": "if you missed previous parts, start here - https://x.com/kunchenguid/status/2110803715108294695?s=20",
+      "media": [],
+      "quote": {
+        "id": "2110803715108294695",
+        "url": "https://x.com/kunchenguid/status/2110803715108294695",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-15T18:43:17.000Z",
+        "text": "i've been bashing on \"software is dead\" for a while now. it's probably time for me to start sharing what i think will happen instead as well\n\nthere's so much to unpack, so i'm going to split it into a series of a few parts\n\ntoday i'll start with part 1 - jevons paradox\n\nstory time - let's rewind to the industrial revolution, when steam engines powered all the factories, railways and effectively the economy\n\nbut steam engines had to burn coal - a lot of them. there's a limited amount of coal available, so people started to optimize the steam engines to use less coal\n\nthat's when the counter-intuitive thing happened - when steam engines used less coal, the industry actually ended up using more coal in total\n\nhow?? what jevons found and documented in his book was - when steam engines used less coal, they became cheaper to deploy and run, and hence became economically viable in more places, so the total demand rose significantly as a result\n\nwhen the barrier of entry to create software is significantly reduced, the same will happen - software will become much cheaper and more accessible\n\nhesitant to pay $100/month for the adobe suite today? well, what if it becomes $10 lifetime purchase?\n\nsick of so many mobile apps having a paywall? well, what if the entire app store is $5/month all-you-can-eat?\n\nthe price point for each individual piece of software will drop, but the software economy as a whole will become a lot larger because of the rising consumption demand\n\nso many more people and businesses will get access to software that's too costly for them to use today\n\nso many more people who aren't developing software today will be able to participate, create, help grow the economy and make a living out of it\n\nsoftware is nowhere near \"dead\". it's just about to take off",
+        "media": []
+      },
+      "reply_to_id": "2112625141209514289",
+      "thread_root_id": "2112625141209514289",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 1217
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112625141209514289",
+      "url": "https://x.com/kunchenguid/status/2112625141209514289",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T19:20:58.000Z",
+      "sort_at": "2026-10-20T19:20:58.000Z",
+      "text": "part 4 of \"software is taking off\"\n\nthrough recent discussions i realized many people saying \"software is dead\" were actually thinking about software engineering as a profession\n\nso.. is software engineering dead?\n\nwhen i was a kid, my mom was an accountant. when i was doing my homework in the evenings, I would hear the sound of her using abacus. it was very loud and noisy\n\nover the years, the sound of pushing abacus became punching calculators, then typing on keyboards, and eventually making phone calls. she just retired a few years ago, as a director of an accounting team\n\nif you thought of the accounting profession as \"pushing abacus\", it died a long time ago. but if you understood accountants' jobs are actually \"helping businesses make the right financial decisions\", you'll realize it'll never stop being relevant\n\nso whether software engineering is dead pretty much all depends on your mindset on what the profession even is\n\nif your definition is \"i write code others tell me to write\", yup that's already dead\n\nif it's some form of \"i write very good code\", it's not quite dead yet, but i speculate it'll be dead within the next 1-3 years. i'll link in the thread below another post where i explained why\n\nso what's the type of engineer that's seeing growing demand?\n\nfig. 1 shows SWE overall seeing a growth in job posting in the US. it tells quite a story when that's happening during a year when coding agents have seen the craziest advancements and adoption\n\nfig. 2 shows a lot of the growth came from senior, or AI related roles. i will touch on why below\n\nfig. 3 shows the rise of FDEs\n\nthe growing demand for software engineers is for those who has the right capability to solve problems with high precision, agency, and leverage - these traits have always been desired long before AI came along, and are seeing no sign of stopping\n\njust think - when two competing companies both have access to the same AI, who wins? it's going to be their humans that make the difference, and they are going to get as many of such humans as they can\n\nthe software engineering profession has never been about writing punch cards, writing assembly, or writing C. it's never been about using vim, emacs, or visual studio. the code, the tools, and the activities have always been changing nonstop\n\nthe profession has always been about \"solving problems with software\". now there are a lot more problems that just became solvable, and everyone has gained quite an insane amount of leverage - there's never been a better time",
+      "media": [
+        {
+          "id": "2112616317690028032",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGFWQqboAADyFi.png?name=orig",
+          "thumbnail_url": null,
+          "width": 813,
+          "height": 416
+        },
+        {
+          "id": "2112617011994054656",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGF-rJaUAAa_V3.png?name=orig",
+          "thumbnail_url": null,
+          "width": 823,
+          "height": 417
+        },
+        {
+          "id": "2112617443382435840",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGGXyMaoAAvbYe.png?name=orig",
+          "thumbnail_url": null,
+          "width": 758,
+          "height": 495
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2112625141209514289",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 5,
+        "likes": 113,
+        "quotes": 0,
+        "views": 7312
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
     {
       "id": "2112414941970145509",
       "url": "https://x.com/kunchenguid/status/2112414941970145509",
@@ -3487,183 +3720,6 @@
         "views": 2720
       },
       "fetched_at": "2026-09-27T22:17:22.727Z"
-    },
-    {
-      "id": "2104241434211889514",
-      "url": "https://x.com/kunchenguid/status/2104241434211889514",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-27T16:07:07.000Z",
-      "sort_at": "2026-09-27T16:07:07.000Z",
-      "text": "if you are interested in learning more about how backpass works to reliably improve your agent memory, i wrote a blog post about it a while ago - https://blog.kunchenguid.com/p/your-agentsmd-is-a-neural-net?utm_campaign=post&utm_medium=web",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2104241432467067343",
-      "thread_root_id": "2104241432467067343",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 8,
-        "quotes": 1,
-        "views": 1144
-      },
-      "fetched_at": "2026-09-27T19:01:12.236Z"
-    },
-    {
-      "id": "2104241432467067343",
-      "url": "https://x.com/kunchenguid/status/2104241432467067343",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-27T16:07:07.000Z",
-      "sort_at": "2026-09-27T16:07:07.000Z",
-      "text": "sharing a real world case study for how i optimized AGENTS.md for the firstmate repo and cut down its token count by almost 50% while improving its quality\n\ni believe this is a low hanging fruit for improving how agents work in your projects that most people don't know about yet!\n\nfirstmate repo's AGENTS.md is big because it's what shapes all its core behaviors. previously i had manually done a few rounds of pruning and got it to be contained at ~30k tokens - that's still a lot to load at the start of every main firstmate session!\n\ni had stopped pursuing further reduction because in the previous manual rounds, i observed regression when i tried to remove more instructions that were on the borderline\n\nbut with a recent nudge from @kamranali i decided to take another look, and i just realized this time i have backpass https://github.com/kunchenguid/backpass and A TON of real transcripts sitting there that can help! \n\nso i did a backpass run and had it analyze 100 recent session transcripts. it produced this proposal https://d08124f6.ht-ml.app/ - sharing here openly so you can all see how it came up with each proposed edit, based on evidence identified from the transcripts\n\ni reviewed the proposal and rejected two of the edits as i didn't fully agree with the rationale and ROI. most edits were accepted and it resulted in a -48% cut in token count\n\nbiggest win came from a lot of instructions getting moved into skills, based on observation that they weren't actually needed in most transcripts\n\nbesides token reduction, it also rewrote a few sections based on observing which instructions were followed vs missed, and what mistakes were made that could have benefited from explicit guidance\n\nthe result is this PR - https://github.com/kunchenguid/firstmate/pull/5872 and i ran my private eval set to validate no regression in core behaviors\n\nif you are not sure if your AGENTS.md is optimal (it's most likely not), you can also try backpass on it. i've been regularly optimizing my repos' memory files and skills with it, and i get pleasantly surprised - every, single, time",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2104241432467067343",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 35,
-        "reposts": 15,
-        "likes": 322,
-        "quotes": 2,
-        "views": 13461
-      },
-      "fetched_at": "2026-09-27T19:01:12.236Z"
-    },
-    {
-      "id": "2104129536019542318",
-      "url": "https://x.com/kunchenguid/status/2104129536019542318",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-27T08:42:28.000Z",
-      "sort_at": "2026-09-27T08:42:28.000Z",
-      "text": "ok a few faq!\n\n\"people only need a $20/month vps\" - in that case just own a raspberry pi instead of mac mini. it's a really good machine. similar economics that about a year of renting VPS would cover the purchase cost\n\n\"but with vps you can scale up and down at any time\" - yes this is totally valid. if your workload is not consistent and fluctuates a lot, renting is a great option to deal with the surge\n\n\"unless you run local llm, your mac mini won't be used\" - my mac mini is almost constantly at full capacity because i run builds and tests for all my ios and mac apps there, as well as self-hosted github actions runners that process a ton of jobs across my repos every day (which saves me a very big gitub bill)",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2104068862564344034",
-      "thread_root_id": "2104068862564344034",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 1,
-        "likes": 18,
-        "quotes": 0,
-        "views": 2509
-      },
-      "fetched_at": "2026-09-27T14:44:03.987Z"
-    },
-    {
-      "id": "2104068862564344034",
-      "url": "https://x.com/kunchenguid/status/2104068862564344034",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-27T04:41:23.000Z",
-      "sort_at": "2026-09-27T04:41:23.000Z",
-      "text": "i suspect those influencers telling people to “rent a VPS and move your agents to cloud” are getting a commission helping sell VPS\n\ni’m using a mac mini which i bought at $2500 and i’m often running it near full capacity building various ios and mac apps\n\nif i rent a VPS instead, it cost about $300/month for a similar spec. with just 9 months, the rent would have exceeded the full price\n\nlet’s say i decide to keep going for 5 years, total VPS cost would be $18k and that’s for just running 1 machine for 5 years. at the end i own nothing\n\nif i invest that $18k to buy my own hardware instead, i could have got 7 mac minis so 7x more compute capacity, and they would be mine forever\n\nif you are considering a long term setup, i can’t think of any good reason to be renting VPS. own your hardware - my desk is my cloud",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2104068862564344034",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 77,
-        "reposts": 8,
-        "likes": 280,
-        "quotes": 3,
-        "views": 20084
-      },
-      "fetched_at": "2026-09-27T08:18:06.103Z"
-    },
-    {
-      "id": "2104051927709540709",
-      "url": "https://x.com/kunchenguid/status/2104051927709540709",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-27T03:34:05.000Z",
-      "sort_at": "2026-09-27T03:34:05.000Z",
-      "text": "computer use is interesting because it's a self-deprecating capability\n\nit's super useful today, because most software was built for humans\n\nthe more we use agents, the more software will be built for agents not humans, which will eventually make computer use obsolete",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2104051927709540709",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 34,
-        "reposts": 4,
-        "likes": 163,
-        "quotes": 3,
-        "views": 5711
-      },
-      "fetched_at": "2026-09-27T08:18:06.103Z"
-    },
-    {
-      "id": "2103979729443504300",
-      "url": "https://x.com/kunchenguid/status/2103979729443504300",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-26T22:47:12.000Z",
-      "sort_at": "2026-09-26T22:47:12.000Z",
-      "text": "something i didn’t notice until someone pointed out was that anthropic does plan to bring back haiku! \n\nalong with the caching price reduction and opus 5.5 being so efficient, it becomes clear that openai’s advantage on cost efficiency had created real pressure, so anthropic is striking back\n\nhowever, i think people are a bit overwhelmed with choices now\n\nduring the gpt 5.6 days, most people used either sol or luna - i didn’t see many people actually knowing when to use terra, which might be the reason it didn’t show up in the 6 series\n\ni actually think reducing choices is a good step forward. with both sonnet and haiku 5.5, i have a hard time imagining people would actually figure out when to use haiku xhigh vs sonnet medium vs opus low in an actual optimal way\n\nwhat would you give to sonnet but not haiku, and vice versa?",
-      "media": [
-        {
-          "id": "2103979726805364736",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTLWagbbcAA1q1V.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1206,
-          "height": 618
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2103979729443504300",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 0,
-        "likes": 6,
-        "quotes": 0,
-        "views": 490
-      },
-      "fetched_at": "2026-09-26T22:56:55.623Z"
     }
   ]
 }

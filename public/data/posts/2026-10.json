@@ -2,6 +2,239 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2112718856594796624",
+      "url": "https://x.com/kunchenguid/status/2112718856594796624",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T01:33:22.000Z",
+      "sort_at": "2026-10-21T01:33:22.000Z",
+      "text": "here's the chart for wall time\n\n- again, grok 4.7 is very efficient at read-only tasks, but a lot worse when it comes to writing code\n\n- sonnet 5.5 is extremely fast. somehow it's a lot faster than sol despite taking about the same cost",
+      "media": [
+        {
+          "id": "2112718364640702464",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVHiKLLacAA7_mq.png?name=orig",
+          "thumbnail_url": null,
+          "width": 867,
+          "height": 477
+        }
+      ],
+      "quote": null,
+      "reply_to_id": "2112714875264979449",
+      "thread_root_id": "2112714875264979449",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 1,
+        "views": 83
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112714875264979449",
+      "url": "https://x.com/kunchenguid/status/2112714875264979449",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T01:17:33.000Z",
+      "sort_at": "2026-10-21T01:17:33.000Z",
+      "text": "interesting data from my most recent 2000 real tasks\n\nall of these tasks' outcome got accepted by me, so consider them all successful. when a model didn't give me good results, i would get it to do more iterations until it succeeded\n\nthe main caveat is the \"plan\" bucket - if i didn't like a model's plan, i would sometimes just abandon it and it wouldn't show up here. sometimes i also explicitly ask astra / fable for difficult plans. so take the plan row with a grain of salt. the other rows are mostly randomized and fair\n\nreasoning effort was set at xhigh for plan, medium for others\n\nexplaining the task types:\n- research: these are mostly answering my questions\n- plan: these are technical planning. it could be designing a new feature, or reproducing a bug\n- implement: implementing an already defined spec\n- fix: fix a bug that's already reproduced\n\na few interesting signals:\n\n- sol 6.1 and sonnet 5.5 are almost exact equivalents, and they are both 5-10x more efficient at my implement and fix tasks than opus and astra\n\n- grok 4.7 is efficient at read-only tasks, but quite expensive for writing code - this is likely because of its high price point for cached tokens so long coding sessions become very costly\n\n- astra is a lot more expensive than opus 5.5, despite its token efficiency advantage. this is awkward because if sonnet matches sol, opus is better than astra, fable 5.5 is coming, and openai's subscription's $ value is getting cut in half, how do they compete?",
+      "media": [
+        {
+          "id": "2112708018450391040",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVHYv8na4AAswWO.png?name=orig",
+          "thumbnail_url": null,
+          "width": 842,
+          "height": 474
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2112714875264979449",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 1,
+        "likes": 7,
+        "quotes": 0,
+        "views": 941
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112651927049970058",
+      "url": "https://x.com/kunchenguid/status/2112651927049970058",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T21:07:25.000Z",
+      "sort_at": "2026-10-20T21:07:25.000Z",
+      "text": "i just discovered my 9y old son and his friends all think AI = low effort = bad\n\nthey can tell a picture is AI generated, and they don't care how good it looks - \"that's just AI\"\n\nthey prefer to hand-draw much worse looking cards to each other and they love it",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2112651927049970058",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 48,
+        "reposts": 3,
+        "likes": 224,
+        "quotes": 5,
+        "views": 9250
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112625144434983336",
+      "url": "https://x.com/kunchenguid/status/2112625144434983336",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T19:20:59.000Z",
+      "sort_at": "2026-10-20T19:20:59.000Z",
+      "text": "my explanation for why \"writing good code\" will not survive as a moat is here - https://x.com/kunchenguid/status/2111841732308668832?s=20",
+      "media": [],
+      "quote": {
+        "id": "2111841732308668832",
+        "url": "https://x.com/kunchenguid/status/2111841732308668832",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-18T15:27:59.000Z",
+        "text": "a lot of the shortcomings we are seeing with coding agents today ultimately boil down to limitations in post training\n\nwhy agents don’t write good tests by default? why do they spit out a ton of useless comments? why do vibe coded codebases all turn into a mess without human steering and intervention? \n\nbecause in current RLVR pipelines, we reward task resolution. as long as the agents wrote code that could pass predefined hidden tests, that’s a success\n\nwhether the architecture is clean, whether the code is easy to maintain and evolve, whether the comments are actually helpful in future work, whether the test cases help catch real problems down the road - none of these make a difference in how the model was rewarded when the reward is done at task level\n\nwe have been “fixing” a lot of these problems with system prompts, skills, and harness features, which is very necessary in the near term\n\nbut i think eventually the post training pipeline will keep evolving and take more and more of these long term considerations into account\n\nwhen it does, we will finally have agents that can write good code by default. anyone will be able to build very complex software as long as they can articulate their intent clearly\n\nexperienced engineers will not have an advantage any more just because they know a little more than average people on how to write good code (including myself)\n\nand i think that’ll be a very beautiful world",
+        "media": []
+      },
+      "reply_to_id": "2112625142979576250",
+      "thread_root_id": "2112625141209514289",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 850
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112625142979576250",
+      "url": "https://x.com/kunchenguid/status/2112625142979576250",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T19:20:59.000Z",
+      "sort_at": "2026-10-20T19:20:59.000Z",
+      "text": "if you missed previous parts, start here - https://x.com/kunchenguid/status/2110803715108294695?s=20",
+      "media": [],
+      "quote": {
+        "id": "2110803715108294695",
+        "url": "https://x.com/kunchenguid/status/2110803715108294695",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-15T18:43:17.000Z",
+        "text": "i've been bashing on \"software is dead\" for a while now. it's probably time for me to start sharing what i think will happen instead as well\n\nthere's so much to unpack, so i'm going to split it into a series of a few parts\n\ntoday i'll start with part 1 - jevons paradox\n\nstory time - let's rewind to the industrial revolution, when steam engines powered all the factories, railways and effectively the economy\n\nbut steam engines had to burn coal - a lot of them. there's a limited amount of coal available, so people started to optimize the steam engines to use less coal\n\nthat's when the counter-intuitive thing happened - when steam engines used less coal, the industry actually ended up using more coal in total\n\nhow?? what jevons found and documented in his book was - when steam engines used less coal, they became cheaper to deploy and run, and hence became economically viable in more places, so the total demand rose significantly as a result\n\nwhen the barrier of entry to create software is significantly reduced, the same will happen - software will become much cheaper and more accessible\n\nhesitant to pay $100/month for the adobe suite today? well, what if it becomes $10 lifetime purchase?\n\nsick of so many mobile apps having a paywall? well, what if the entire app store is $5/month all-you-can-eat?\n\nthe price point for each individual piece of software will drop, but the software economy as a whole will become a lot larger because of the rising consumption demand\n\nso many more people and businesses will get access to software that's too costly for them to use today\n\nso many more people who aren't developing software today will be able to participate, create, help grow the economy and make a living out of it\n\nsoftware is nowhere near \"dead\". it's just about to take off",
+        "media": []
+      },
+      "reply_to_id": "2112625141209514289",
+      "thread_root_id": "2112625141209514289",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2,
+        "quotes": 0,
+        "views": 1217
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
+      "id": "2112625141209514289",
+      "url": "https://x.com/kunchenguid/status/2112625141209514289",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-20T19:20:58.000Z",
+      "sort_at": "2026-10-20T19:20:58.000Z",
+      "text": "part 4 of \"software is taking off\"\n\nthrough recent discussions i realized many people saying \"software is dead\" were actually thinking about software engineering as a profession\n\nso.. is software engineering dead?\n\nwhen i was a kid, my mom was an accountant. when i was doing my homework in the evenings, I would hear the sound of her using abacus. it was very loud and noisy\n\nover the years, the sound of pushing abacus became punching calculators, then typing on keyboards, and eventually making phone calls. she just retired a few years ago, as a director of an accounting team\n\nif you thought of the accounting profession as \"pushing abacus\", it died a long time ago. but if you understood accountants' jobs are actually \"helping businesses make the right financial decisions\", you'll realize it'll never stop being relevant\n\nso whether software engineering is dead pretty much all depends on your mindset on what the profession even is\n\nif your definition is \"i write code others tell me to write\", yup that's already dead\n\nif it's some form of \"i write very good code\", it's not quite dead yet, but i speculate it'll be dead within the next 1-3 years. i'll link in the thread below another post where i explained why\n\nso what's the type of engineer that's seeing growing demand?\n\nfig. 1 shows SWE overall seeing a growth in job posting in the US. it tells quite a story when that's happening during a year when coding agents have seen the craziest advancements and adoption\n\nfig. 2 shows a lot of the growth came from senior, or AI related roles. i will touch on why below\n\nfig. 3 shows the rise of FDEs\n\nthe growing demand for software engineers is for those who has the right capability to solve problems with high precision, agency, and leverage - these traits have always been desired long before AI came along, and are seeing no sign of stopping\n\njust think - when two competing companies both have access to the same AI, who wins? it's going to be their humans that make the difference, and they are going to get as many of such humans as they can\n\nthe software engineering profession has never been about writing punch cards, writing assembly, or writing C. it's never been about using vim, emacs, or visual studio. the code, the tools, and the activities have always been changing nonstop\n\nthe profession has always been about \"solving problems with software\". now there are a lot more problems that just became solvable, and everyone has gained quite an insane amount of leverage - there's never been a better time",
+      "media": [
+        {
+          "id": "2112616317690028032",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGFWQqboAADyFi.png?name=orig",
+          "thumbnail_url": null,
+          "width": 813,
+          "height": 416
+        },
+        {
+          "id": "2112617011994054656",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGF-rJaUAAa_V3.png?name=orig",
+          "thumbnail_url": null,
+          "width": 823,
+          "height": 417
+        },
+        {
+          "id": "2112617443382435840",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVGGXyMaoAAvbYe.png?name=orig",
+          "thumbnail_url": null,
+          "width": 758,
+          "height": 495
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2112625141209514289",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 5,
+        "likes": 113,
+        "quotes": 0,
+        "views": 7312
+      },
+      "fetched_at": "2026-10-21T01:40:07.552Z"
+    },
+    {
       "id": "2112414941970145509",
       "url": "https://x.com/kunchenguid/status/2112414941970145509",
       "creator": "kunchenguid",
