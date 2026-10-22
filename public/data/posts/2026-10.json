@@ -2,6 +2,54 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2113052559397245146",
+      "url": "https://x.com/kunchenguid/status/2113052559397245146",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-21T23:39:23.000Z",
+      "sort_at": "2026-10-21T23:39:23.000Z",
+      "text": "poll result on why people haven't adopted personal agents\n\ni suspect all the other 3 reasons are solvable, but looks like most people simply don't see real need for having an agent handle their personal life\n\nis consumer-facing personal agent all a bubble?",
+      "media": [
+        {
+          "id": "2113051507314876416",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVMRJoWbYAABxOQ.png?name=orig",
+          "thumbnail_url": null,
+          "width": 589,
+          "height": 192
+        }
+      ],
+      "quote": {
+        "id": "2112372460125569207",
+        "url": "https://x.com/kunchenguid/status/2112372460125569207",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-20T02:36:55.000Z",
+        "text": "something i’m very curious about\n\nif you tried personal agents but it didn’t stick with you, what was the main reason?\n\n(comment if it’s some other reasons)",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2113052559397245146",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 25,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 0,
+        "views": 2092
+      },
+      "fetched_at": "2026-10-22T01:35:12.853Z"
+    },
+    {
       "id": "2112992485823914355",
       "url": "https://x.com/kunchenguid/status/2112992485823914355",
       "creator": "kunchenguid",
