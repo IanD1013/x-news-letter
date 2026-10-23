@@ -2,6 +2,43 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2113535815133561271",
+      "url": "https://x.com/kunchenguid/status/2113535815133561271",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-23T07:39:40.000Z",
+      "sort_at": "2026-10-23T07:39:40.000Z",
+      "text": "when my firstmate grok bot orchestrates work through other bots, it would observe how those bots did their work, catch their mistakes and inefficiencies, and automatically improve their instructions\n\nlink to import to your grok bot: https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+      "media": [
+        {
+          "id": "2113534197059190784",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVTIJ3xagAAmjqV.png?name=orig",
+          "thumbnail_url": null,
+          "width": 581,
+          "height": 368
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2113535815133561271",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 1,
+        "likes": 67,
+        "quotes": 1,
+        "views": 5286
+      },
+      "fetched_at": "2026-10-23T13:32:31.590Z"
+    },
+    {
       "id": "2113488697178141083",
       "url": "https://x.com/kunchenguid/status/2113488697178141083",
       "creator": "kunchenguid",

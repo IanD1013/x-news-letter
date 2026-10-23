@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-23T07:38:51.966Z",
+  "generated_at": "2026-10-23T13:32:32.833Z",
   "posts": [
+    {
+      "id": "2113535815133561271",
+      "url": "https://x.com/kunchenguid/status/2113535815133561271",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-23T07:39:40.000Z",
+      "sort_at": "2026-10-23T07:39:40.000Z",
+      "text": "when my firstmate grok bot orchestrates work through other bots, it would observe how those bots did their work, catch their mistakes and inefficiencies, and automatically improve their instructions\n\nlink to import to your grok bot: https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+      "media": [
+        {
+          "id": "2113534197059190784",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVTIJ3xagAAmjqV.png?name=orig",
+          "thumbnail_url": null,
+          "width": 581,
+          "height": 368
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2113535815133561271",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 1,
+        "likes": 67,
+        "quotes": 1,
+        "views": 5286
+      },
+      "fetched_at": "2026-10-23T13:32:31.590Z"
+    },
     {
       "id": "2113488697178141083",
       "url": "https://x.com/kunchenguid/status/2113488697178141083",
@@ -3677,54 +3714,6 @@
         "views": 80342
       },
       "fetched_at": "2026-09-29T13:01:43.276Z"
-    },
-    {
-      "id": "2104785276531007829",
-      "url": "https://x.com/kunchenguid/status/2104785276531007829",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-29T04:08:09.000Z",
-      "sort_at": "2026-09-29T04:08:09.000Z",
-      "text": "https://x.com/kunchenguid/status/2104784315251126495",
-      "media": [],
-      "quote": {
-        "id": "2104784315251126495",
-        "url": "https://x.com/kunchenguid/status/2104784315251126495",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-09-29T04:04:20.000Z",
-        "text": "uh oh - no astra 6.5 tomorrow. at least a sol upgrade?",
-        "media": [
-          {
-            "id": "2104784311887314944",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HTWyLhbbwAAjHIq.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1206,
-            "height": 1201
-          }
-        ]
-      },
-      "reply_to_id": "2104391296316309750",
-      "thread_root_id": "2104391296316309750",
-      "is_note_tweet": false,
-      "lang": "und",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 2,
-        "quotes": 0,
-        "views": 647
-      },
-      "fetched_at": "2026-09-29T05:50:10.491Z"
     }
   ]
 }
