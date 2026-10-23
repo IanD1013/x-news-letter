@@ -2,6 +2,43 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2113488697178141083",
+      "url": "https://x.com/kunchenguid/status/2113488697178141083",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-23T04:32:26.000Z",
+      "sort_at": "2026-10-23T04:32:26.000Z",
+      "text": "i just got into Rex beta, so... firstmate now has full support for Rex! \n\nif you are using Rex, this is the most advanced chief of staff agent distro that allows you to talk to a single agent that orchestrates your entire crew across your projects and machines\n\nhttps://github.com/kunchenguid/firstmate\n\nfree oss, dead simple to use - literally just clone the repo and launch your agent harness in it. supports claude code, codex, pi, opencode, grok build, cursor cli and many other harnesses\n\nbesides Rex, it also works with other existing session managers like herdr, tmux, cmux, orca",
+      "media": [
+        {
+          "id": "2113486717043048448",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVSc-K7bgAA8opb.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2550,
+          "height": 1352
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2113488697178141083",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 26,
+        "reposts": 4,
+        "likes": 123,
+        "quotes": 2,
+        "views": 9392
+      },
+      "fetched_at": "2026-10-23T07:38:51.502Z"
+    },
+    {
       "id": "2113123377674387940",
       "url": "https://x.com/kunchenguid/status/2113123377674387940",
       "creator": "kunchenguid",
