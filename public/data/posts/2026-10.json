@@ -2,6 +2,73 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2113855619421892660",
+      "url": "https://x.com/kunchenguid/status/2113855619421892660",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-24T04:50:27.000Z",
+      "sort_at": "2026-10-24T04:50:27.000Z",
+      "text": "i just realized the book “three body problem” presented such a great question for us in the face of AI\n\n—— slight spoiler alert ——\n\nwhen people learned that a much advanced civilization existed, they divided into three different factions\n\nAdventists - they want aliens to destroy humanity and reform earth\n\nRedemptionists - they want to solve the hard problems and save the aliens\n\nSurvivalists - they focus on making sure humans survive, often by cooperating with the aliens and do their bidding\n\nnow AI is coming - what’s your choice?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2113855619421892660",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 2,
+        "likes": 43,
+        "quotes": 0,
+        "views": 4150
+      },
+      "fetched_at": "2026-10-24T07:22:51.671Z"
+    },
+    {
+      "id": "2113846773991285208",
+      "url": "https://x.com/kunchenguid/status/2113846773991285208",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-24T04:15:18.000Z",
+      "sort_at": "2026-10-24T04:15:18.000Z",
+      "text": "omg it’s true\n\nbest of luck @trq212 excited to see what you are up to next!",
+      "media": [],
+      "quote": {
+        "id": "2113844051938054167",
+        "url": "https://x.com/trq212/status/2113844051938054167",
+        "author": {
+          "screen_name": "trq212",
+          "name": "Thariq",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1976939058741039104/r3GgzqRh_200x200.jpg"
+        },
+        "created_at": "2026-10-24T04:04:29.000Z",
+        "text": "I’ve left Anthropic after more than a year of working on Claude Code and seeing it scale larger than I ever imagined.\n\nI have really loved working at Ant and believe deeply in the mission, and most of all, the idea of a race to the top.\n\nThe idea that if we work hard and responsibly, we can raise the bar and inspire others to great outcomes. And if we all push each other to be better, things can be radically good. I will carry the spirit of this with me forever.\n\nMy colleagues at Anthropic are the most talented, thoughtful, competent, and earnest people I have ever met. I am glad they are at the wheel and trust them deeply.\n\nTo the community on X, thank you for everything. You’ve made this the most fun (and sometimes stressful) job I’ve ever had.\n\nFor me, it is time for a bit of a break before diving into something new.\n\nIf you want more excellent Claude Code content, you should follow @addyosmani , @lydiahallie, @_catwu, @ClaudeDevs  and of course @bcherny who started it all.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2113846773991285208",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 113,
+        "quotes": 0,
+        "views": 20351
+      },
+      "fetched_at": "2026-10-24T07:22:51.671Z"
+    },
+    {
       "id": "2113773744925921289",
       "url": "https://x.com/kunchenguid/status/2113773744925921289",
       "creator": "kunchenguid",
