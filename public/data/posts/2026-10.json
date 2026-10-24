@@ -2,6 +2,54 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2113773744925921289",
+      "url": "https://x.com/kunchenguid/status/2113773744925921289",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-23T23:25:07.000Z",
+      "sort_at": "2026-10-23T23:25:07.000Z",
+      "text": "totally agree minimizing human attention is the key unlock now and moving forward\n\nthis view from calvin on workflow changes correlating with productivity gain is also quite interesting - i think mine was similar\n\nmy step function gains came from:\n- overnight loops (gnhf)\n- adversarial review, validation and risk assessment (no-mistakes)\n- interactive artifacts for planning (lavish-axi)\n- use an agent to orchestrate agents (firstmate)\n- remote ssh setup (sshhip)",
+      "media": [
+        {
+          "id": "2113772484604641280",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVWg4CDawAAQ7Mo.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1040,
+          "height": 587
+        }
+      ],
+      "quote": {
+        "id": "2113757494015410598",
+        "url": "https://x.com/CalvinGrunewald/status/2113757494015410598",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-10-23T22:20:32.000Z",
+        "text": "Sharing an update on my agentic workflow! \n\nToday, there are only two REAL bottlenecks left in software development. Compute and Human Attention. Not PRs, Planning, CI/CD. Those aren't real bottlenecks. You only think they are because they consume your Human Attention.\n\nYou can solve the Compute problem by throwing money at it. You can solve the Human Attention problem by throwing Compute at it.\n\nI reframed my workflow optimization around minimizing places that need my attention (and continue to do so). This blog post talks about my new setup. \n\nI hope...\n\nhttps://open.substack.com/pub/thebuildingmachine/p/my-new-agentic-workflow?r=2pj09&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2113773744925921289",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 8,
+        "reposts": 5,
+        "likes": 76,
+        "quotes": 0,
+        "views": 4704
+      },
+      "fetched_at": "2026-10-24T01:39:45.918Z"
+    },
+    {
       "id": "2113535815133561271",
       "url": "https://x.com/kunchenguid/status/2113535815133561271",
       "creator": "kunchenguid",
