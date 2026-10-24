@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2114057102427914682",
+      "url": "https://x.com/kunchenguid/status/2114057102427914682",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-24T18:11:05.000Z",
+      "sort_at": "2026-10-24T18:11:05.000Z",
+      "text": "a lot of people were impressed by dessa because it’s truly giving a next level voice conversation experience\n\nit’s very impressive indeed - you can listen to the demos on the site and feel the magic yourself\n\nbut am i the only one seeing the massive red flags here? \n\n1. this model can’t make tool calls.. that instantly kills almost all practical use cases, right? \n\n2. is it net good or net bad to make AI indistinguishable from human?\n\nhttps://block.xyz/dessa",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114057102427914682",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 23,
+        "reposts": 1,
+        "likes": 46,
+        "quotes": 1,
+        "views": 4573
+      },
+      "fetched_at": "2026-10-24T19:32:09.680Z"
+    },
+    {
       "id": "2113855619421892660",
       "url": "https://x.com/kunchenguid/status/2113855619421892660",
       "creator": "kunchenguid",
