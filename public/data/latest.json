@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-10-24T19:32:10.641Z",
+  "generated_at": "2026-10-25T01:15:36.929Z",
   "posts": [
+    {
+      "id": "2114115845903528201",
+      "url": "https://x.com/bharath__2020/status/2114115845903528201",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "bharath__2020",
+        "name": "Bharath",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1966500331677990912/wZdv5qBh_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-24T22:04:30.000Z",
+      "sort_at": "2026-10-25T01:15:36.174Z",
+      "text": "Took about 5 min to setup @kunchenguid firstmate with slack and my productivity has increased multi fold",
+      "media": [
+        {
+          "id": "2114115842808188928",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HVbZKHCbkAAGC7G.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114115845903528201",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 3,
+        "quotes": 0,
+        "views": 498
+      },
+      "fetched_at": "2026-10-25T01:15:36.174Z"
+    },
     {
       "id": "2114057102427914682",
       "url": "https://x.com/kunchenguid/status/2114057102427914682",
@@ -3694,44 +3735,6 @@
         "likes": 43,
         "quotes": 1,
         "views": 4241
-      },
-      "fetched_at": "2026-09-30T08:39:45.014Z"
-    },
-    {
-      "id": "2105127678831726632",
-      "url": "https://x.com/kunchenguid/status/2105127678831726632",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-30T02:48:44.000Z",
-      "sort_at": "2026-09-30T02:48:44.000Z",
-      "text": "this is my dot. his name is - surprise surprise - Firstmate!",
-      "media": [
-        {
-          "id": "2105127278271455232",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2105127278271455232/vid/avc1/384x524/lsp9gyiQadtqt_BS.mp4?tag=29",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105127278271455232/img/ePibXLH5i1x7dHZN.jpg",
-          "width": 384,
-          "height": 524,
-          "duration": 16.825
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2105127678831726632",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 14,
-        "reposts": 2,
-        "likes": 136,
-        "quotes": 0,
-        "views": 6967
       },
       "fetched_at": "2026-09-30T08:39:45.014Z"
     }
