@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2114271546743427402",
+      "url": "https://x.com/kunchenguid/status/2114271546743427402",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-25T08:23:12.000Z",
+      "sort_at": "2026-10-25T08:23:12.000Z",
+      "text": "want to know why anthropic employees suddenly started leaving?\n\nbecause the 5h limit finally rolled out internally",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114271546743427402",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 36,
+        "reposts": 10,
+        "likes": 318,
+        "quotes": 2,
+        "views": 22473
+      },
+      "fetched_at": "2026-10-25T11:47:48.456Z"
+    },
+    {
       "id": "2114224786708877504",
       "url": "https://x.com/kunchenguid/status/2114224786708877504",
       "creator": "kunchenguid",
