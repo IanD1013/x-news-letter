@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-25T01:15:36.929Z",
+  "generated_at": "2026-10-25T06:16:58.355Z",
   "posts": [
+    {
+      "id": "2114224786708877504",
+      "url": "https://x.com/kunchenguid/status/2114224786708877504",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-25T05:17:24.000Z",
+      "sort_at": "2026-10-25T05:17:24.000Z",
+      "text": "something feels wrong that so many people would deliberately destroy their iphone duos just to bait some engagement",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114224786708877504",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 3,
+        "quotes": 0,
+        "views": 1288
+      },
+      "fetched_at": "2026-10-25T06:16:57.652Z"
+    },
+    {
+      "id": "2114197718679900362",
+      "url": "https://x.com/kunchenguid/status/2114197718679900362",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-25T03:29:50.000Z",
+      "sort_at": "2026-10-25T03:29:50.000Z",
+      "text": "many people seem to think the doomsday scenario requires that an LLM would straight outsmart a human\n\nactually, it’s easier to get doomed by us making GPUs faster than we make babies, and humans get overwhelmed by the amount of compute and grit AI has",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114197718679900362",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 20,
+        "quotes": 0,
+        "views": 2222
+      },
+      "fetched_at": "2026-10-25T06:16:57.652Z"
+    },
     {
       "id": "2114115845903528201",
       "url": "https://x.com/bharath__2020/status/2114115845903528201",
@@ -3681,62 +3737,6 @@
         "views": 11218
       },
       "fetched_at": "2026-10-01T00:35:42.548Z"
-    },
-    {
-      "id": "2105357448861393081",
-      "url": "https://x.com/kunchenguid/status/2105357448861393081",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-30T18:01:46.000Z",
-      "sort_at": "2026-09-30T18:01:46.000Z",
-      "text": "comparing dots, muse, and grok bot just made me realize something important\n\ngrok bot is the ONLY one that made sharing bots easy\n\ni came across quite some grok bot users in the wild using the Firstmate bot i shared https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r (this is basically how i use grok bot btw!)\n\ni can see openai may be hesitant to do something like this because \"custom GPTs\" never quite took off (anyone still remember it?)\n\nbut i think this time it's a bit different. these cloud agents now all have their VM, a code execution environment, and a ton of connectors - they can do far more things than what custom GPTs could do when it was introduced\n\nwith this explosion of possibilities, prepackaged bots now make more sense because people want proven playbooks and not having to reinvent the wheel each time\n\na marketplace like this also creates some network effect which is good for building an ecosystem moat. this is something i think dots and muse should both think a bit more about",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2105357448861393081",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 15,
-        "reposts": 4,
-        "likes": 117,
-        "quotes": 2,
-        "views": 7796
-      },
-      "fetched_at": "2026-10-01T00:35:42.548Z"
-    },
-    {
-      "id": "2105134806791229719",
-      "url": "https://x.com/kunchenguid/status/2105134806791229719",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-09-30T03:17:04.000Z",
-      "sort_at": "2026-09-30T03:17:04.000Z",
-      "text": "why is real world applications of robotics still so behind? \n\nliterally none of my vacuum cleaner robots ever finished a single job without getting stuck one way or another\n\nwhere did all the research go??",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2105134806791229719",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 15,
-        "reposts": 1,
-        "likes": 43,
-        "quotes": 1,
-        "views": 4241
-      },
-      "fetched_at": "2026-09-30T08:39:45.014Z"
     }
   ]
 }
