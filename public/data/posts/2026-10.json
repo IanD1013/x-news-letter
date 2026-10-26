@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2114554647411351966",
+      "url": "https://x.com/kunchenguid/status/2114554647411351966",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-26T03:08:09.000Z",
+      "sort_at": "2026-10-26T03:08:09.000Z",
+      "text": "chatgpt chat, chatgpt work, codex, dots, claude web, claude code, claude cowork, claude desktop, claude duet, cursor, grok bot, grok build...\n\nthey are all just LLM + harness + connectors + machines + UI\n\ndo people actually want them to be separate products?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114554647411351966",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 93,
+        "reposts": 6,
+        "likes": 140,
+        "quotes": 3,
+        "views": 8205
+      },
+      "fetched_at": "2026-10-26T06:26:26.576Z"
+    },
+    {
       "id": "2114271546743427402",
       "url": "https://x.com/kunchenguid/status/2114271546743427402",
       "creator": "kunchenguid",

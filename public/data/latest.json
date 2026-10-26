@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-25T11:47:48.992Z",
+  "generated_at": "2026-10-26T06:26:27.097Z",
   "posts": [
+    {
+      "id": "2114554647411351966",
+      "url": "https://x.com/kunchenguid/status/2114554647411351966",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-26T03:08:09.000Z",
+      "sort_at": "2026-10-26T03:08:09.000Z",
+      "text": "chatgpt chat, chatgpt work, codex, dots, claude web, claude code, claude cowork, claude desktop, claude duet, cursor, grok bot, grok build...\n\nthey are all just LLM + harness + connectors + machines + UI\n\ndo people actually want them to be separate products?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114554647411351966",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 93,
+        "reposts": 6,
+        "likes": 140,
+        "quotes": 3,
+        "views": 8205
+      },
+      "fetched_at": "2026-10-26T06:26:26.576Z"
+    },
     {
       "id": "2114271546743427402",
       "url": "https://x.com/kunchenguid/status/2114271546743427402",
@@ -3689,54 +3717,6 @@
         "views": 20664
       },
       "fetched_at": "2026-10-02T19:22:49.825Z"
-    },
-    {
-      "id": "2105554890298905019",
-      "url": "https://x.com/kunchenguid/status/2105554890298905019",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-01T07:06:19.000Z",
-      "sort_at": "2026-10-01T07:06:19.000Z",
-      "text": "it's mind-boggling google would publicly announce something the public cannot use\n\nlike.. why would someone scream \"I'M NOT BEHIND\" from behind?\n\nbut then i just realized - October is about time people in google start writing their performance review packets...",
-      "media": [],
-      "quote": {
-        "id": "2105388084154056939",
-        "url": "https://x.com/GoogleDeepMind/status/2105388084154056939",
-        "author": {
-          "screen_name": "GoogleDeepMind",
-          "name": "Google DeepMind",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1695024885070737408/-M-HSH5P_200x200.jpg"
-        },
-        "created_at": "2026-09-30T20:03:30.000Z",
-        "text": "Introducing Gemini 4 Argon – our new frontier model.\n\nIt’s built for complex workflows across coding, enterprise knowledge work, and cybersecurity defense – rolling out today to a set of trusted testers through our Fairwind Program.",
-        "media": [
-          {
-            "id": "2105386540620742658",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HTfV52SWgAIlX3W.png?name=orig",
-            "thumbnail_url": null,
-            "width": 984,
-            "height": 987
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2105554890298905019",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 4,
-        "reposts": 2,
-        "likes": 11,
-        "quotes": 0,
-        "views": 489
-      },
-      "fetched_at": "2026-10-01T07:13:06.482Z"
     }
   ]
 }
