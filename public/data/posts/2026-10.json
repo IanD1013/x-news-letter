@@ -2,6 +2,62 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2114772499686998221",
+      "url": "https://x.com/kunchenguid/status/2114772499686998221",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-26T17:33:49.000Z",
+      "sort_at": "2026-10-26T17:33:49.000Z",
+      "text": "you can make almost any program self-improve btw\n\nstep 1: prompt your agent \"help me plan comprehensive logging such that we can replay what the user experienced, meaningful internal operations, and visible outcomes\"\n\nstep 2: setup a daily loop with this prompt \"analyze my logs from this program in the past 24h thoroughly, identify broken behaviors, user friction, inefficiencies, and propose improvements sorted by estimated impact\"\n\nstep 3: watch your code get better every day\n\nif your program collect telemetry from users, you can do aggregated analysis which will give you even better results",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114772499686998221",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 35,
+        "reposts": 13,
+        "likes": 445,
+        "quotes": 1,
+        "views": 18654
+      },
+      "fetched_at": "2026-10-26T20:34:31.104Z"
+    },
+    {
+      "id": "2114747882515710150",
+      "url": "https://x.com/kunchenguid/status/2114747882515710150",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-26T15:55:59.000Z",
+      "sort_at": "2026-10-26T15:55:59.000Z",
+      "text": "last year, i was “absolutely right”\n\nthis year, i’m only “partly right”\n\nat this rate, next year i’ll be “absolutely wrong”",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114747882515710150",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 20,
+        "reposts": 1,
+        "likes": 91,
+        "quotes": 0,
+        "views": 5368
+      },
+      "fetched_at": "2026-10-26T20:34:31.104Z"
+    },
+    {
       "id": "2114554647411351966",
       "url": "https://x.com/kunchenguid/status/2114554647411351966",
       "creator": "kunchenguid",
