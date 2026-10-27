@@ -1,6 +1,73 @@
 {
-  "generated_at": "2026-10-26T20:34:31.586Z",
+  "generated_at": "2026-10-27T06:22:53.809Z",
   "posts": [
+    {
+      "id": "2114947153328267429",
+      "url": "https://x.com/kunchenguid/status/2114947153328267429",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-27T05:07:49.000Z",
+      "sort_at": "2026-10-27T05:07:49.000Z",
+      "text": "@vineerpasam agent being able to find problems in their own code is nothing to be surprised about\n\nif you ask a human to double check their own work, chances are that they can find mistakes too\n\nfundamentally, it’s just more compute = more power",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114947153328267429",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 17,
+        "quotes": 0,
+        "views": 969
+      },
+      "fetched_at": "2026-10-27T06:22:53.059Z"
+    },
+    {
+      "id": "2114899536984547460",
+      "url": "https://x.com/kunchenguid/status/2114899536984547460",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-27T01:58:37.000Z",
+      "sort_at": "2026-10-27T01:58:37.000Z",
+      "text": "buyout is the new layoff\n\nwho said microsoft can’t innovate any more?",
+      "media": [],
+      "quote": {
+        "id": "2114745896315359305",
+        "url": "https://x.com/KobeissiLetter/status/2114745896315359305",
+        "author": {
+          "screen_name": "KobeissiLetter",
+          "name": "The Kobeissi Letter",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1975243710846640128/fwYCe67Y_200x200.jpg"
+        },
+        "created_at": "2026-10-26T15:48:06.000Z",
+        "text": "BREAKING: Microsoft, $MSFT, is offering buyouts to 60,000 workers as part of the company’s efforts to cut costs amid AI adoption, per Bloomberg.\n\nPersonnel on select teams in the US, Canada, India, and the UK at a vice president level and below will be eligible.\n\nThis reflects ~27% of Microsoft's total workforce.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2114899536984547460",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 57,
+        "quotes": 1,
+        "views": 3461
+      },
+      "fetched_at": "2026-10-27T06:22:53.059Z"
+    },
     {
       "id": "2114772499686998221",
       "url": "https://x.com/kunchenguid/status/2114772499686998221",
@@ -3618,71 +3685,6 @@
         "likes": 252,
         "quotes": 4,
         "views": 20070
-      },
-      "fetched_at": "2026-10-02T19:22:49.825Z"
-    },
-    {
-      "id": "2105806678478540828",
-      "url": "https://x.com/kunchenguid/status/2105806678478540828",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-01T23:46:50.000Z",
-      "sort_at": "2026-10-01T23:46:50.000Z",
-      "text": "this is also available as a “/kun” skill btw! they share the same knowledge base https://github.com/kunchenguid/kun\n\nif you are interested in how i made it, i wrote a blog post a while ago - https://blog.kunchenguid.com/p/i-distilled-myself-and-you-should?utm_campaign=post&utm_medium=web",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2105806675399852090",
-      "thread_root_id": "2105806675399852090",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 16,
-        "quotes": 0,
-        "views": 1703
-      },
-      "fetched_at": "2026-10-02T19:22:49.825Z"
-    },
-    {
-      "id": "2105806675399852090",
-      "url": "https://x.com/kunchenguid/status/2105806675399852090",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-01T23:46:50.000Z",
-      "sort_at": "2026-10-01T23:46:50.000Z",
-      "text": "Kun the grok @bot is here! 😀 principal engineer at your service - https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE\n\nthis bot is continuously updated - everything i posted, shared in a video, or open sourced on github - all available through this bot\n\nhope i can be helpful to more ppl this way!",
-      "media": [
-        {
-          "id": "2105806672895856640",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTlUAw-a0AAipMz.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 999,
-          "height": 1575
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2105806675399852090",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 13,
-        "reposts": 13,
-        "likes": 138,
-        "quotes": 1,
-        "views": 9525
       },
       "fetched_at": "2026-10-02T19:22:49.825Z"
     }

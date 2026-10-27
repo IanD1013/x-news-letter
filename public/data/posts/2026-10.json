@@ -2,6 +2,73 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2114947153328267429",
+      "url": "https://x.com/kunchenguid/status/2114947153328267429",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-27T05:07:49.000Z",
+      "sort_at": "2026-10-27T05:07:49.000Z",
+      "text": "@vineerpasam agent being able to find problems in their own code is nothing to be surprised about\n\nif you ask a human to double check their own work, chances are that they can find mistakes too\n\nfundamentally, it’s just more compute = more power",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2114947153328267429",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 17,
+        "quotes": 0,
+        "views": 969
+      },
+      "fetched_at": "2026-10-27T06:22:53.059Z"
+    },
+    {
+      "id": "2114899536984547460",
+      "url": "https://x.com/kunchenguid/status/2114899536984547460",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-27T01:58:37.000Z",
+      "sort_at": "2026-10-27T01:58:37.000Z",
+      "text": "buyout is the new layoff\n\nwho said microsoft can’t innovate any more?",
+      "media": [],
+      "quote": {
+        "id": "2114745896315359305",
+        "url": "https://x.com/KobeissiLetter/status/2114745896315359305",
+        "author": {
+          "screen_name": "KobeissiLetter",
+          "name": "The Kobeissi Letter",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1975243710846640128/fwYCe67Y_200x200.jpg"
+        },
+        "created_at": "2026-10-26T15:48:06.000Z",
+        "text": "BREAKING: Microsoft, $MSFT, is offering buyouts to 60,000 workers as part of the company’s efforts to cut costs amid AI adoption, per Bloomberg.\n\nPersonnel on select teams in the US, Canada, India, and the UK at a vice president level and below will be eligible.\n\nThis reflects ~27% of Microsoft's total workforce.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2114899536984547460",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 57,
+        "quotes": 1,
+        "views": 3461
+      },
+      "fetched_at": "2026-10-27T06:22:53.059Z"
+    },
+    {
       "id": "2114772499686998221",
       "url": "https://x.com/kunchenguid/status/2114772499686998221",
       "creator": "kunchenguid",
