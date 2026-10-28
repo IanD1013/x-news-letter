@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2115565245293039814",
+      "url": "https://x.com/kunchenguid/status/2115565245293039814",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-28T22:03:54.000Z",
+      "sort_at": "2026-10-28T22:03:54.000Z",
+      "text": "now that we all agreed to not review most of the code any more, CI became the next bottleneck\n\nat agent speed, if our CI pipeline is simply \"run all the build, lint, tests\", it'll become a major slow down\n\nhere are a few things i suggest for how to optimize:\n\n1. balance load between CI and CD\n\nCI protects main branch. CD protects production. if you can tolerate some delay in deploying your main branch to production, then you can do less in CI and do more in CD\n\nfor example, for a cross platform app i made my CI pipeline skip most mac and windows tests because linux already covered the same functionality\n\nthe tradeoff is occasionally i'd catch a mac or windows-only bug in CD before release, but in exchange, my CI pipeline became 15x faster - well worth it\n\n2. modularize your codebase such that changes are isolated\n\nthen you can make your CI only run build, lint, test for the module being touched\n\nthis requires careful consideration for cross-module protocols. they should likely be their own modules, so when they do change, you know you probably need to test all dependent modules\n\n3. for large modules, invest in test selection\n\nin CI, try to only run tests that are covering the areas being changed. doing accurate test selection is not easy though, and often requires continuous tuning\n\ni have a nightly loop specifically doing audit of past test runs and tweak my test selection to be more accurate. a big codebase of mine got pretty good at this - 20x faster CI compared to running all tests, and almost never miss any real problem",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115565245293039814",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 23,
+        "reposts": 9,
+        "likes": 163,
+        "quotes": 4,
+        "views": 8180
+      },
+      "fetched_at": "2026-10-28T23:17:14.327Z"
+    },
+    {
       "id": "2115236691455947134",
       "url": "https://x.com/kunchenguid/status/2115236691455947134",
       "creator": "kunchenguid",
