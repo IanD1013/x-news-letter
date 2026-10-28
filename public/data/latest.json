@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-27T06:22:53.809Z",
+  "generated_at": "2026-10-28T13:07:31.407Z",
   "posts": [
+    {
+      "id": "2115236691455947134",
+      "url": "https://x.com/kunchenguid/status/2115236691455947134",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-28T00:18:21.000Z",
+      "sort_at": "2026-10-28T00:18:21.000Z",
+      "text": "many people aren’t aware that their agent sessions are being sold for money\n\nthere are literally companies whose business model is to help other companies sell people’s agent sessions (search for “magma ai” if ur curious)\n\nbe careful what you use and install",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115236691455947134",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 42,
+        "reposts": 18,
+        "likes": 389,
+        "quotes": 2,
+        "views": 27172
+      },
+      "fetched_at": "2026-10-28T13:07:30.798Z"
+    },
     {
       "id": "2114947153328267429",
       "url": "https://x.com/kunchenguid/status/2114947153328267429",
@@ -3636,55 +3664,6 @@
         "likes": 38,
         "quotes": 0,
         "views": 1602
-      },
-      "fetched_at": "2026-10-02T19:22:49.825Z"
-    },
-    {
-      "id": "2105891880202535263",
-      "url": "https://x.com/kunchenguid/status/2105891880202535263",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-02T05:25:24.000Z",
-      "sort_at": "2026-10-02T05:25:24.000Z",
-      "text": "sigh.. must say a few things about this\n\nis face to face video chat the most efficient way to communicate with a machine? \n\nimagine you want to cancel your netflix subscription. would you prefer a button click, or turn on your camera and talk to a bot face to face?\n\nhow about booking a hotel or flight? excited to do it via a video chat with a customer service bot?\n\nimagine spending all day in zoom meetings for work, and now it’s all zoom meetings after work too?\n\nface to face communication is great at perceiving human emotions and feelings so humans can get on the same page ands build rapport with each other - this makes zero sense when it’s with a machine, except for things like therapy\n\nnow let’s think harder - if such tech is widely available and actually good, which industries have the most incentive to adopt it? well, porn and fraud come to mind\n\nimagine people stopped dating real people because “AI girlfriends” are always available\n\nimagine grandmas getting a facetime from their children\n\nimagine job interviews are just one bot talking to another, and the more expensive model wins\n\nthis is a technology that seems far more easily to get used for harmful purposes than for real economic benefit\n\ni hope people tread carefully here. build it because we know it can do good, not just because it looks cool as a demo",
-      "media": [],
-      "quote": {
-        "id": "2105704169009246248",
-        "url": "https://x.com/tavus/status/2105704169009246248",
-        "author": {
-          "screen_name": "tavus",
-          "name": "Tavus",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1974200616399593472/ZFG0msxY_200x200.jpg"
-        },
-        "created_at": "2026-10-01T16:59:30.000Z",
-        "text": "Introducing Griffin, the first model to pass the video Turing test.\n\n48% of people who talked to it live thought it was a real human. Previous systems have had a pass rate <3%. It is #1 on NVIDIA's benchmark for full-duplex AI video.\n\nIt’s the first Human Interaction Model (HIM).",
-        "media": [
-          {
-            "id": "2105703934073683968",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2105703934073683968/vid/avc1/1920x1080/boM_f4thNdNU7MVQ.mp4?tag=16",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2105703934073683968/img/Eg64cvr-3yHbydSB.jpg",
-            "width": 1920,
-            "height": 1080,
-            "duration": 108.566
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2105891880202535263",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 60,
-        "reposts": 16,
-        "likes": 252,
-        "quotes": 4,
-        "views": 20070
       },
       "fetched_at": "2026-10-02T19:22:49.825Z"
     }
