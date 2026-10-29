@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2115670709779513720",
+      "url": "https://x.com/kunchenguid/status/2115670709779513720",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-29T05:02:59.000Z",
+      "sort_at": "2026-10-29T05:02:59.000Z",
+      "text": "oct 30 is coming soon and the $200 codex subscription will then get its 50% quota cut\n\nif you feel your quota is burning fast now, imagine running out 2x as fast. and it’s unclear how frequently the resets will continue to happen\n\nwhy would openai do this cut now, especially at a moment when opus 5.5 is totally crushing it? \n\nmy speculation is that they are conceding the consumer coding use case, and focusing on non-technical work (chatgpt, dots) and enterprise market (api deals) instead\n\nsubsidized consumer coding usage is simply not very lucrative and it’s hard to compete with anthropic head on in this space regardless\n\nunfortunately this means your use case is primarily coding and you are using it through the consumer subscriptions, after this cut there’s almost no good reason to justify choosing codex subscription over claude. the value difference is simply day and night\n\nbut what i’m most afraid of is the second order effect where it ends up releasing the competitive pressure for anthropic and claude cuts their quota too\n\nwhere is grok 5? we need to keep the competition hot!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115670709779513720",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 26,
+        "reposts": 2,
+        "likes": 63,
+        "quotes": 0,
+        "views": 2974
+      },
+      "fetched_at": "2026-10-29T05:56:20.543Z"
+    },
+    {
       "id": "2115565245293039814",
       "url": "https://x.com/kunchenguid/status/2115565245293039814",
       "creator": "kunchenguid",
