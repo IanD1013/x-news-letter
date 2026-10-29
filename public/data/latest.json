@@ -1,6 +1,129 @@
 {
-  "generated_at": "2026-10-29T05:56:21.090Z",
+  "generated_at": "2026-10-29T18:59:40.639Z",
   "posts": [
+    {
+      "id": "2115869415321616530",
+      "url": "https://x.com/kunchenguid/status/2115869415321616530",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-29T18:12:34.000Z",
+      "sort_at": "2026-10-29T18:12:34.000Z",
+      "text": "looks like game’s still on!",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2115869127042793642",
+      "thread_root_id": "2115670709779513720",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5,
+        "quotes": 0,
+        "views": 301
+      },
+      "fetched_at": "2026-10-29T18:59:40.038Z"
+    },
+    {
+      "id": "2115869127042793642",
+      "url": "https://x.com/kunchenguid/status/2115869127042793642",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-29T18:11:25.000Z",
+      "sort_at": "2026-10-29T18:11:25.000Z",
+      "text": "wow",
+      "media": [],
+      "quote": {
+        "id": "2115850175868727621",
+        "url": "https://x.com/thsottiaux/status/2115850175868727621",
+        "author": {
+          "screen_name": "thsottiaux",
+          "name": "Tibo",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
+        },
+        "created_at": "2026-10-29T16:56:07.000Z",
+        "text": "Day 25/\n\nWe are doubling all usage limits for all Pro 100/200/500 tiers and Business Premium, effective today.\n\nWe heard your kind feedback and won’t be reducing usage limits for Pro 200, so your Work and Codex usage will stay the same. We’re also going to continue offering extended limits for dots for now, and usage of your dot will still continue to be separate from your default usage.\n\nAnd we'll of course also keep shipping better models and other efficiency improvements that increase your effective usage over time.",
+        "media": []
+      },
+      "reply_to_id": "2115670709779513720",
+      "thread_root_id": "2115670709779513720",
+      "is_note_tweet": false,
+      "lang": "und",
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 355
+      },
+      "fetched_at": "2026-10-29T18:59:40.038Z"
+    },
+    {
+      "id": "2115864882637922809",
+      "url": "https://x.com/kunchenguid/status/2115864882637922809",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-29T17:54:33.000Z",
+      "sort_at": "2026-10-29T17:54:33.000Z",
+      "text": "every write-up from me is automatically distilled into my /kun skill and kun grok bot\n\nthis may be a bit surprising to hear, but even i myself talk to my own kun bot quite a lot 😄 because it saves me from having to repeat what i already know and believe\n\nsee example here - just got kun bot to optimize CI for a repo that’s grown big, and got some instant easy wins, because the bot knows about what i shared in this post yesterday \n\n/kun skill - https://github.com/kunchenguid/kun\nkun bot - https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE",
+      "media": [
+        {
+          "id": "2115864879072747520",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV0P5a3bIAAxToB.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        },
+        {
+          "id": "2115864879102050304",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV0P5a-aQAADXJN.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "quote": {
+        "id": "2115565245293039814",
+        "url": "https://x.com/kunchenguid/status/2115565245293039814",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-10-28T22:03:54.000Z",
+        "text": "now that we all agreed to not review most of the code any more, CI became the next bottleneck\n\nat agent speed, if our CI pipeline is simply \"run all the build, lint, tests\", it'll become a major slow down\n\nhere are a few things i suggest for how to optimize:\n\n1. balance load between CI and CD\n\nCI protects main branch. CD protects production. if you can tolerate some delay in deploying your main branch to production, then you can do less in CI and do more in CD\n\nfor example, for a cross platform app i made my CI pipeline skip most mac and windows tests because linux already covered the same functionality\n\nthe tradeoff is occasionally i'd catch a mac or windows-only bug in CD before release, but in exchange, my CI pipeline became 15x faster - well worth it\n\n2. modularize your codebase such that changes are isolated\n\nthen you can make your CI only run build, lint, test for the module being touched\n\nthis requires careful consideration for cross-module protocols. they should likely be their own modules, so when they do change, you know you probably need to test all dependent modules\n\n3. for large modules, invest in test selection\n\nin CI, try to only run tests that are covering the areas being changed. doing accurate test selection is not easy though, and often requires continuous tuning\n\ni have a nightly loop specifically doing audit of past test runs and tweak my test selection to be more accurate. a big codebase of mine got pretty good at this - 20x faster CI compared to running all tests, and almost never miss any real problem",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2115864882637922809",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 7,
+        "reposts": 2,
+        "likes": 14,
+        "quotes": 0,
+        "views": 2191
+      },
+      "fetched_at": "2026-10-29T18:59:40.038Z"
+    },
     {
       "id": "2115670709779513720",
       "url": "https://x.com/kunchenguid/status/2115670709779513720",
@@ -3525,123 +3648,6 @@
         "views": 8316
       },
       "fetched_at": "2026-10-03T19:58:08.479Z"
-    },
-    {
-      "id": "2106260726071341175",
-      "url": "https://x.com/jayparkcanada/status/2106260726071341175",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "jayparkcanada",
-        "name": "Jay",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2102260532715646976/MlP4Qd9j_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-10-03T05:51:04.000Z",
-      "sort_at": "2026-10-03T16:09:59.000Z",
-      "text": "I made fleetdeck, a terminal dashboard for firstmate by @kunchenguid \n\nfirstmate keeps all fleet state in plain files. fleetdeck reads them and shows one screen:\n- tasks, PRs, CI and conflicts\n- open decisions and second mates\n- the context each session loads\n- activity events",
-      "media": [
-        {
-          "id": "2106259996333821952",
-          "type": "gif",
-          "url": "https://video.twimg.com/tweet_video/HTrwTqYX0AAvfo-.mp4",
-          "thumbnail_url": "https://pbs.twimg.com/tweet_video_thumb/HTrwTqYX0AAvfo-.jpg",
-          "width": 1280,
-          "height": 760
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2106260726071341175",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 1,
-        "likes": 13,
-        "quotes": 0,
-        "views": 1528
-      },
-      "fetched_at": "2026-10-03T19:58:08.479Z"
-    },
-    {
-      "id": "2106223024253071404",
-      "url": "https://x.com/kunchenguid/status/2106223024253071404",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-03T03:21:15.000Z",
-      "sort_at": "2026-10-03T03:21:15.000Z",
-      "text": "there’s now a new mental model for the software stack\n\n- skills are the new “apps”\n\nyou install them to get more functionality. people are starting to build and share skills more than real “apps”\n\nmany skills are very simple today but i think we’ll eventually see increasing sophistication\n\n- mcp servers and CLIs are the new “APIs”\n\nthey allow services to encapsulate their core capabilities behind an interface the can be invoked in a composable way\n\nmany skills will be calling mcp servers or clis behind the scenes just like how a lot of apps call APIs today\n\n- agent harnesses are the new “operating systems”\n\nit sits between the user and the underlying resources, helping the user manage common concerns such as compute, memory, security etc\n\nif you look closely, it’s hard to unsee the resemblance - claude is the new macos. codex is the new windows. pi is the new linux\n\nskills run in agent harnesses just like apps run in existing OS\n\n- LLMs are the new “computers”\n\nthey process instructions coming from the user, the skills, the agent harnesses, and compute the output\n\nthe model weights is the cpu. context window is the memory. actual computers are becoming more like the power source\n\nok so why do we need this mental model? i think it helps us think about where we play\n\nif you want to be the new app developers - start to learn to write good skills\n\nif you want to build a saas, figure out how to package things as good mcp servers and CLIs\n\nif you want to be linus and write the new linux, build an agent harness. otherwise, you can still try to learn about how agent harness work like how CS students used to learn about OS\n\nif you want to be the new apple or samsung, start to learn how LLMs are trained and play with open weight models - you may end up inventing the new raspberry pi!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2106223024253071404",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 31,
-        "reposts": 9,
-        "likes": 144,
-        "quotes": 4,
-        "views": 4836
-      },
-      "fetched_at": "2026-10-03T05:25:12.628Z"
-    },
-    {
-      "id": "2105931853815296295",
-      "url": "https://x.com/kunchenguid/status/2105931853815296295",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-02T08:04:14.000Z",
-      "sort_at": "2026-10-02T08:04:14.000Z",
-      "text": "people who laugh and say karpathy's latest tips are outdated - i suspect the vast majority of them have not even tried the tips yet\n\ni just tested the ASD-STE100 wording rule and it's surprisingly good at helping increase clarity of model response, even within html artifacts. but the trick is that the full ruleset is a bit too strict and you need to pick a subset\n\none prompt you can run super easily: \n\n\"randomly sample 10 session transcripts where i worked with you interactively within the past week. apply ASD-STE100 rules to assistant responses and analyze which rules would have increased clarity, reduced confusion and improved the conversations, then document those rules in my user level AGENTS.md\"\n\nyou might be impressed!",
-      "media": [],
-      "quote": {
-        "id": "2105819303471976479",
-        "url": "https://x.com/karpathy/status/2105819303471976479",
-        "author": {
-          "screen_name": "karpathy",
-          "name": "Andrej Karpathy",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_200x200.jpg"
-        },
-        "created_at": "2026-10-02T00:37:00.000Z",
-        "text": "We'll be spending a lot more time trying to understand the outputs of language models. A few thoughts, tips & tricks:\n\nWriting. Something I've had success with: Ask your LLM to explain something in ASD-STE100, it's a controlled language specification originally developed for aerospace maintenance documentation. LLMs well-versed in this language and it comes with heavy constraints on clean writing style that I often find a lot more readable. Sometimes I've tried to soften it a bit e.g. ask for \"80% of the way to ASD-STE100\" because the spec is quite stringent. But even better:\n\nDiagrams / images. Instead of writing, ask your LLM to create a diagram. These can be a lot easier to process, parse, and understand. But even better:\n\nWeb pages. Ask for output \"in HTML\" to get a beautiful, interactive webpage. LLMs are getting really good at frontend and can create beautiful experiences, animations, etc. But even better:\n\nExplainer videos. The output format I am most bullish on is fully custom / bespoke explainer videos generated on any arbitrary topic. Experiment with things like \"Create a 3b1b style video explainer on X. Use my ElevenLabs API key for audio narration\". (you'd need an API key for the latter or you can ask your LLM to find you decent free alternatives that use your local compute). This is actually starting to work!\n\nIn summary:\n- As LLMs get better, they will do more and more of the legwork autonomously, and a lot more of our work will rise up the abstractions into oversight and understanding.\n- Luckily, LLMs can help here too because as intelligence and code are increasingly abundant, you can ask for large, custom, discardable software artifacts (e.g. web apps, video explainers) that would have never made sense to create before. Push the boundaries here and you'll be surprised.",
-        "media": [
-          {
-            "id": "2105813388488327168",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HTlaHqgbwAAS1lv.png?name=orig",
-            "thumbnail_url": null,
-            "width": 3200,
-            "height": 1600
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2105931853815296295",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 66,
-        "reposts": 140,
-        "likes": 2156,
-        "quotes": 12,
-        "views": 188440
-      },
-      "fetched_at": "2026-10-02T19:22:49.825Z"
     }
   ]
 }
