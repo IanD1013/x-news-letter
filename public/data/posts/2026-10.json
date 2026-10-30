@@ -2,6 +2,142 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2116069239148978486",
+      "url": "https://x.com/kunchenguid/status/2116069239148978486",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-30T07:26:35.000Z",
+      "sort_at": "2026-10-30T07:26:35.000Z",
+      "text": "a lot of people are going to disagree with me on this, but i honestly think even today, grok 4.5 is still SOTA in the sonnet tier if you ignore the benchmaxxing and RLmaxxing for 3d games\n\ngrok 4.5 was fast, on point, does what it's told to and pleasant to talk to. they did something really right with that release\n\ni don't know exactly what went into 4.6 and since, but it smelled similar to whatever happened to opus 5 \n\ni hope grok 4.8 is the equivalent of the opus 5.5 come-back for grok",
+      "media": [],
+      "quote": {
+        "id": "2116036703538606301",
+        "url": "https://x.com/elonmusk/status/2116036703538606301",
+        "author": {
+          "screen_name": "elonmusk",
+          "name": "Elon Musk",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_200x200.jpg"
+        },
+        "created_at": "2026-10-30T05:17:18.000Z",
+        "text": "@techdevnotes I know it’s taken longer than expected, but Grok 4.8 will not be a disappointment. \n\nWe’re not optimizing for benchmarks and I really don’t care how Grok does on those, but it will be incredibly useful.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2116069239148978486",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 25,
+        "reposts": 3,
+        "likes": 144,
+        "quotes": 1,
+        "views": 12502
+      },
+      "fetched_at": "2026-10-30T13:05:55.086Z"
+    },
+    {
+      "id": "2115956479949979968",
+      "url": "https://x.com/JinjingLiang/status/2115956479949979968",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "JinjingLiang",
+        "name": "Jinjing Liang",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2047787401788215296/7flpB6zr_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-29T23:58:32.000Z",
+      "sort_at": "2026-10-30T07:26:34.000Z",
+      "text": "You might not need the new $30k Mac Studio...\n\nUse simslim -- Not my repo but it's MIT OSS\n\nIt turns off a bunch of random background services and lets you run more simulators on your mac",
+      "media": [
+        {
+          "id": "2115956039124467712",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV1izohbQAA5M5R.png?name=orig",
+          "thumbnail_url": null,
+          "width": 394,
+          "height": 362
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115956479949979968",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 7,
+        "likes": 230,
+        "quotes": 2,
+        "views": 14132
+      },
+      "fetched_at": "2026-10-30T13:05:55.086Z"
+    },
+    {
+      "id": "2115946268493316267",
+      "url": "https://x.com/kunchenguid/status/2115946268493316267",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-29T23:17:57.000Z",
+      "sort_at": "2026-10-29T23:17:57.000Z",
+      "text": "i gave luna a task hoping to save cost, and it spun up 3 fable and 2 astra subagents to help 🥲\n\nwhat’s the best meme for this?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115946268493316267",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 42,
+        "reposts": 1,
+        "likes": 187,
+        "quotes": 0,
+        "views": 14452
+      },
+      "fetched_at": "2026-10-30T13:05:55.086Z"
+    },
+    {
+      "id": "2115914021706866704",
+      "url": "https://x.com/kunchenguid/status/2115914021706866704",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-29T21:09:49.000Z",
+      "sort_at": "2026-10-29T21:09:49.000Z",
+      "text": "i vote that all banked quota resets in our LLM subscriptions should automatically apply when they expire\n\nit's absolutely brutal to find out the banked reset i was counting on is just flat out gone when i actually need it\n\nwho's with me?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115914021706866704",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 54,
+        "reposts": 3,
+        "likes": 352,
+        "quotes": 2,
+        "views": 10899
+      },
+      "fetched_at": "2026-10-30T13:05:55.086Z"
+    },
+    {
       "id": "2115869415321616530",
       "url": "https://x.com/kunchenguid/status/2115869415321616530",
       "creator": "kunchenguid",

@@ -1,6 +1,142 @@
 {
-  "generated_at": "2026-10-29T18:59:40.639Z",
+  "generated_at": "2026-10-30T13:05:56.325Z",
   "posts": [
+    {
+      "id": "2116069239148978486",
+      "url": "https://x.com/kunchenguid/status/2116069239148978486",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-30T07:26:35.000Z",
+      "sort_at": "2026-10-30T07:26:35.000Z",
+      "text": "a lot of people are going to disagree with me on this, but i honestly think even today, grok 4.5 is still SOTA in the sonnet tier if you ignore the benchmaxxing and RLmaxxing for 3d games\n\ngrok 4.5 was fast, on point, does what it's told to and pleasant to talk to. they did something really right with that release\n\ni don't know exactly what went into 4.6 and since, but it smelled similar to whatever happened to opus 5 \n\ni hope grok 4.8 is the equivalent of the opus 5.5 come-back for grok",
+      "media": [],
+      "quote": {
+        "id": "2116036703538606301",
+        "url": "https://x.com/elonmusk/status/2116036703538606301",
+        "author": {
+          "screen_name": "elonmusk",
+          "name": "Elon Musk",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_200x200.jpg"
+        },
+        "created_at": "2026-10-30T05:17:18.000Z",
+        "text": "@techdevnotes I know it’s taken longer than expected, but Grok 4.8 will not be a disappointment. \n\nWe’re not optimizing for benchmarks and I really don’t care how Grok does on those, but it will be incredibly useful.",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2116069239148978486",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 25,
+        "reposts": 3,
+        "likes": 144,
+        "quotes": 1,
+        "views": 12502
+      },
+      "fetched_at": "2026-10-30T13:05:55.086Z"
+    },
+    {
+      "id": "2115956479949979968",
+      "url": "https://x.com/JinjingLiang/status/2115956479949979968",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "JinjingLiang",
+        "name": "Jinjing Liang",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2047787401788215296/7flpB6zr_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-29T23:58:32.000Z",
+      "sort_at": "2026-10-30T07:26:34.000Z",
+      "text": "You might not need the new $30k Mac Studio...\n\nUse simslim -- Not my repo but it's MIT OSS\n\nIt turns off a bunch of random background services and lets you run more simulators on your mac",
+      "media": [
+        {
+          "id": "2115956039124467712",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HV1izohbQAA5M5R.png?name=orig",
+          "thumbnail_url": null,
+          "width": 394,
+          "height": 362
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115956479949979968",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 7,
+        "likes": 230,
+        "quotes": 2,
+        "views": 14132
+      },
+      "fetched_at": "2026-10-30T13:05:55.086Z"
+    },
+    {
+      "id": "2115946268493316267",
+      "url": "https://x.com/kunchenguid/status/2115946268493316267",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-29T23:17:57.000Z",
+      "sort_at": "2026-10-29T23:17:57.000Z",
+      "text": "i gave luna a task hoping to save cost, and it spun up 3 fable and 2 astra subagents to help 🥲\n\nwhat’s the best meme for this?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115946268493316267",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 42,
+        "reposts": 1,
+        "likes": 187,
+        "quotes": 0,
+        "views": 14452
+      },
+      "fetched_at": "2026-10-30T13:05:55.086Z"
+    },
+    {
+      "id": "2115914021706866704",
+      "url": "https://x.com/kunchenguid/status/2115914021706866704",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-29T21:09:49.000Z",
+      "sort_at": "2026-10-29T21:09:49.000Z",
+      "text": "i vote that all banked quota resets in our LLM subscriptions should automatically apply when they expire\n\nit's absolutely brutal to find out the banked reset i was counting on is just flat out gone when i actually need it\n\nwho's with me?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2115914021706866704",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 54,
+        "reposts": 3,
+        "likes": 352,
+        "quotes": 2,
+        "views": 10899
+      },
+      "fetched_at": "2026-10-30T13:05:55.086Z"
+    },
     {
       "id": "2115869415321616530",
       "url": "https://x.com/kunchenguid/status/2115869415321616530",
@@ -3490,164 +3626,6 @@
         "views": 8842
       },
       "fetched_at": "2026-10-04T23:15:23.522Z"
-    },
-    {
-      "id": "2106651847092039801",
-      "url": "https://x.com/HaseebMir91/status/2106651847092039801",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "HaseebMir91",
-        "name": "Haseeb Mir",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2031282149798932480/SmHOyGd-_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-10-04T07:45:14.000Z",
-      "sort_at": "2026-10-04T09:54:33.150Z",
-      "text": "Most agent frameworks make you juggle 10 terminal tabs babysitting context.\n\n@kunchenguid built Firstmate and flipped the entire model: you talk to one agent, and it orchestrates the entire crew across git worktrees and tmux sessions.\n\nHands down the best agent orchestrator on the market right now.\n\nCheck it out: https://github.com/kunchenguid/firstmate #AI #CodingAgents #OpenSource #DevTools",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2106651847092039801",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 1,
-        "likes": 9,
-        "quotes": 0,
-        "views": 707
-      },
-      "fetched_at": "2026-10-04T09:54:33.150Z"
-    },
-    {
-      "id": "2106618064863137953",
-      "url": "https://x.com/ssbrouhard/status/2106618064863137953",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "ssbrouhard",
-        "name": "Stephen Brouhard",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-10-04T05:31:00.000Z",
-      "sort_at": "2026-10-04T09:54:33.150Z",
-      "text": "new test on the hybrid firstmate/pstack. \ntwo advisors, zero authority.\n\n@kunchenguid's kun bot for planning and locked-bar pass/fail and distilled @poteto that only does pstack judgment: go deep before parallel, verify before autopilot, codebase as memory.\n\nfirstmate bot asks each once, on a real design fork and before adversarial review. their notes are input. they don't route, don't merge, and don't install a second router. grok-ship adversarial review is still the code gate.\n\ni did need to tweak the distillation a bit. i used lauren's dr. eggbot to ensure the bot brief was a checklist with a point of view answering from pstack rules vs \"what would lauren say on her blog?\" this keeps it focused for my purpose. \n\nthe \"distill anyone\" bot is linked that kun made. many use cases and malleable.\n\ndistill bot: https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt\nkun bot: https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE\ndr eggbot: https://x.ai/bot/93gOz3op1UQdBdbekQFLK",
-      "media": [
-        {
-          "id": "2106612507154464768",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTww6fhWQAAWE2p.png?name=orig",
-          "thumbnail_url": null,
-          "width": 512,
-          "height": 611
-        }
-      ],
-      "quote": {
-        "id": "2094992750378664267",
-        "url": "https://x.com/ssbrouhard/status/2094992750378664267",
-        "author": {
-          "screen_name": "ssbrouhard",
-          "name": "Stephen Brouhard",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2010747252386447360/IjlE-wY9_200x200.jpg"
-        },
-        "created_at": "2026-09-02T03:36:09.000Z",
-        "text": "How I applied the pstack / Firstmate hybrid to Grok Ship and how you can set it up.\n\nLast week I wrote about combining @poteto's pstack and @kunchenguid's Firstmate without letting their routers fight. Firstmate stays the outer loop. pstack's engineering habits go into the workers.\n\nGrok Ship is that same idea on Grok Bot. One Firstmate. Scout vs ship. Project crewmates drive Cursor cloud agents. A throwaway reviewer reads the branch before any PR. You still merge.\n\nIf you bolt pstack on as another commander, you get two captains arguing about leftover wording. Don't.\n\nKeep Grok Ship as the fleet. Inject pstack into the writers.\n\nSetup:\n\n1. Tell any Grok Bot:\nfollow https://github.com/kunchenguid/grok-ship/blob/main/GROK_SHIP.md\n\n2. Talk only to Firstmate after that.\n\n3. Do not install the pstack plugin into the factory. Do not add a pstack bot. Put a short worker brief on each project crewmate that launches cloud writers.\n\nWorker brief (copy this):\n- Firstmate is the only commander. Do not become a second product router.\n- Cloud-agent ships load a short play just-in-time, not a prompt dump.\n- Smallest logical change. Subtract code before adding. Analyze blast radius.\n- Map other parts of the system only if the change actually crosses into them. If you skip that, write one line why.\n- Done means the project's tests plus real artifact proof (a live command or repo verifier), not a passing opinion.\n\n4. Thin the adversarial reviewer:\n- Auto-fix and real errors only.\n- Ask-user only for merge, deploy, customer send, or a true product fork.\n- Leftover wording is not a fork. Translate it against standing product rules.\n\n5. You still merge. Factory never merges on its own. Scout stays a report, never a PR.\n\nSo the hybrid is Grok Ship isolates the fleet. The worker brief carries the discipline. The reviewer does not get a vote on product.\n\npstack: https://github.com/cursor/plugins/tree/main/pstack\nGrok Ship: \nhttps://github.com/kunchenguid/grok-ship\n@orca_build artifact:\nhttps://share.onorca.dev/a/A959eORtRvEY",
-        "media": [
-          {
-            "id": "2094992141059608576",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HRLoQKcX0AAxQq_.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 2400,
-            "height": 3000
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2106618064863137953",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 2,
-        "likes": 21,
-        "quotes": 0,
-        "views": 2793
-      },
-      "fetched_at": "2026-10-04T09:54:33.150Z"
-    },
-    {
-      "id": "2106612888987443424",
-      "url": "https://x.com/kunchenguid/status/2106612888987443424",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-04T05:10:26.000Z",
-      "sort_at": "2026-10-04T05:10:26.000Z",
-      "text": "there’s something quite awkward about all the personal agents in the current hype cycle\n\nmuse, grok bot, instinct, dots, and whatever google, anthropic will come up with\n\nnone of them is “mine”\n\ni’d be trusting a vendor for some of the most sensitive data about me and bet on them handling it with extreme responsibility. what if they have a data leakage incident? what if they hired a wrong employee? what if they simply break bad?\n\ni’d also be betting on their model. right now i’ve set up a lot of my stuff in grok bot, but what if their model falls behind? what if another model becomes 10x better on pure intelligence? then i’ll either miss out on a better assistant, or have to bite the bullet and do a full migration\n\ni’d also have to bet on their product. they may not build the features i want. they may not allow me to customize enough. and one day my assistant may show me ads\n\nthat feels like way too much betting than what i’d be comfortable with, if i truly want literally everything in my life to go through and be taken care of by an assistant\n\nwith all that considered, i’m more bullish on open source personal agents that run on people’s own computers. but i think these open source projects have to break out of the assumption that their users are developers and they can just throw a repo at them and ask them to launch a terminal\n\na well polished, fool proof, community maintained, vendor agnostic, free personal agent that everyone can run by themselves without locking into a SaaS - that’s what i think many people will need",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2106612888987443424",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 94,
-        "reposts": 11,
-        "likes": 290,
-        "quotes": 4,
-        "views": 14005
-      },
-      "fetched_at": "2026-10-04T09:54:33.150Z"
-    },
-    {
-      "id": "2106416486340276543",
-      "url": "https://x.com/kunchenguid/status/2106416486340276543",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-03T16:10:00.000Z",
-      "sort_at": "2026-10-03T16:10:00.000Z",
-      "text": "coding is solved. where is the moat?\n\nnew apple guy tweets one word “hello” and gets 90 million views\n\nthere’s the moat",
-      "media": [
-        {
-          "id": "2106311160530423808",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HTse1z3bUAAuW__.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1206,
-          "height": 593
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2106416486340276543",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 13,
-        "reposts": 5,
-        "likes": 153,
-        "quotes": 1,
-        "views": 8316
-      },
-      "fetched_at": "2026-10-03T19:58:08.479Z"
     }
   ]
 }
