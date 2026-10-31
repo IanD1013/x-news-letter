@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2116650214195167298",
+      "url": "https://x.com/kunchenguid/status/2116650214195167298",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-31T21:55:11.000Z",
+      "sort_at": "2026-10-31T21:55:11.000Z",
+      "text": "@morganlinton the latest round of models from openai and anthropic gave me a new mental model\n\nbasically, openai has no fable tier model. and everything else is one tier off vs anthropic\n\nastra can kind of compete with opus\nsol is sonnet but cheaper\nterra is haiku but cheaper",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116650214195167298",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 5,
+        "reposts": 1,
+        "likes": 29,
+        "quotes": 0,
+        "views": 2159
+      },
+      "fetched_at": "2026-10-31T23:26:20.805Z"
+    },
+    {
       "id": "2116599592703918305",
       "url": "https://x.com/kunchenguid/status/2116599592703918305",
       "creator": "kunchenguid",
