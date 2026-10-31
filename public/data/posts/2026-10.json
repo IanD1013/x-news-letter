@@ -2,6 +2,66 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2116599592703918305",
+      "url": "https://x.com/kunchenguid/status/2116599592703918305",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-31T18:34:02.000Z",
+      "sort_at": "2026-10-31T18:34:02.000Z",
+      "text": "i’m now fully convinced that chatting with agents is absolutely the wrong UX\n\nwatching my son learn to create things, he prefers literally any other tool than prompting AI\n\nhe likes to write, draw, and animate, all with his fingers on an ipad and he likes to recording real sound effects to use in his games\n\nhe could have gotten much better results by chatting with an AI, but he hates the wait and doesn’t feel the result is “his work”\n\nwe need a complete rethink",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116599592703918305",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 49,
+        "reposts": 5,
+        "likes": 179,
+        "quotes": 0,
+        "views": 9098
+      },
+      "fetched_at": "2026-10-31T20:01:45.176Z"
+    },
+    {
+      "id": "2116500646442729910",
+      "url": "https://x.com/saurabhyadavz/status/2116500646442729910",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "saurabhyadavz",
+        "name": "Saurabh ✧",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2091563558027018240/lNzy1OGk_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-31T12:00:51.000Z",
+      "sort_at": "2026-10-31T18:34:01.000Z",
+      "text": "man, i just love the /lavish skill by @kunchenguid\n\ni literally just start my claude sessions and all i do is interact with the lavish sessions \n\nbeen using it for 4-5 months now and it’s honestly become a part of my workflow",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116500646442729910",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 0,
+        "views": 2079
+      },
+      "fetched_at": "2026-10-31T20:01:45.176Z"
+    },
+    {
       "id": "2116320816002699529",
       "url": "https://x.com/kunchenguid/status/2116320816002699529",
       "creator": "kunchenguid",

@@ -1,6 +1,66 @@
 {
-  "generated_at": "2026-10-31T09:45:24.881Z",
+  "generated_at": "2026-10-31T20:01:45.700Z",
   "posts": [
+    {
+      "id": "2116599592703918305",
+      "url": "https://x.com/kunchenguid/status/2116599592703918305",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-31T18:34:02.000Z",
+      "sort_at": "2026-10-31T18:34:02.000Z",
+      "text": "i’m now fully convinced that chatting with agents is absolutely the wrong UX\n\nwatching my son learn to create things, he prefers literally any other tool than prompting AI\n\nhe likes to write, draw, and animate, all with his fingers on an ipad and he likes to recording real sound effects to use in his games\n\nhe could have gotten much better results by chatting with an AI, but he hates the wait and doesn’t feel the result is “his work”\n\nwe need a complete rethink",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116599592703918305",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 49,
+        "reposts": 5,
+        "likes": 179,
+        "quotes": 0,
+        "views": 9098
+      },
+      "fetched_at": "2026-10-31T20:01:45.176Z"
+    },
+    {
+      "id": "2116500646442729910",
+      "url": "https://x.com/saurabhyadavz/status/2116500646442729910",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "saurabhyadavz",
+        "name": "Saurabh ✧",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2091563558027018240/lNzy1OGk_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-10-31T12:00:51.000Z",
+      "sort_at": "2026-10-31T18:34:01.000Z",
+      "text": "man, i just love the /lavish skill by @kunchenguid\n\ni literally just start my claude sessions and all i do is interact with the lavish sessions \n\nbeen using it for 4-5 months now and it’s honestly become a part of my workflow",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116500646442729910",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 12,
+        "quotes": 0,
+        "views": 2079
+      },
+      "fetched_at": "2026-10-31T20:01:45.176Z"
+    },
     {
       "id": "2116320816002699529",
       "url": "https://x.com/kunchenguid/status/2116320816002699529",
@@ -3579,62 +3639,6 @@
         "likes": 65,
         "quotes": 0,
         "views": 4766
-      },
-      "fetched_at": "2026-10-05T18:32:53.973Z"
-    },
-    {
-      "id": "2107129937715224951",
-      "url": "https://x.com/kunchenguid/status/2107129937715224951",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-05T15:25:00.000Z",
-      "sort_at": "2026-10-05T15:25:00.000Z",
-      "text": "i just gave the exact same task to Muse, Dots, and Instinct (didn't do grok bot because my quota's already tight)\n\ni asked them to research good product names for something i want to ship, and i gave a bunch of criteria for what i look for\n\n1. muse was very fast, but outcome was questionable\n\nmuse was the only agent that went straight into the work without asking me any questions - not sure i like this\n\nbut boy was it fast. i did 3 rounds of iterations with muse while dots and instinct were both still working on the first iteration\n\nBUT... guess what was the top suggestion from muse? \n\nit was \"endframe\"  🤦 i was like.. dude, did you not watch silicon valley?\n\nin follow up iterations, i also noticed muse was not quite good at following my intent in a way i like. for example, i said in the very beginning that every name needs to check for domain availability, but later i found out that some names weren't checked\n\noverall, it seems to optimize for quick iterations rather than thoroughness\n\n2. instinct was very slow, but quite autonomous\n\ninstinct first asked me some questions to anchor its work. i liked that because it helps steer its work to be more aligned with what i want\n\nthen it went dark for 20 minutes to do the work. it did a pretty thorough research and came back with a file i could open and read. the file had a table with all the candidates and their readiness\n\noverall i thought that was pretty good, except for the names themselves.. they aren't that good. this feels like a general problem with LLMs - they seem to be really bad at coming up with names humans would really find appealing\n\n3. dots was also slow, but it's more \"asynchronous\" and more intelligent\n\nlike indistinct, dots also started with asking me some questions, but it didn't let the questions block its work! \n\nit had already started work in the background, and my questions were sent to it asynchronously as steers. i think this shows openai's slightly more experienced with harness engineering\n\nit also didn't go dark for the full duration of its work. it kept giving me updates about its progress, which was useful because i spotted some names i liked and didn't like, and gave it feedback early for what to lean into\n\nalso gotta say, having astra in dots is clearly an advantage. the model is just smarter. it kept all my inputs in its mind, including the original goal i stated plus all the follow up steers. it \"gets me\"\n\ndots was also the only solution that actually gave me a few names i'd consider\n\njust a one-off experience here - take it with a grain of salt. i'll share more examples like this when i give them tasks!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2107129937715224951",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 15,
-        "reposts": 1,
-        "likes": 86,
-        "quotes": 0,
-        "views": 7505
-      },
-      "fetched_at": "2026-10-05T18:32:53.973Z"
-    },
-    {
-      "id": "2106993188493992443",
-      "url": "https://x.com/kunchenguid/status/2106993188493992443",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-05T06:21:36.000Z",
-      "sort_at": "2026-10-05T06:21:36.000Z",
-      "text": "i hope i didn't jinx something.. 😅",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2106991513238679639",
-      "thread_root_id": "2106991513238679639",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 19,
-        "quotes": 0,
-        "views": 6165
       },
       "fetched_at": "2026-10-05T18:32:53.973Z"
     }
