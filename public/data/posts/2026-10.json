@@ -2,6 +2,34 @@
   "month": "2026-10",
   "posts": [
     {
+      "id": "2116320816002699529",
+      "url": "https://x.com/kunchenguid/status/2116320816002699529",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-10-31T00:06:16.000Z",
+      "sort_at": "2026-10-31T00:06:16.000Z",
+      "text": "eventually, i think agents will have a tool called “ask_user_brain”\n\nthis tool directly queries our brain to get our judgment, and we may not even need to know that we were queried",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116320816002699529",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 36,
+        "reposts": 5,
+        "likes": 132,
+        "quotes": 1,
+        "views": 7812
+      },
+      "fetched_at": "2026-10-31T09:45:24.267Z"
+    },
+    {
       "id": "2116230504408371448",
       "url": "https://x.com/kunchenguid/status/2116230504408371448",
       "creator": "kunchenguid",
