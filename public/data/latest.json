@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-31T23:26:21.425Z",
+  "generated_at": "2026-11-01T06:18:53.157Z",
   "posts": [
+    {
+      "id": "2116770835944157243",
+      "url": "https://x.com/kunchenguid/status/2116770835944157243",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-01T05:54:29.000Z",
+      "sort_at": "2026-11-01T05:54:29.000Z",
+      "text": "now that i solved the code review and ci bottleneck, the next bottleneck revealed itself\n\nTIL github limits 5000 request per user per hour. that's not enough when \"a user\" means \"hundreds of agents working for a human\"\n\nwhat's the solve?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116770835944157243",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 11,
+        "reposts": 1,
+        "likes": 13,
+        "quotes": 0,
+        "views": 1291
+      },
+      "fetched_at": "2026-11-01T06:18:52.109Z"
+    },
     {
       "id": "2116650214195167298",
       "url": "https://x.com/kunchenguid/status/2116650214195167298",
@@ -3591,45 +3619,6 @@
         "views": 15921
       },
       "fetched_at": "2026-10-06T00:51:17.713Z"
-    },
-    {
-      "id": "2107171410837934440",
-      "url": "https://x.com/kunchenguid/status/2107171410837934440",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-05T18:09:48.000Z",
-      "sort_at": "2026-10-05T18:09:48.000Z",
-      "text": "looks like the watermarks are here to stay.. \n\ni have mixed feeling about this\n\non one hand, i don't let LLM write any of my content, and i hate all the bot replies. i wish we have a solution to kill them all, but i don't think this is it\n\nthe fundamental problem with doing watermarking is that it puts too much emphasis on the tool being used to produce a piece of work, and diminishes the human effort behind it\n\na human producing a piece of complete slop using LLM alone, vs a human spending hours and hours crafting their idea but let LLM handle some of the final touch, will both be labeled as \"AI-generated\"\n\nand the people who truly want to keep spamming the world with slop will simply use an uncensored model to do a rewording pass which removes the watermark. so the watermarking will apply to regular people much more than malicious ones\n\ntime will tell, but this feels like just another cookie banner kind of thing that's going to poison the internet much more than helping it",
-      "media": [],
-      "quote": {
-        "id": "2107164650249101695",
-        "url": "https://x.com/OpenAI/status/2107164650249101695",
-        "author": {
-          "screen_name": "OpenAI",
-          "name": "OpenAI",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg"
-        },
-        "created_at": "2026-10-05T17:42:56.000Z",
-        "text": "We're expanding our approach to content provenance to include text in response to EU regulatory requirements, while recognizing the significant limitations of current text watermarking technology.\n\nOur tools already help verify whether an image or audio file was created with our models. This work builds on those efforts to help people better understand when content may have been generated or edited with an OpenAI model.\n\nIn the EU, we’ll start watermarking eligible text from ChatGPT and Codex over the coming weeks to comply with the EU AI Act.\n\nCustomers using our API can turn on text watermarking for select models worldwide today.",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2107171410837934440",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 6,
-        "reposts": 2,
-        "likes": 21,
-        "quotes": 0,
-        "views": 1112
-      },
-      "fetched_at": "2026-10-05T18:32:53.973Z"
     }
   ]
 }
