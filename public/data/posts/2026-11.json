@@ -2,6 +2,66 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2116978736071651460",
+      "url": "https://x.com/kunchenguid/status/2116978736071651460",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-01T19:40:36.000Z",
+      "sort_at": "2026-11-01T19:40:36.000Z",
+      "text": "been testing the new multiplexer Rex for a while, and my feelings are very mixed\n\ntl;dr i think i'll stick with herdr for now\n\nwhile it's a beautifully designed app, i couldn't quite find any real reason yet to prefer Rex other than it being beautiful\n\nbiggest sticking point is that it's a middle ground between GUI and TUI. with a full on GUI like t3code we get rich visuals and interactions. with a full on TUI like tmux and herdr we get pure keyboard interaction and can run it from any ssh client consistently\n\nwith Rex i get neither of that. and i have to use Rex everywhere or otherwise i'm locked out of my own work. if i'm going to abandon some of the benefits of full TUI over simple ssh, i'd probably just go full GUI at that point, instead of locking my terminal sessions behind another GUI app\n\nthis also makes me question the new herdr app, because it seems to be heading in the same direction as Rex. they will both end up competing with other GUI apps without the strength of being a real terminal program\n\ni hope herdr TUI stays because that's still my favorite. perhaps turn it into a client for herdr-core so people can choose to access the same sessions from either a GUI or a TUI?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116978736071651460",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 269
+      },
+      "fetched_at": "2026-11-01T19:44:34.660Z"
+    },
+    {
+      "id": "2116868811702087944",
+      "url": "https://x.com/CalvinGrunewald/status/2116868811702087944",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "CalvinGrunewald",
+        "name": "Calvin Grunewald",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-11-01T12:23:48.000Z",
+      "sort_at": "2026-11-01T19:40:35.000Z",
+      "text": "I’ve been dealing with this problem for months. Lots of tuning in queries/etc in my harness to manage it. \n\nOtherwise, I’ve been working on a replacement to GitHub. https://pail.build.  Working on support for CI/CD right now along with self hosting. Marketing page needs a bit of work but it’s all open source and MIT License. \n\nGit/GitHub is just the wrong model for agents. Git is overly complex. GitHub bundles all these code hosting primitives together. Code hosting needs to go the way that harnesses/coding has - lots of little LEGO blocks to assemble what you want.",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2116868811702087944",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 7,
+        "quotes": 0,
+        "views": 1251
+      },
+      "fetched_at": "2026-11-01T19:44:34.660Z"
+    },
+    {
       "id": "2116770835944157243",
       "url": "https://x.com/kunchenguid/status/2116770835944157243",
       "creator": "kunchenguid",
