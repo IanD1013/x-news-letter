@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-11-02T06:19:44.341Z",
+  "generated_at": "2026-11-02T17:10:16.746Z",
   "posts": [
+    {
+      "id": "2117302474004648289",
+      "url": "https://x.com/kunchenguid/status/2117302474004648289",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-02T17:07:02.000Z",
+      "sort_at": "2026-11-02T17:07:02.000Z",
+      "text": "if you came from a repost that said i’m trying to find a different way to force kids to use AI, you’re completely misled by that person’s misinterpretation",
+      "media": [],
+      "quote": {
+        "id": "2117300941615706545",
+        "url": "https://x.com/kunchenguid/status/2117300941615706545",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-02T17:00:56.000Z",
+        "text": "finally found where all the hater replies came from\n\nyou completely misinterpreted the point, and made many others miss it too\n\nmy post never said we need to find a different way to make kids use ai. it’s pointing out that the way AI is designed today is inherently not fun for many people, and we can’t let this be the end state",
+        "media": []
+      },
+      "reply_to_id": "2116599592703918305",
+      "thread_root_id": "2116599592703918305",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0,
+        "quotes": 0,
+        "views": 74
+      },
+      "fetched_at": "2026-11-02T17:10:15.813Z"
+    },
     {
       "id": "2117112521161326914",
       "url": "https://x.com/kunchenguid/status/2117112521161326914",
@@ -3586,54 +3625,6 @@
         "views": 5179
       },
       "fetched_at": "2026-10-07T07:18:01.279Z"
-    },
-    {
-      "id": "2107548477458985363",
-      "url": "https://x.com/kunchenguid/status/2107548477458985363",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-06T19:08:08.000Z",
-      "sort_at": "2026-10-06T19:08:08.000Z",
-      "text": "hmm interesting question...\n\nwhen cost of building becomes so low, how do you prioritize? \n\ndo you even prioritize? or just build them all?",
-      "media": [],
-      "quote": {
-        "id": "2107546965009641948",
-        "url": "https://x.com/CalvinGrunewald/status/2107546965009641948",
-        "author": {
-          "screen_name": "CalvinGrunewald",
-          "name": "Calvin Grunewald",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
-        },
-        "created_at": "2026-10-06T19:02:07.000Z",
-        "text": "At previous companies (Stripe, Facebook, etc), I used the below prioritization framework to figure out what to work-on for growth (past PMF) products. Teams would brainstorm, look at customer feedback, look at data, and then generate a list of ideas (the backlog). Then, typically, the EM, PM, and TL would go through the list and do \"t-shirt\" sizing - they'd label each item with an estimated cost and estimated impact. The prioritization framework below is then used to sort the backlog.\n\nHere is the question - when the cost of building things basically goes to zero, what is the new prioritization framework? I definitely have an opinion, but curious to see what folks think.",
-        "media": [
-          {
-            "id": "2107546671928197120",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HT-CiCfWQAAx96Z.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 2662,
-            "height": 1700
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2107548477458985363",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 12,
-        "reposts": 0,
-        "likes": 24,
-        "quotes": 0,
-        "views": 2387
-      },
-      "fetched_at": "2026-10-06T20:23:55.063Z"
     }
   ]
 }
