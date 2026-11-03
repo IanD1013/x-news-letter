@@ -1,6 +1,220 @@
 {
-  "generated_at": "2026-11-02T17:10:16.746Z",
+  "generated_at": "2026-11-03T06:56:06.462Z",
   "posts": [
+    {
+      "id": "2117495844010447138",
+      "url": "https://x.com/kunchenguid/status/2117495844010447138",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-03T05:55:25.000Z",
+      "sort_at": "2026-11-03T05:55:25.000Z",
+      "text": "i’ve been trying to get rid of adversarial reviews for quite a while now, but unfortunately every time i stopped it, i would find myself simply delaying the discovery of real problems, and the later i find them the more they cost\n\nas a data point, i had measured how many real problems my adversarial reviewers actually caught, and it’s a lot.. \n\nthat said, a good adversarial review setup is necessary for the ROI to be justifiable. i think a few things are very important:\n\n1. original user intent must be explicitly collected (usually can be found in session transcripts where user inputs are) and passed to the reviewers \n\n2. there needs to be a human in the loop for ambiguous decisions. any scope change / expansion needs to escalated to the human user for decision\n\n3. reviewers need to treat complexity like a disease and actively point out simplification opportunities \n\n4. reviewers need to challenge the lack of empirical evidence and hold the implementer accountable to prove their change",
+      "media": [],
+      "quote": {
+        "id": "2053598737126347218",
+        "url": "https://x.com/kunchenguid/status/2053598737126347218",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-05-10T22:11:07.000Z",
+        "text": "sharing some real data from me using agents on real projects. all my code changes are done with either opus 4.7 or gpt 5.5\n\na whopping 68% of the changes made by agents had a mistake in it, and got saved by no-mistakes\n\nbiggest source of gaps was a change made without updating related documentation, followed by problems caught via code review\n\ni now can't imagine how i could have kept my codebases in order if i didn't have no-mistakes - they would absolutely have turned into a sloppy mess even with the best models we have today",
+        "media": [
+          {
+            "id": "2053596281575227392",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HH_W8AtawAANHCY.png?name=orig",
+            "thumbnail_url": null,
+            "width": 559,
+            "height": 544
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2117495844010447138",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 41,
+        "quotes": 0,
+        "views": 2243
+      },
+      "fetched_at": "2026-11-03T06:56:05.761Z"
+    },
+    {
+      "id": "2117484457112551433",
+      "url": "https://x.com/kunchenguid/status/2117484457112551433",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-03T05:10:10.000Z",
+      "sort_at": "2026-11-03T05:10:10.000Z",
+      "text": "first IDE fell apart, then code review became broken, CI became a bottleneck, ands merge queues stopped working. the point of failure kept moving “right”\n\nare you ready? because the next stop is production, incidents and oncall",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2117484457112551433",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 17,
+        "reposts": 7,
+        "likes": 94,
+        "quotes": 1,
+        "views": 5259
+      },
+      "fetched_at": "2026-11-03T06:56:05.761Z"
+    },
+    {
+      "id": "2117423889219465692",
+      "url": "https://x.com/kunchenguid/status/2117423889219465692",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-03T01:09:29.000Z",
+      "sort_at": "2026-11-03T01:09:29.000Z",
+      "text": "since when is it okay to flat out lie in public?\n\ninstant block",
+      "media": [],
+      "quote": {
+        "id": "2117287037170778544",
+        "url": "https://x.com/motion_so/status/2117287037170778544",
+        "author": {
+          "screen_name": "motion_so",
+          "name": "Motion",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2115353853638094848/3xHznY_a_200x200.jpg"
+        },
+        "created_at": "2026-11-02T16:05:41.000Z",
+        "text": "Introducing Fable 5.5 for launch videos.\n\n-> use Fable 5.5 with the Motion harness\n-> go from idea to complex motion design \n-> everything is represented as editable code\n-> export directly to After Effects or Premiere Pro\n\nTry the Motion MCP with Fable 5.5 today! 👇",
+        "media": [
+          {
+            "id": "2117286732584693760",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2117286732584693760/vid/avc1/1920x1080/muFMJd9dqhlRoTRS.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2117286732584693760/img/ZRSkULBb9AjT-3mj.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 79.658
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2117423889219465692",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 47,
+        "quotes": 0,
+        "views": 5317
+      },
+      "fetched_at": "2026-11-03T06:56:05.761Z"
+    },
+    {
+      "id": "2117389141520650582",
+      "url": "https://x.com/kunchenguid/status/2117389141520650582",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-02T22:51:25.000Z",
+      "sort_at": "2026-11-02T22:51:25.000Z",
+      "text": "def not a small thing - fast and cost efficient ci/cd is a big deal especially as our velocity ramps up, and it's not easy for full stack cross platform products\n\nif you are on a team that has a slow pipeline, getting it optimized is a very impactful thing you can do",
+      "media": [],
+      "quote": {
+        "id": "2117150650274578440",
+        "url": "https://x.com/theo/status/2117150650274578440",
+        "author": {
+          "screen_name": "theo",
+          "name": "Theo - t3.gg",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2106484435382333440/vXOVE8EX_200x200.jpg"
+        },
+        "created_at": "2026-11-02T07:03:44.000Z",
+        "text": "It's a small thing, but do you guys know how proud I am that we've maintained sub-10 minute release times?",
+        "media": [
+          {
+            "id": "2117150528471998464",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWGhMEGaoAA4VLY.png?name=orig",
+            "thumbnail_url": null,
+            "width": 374,
+            "height": 178
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2117389141520650582",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 2,
+        "reposts": 3,
+        "likes": 71,
+        "quotes": 0,
+        "views": 5173
+      },
+      "fetched_at": "2026-11-03T06:56:05.761Z"
+    },
+    {
+      "id": "2117327604336464244",
+      "url": "https://x.com/Saltan_PK/status/2117327604336464244",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "Saltan_PK",
+        "name": "Said",
+        "avatar_url": "https://pbs.twimg.com/profile_images/2101113993054040065/Hbzs7UfP_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-11-02T18:46:53.000Z",
+      "sort_at": "2026-11-02T22:51:24.000Z",
+      "text": "For 9 weeks, I mostly talked to one AI chat.\n⠀\nIn that time, it finished 560+ tasks and merged 365 pull requests across my projects.\n⠀\nYesterday, at Builder Sundays hosted at @Shopify's Ottawa office, I showed how. The tool is @myfirstmate, a free, open-source project by @kunchenguid, a former L8 engineer at Atlassian.\n⠀\nKun built it because juggling parallel agent sessions was killing his focus. Every switch meant remembering what that session was about and what to do next. He didn't want a smarter workflow. He wanted the calm back, and the confidence that nothing falls through the cracks when you look away.\n⠀\nHow it works: you are the captain, one agent acts as your firstmate, and a crew of agents does the work. Nothing goes live without your yes.\n⠀\n→ Orchestration. I only talk to firstmate. It breaks the work into separate tasks, starts a dedicated agent session for each one, and runs them in parallel. It keeps an eye on every session, handles the small stuff itself, and only comes to me when a decision actually needs me. When a task is done, it brings the result back for my review and approval.\n⠀\n→ Memory. It keeps my projects, rules and in-flight work. /bearings is my morning brief, /stow saves what it learned. I close the laptop and pick up tomorrow where I left off.\n⠀\n→ It improves itself. If something isn't working, I ask firstmate, and it fixes itself.\n⠀\nThe result: Partexia went live on iOS and Android, and CrewTower shipped 23 releases.\n\nThank you Kun Chen for building this and sharing it with everyone.",
+      "media": [
+        {
+          "id": "2117326956983099392",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWJBpjhWIAA2b--.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2000,
+          "height": 1126
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2117327604336464244",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 4,
+        "likes": 21,
+        "quotes": 0,
+        "views": 2021
+      },
+      "fetched_at": "2026-11-03T06:56:05.761Z"
+    },
     {
       "id": "2117302474004648289",
       "url": "https://x.com/kunchenguid/status/2117302474004648289",
@@ -3445,186 +3659,6 @@
         "views": 23899
       },
       "fetched_at": "2026-10-08T02:01:27.625Z"
-    },
-    {
-      "id": "2107956274944229628",
-      "url": "https://x.com/kunchenguid/status/2107956274944229628",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-07T22:08:34.000Z",
-      "sort_at": "2026-10-07T22:08:34.000Z",
-      "text": "@ClaudeDevs wait.. this is super confusing\n\nis “claude -p” and agents sdk banned from using subscription quota again now??",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2107956274944229628",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 9,
-        "reposts": 2,
-        "likes": 56,
-        "quotes": 0,
-        "views": 10069
-      },
-      "fetched_at": "2026-10-08T02:01:27.625Z"
-    },
-    {
-      "id": "2107930592340066621",
-      "url": "https://x.com/kunchenguid/status/2107930592340066621",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-07T20:26:31.000Z",
-      "sort_at": "2026-10-07T20:26:31.000Z",
-      "text": "good answer to the prioritization question in the age of AI\n\nwhen implementation cost almost goes to zero, attention is all you need!",
-      "media": [],
-      "quote": {
-        "id": "2107927475007152420",
-        "url": "https://x.com/CalvinGrunewald/status/2107927475007152420",
-        "author": {
-          "screen_name": "CalvinGrunewald",
-          "name": "Calvin Grunewald",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
-        },
-        "created_at": "2026-10-07T20:14:08.000Z",
-        "text": "There were some really good comments on this post! The ones closest to my mental model all focused on the role people still need to play when working with LLMs. There were also some good thoughts on how to define cost/impact.\n\nSo here is how I think about prioritization with agents. Instead of the prioritization orienting around features or things to build, the prioritization framework must orient around the new scarce resource: my attention.\n\nThis is how I work now. In a world where I can build anything, I need to be super intentional with my attention. And so given a particular item of work, I think about how much attention it needs and then choose the right tool for the job. More on the tools later!\n\nThe below diagram calls out this idea of the loop. I mean this in the abstract sense - a software development lifecycle process - with observable points. When a Human is the loop, you are managing the SDLC yourself. When you have a human around the loop, you are monitoring those observable points of the SDLC yourself. When an agent is around the loop, you've built a harness or some type of adversarial review system to monitor the points of the SDLC. And finally, you can of course just ask the agent to do it all (there is no SDLC - it's just the agent).\n\nI like this framework because it flips the focus on how to optimize workflows - you go from optimizing how you build to what you pay attention to.",
-        "media": [
-          {
-            "id": "2107926674159357952",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUDcJFHW0AAh5Iy.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 2754,
-            "height": 1638
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2107930592340066621",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 1,
-        "likes": 24,
-        "quotes": 0,
-        "views": 1344
-      },
-      "fetched_at": "2026-10-07T21:20:55.748Z"
-    },
-    {
-      "id": "2107889728083353717",
-      "url": "https://x.com/kunchenguid/status/2107889728083353717",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-07T17:44:08.000Z",
-      "sort_at": "2026-10-07T17:44:08.000Z",
-      "text": "looking at things i’ve asked my agent to do\n\nif it was a human employee, they would have smashed their keyboard and splashed their coffee at my face",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2107889728083353717",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 14,
-        "reposts": 2,
-        "likes": 66,
-        "quotes": 0,
-        "views": 3898
-      },
-      "fetched_at": "2026-10-07T21:20:55.748Z"
-    },
-    {
-      "id": "2107868549792641099",
-      "url": "https://x.com/kunchenguid/status/2107868549792641099",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-07T16:19:59.000Z",
-      "sort_at": "2026-10-07T16:19:59.000Z",
-      "text": "banning AI assisted contributions to your open source projects is like banning electronics in your house\n\none would do it either for the romance of living like a caveman, or that they suck at learning the new technology",
-      "media": [],
-      "quote": {
-        "id": "2107841437635076502",
-        "url": "https://x.com/LundukeJournal/status/2107841437635076502",
-        "author": {
-          "screen_name": "LundukeJournal",
-          "name": "The Lunduke Journal",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1784836672175120384/XH6pIfYL_200x200.jpg"
-        },
-        "created_at": "2026-10-07T14:32:15.000Z",
-        "text": "Linux hardware vendor, System76, has banned all AI generated contributions to their Cosmic Desktop Environment (part of the Pop!_OS Linux distribution).\n\nAll contributors must agree to the following when submitting any changes:\n\n“I have not included any LLM (also known as AI) generated content in this PR, including code, comments, and descriptions.”",
-        "media": [
-          {
-            "id": "2107841434246123520",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUCOndsXEAAP8QX.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1836,
-            "height": 1054
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2107868549792641099",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 9,
-        "reposts": 4,
-        "likes": 77,
-        "quotes": 0,
-        "views": 3670
-      },
-      "fetched_at": "2026-10-07T21:20:55.748Z"
-    },
-    {
-      "id": "2107672615171355097",
-      "url": "https://x.com/kunchenguid/status/2107672615171355097",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-07T03:21:24.000Z",
-      "sort_at": "2026-10-07T03:21:24.000Z",
-      "text": "tokenmaxxing is dead\n\nlong live cpumaxxing",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2107672615171355097",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 8,
-        "reposts": 2,
-        "likes": 91,
-        "quotes": 0,
-        "views": 5179
-      },
-      "fetched_at": "2026-10-07T07:18:01.279Z"
     }
   ]
 }
