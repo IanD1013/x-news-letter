@@ -2,6 +2,34 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2118411953958010957",
+      "url": "https://x.com/kunchenguid/status/2118411953958010957",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-05T18:35:42.000Z",
+      "sort_at": "2026-11-05T18:35:42.000Z",
+      "text": "before writing a lot of code with agents, first ask your agent to create a lint rule that caps how many lines a single code file can have. i typically go with 1000\n\nthis is the easiest win that has a lasting impact on the health of your codebase\n\nand do it as early as possible in your project, because unwinding it is costly later on",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2118411953958010957",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 31,
+        "reposts": 2,
+        "likes": 227,
+        "quotes": 2,
+        "views": 10210
+      },
+      "fetched_at": "2026-11-05T22:04:28.975Z"
+    },
+    {
       "id": "2118226962972016922",
       "url": "https://x.com/kunchenguid/status/2118226962972016922",
       "creator": "kunchenguid",
