@@ -1,6 +1,127 @@
 {
-  "generated_at": "2026-11-04T01:27:11.629Z",
+  "generated_at": "2026-11-05T15:33:56.293Z",
   "posts": [
+    {
+      "id": "2118226962972016922",
+      "url": "https://x.com/kunchenguid/status/2118226962972016922",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-05T06:20:37.000Z",
+      "sort_at": "2026-11-05T06:20:37.000Z",
+      "text": "software is dead\n\nwow forever killed all the developers",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2118226962972016922",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 36,
+        "reposts": 5,
+        "likes": 195,
+        "quotes": 4,
+        "views": 19398
+      },
+      "fetched_at": "2026-11-05T15:33:55.259Z"
+    },
+    {
+      "id": "2118116568534265985",
+      "url": "https://x.com/kunchenguid/status/2118116568534265985",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-04T23:01:57.000Z",
+      "sort_at": "2026-11-04T23:01:57.000Z",
+      "text": "it's time",
+      "media": [
+        {
+          "id": "2118116543817281536",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWUPxjsbcAAEgiL.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1269,
+          "height": 712
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2118116568534265985",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 13,
+        "reposts": 0,
+        "likes": 103,
+        "quotes": 0,
+        "views": 5856
+      },
+      "fetched_at": "2026-11-05T15:33:55.259Z"
+    },
+    {
+      "id": "2118080479824126098",
+      "url": "https://x.com/kunchenguid/status/2118080479824126098",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-04T20:38:33.000Z",
+      "sort_at": "2026-11-04T20:38:33.000Z",
+      "text": "my open source projects collectively crossed 30k+ stars on github, going from almost zero just a few months ago! 🎉\n\nreflecting on the journey, here are some learnings about growing and maintaining open source projects:\n\n1. make videos sharing your OSS projects\n\nvideos, not tweets. this is probably my most important tip\n\ni had a few viral tweets introducing my OSS projects that got lucky and had hundreds of thousands of views, but what brought in way more serious users and contributors was my youtube videos\n\ngood videos take a lot more effort to make, but it gives people a much more direct understanding of how your project works and how it delivers value. my hero project firstmate https://github.com/kunchenguid/firstmate grew largely due to my video content\n\nmake some videos. and make some more\n\n2. use open source as a super power\n\ni can't overstate how much better the tools got because of open source contributions from others. people bring great ideas, and test + fix the product in all kinds of edge cases that i can't possibly discover\n\nin a way, an OSS product can guide itself towards PMF, because the community would collectively steer it towards the right direction\n\nnow that even non-developers can participate in contributing to OSS, this super power is becoming even stronger\n\n3. set a minimum bar on contribution quality\n\nthe super power can also be a double edged sword here. especially with AI which allowed a lot more people to contribute but also lowered the bar. if left unchecked, you get a lot of noise\n\nsome projects outright disabled all PRs, while some others refuse to take anything done with AI. neither of which is the right approach IMO\n\nmy solution has been to raise the minimum bar by requiring all contributions to be raised through no-mistakes. it enforces a level of rigor, and slightly increases the cost to contribute so low quality noise would often shy away\n\ni have a github action for enforcing this - https://github.com/kunchenguid/no-mistakes/tree/main/.github/actions/require-no-mistakes which you can use for your projects too\n\n4. automate as much maintenance as possible\n\nif you've contributed to my repos, you might have seen some of my automation at work. here's an example - https://github.com/kunchenguid/runner-up/pull/52 \n\ni receive dozens, sometimes hundreds of incoming issues + PRs every day across my repos - i can't imagine how i could have kept all these projects moving if i hadn't leveraged agents to automate the triage work\n\ni run the automation in grok bot with my firstmate bot there https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r - it can set up a different bot per each repo, and creates the routines to triage incoming issues and PRs using cursor cloud agents according to my rules, yet allows me to talk to just the firstmate about everything\n\nan important pre-requisite to doing that is a good documented vision for your project, which i write using https://github.com/kunchenguid/vision - with a clearly written vision statement, your triage agents can automatically rule out changes that don't align, and focus on the ones that would further the project towards the direction you want",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2118080479824126098",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 39,
+        "reposts": 11,
+        "likes": 228,
+        "quotes": 1,
+        "views": 9069
+      },
+      "fetched_at": "2026-11-05T15:33:55.259Z"
+    },
+    {
+      "id": "2117926693239246991",
+      "url": "https://x.com/kunchenguid/status/2117926693239246991",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-04T10:27:27.000Z",
+      "sort_at": "2026-11-04T10:27:27.000Z",
+      "text": "working with AI is fundamentally asking someone else to produce the work you want\n\nwe spend a lot of time communicating context, goals, giving feedback, setting rewards, shaping workflows and SOPs. it’s a managerial experience\n\ni’ve always felt a bit sad about that, because it took away the experience and joy of being a pure craftsman that produces great work directly\n\nchopin can’t be chopin by hiring a team and telling his employees to compose for him. these masterpieces had to be created by a craftsman directly, and i think many of us humans deep down seek that mastery and joy\n\nwhen the world gets filled with more and more agents and robots, every human’s job becomes an agent manager\n\nare we sure that’s what we want?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2117926693239246991",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 92,
+        "reposts": 8,
+        "likes": 321,
+        "quotes": 4,
+        "views": 17278
+      },
+      "fetched_at": "2026-11-05T15:33:55.259Z"
+    },
     {
       "id": "2117756472432148784",
       "url": "https://x.com/kunchenguid/status/2117756472432148784",
@@ -3477,167 +3598,6 @@
         "views": 2296
       },
       "fetched_at": "2026-10-09T02:15:23.351Z"
-    },
-    {
-      "id": "2108244512808243470",
-      "url": "https://x.com/kunchenguid/status/2108244512808243470",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-08T17:13:55.000Z",
-      "sort_at": "2026-10-08T17:13:55.000Z",
-      "text": "woke up to a hot discussion on testing :) many good points raised, but also a lot of confusion, both from people not reading the post and misinterpretations of it\n\nlet me dive into it deeper here:\n\n1. \"tests are for catching regression\"\n\nfirst, that's false. tests were very helpful for humans even in the first pass development. that's why we used to do TDD and it was genuinely useful for many years. seeing agents not inheriting this trait is already pretty interesting by itself to deserve digging deeper\n\nsecondly, the eval covered regression testing already. in the random sampled 44 subset, the existing test suite was disabled wholesale, and the agents caused no more regression than otherwise\n\nit may sound counter-intuitive, but that's why sometimes we need to be willing to challenge previous assumptions, and think from first principles\n\n2. \"but bun did the whole rewrite largely because they had tests\"\n\nyes! that actually gets to the key point. bun's test suite was a massive asset carefully curated by humans to represent the desired behavior of the system\n\nthis eval is specifically about tests written by LLM's default behavior without human input. when you ask your agent to make a change, it will most likely write some tests without you asking. these are the tests i'm talking about\n\nmany project owners started being suspicious when they reviewed some of the tests. the point of my post here is to bring some quantified data so we aren't guessing\n\n3. \"LLMs write bad tests because your codebase is bad\"\n\ndeepswe uses many good repos like fastapi. are you sure your codebases will be better maintained than fastapi?\n\nthat said, there's some truth to it - the structure and patterns in your codebase can influence how agents write tests for you. more to it later, but that's orthogonal to the point, because this is another form of human guidance\n\n4. \"but i'll do mutation testing and X, Y, Z to fix it\"\n\nsorry, you can't. mutation testing helps steer your test cases to be sensitive about changes, but the core problem is they can't distinguish intended vs unintended changes\n\nwhen a test fails, and the test was previously written by your agents when no one asked for it, how do you know whether it's the test that's wrong, or the code breaking it? the agents can modify either the code or the test to fix the failure - which way does it go?\n\nto judge that, there has to be another more trusted source of truth for what the desired behavior really is. the tests are just an intermediate representation of what the truth may be, but when it's written by LLMs autonomously, they aren't any more trusted than your implementation code\n\nif your source of truth is simply tests written by agents that no one asked for or certified, you are in a pretty deep hole\n\nfor next step, i'm still waiting for my eval about e2e tests to finish. once i have that, i'll write more about concrete recommendations! stay tuned",
-      "media": [],
-      "quote": {
-        "id": "2108030810691629403",
-        "url": "https://x.com/kunchenguid/status/2108030810691629403",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-10-08T03:04:45.000Z",
-        "text": "ok it's official... AI-written unit tests and integration tests are empirically proven to be unhelpful. you should tell your agents to stop writing tests by themselves\n\non the deepswe eval set, banning sonnet 5.5 high from writing any tests actually resulted in slightly higher success rate (non stat-sig), with less time and token spent (stat-sig). this is pretty hard empirical evidence\n\nacross the tests that were written by the \"tests allowed\" baseline arm, 65% of them were unit tests, 35% were integration tests, neither bucket resulted in any improvement compared to not writing any tests at all\n\ni also picked a random sample of 44 tasks subset where i completely disabled executing even existing tests - it also did not affect success rate at all\n\ni spot checked many tests written in the baseline arm, and my intuition is that most tests are simply a repetition of the implementation\n\nagent-written tests do not add any value because both the implementation and the tests were simply the agent's interpretation of our intent. the tests aren't any more accurate than the implementation itself\n\ni suspect we can still extract some value from unit tests and integration tests if we describe them ourselves when we believe we can articulate our intent better through test cases than through requirements. but i have not proven this yet\n\nalso worth noting, during deepswe eval the agent wrote almost no e2e tests (only 17, compared to 3000+ unit/integration tests written). so this analysis does not prove nor disprove the value of e2e tests - i will do another eval specifically for that",
-        "media": [
-          {
-            "id": "2108025759734599680",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUE2QnpakAAmtGc.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 2160,
-            "height": 2160
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2108244512808243470",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 30,
-        "reposts": 15,
-        "likes": 219,
-        "quotes": 9,
-        "views": 15637
-      },
-      "fetched_at": "2026-10-09T02:15:23.351Z"
-    },
-    {
-      "id": "2108055737188671760",
-      "url": "https://x.com/kunchenguid/status/2108055737188671760",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-08T04:43:48.000Z",
-      "sort_at": "2026-10-08T04:43:48.000Z",
-      "text": "some people confused the conclusion as “don’t write any tests” - no that’s not what this post is saying\n\n1. the point is - tests written autonomously by agents do not prove to have value. but i explicitly called out human guidance can change that\n\n2. also explicitly stated e2e tests aren’t part of this analysis yet. tests written in this eval were almost exclusively unit and integration tests",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2108030812776255567",
-      "thread_root_id": "2108030810691629403",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 4,
-        "reposts": 5,
-        "likes": 54,
-        "quotes": 1,
-        "views": 7301
-      },
-      "fetched_at": "2026-10-08T09:06:11.983Z"
-    },
-    {
-      "id": "2108030812776255567",
-      "url": "https://x.com/kunchenguid/status/2108030812776255567",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-08T03:04:45.000Z",
-      "sort_at": "2026-10-08T03:04:45.000Z",
-      "text": "if you are thinking \"oh what if we do TDD\", i have news for you - https://x.com/kunchenguid/status/2064196342248030352?s=20",
-      "media": [],
-      "quote": {
-        "id": "2064196342248030352",
-        "url": "https://x.com/kunchenguid/status/2064196342248030352",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-06-09T04:02:13.000Z",
-        "text": "oh gosh, this is kind of a big deal\n\nDO NOT ASK YOUR AGENTS TO DO TDD!\n\ni now have empirical evidence that Test Driven Development is harmful for coding agents\n\nwhat other popular skills do you want me to debunk?\n\ndetails about the evaluation below 👇",
-        "media": [
-          {
-            "id": "2064187778120957952",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HKV32QCaQAAw3MT.png?name=orig",
-            "thumbnail_url": null,
-            "width": 1080,
-            "height": 1080
-          }
-        ]
-      },
-      "reply_to_id": "2108030810691629403",
-      "thread_root_id": "2108030810691629403",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 0,
-        "likes": 39,
-        "quotes": 0,
-        "views": 7463
-      },
-      "fetched_at": "2026-10-08T09:06:11.983Z"
-    },
-    {
-      "id": "2108030810691629403",
-      "url": "https://x.com/kunchenguid/status/2108030810691629403",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-08T03:04:45.000Z",
-      "sort_at": "2026-10-08T03:04:45.000Z",
-      "text": "ok it's official... AI-written unit tests and integration tests are empirically proven to be unhelpful. you should tell your agents to stop writing tests by themselves\n\non the deepswe eval set, banning sonnet 5.5 high from writing any tests actually resulted in slightly higher success rate (non stat-sig), with less time and token spent (stat-sig). this is pretty hard empirical evidence\n\nacross the tests that were written by the \"tests allowed\" baseline arm, 65% of them were unit tests, 35% were integration tests, neither bucket resulted in any improvement compared to not writing any tests at all\n\ni also picked a random sample of 44 tasks subset where i completely disabled executing even existing tests - it also did not affect success rate at all\n\ni spot checked many tests written in the baseline arm, and my intuition is that most tests are simply a repetition of the implementation\n\nagent-written tests do not add any value because both the implementation and the tests were simply the agent's interpretation of our intent. the tests aren't any more accurate than the implementation itself\n\ni suspect we can still extract some value from unit tests and integration tests if we describe them ourselves when we believe we can articulate our intent better through test cases than through requirements. but i have not proven this yet\n\nalso worth noting, during deepswe eval the agent wrote almost no e2e tests (only 17, compared to 3000+ unit/integration tests written). so this analysis does not prove nor disprove the value of e2e tests - i will do another eval specifically for that",
-      "media": [
-        {
-          "id": "2108025759734599680",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HUE2QnpakAAmtGc.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 2160,
-          "height": 2160
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2108030810691629403",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 205,
-        "reposts": 86,
-        "likes": 1277,
-        "quotes": 60,
-        "views": 86108
-      },
-      "fetched_at": "2026-10-08T09:06:11.983Z"
     }
   ]
 }
