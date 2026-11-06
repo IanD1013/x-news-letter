@@ -2,6 +2,193 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2118784380906962957",
+      "url": "https://x.com/kunchenguid/status/2118784380906962957",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T19:15:36.000Z",
+      "sort_at": "2026-11-06T19:15:36.000Z",
+      "text": "my stallions",
+      "media": [
+        {
+          "id": "2118784377337597952",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdvKlba0AAVHY4.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2118784380906962957",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 18,
+        "reposts": 1,
+        "likes": 129,
+        "quotes": 0,
+        "views": 4574
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
+      "id": "2118772148731064484",
+      "url": "https://x.com/kunchenguid/status/2118772148731064484",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T18:26:59.000Z",
+      "sort_at": "2026-11-06T18:26:59.000Z",
+      "text": "this was the evidence for the rug pull btw. screenshotted in case they delete the post\n\nhttps://x.com/x/status/1821362532948320490?a=qQmpmT1nDbZYeA6IZZs&s=46",
+      "media": [
+        {
+          "id": "2118772145287479296",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdkClfaQAAky1a.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1092
+        }
+      ],
+      "quote": {
+        "id": "1821362532948320490",
+        "url": "https://x.com/X/status/1821362532948320490",
+        "author": {
+          "screen_name": "X",
+          "name": "X",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_200x200.jpg"
+        },
+        "created_at": "2024-08-08T01:47:21.000Z",
+        "text": "no more ads, anywhere on X\n\nPremium+ is now *fully* ad free\n\nsign up via \nhttps://x.com/i/premium_sign_up?tier=premium_plus",
+        "media": []
+      },
+      "reply_to_id": "2118763550869229767",
+      "thread_root_id": "2118763550869229767",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 8,
+        "quotes": 0,
+        "views": 955
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
+      "id": "2118766197781238063",
+      "url": "https://x.com/kunchenguid/status/2118766197781238063",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T18:03:20.000Z",
+      "sort_at": "2026-11-06T18:03:20.000Z",
+      "text": "@grok when did X rug pull on no-ads and how’s this even legal?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2118765420123734297",
+      "thread_root_id": "2118763550869229767",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 8,
+        "quotes": 0,
+        "views": 3838
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
+      "id": "2118765420123734297",
+      "url": "https://x.com/kunchenguid/status/2118765420123734297",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T18:00:15.000Z",
+      "sort_at": "2026-11-06T18:00:15.000Z",
+      "text": "lol and it just showed me the same ad right under this post just to taunt me",
+      "media": [
+        {
+          "id": "2118765416785043456",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdd673a4AA9uS_.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "quote": null,
+      "reply_to_id": "2118763550869229767",
+      "thread_root_id": "2118763550869229767",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 15,
+        "quotes": 0,
+        "views": 4396
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
+      "id": "2118763550869229767",
+      "url": "https://x.com/kunchenguid/status/2118763550869229767",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T17:52:49.000Z",
+      "sort_at": "2026-11-06T17:52:49.000Z",
+      "text": "WTF?? \n\ndid X just rug-pull on the no-ads subscription feature? \n\ni pay the $200/month subscription and it’s suddenly ads like this everywhere\n\na few weeks after the new head of product joining and now this??",
+      "media": [
+        {
+          "id": "2118763548193239040",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdcOK0asAAxI1J.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1325
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2118763550869229767",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 14,
+        "reposts": 2,
+        "likes": 34,
+        "quotes": 2,
+        "views": 7635
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
       "id": "2118411953958010957",
       "url": "https://x.com/kunchenguid/status/2118411953958010957",
       "creator": "kunchenguid",

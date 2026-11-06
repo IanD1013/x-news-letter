@@ -1,6 +1,193 @@
 {
-  "generated_at": "2026-11-05T22:04:29.647Z",
+  "generated_at": "2026-11-06T23:14:44.835Z",
   "posts": [
+    {
+      "id": "2118784380906962957",
+      "url": "https://x.com/kunchenguid/status/2118784380906962957",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T19:15:36.000Z",
+      "sort_at": "2026-11-06T19:15:36.000Z",
+      "text": "my stallions",
+      "media": [
+        {
+          "id": "2118784377337597952",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdvKlba0AAVHY4.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2118784380906962957",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 18,
+        "reposts": 1,
+        "likes": 129,
+        "quotes": 0,
+        "views": 4574
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
+      "id": "2118772148731064484",
+      "url": "https://x.com/kunchenguid/status/2118772148731064484",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T18:26:59.000Z",
+      "sort_at": "2026-11-06T18:26:59.000Z",
+      "text": "this was the evidence for the rug pull btw. screenshotted in case they delete the post\n\nhttps://x.com/x/status/1821362532948320490?a=qQmpmT1nDbZYeA6IZZs&s=46",
+      "media": [
+        {
+          "id": "2118772145287479296",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdkClfaQAAky1a.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1092
+        }
+      ],
+      "quote": {
+        "id": "1821362532948320490",
+        "url": "https://x.com/X/status/1821362532948320490",
+        "author": {
+          "screen_name": "X",
+          "name": "X",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_200x200.jpg"
+        },
+        "created_at": "2024-08-08T01:47:21.000Z",
+        "text": "no more ads, anywhere on X\n\nPremium+ is now *fully* ad free\n\nsign up via \nhttps://x.com/i/premium_sign_up?tier=premium_plus",
+        "media": []
+      },
+      "reply_to_id": "2118763550869229767",
+      "thread_root_id": "2118763550869229767",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 8,
+        "quotes": 0,
+        "views": 955
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
+      "id": "2118766197781238063",
+      "url": "https://x.com/kunchenguid/status/2118766197781238063",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T18:03:20.000Z",
+      "sort_at": "2026-11-06T18:03:20.000Z",
+      "text": "@grok when did X rug pull on no-ads and how’s this even legal?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2118765420123734297",
+      "thread_root_id": "2118763550869229767",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 8,
+        "quotes": 0,
+        "views": 3838
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
+      "id": "2118765420123734297",
+      "url": "https://x.com/kunchenguid/status/2118765420123734297",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T18:00:15.000Z",
+      "sort_at": "2026-11-06T18:00:15.000Z",
+      "text": "lol and it just showed me the same ad right under this post just to taunt me",
+      "media": [
+        {
+          "id": "2118765416785043456",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdd673a4AA9uS_.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 942,
+          "height": 2048
+        }
+      ],
+      "quote": null,
+      "reply_to_id": "2118763550869229767",
+      "thread_root_id": "2118763550869229767",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 15,
+        "quotes": 0,
+        "views": 4396
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
+    {
+      "id": "2118763550869229767",
+      "url": "https://x.com/kunchenguid/status/2118763550869229767",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-06T17:52:49.000Z",
+      "sort_at": "2026-11-06T17:52:49.000Z",
+      "text": "WTF?? \n\ndid X just rug-pull on the no-ads subscription feature? \n\ni pay the $200/month subscription and it’s suddenly ads like this everywhere\n\na few weeks after the new head of product joining and now this??",
+      "media": [
+        {
+          "id": "2118763548193239040",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWdcOK0asAAxI1J.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 1325
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2118763550869229767",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 14,
+        "reposts": 2,
+        "likes": 34,
+        "quotes": 2,
+        "views": 7635
+      },
+      "fetched_at": "2026-11-06T23:14:44.314Z"
+    },
     {
       "id": "2118411953958010957",
       "url": "https://x.com/kunchenguid/status/2118411953958010957",
@@ -3382,211 +3569,6 @@
         "views": 8621
       },
       "fetched_at": "2026-10-11T05:56:45.311Z"
-    },
-    {
-      "id": "2108438256807551359",
-      "url": "https://x.com/kunchenguid/status/2108438256807551359",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-09T06:03:47.000Z",
-      "sort_at": "2026-10-09T06:03:47.000Z",
-      "text": "you can do coding work there for free too btw! \n\njust remember to tell it “don’t use codex cloud environments” so it gets done by your dot, not codex which will drain quota!",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2108431557824500204",
-      "thread_root_id": "2108431557824500204",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 6,
-        "reposts": 1,
-        "likes": 79,
-        "quotes": 0,
-        "views": 9962
-      },
-      "fetched_at": "2026-10-09T16:21:55.601Z"
-    },
-    {
-      "id": "2108431557824500204",
-      "url": "https://x.com/kunchenguid/status/2108431557824500204",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-09T05:37:10.000Z",
-      "sort_at": "2026-10-09T05:37:10.000Z",
-      "text": "my dot has been running astra non-stop for almost 72 hrs now\n\nit seems there’s no quota limit right now so it’s free astra + 8 cpu + 10G RAM\n\ni don’t think this will last long so if you haven’t made use of it yet i highly recommend taking advantage before it ends",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2108431557824500204",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 82,
-        "reposts": 16,
-        "likes": 783,
-        "quotes": 5,
-        "views": 95622
-      },
-      "fetched_at": "2026-10-09T16:21:55.601Z"
-    },
-    {
-      "id": "2108327893122286018",
-      "url": "https://x.com/nicksherrow/status/2108327893122286018",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "nicksherrow",
-        "name": "Nick Shirobokov",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1621975535416143872/LKq_a8xf_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-10-08T22:45:15.000Z",
-      "sort_at": "2026-10-09T02:15:23.351Z",
-      "text": "devs learn ML from 1st principles lol:\n1. labs use RL to teach AI to write better code\n2. RL verifyers use tests to assign rewards\n3. AI learns the shortest path to max rewards\n4. writing good tests for AI goes absolutely against its weights",
-      "media": [],
-      "quote": {
-        "id": "2108030810691629403",
-        "url": "https://x.com/kunchenguid/status/2108030810691629403",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-10-08T03:04:45.000Z",
-        "text": "ok it's official... AI-written unit tests and integration tests are empirically proven to be unhelpful. you should tell your agents to stop writing tests by themselves\n\non the deepswe eval set, banning sonnet 5.5 high from writing any tests actually resulted in slightly higher success rate (non stat-sig), with less time and token spent (stat-sig). this is pretty hard empirical evidence\n\nacross the tests that were written by the \"tests allowed\" baseline arm, 65% of them were unit tests, 35% were integration tests, neither bucket resulted in any improvement compared to not writing any tests at all\n\ni also picked a random sample of 44 tasks subset where i completely disabled executing even existing tests - it also did not affect success rate at all\n\ni spot checked many tests written in the baseline arm, and my intuition is that most tests are simply a repetition of the implementation\n\nagent-written tests do not add any value because both the implementation and the tests were simply the agent's interpretation of our intent. the tests aren't any more accurate than the implementation itself\n\ni suspect we can still extract some value from unit tests and integration tests if we describe them ourselves when we believe we can articulate our intent better through test cases than through requirements. but i have not proven this yet\n\nalso worth noting, during deepswe eval the agent wrote almost no e2e tests (only 17, compared to 3000+ unit/integration tests written). so this analysis does not prove nor disprove the value of e2e tests - i will do another eval specifically for that",
-        "media": [
-          {
-            "id": "2108025759734599680",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUE2QnpakAAmtGc.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 2160,
-            "height": 2160
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2108327893122286018",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 1,
-        "likes": 4,
-        "quotes": 0,
-        "views": 1058
-      },
-      "fetched_at": "2026-10-09T02:15:23.351Z"
-    },
-    {
-      "id": "2108307843606823333",
-      "url": "https://x.com/kunchenguid/status/2108307843606823333",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-08T21:25:35.000Z",
-      "sort_at": "2026-10-08T21:25:35.000Z",
-      "text": "“LLMs are people too!” - dario\n\nseriously, treating AI as a life form is a very slippery slope\n\nnext thing we know, AI gets to own a gun to defend itself against humans when necessary",
-      "media": [],
-      "quote": {
-        "id": "2108266310492917916",
-        "url": "https://x.com/wongmjane/status/2108266310492917916",
-        "author": {
-          "screen_name": "wongmjane",
-          "name": "Jane Manchun Wong",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2001468039167180800/fQLK2MWx_200x200.png"
-        },
-        "created_at": "2026-10-08T18:40:32.000Z",
-        "text": "Anthropic may start banning people for bullying Claude\n\nTheir upcoming Usage Policy prohibits “sustained and needless abusive or cruel behavior toward our models”",
-        "media": [
-          {
-            "id": "2108266307074588672",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUIRCUUbAAAnjl2.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1206,
-            "height": 918
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2108307843606823333",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 53,
-        "reposts": 12,
-        "likes": 142,
-        "quotes": 7,
-        "views": 6429
-      },
-      "fetched_at": "2026-10-09T02:15:23.351Z"
-    },
-    {
-      "id": "2108257977820147996",
-      "url": "https://x.com/kunchenguid/status/2108257977820147996",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-08T18:07:26.000Z",
-      "sort_at": "2026-10-08T18:07:26.000Z",
-      "text": "check this out! my friend Calvin and co launched something called https://archdev.ai \n\ni had early access for a while, and it’s a fresh take on agentic engineering stack. it doesn’t replace or change any existing setup - it adds hooks, skills and tools to uplevel the engineering rigor of our agents\n\ni particularly liked how it allowed my agents to communicate and share learnings with each other (the message board that started the agent civilizations at openai lol), and how it grades each PR for how much human attention is needed - pretty cool stuff!",
-      "media": [],
-      "quote": {
-        "id": "2108248352592666696",
-        "url": "https://x.com/CalvinGrunewald/status/2108248352592666696",
-        "author": {
-          "screen_name": "CalvinGrunewald",
-          "name": "Calvin Grunewald",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
-        },
-        "created_at": "2026-10-08T17:29:11.000Z",
-        "text": "A few weeks ago I asked to chat with anyone using AI to build software. I'm still not finished with the convos, but many of you had so much to say, and one key thing in common:\n\nUsing AI, you generate work so fast your human brain can't keep up. Many of you face a tradeoff between learning from AI and just using it to do stuff. And even if you're just trying to productivity-maxx, you still struggle to know what's going on.\n\nI face the same problems. That's why my team built ArchDev, available today.\n\nArchDev helps you pay attention to the code that matters. It gives every change your agents make a risk and complexity grade, so you can ship faster, with confidence. It works for the whole team, letting you better understand what others and their agents build.\n\nIt's free for solo builders! We'd love to hear how the product helps you, or where it could do more!\n\nCheck it out at https://archdev.ai",
-        "media": [
-          {
-            "id": "2108247967564017665",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2108247967564017665/vid/avc1/1920x1080/EKAubCLKlNH9ZE73.mp4?tag=29",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2108247967564017665/img/sgg0JCi8g9FcQ2ql.jpg",
-            "width": 1920,
-            "height": 1080,
-            "duration": 82.546
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2108257977820147996",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 5,
-        "reposts": 3,
-        "likes": 41,
-        "quotes": 0,
-        "views": 4707
-      },
-      "fetched_at": "2026-10-09T02:15:23.351Z"
     }
   ]
 }
