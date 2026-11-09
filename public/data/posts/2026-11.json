@@ -2,6 +2,86 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2119490886593814934",
+      "url": "https://x.com/kunchenguid/status/2119490886593814934",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-08T18:03:00.000Z",
+      "sort_at": "2026-11-08T18:03:00.000Z",
+      "text": "new video is up! it's been a while i know i know :) \n\nthis time i'm sharing a guide for how to do a multi-machine setup, which allowed me to keep agents running and stay productive anywhere i go\n\nYT: https://youtu.be/UvcH1hKM-mQ",
+      "media": [
+        {
+          "id": "2119338380400234496",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119338380400234496/vid/avc1/1920x1080/tcpwhFSB2faUfTg9.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119338380400234496/img/NDWW4uVbz3mLviXx.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 1001.733
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2119490886593814934",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 16,
+        "reposts": 9,
+        "likes": 205,
+        "quotes": 0,
+        "views": 7248
+      },
+      "fetched_at": "2026-11-09T00:58:34.785Z"
+    },
+    {
+      "id": "2119448683918049412",
+      "url": "https://x.com/petergyang/status/2119448683918049412",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "petergyang",
+        "name": "Peter Yang",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1454103621516206083/_klMwpkk_200x200.jpg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-11-08T15:15:18.000Z",
+      "sort_at": "2026-11-08T18:02:59.000Z",
+      "text": "“Both of my parents each got diagnosed with cancer within a week of each other.”\n\nAshley is the VP of Product at @OpenAI for Health and this is a very special episode for me. We talked about how we both use AI to help our parents fight cancer — including preparing for doctor visits, researching treatments, and coping with our emotions as caregivers. Topics we discussed:\n\n→ Do doctors mind when patients bring AI research?\n\n→ How ChatGPT caught a risky treatment before it was given\n\n→ How to make time for your parents with a demanding job\n\nSome quotes from Ashley:\n\n“I always felt like there was no more time in the day. Then someone gets sick and you realize what you can make time for and what can drop.”\n\n“You also have to care for yourself as a caregiver. You have to make sure you’re budgeting time for your own mental health.”\n\n“The treatment she was about to be given would have had a really bad contraindication. She narrowly avoided it because she ran it through Chat.”\n\n📌 Watch now: https://youtu.be/pR7NCYKsA3o\n\nThanks to our sponsors:\n\n@meetgranola: AI meeting notes that don’t suck https://granola.ai/peter\n\n@RiversidedotFM: All-in-one AI studio for podcasts and video https://creators.riverside.com/PeterYang",
+      "media": [
+        {
+          "id": "2119448610710687745",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119448610710687745/vid/avc1/1920x1080/z0fZ-ZJmNUwHqtBr.mp4?tag=16",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119448610710687745/img/qrHehN66AQzNkOPZ.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 31.164
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2119448683918049412",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 22,
+        "reposts": 27,
+        "likes": 191,
+        "quotes": 8,
+        "views": 65337
+      },
+      "fetched_at": "2026-11-09T00:58:34.785Z"
+    },
+    {
       "id": "2119250910224465990",
       "url": "https://x.com/kunchenguid/status/2119250910224465990",
       "creator": "kunchenguid",
