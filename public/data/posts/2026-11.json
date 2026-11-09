@@ -2,6 +2,34 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2119661784470835261",
+      "url": "https://x.com/kunchenguid/status/2119661784470835261",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T05:22:05.000Z",
+      "sort_at": "2026-11-09T05:22:05.000Z",
+      "text": "i had made many guesses for what might bust the AI bubble\n\nthis was not on my list..",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2119661784470835261",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 23,
+        "reposts": 6,
+        "likes": 236,
+        "quotes": 0,
+        "views": 25524
+      },
+      "fetched_at": "2026-11-09T18:53:40.289Z"
+    },
+    {
       "id": "2119490886593814934",
       "url": "https://x.com/kunchenguid/status/2119490886593814934",
       "creator": "kunchenguid",
