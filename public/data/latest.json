@@ -1,6 +1,169 @@
 {
-  "generated_at": "2026-11-09T18:53:40.814Z",
+  "generated_at": "2026-11-10T17:55:32.231Z",
   "posts": [
+    {
+      "id": "2119924895060795492",
+      "url": "https://x.com/kunchenguid/status/2119924895060795492",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T22:47:35.000Z",
+      "sort_at": "2026-11-09T22:47:35.000Z",
+      "text": "this is a really good prompt you can use to feel the power of fable 5.2 btw!\n\ni'd send it as - \n\n\"audit and find implicit state machines in this <codebase/directory/module> that would drive concrete improvements if made explicit. explain before/after of each one and discuss with me in lavish-axi. fewer words, big visuals\"\n\nlavish-axi is optional, but it makes the results a lot easier for you to understand and decide on. https://github.com/kunchenguid/lavish-axi \n\nfable 5.2 is really good at identifying real problems and ignore noise, and it explains them in a very intuitive way\n\nexample of a good clean up identified in firstmate repo here",
+      "media": [
+        {
+          "id": "2119924126009978880",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWt7wsGa8AAEE37.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1169,
+          "height": 1018
+        }
+      ],
+      "quote": {
+        "id": "2116552016218710389",
+        "url": "https://x.com/steveruizok/status/2116552016218710389",
+        "author": {
+          "screen_name": "steveruizok",
+          "name": "Steve Ruiz",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998689716229558272/GSFU7BiZ_200x200.jpg"
+        },
+        "created_at": "2026-10-31T15:24:58.000Z",
+        "text": "good prompt \"find all of the implicit state machines in my app\"",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2119924895060795492",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 11,
+        "reposts": 33,
+        "likes": 750,
+        "quotes": 7,
+        "views": 36685
+      },
+      "fetched_at": "2026-11-10T17:55:31.021Z"
+    },
+    {
+      "id": "2119899659170918911",
+      "url": "https://x.com/kunchenguid/status/2119899659170918911",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T21:07:19.000Z",
+      "sort_at": "2026-11-09T21:07:19.000Z",
+      "text": "this is actually what a lot of startups today are building now...",
+      "media": [
+        {
+          "id": "2119898454529130496",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119898454529130496/vid/avc1/1920x1080/B0c76aa7XQPTwSg9.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119898454529130496/img/UiR1TFR2PT6faCSi.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 13.643
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2119899659170918911",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 5,
+        "likes": 63,
+        "quotes": 1,
+        "views": 8753
+      },
+      "fetched_at": "2026-11-10T17:55:31.021Z"
+    },
+    {
+      "id": "2119869732014973156",
+      "url": "https://x.com/kunchenguid/status/2119869732014973156",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T19:08:24.000Z",
+      "sort_at": "2026-11-09T19:08:24.000Z",
+      "text": "hmm wait.. but why isn't it called fable 5.5? what's up with these version numbers?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2119869391127089167",
+      "thread_root_id": "2119869391127089167",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 0,
+        "likes": 17,
+        "quotes": 0,
+        "views": 2641
+      },
+      "fetched_at": "2026-11-10T17:55:31.021Z"
+    },
+    {
+      "id": "2119869391127089167",
+      "url": "https://x.com/kunchenguid/status/2119869391127089167",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T19:07:02.000Z",
+      "sort_at": "2026-11-09T19:07:02.000Z",
+      "text": "holy crap... fable 5.2 ended up being the first meaningful model update since opus 5.5\n\nthis is almost GG for other labs. only anthropic can top anthropic now",
+      "media": [],
+      "quote": {
+        "id": "2119867114450268322",
+        "url": "https://x.com/claudeai/status/2119867114450268322",
+        "author": {
+          "screen_name": "claudeai",
+          "name": "Claude",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg"
+        },
+        "created_at": "2026-11-09T18:57:59.000Z",
+        "text": "Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges.\n\nThey’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision.",
+        "media": [
+          {
+            "id": "2119862225028452352",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2119862225028452352/vid/avc1/1920x1080/E6naF0FCPw_qRYv0.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/media/HWtIJNLWUAAcc7I.jpg",
+            "width": 3840,
+            "height": 2160,
+            "duration": 18.52
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2119869391127089167",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 6,
+        "likes": 228,
+        "quotes": 0,
+        "views": 17130
+      },
+      "fetched_at": "2026-11-10T17:55:31.021Z"
+    },
     {
       "id": "2119661784470835261",
       "url": "https://x.com/kunchenguid/status/2119661784470835261",
@@ -3420,159 +3583,6 @@
         "views": 4267
       },
       "fetched_at": "2026-10-13T17:38:31.585Z"
-    },
-    {
-      "id": "2109879371058332062",
-      "url": "https://x.com/kunchenguid/status/2109879371058332062",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-13T05:30:16.000Z",
-      "sort_at": "2026-10-13T05:30:16.000Z",
-      "text": "let me break down “software is dead” for you\n\nthe latest argument is “you just tell your agent what you want, and your agent will vibe code software on the fly to get that done, so no one will need real software any more”\n\nsounds reasonable, until you realize it costs tokens, compute, and wall clock time to build those software on the fly\n\nso instead of one-click launching an app, the bet is people will prefer to write a prompt, wait for 15 minutes, then get something that may or may not do what they want, and at the end of the month pay more $$$ for the token spend, higher than all their software combined\n\nthat’s literally the argument\n\nand if we look at the world in aggregate, most people would just end up building the exact same “personal” software repeatedly\n\noh - your agent just spent 3 days and $500 of tokens vibe coding your terminal multiplexer? mine just did exactly the same! let’s celebrate how personal our terminal multiplexers are!\n\nsorry - i just don’t see that as being a happy scenario for anyone, other than people who profit from telling others how to waste $ on tokens\n\nto be constructive, here’s what i believe as the future state -\n\n- high quality software that takes high cost to make will continue to thrive. just like good restaurants don’t compete with your air fryer and microwave \n\n- most of those software will be offered headlessly for people to use via their agents, and they can continue to monetize such usage. this is already the case with products like jira, linear, stripe\n\n- human-facing software will all offer dynamic UI that can be adjusted with natural language on the fly so they can be personalized easily, but their core doesn’t have to be rebuilt by every user repeatedly\n\ninstead of “software is dead”, i believe good software becomes “strong core, headless service, fluid interface”\n\nwhich future do you think is more likely?",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2109879371058332062",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 216,
-        "reposts": 78,
-        "likes": 1209,
-        "quotes": 31,
-        "views": 92338
-      },
-      "fetched_at": "2026-10-13T17:38:31.585Z"
-    },
-    {
-      "id": "2109805381291798861",
-      "url": "https://x.com/kunchenguid/status/2109805381291798861",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-13T00:36:15.000Z",
-      "sort_at": "2026-10-13T00:36:15.000Z",
-      "text": "EDIT: see clarification below - $200 individual plan is still available!",
-      "media": [],
-      "quote": {
-        "id": "2109801278817833361",
-        "url": "https://x.com/poteto/status/2109801278817833361",
-        "author": {
-          "screen_name": "poteto",
-          "name": "lauren",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093473719830315008/oo09g1Ov_200x200.jpg"
-        },
-        "created_at": "2026-10-13T00:19:57.000Z",
-        "text": "@kunchenguid hmm yeah we can improve the pricing table, the ultra plan is still there for individuals, it's just at the bottom \n\nhttps://grok.com/dashboard/billing?openUpgrade=true&tier=ultra&yearly=false",
-        "media": []
-      },
-      "reply_to_id": "2109797694684479669",
-      "thread_root_id": "2109797694684479669",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 3,
-        "quotes": 0,
-        "views": 626
-      },
-      "fetched_at": "2026-10-13T02:04:57.738Z"
-    },
-    {
-      "id": "2109797694684479669",
-      "url": "https://x.com/kunchenguid/status/2109797694684479669",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-13T00:05:43.000Z",
-      "sort_at": "2026-10-13T00:05:43.000Z",
-      "text": "huge change consolidating X, cursor, grok subscriptions \n\nnow the weird thing is that for indies the tier caps at $100/month which i don’t think will give me enough quota. the $200 tier is a team plan\n\nguess i’ll just have to call myself a team now?",
-      "media": [],
-      "quote": {
-        "id": "2109783335296008414",
-        "url": "https://x.com/SpaceXSI/status/2109783335296008414",
-        "author": {
-          "screen_name": "SpaceXSI",
-          "name": "SpaceX Super Intelligence",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2108973816865067008/eES3dbLy_200x200.jpg"
-        },
-        "created_at": "2026-10-12T23:08:39.000Z",
-        "text": "We've unified plans across Grok, Cursor, and X Premium.\n\nIntroducing The X Subscription.",
-        "media": [
-          {
-            "id": "2109782667579322368",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2109782667579322368/vid/avc1/1920x1080/ThJXAcymAf1pV1vL.mp4?tag=29",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109782667579322368/img/mg9FwK4PAT7m7_mU.jpg",
-            "width": 1920,
-            "height": 1080,
-            "duration": 10
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2109797694684479669",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 15,
-        "reposts": 2,
-        "likes": 72,
-        "quotes": 3,
-        "views": 10495
-      },
-      "fetched_at": "2026-10-13T02:04:57.738Z"
-    },
-    {
-      "id": "2109714264516915363",
-      "url": "https://x.com/kunchenguid/status/2109714264516915363",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-12T18:34:11.000Z",
-      "sort_at": "2026-10-12T18:34:11.000Z",
-      "text": "it's insane how much we can save by leveraging our own computers\n\na few weeks ago i saw my github actions bill was starting to cost, so i started running all mac CI jobs with my self-hosted runners on my m4 mac mini\n\ni just calculated - if i used one of the CI providers for all those mac CI runs, it would have been a $1500-$3000/month bill\n\nabsolutely crazy that:\n\n- my self-hosted runners didn't even use half of my mac mini's capacity, yet the equivalent from cloud providers for just a month of usage is more expensive than buying the mac mini itself\n\n- this is way higher than my LLM bills. computers are going to be the real expensive part of software development, not AI",
-      "media": [
-        {
-          "id": "2109712983878520832",
-          "type": "photo",
-          "url": "https://pbs.twimg.com/media/HUc0x_Yb0AA6q16.jpg?name=orig",
-          "thumbnail_url": null,
-          "width": 1172,
-          "height": 416
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2109714264516915363",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 18,
-        "reposts": 4,
-        "likes": 97,
-        "quotes": 2,
-        "views": 5588
-      },
-      "fetched_at": "2026-10-12T19:51:25.574Z"
     }
   ]
 }

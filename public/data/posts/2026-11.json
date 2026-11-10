@@ -2,6 +2,169 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2119924895060795492",
+      "url": "https://x.com/kunchenguid/status/2119924895060795492",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T22:47:35.000Z",
+      "sort_at": "2026-11-09T22:47:35.000Z",
+      "text": "this is a really good prompt you can use to feel the power of fable 5.2 btw!\n\ni'd send it as - \n\n\"audit and find implicit state machines in this <codebase/directory/module> that would drive concrete improvements if made explicit. explain before/after of each one and discuss with me in lavish-axi. fewer words, big visuals\"\n\nlavish-axi is optional, but it makes the results a lot easier for you to understand and decide on. https://github.com/kunchenguid/lavish-axi \n\nfable 5.2 is really good at identifying real problems and ignore noise, and it explains them in a very intuitive way\n\nexample of a good clean up identified in firstmate repo here",
+      "media": [
+        {
+          "id": "2119924126009978880",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HWt7wsGa8AAEE37.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1169,
+          "height": 1018
+        }
+      ],
+      "quote": {
+        "id": "2116552016218710389",
+        "url": "https://x.com/steveruizok/status/2116552016218710389",
+        "author": {
+          "screen_name": "steveruizok",
+          "name": "Steve Ruiz",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1998689716229558272/GSFU7BiZ_200x200.jpg"
+        },
+        "created_at": "2026-10-31T15:24:58.000Z",
+        "text": "good prompt \"find all of the implicit state machines in my app\"",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2119924895060795492",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 11,
+        "reposts": 33,
+        "likes": 750,
+        "quotes": 7,
+        "views": 36685
+      },
+      "fetched_at": "2026-11-10T17:55:31.021Z"
+    },
+    {
+      "id": "2119899659170918911",
+      "url": "https://x.com/kunchenguid/status/2119899659170918911",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T21:07:19.000Z",
+      "sort_at": "2026-11-09T21:07:19.000Z",
+      "text": "this is actually what a lot of startups today are building now...",
+      "media": [
+        {
+          "id": "2119898454529130496",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2119898454529130496/vid/avc1/1920x1080/B0c76aa7XQPTwSg9.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2119898454529130496/img/UiR1TFR2PT6faCSi.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 13.643
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2119899659170918911",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 5,
+        "likes": 63,
+        "quotes": 1,
+        "views": 8753
+      },
+      "fetched_at": "2026-11-10T17:55:31.021Z"
+    },
+    {
+      "id": "2119869732014973156",
+      "url": "https://x.com/kunchenguid/status/2119869732014973156",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T19:08:24.000Z",
+      "sort_at": "2026-11-09T19:08:24.000Z",
+      "text": "hmm wait.. but why isn't it called fable 5.5? what's up with these version numbers?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": "2119869391127089167",
+      "thread_root_id": "2119869391127089167",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 0,
+        "likes": 17,
+        "quotes": 0,
+        "views": 2641
+      },
+      "fetched_at": "2026-11-10T17:55:31.021Z"
+    },
+    {
+      "id": "2119869391127089167",
+      "url": "https://x.com/kunchenguid/status/2119869391127089167",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-09T19:07:02.000Z",
+      "sort_at": "2026-11-09T19:07:02.000Z",
+      "text": "holy crap... fable 5.2 ended up being the first meaningful model update since opus 5.5\n\nthis is almost GG for other labs. only anthropic can top anthropic now",
+      "media": [],
+      "quote": {
+        "id": "2119867114450268322",
+        "url": "https://x.com/claudeai/status/2119867114450268322",
+        "author": {
+          "screen_name": "claudeai",
+          "name": "Claude",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_200x200.jpg"
+        },
+        "created_at": "2026-11-09T18:57:59.000Z",
+        "text": "Introducing Claude Fable 5.2 and Claude Mythos 5.2, designed to tackle the most daunting technical challenges.\n\nThey’re capable collaborators on ambitious projects in many fields, and show improvements in areas like coding, reasoning, and vision.",
+        "media": [
+          {
+            "id": "2119862225028452352",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2119862225028452352/vid/avc1/1920x1080/E6naF0FCPw_qRYv0.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/media/HWtIJNLWUAAcc7I.jpg",
+            "width": 3840,
+            "height": 2160,
+            "duration": 18.52
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2119869391127089167",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 6,
+        "likes": 228,
+        "quotes": 0,
+        "views": 17130
+      },
+      "fetched_at": "2026-11-10T17:55:31.021Z"
+    },
+    {
       "id": "2119661784470835261",
       "url": "https://x.com/kunchenguid/status/2119661784470835261",
       "creator": "kunchenguid",
