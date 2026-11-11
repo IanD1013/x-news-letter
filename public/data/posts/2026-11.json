@@ -2,6 +2,139 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2120408893859979511",
+      "url": "https://x.com/kunchenguid/status/2120408893859979511",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-11T06:50:50.000Z",
+      "sort_at": "2026-11-11T06:50:50.000Z",
+      "text": "overheard from friends talking about AI in China, and it’s very alarming\n\n- AI short films went massive in China market because of how good the video models are now\n\n- the first wave of people who mastered using AI to generate short films and comics made quite some money because they could produce a lot more content than traditional workflows\n\n- but within just a few months, everybody and their mom could make equally good short films because all the expertise could be written in a markdown file\n\n- when everyone’s more productive, no one actually has an advantage and it’s a race to the bottom. very quickly it became impossible to make money, and everyone’s busier than they were without AI\n\n- the only one making money now is companies like bytedance who owns user demand and distribution. they sell ads to creators who pay to get traffic, and eventually ad spend became 80% of those creators’ operating expense, while AI tokens is less than 5%\n\nso what are the problems here? \n\n1. there’s no moat if you are creating anything with AI\n\nif a human is really good at something, and it’s hard to find more humans who can do the same, they can leverage the scarcity of their skill to get paid very well\n\nbut if AI is good at something, it will be infinitely replicated, so there’s no scarcity hence you can’t really expect a sustainable business by creating anything with AI\n\n2. more creators created more content people actually liked. that’s a good thing\n\nbut the economical benefit of that all got absorbed by the distribution platforms\n\nthere’s a famous chinese poem 遍身罗绮者，不是养蚕人 - it basically says people who dress well aren’t the people making dresses. that’s exactly what’s happening here\n\nif our society doesn’t figure out a better way to distribute wealth, AI will help billionaires become trillionaires while average people become more exhausted than ever",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2120408893859979511",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 258,
+        "reposts": 501,
+        "likes": 4447,
+        "quotes": 116,
+        "views": 309977
+      },
+      "fetched_at": "2026-11-11T15:20:51.705Z"
+    },
+    {
+      "id": "2120393091953963074",
+      "url": "https://x.com/kunchenguid/status/2120393091953963074",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-11T05:48:02.000Z",
+      "sort_at": "2026-11-11T05:48:02.000Z",
+      "text": "more stallion 🐎",
+      "media": [
+        {
+          "id": "2120393088212635648",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW0mR4cbkAA5-SG.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "quote": {
+        "id": "2118784380906962957",
+        "url": "https://x.com/kunchenguid/status/2118784380906962957",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-06T19:15:36.000Z",
+        "text": "my stallions",
+        "media": [
+          {
+            "id": "2118784377337597952",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWdvKlba0AAVHY4.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2048,
+            "height": 1536
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2120393091953963074",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 25,
+        "reposts": 0,
+        "likes": 150,
+        "quotes": 0,
+        "views": 7941
+      },
+      "fetched_at": "2026-11-11T15:20:51.705Z"
+    },
+    {
+      "id": "2120282144526475590",
+      "url": "https://x.com/kunchenguid/status/2120282144526475590",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-10T22:27:10.000Z",
+      "sort_at": "2026-11-10T22:27:10.000Z",
+      "text": "seeing a lot of people reporting great success with this!",
+      "media": [],
+      "quote": {
+        "id": "2119924895060795492",
+        "url": "https://x.com/kunchenguid/status/2119924895060795492",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-09T22:47:35.000Z",
+        "text": "this is a really good prompt you can use to feel the power of fable 5.2 btw!\n\ni'd send it as - \n\n\"audit and find implicit state machines in this <codebase/directory/module> that would drive concrete improvements if made explicit. explain before/after of each one and discuss with me in lavish-axi. fewer words, big visuals\"\n\nlavish-axi is optional, but it makes the results a lot easier for you to understand and decide on. https://github.com/kunchenguid/lavish-axi \n\nfable 5.2 is really good at identifying real problems and ignore noise, and it explains them in a very intuitive way\n\nexample of a good clean up identified in firstmate repo here",
+        "media": [
+          {
+            "id": "2119924126009978880",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWt7wsGa8AAEE37.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1169,
+            "height": 1018
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2120282144526475590",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 118,
+        "quotes": 0,
+        "views": 17786
+      },
+      "fetched_at": "2026-11-11T15:20:51.705Z"
+    },
+    {
       "id": "2119924895060795492",
       "url": "https://x.com/kunchenguid/status/2119924895060795492",
       "creator": "kunchenguid",

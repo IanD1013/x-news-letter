@@ -1,6 +1,139 @@
 {
-  "generated_at": "2026-11-10T17:55:32.231Z",
+  "generated_at": "2026-11-11T15:20:52.640Z",
   "posts": [
+    {
+      "id": "2120408893859979511",
+      "url": "https://x.com/kunchenguid/status/2120408893859979511",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-11T06:50:50.000Z",
+      "sort_at": "2026-11-11T06:50:50.000Z",
+      "text": "overheard from friends talking about AI in China, and it’s very alarming\n\n- AI short films went massive in China market because of how good the video models are now\n\n- the first wave of people who mastered using AI to generate short films and comics made quite some money because they could produce a lot more content than traditional workflows\n\n- but within just a few months, everybody and their mom could make equally good short films because all the expertise could be written in a markdown file\n\n- when everyone’s more productive, no one actually has an advantage and it’s a race to the bottom. very quickly it became impossible to make money, and everyone’s busier than they were without AI\n\n- the only one making money now is companies like bytedance who owns user demand and distribution. they sell ads to creators who pay to get traffic, and eventually ad spend became 80% of those creators’ operating expense, while AI tokens is less than 5%\n\nso what are the problems here? \n\n1. there’s no moat if you are creating anything with AI\n\nif a human is really good at something, and it’s hard to find more humans who can do the same, they can leverage the scarcity of their skill to get paid very well\n\nbut if AI is good at something, it will be infinitely replicated, so there’s no scarcity hence you can’t really expect a sustainable business by creating anything with AI\n\n2. more creators created more content people actually liked. that’s a good thing\n\nbut the economical benefit of that all got absorbed by the distribution platforms\n\nthere’s a famous chinese poem 遍身罗绮者，不是养蚕人 - it basically says people who dress well aren’t the people making dresses. that’s exactly what’s happening here\n\nif our society doesn’t figure out a better way to distribute wealth, AI will help billionaires become trillionaires while average people become more exhausted than ever",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2120408893859979511",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 258,
+        "reposts": 501,
+        "likes": 4447,
+        "quotes": 116,
+        "views": 309977
+      },
+      "fetched_at": "2026-11-11T15:20:51.705Z"
+    },
+    {
+      "id": "2120393091953963074",
+      "url": "https://x.com/kunchenguid/status/2120393091953963074",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-11T05:48:02.000Z",
+      "sort_at": "2026-11-11T05:48:02.000Z",
+      "text": "more stallion 🐎",
+      "media": [
+        {
+          "id": "2120393088212635648",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HW0mR4cbkAA5-SG.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "quote": {
+        "id": "2118784380906962957",
+        "url": "https://x.com/kunchenguid/status/2118784380906962957",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-06T19:15:36.000Z",
+        "text": "my stallions",
+        "media": [
+          {
+            "id": "2118784377337597952",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWdvKlba0AAVHY4.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2048,
+            "height": 1536
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2120393091953963074",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 25,
+        "reposts": 0,
+        "likes": 150,
+        "quotes": 0,
+        "views": 7941
+      },
+      "fetched_at": "2026-11-11T15:20:51.705Z"
+    },
+    {
+      "id": "2120282144526475590",
+      "url": "https://x.com/kunchenguid/status/2120282144526475590",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-10T22:27:10.000Z",
+      "sort_at": "2026-11-10T22:27:10.000Z",
+      "text": "seeing a lot of people reporting great success with this!",
+      "media": [],
+      "quote": {
+        "id": "2119924895060795492",
+        "url": "https://x.com/kunchenguid/status/2119924895060795492",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-09T22:47:35.000Z",
+        "text": "this is a really good prompt you can use to feel the power of fable 5.2 btw!\n\ni'd send it as - \n\n\"audit and find implicit state machines in this <codebase/directory/module> that would drive concrete improvements if made explicit. explain before/after of each one and discuss with me in lavish-axi. fewer words, big visuals\"\n\nlavish-axi is optional, but it makes the results a lot easier for you to understand and decide on. https://github.com/kunchenguid/lavish-axi \n\nfable 5.2 is really good at identifying real problems and ignore noise, and it explains them in a very intuitive way\n\nexample of a good clean up identified in firstmate repo here",
+        "media": [
+          {
+            "id": "2119924126009978880",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HWt7wsGa8AAEE37.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 1169,
+            "height": 1018
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2120282144526475590",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 118,
+        "quotes": 0,
+        "views": 17786
+      },
+      "fetched_at": "2026-11-11T15:20:51.705Z"
+    },
     {
       "id": "2119924895060795492",
       "url": "https://x.com/kunchenguid/status/2119924895060795492",
@@ -3478,111 +3611,6 @@
         "views": 9824
       },
       "fetched_at": "2026-10-14T13:48:24.980Z"
-    },
-    {
-      "id": "2110103932085338564",
-      "url": "https://x.com/kunchenguid/status/2110103932085338564",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-13T20:22:35.000Z",
-      "sort_at": "2026-10-13T20:22:35.000Z",
-      "text": "i'm not testing muse wonder, because:\n1. without contributor tier, it's opus 5.5 at API price. why don't i just run opus 5.5 then...\n2. it's weird to lock the \"full\" model behind their subscription\n\ni'm also not testing gemini 4 argon, because:\n1. previous gemini models had lost my trust, and nothing so far gives me enough motivation to revisit\n2. google's AI subscription doesn't allow the models to be used in 3p harnesses\n\ni know this sounds harsh to those companies, but i see many consumers are in a similar situation - we have way too many options, some of which are absolutely AMAZING right now. the bar is extremely high for us to justify spending any second of our time on an unproven model family\n\nmeta and google need to both realize they are catching up on market perception, and are in no position to gate anything\n\nmy suggestion to them would be to allow heavily subsidized access everywhere including openrouter and all 3p harnesses, and leverage that to get enough people to try their models. if the models are good, the words will then spread",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2110103932085338564",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 28,
-        "reposts": 7,
-        "likes": 162,
-        "quotes": 0,
-        "views": 6848
-      },
-      "fetched_at": "2026-10-13T22:52:31.870Z"
-    },
-    {
-      "id": "2110042216307814578",
-      "url": "https://x.com/kunchenguid/status/2110042216307814578",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-13T16:17:21.000Z",
-      "sort_at": "2026-10-13T16:17:21.000Z",
-      "text": "hmmm… apple’s new product is a big apple watch, or small ipad, depends on how you look\n\ntbh i would probably consider something like this if it’s made by openai so the AI is not siri, and would actually work",
-      "media": [],
-      "quote": {
-        "id": "2109995948407476369",
-        "url": "https://x.com/johnternus/status/2109995948407476369",
-        "author": {
-          "screen_name": "johnternus",
-          "name": "John Ternus",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2094817326155939840/MVSN5mvP_200x200.jpg"
-        },
-        "created_at": "2026-10-13T13:13:30.000Z",
-        "text": "Welcome HomeView",
-        "media": [
-          {
-            "id": "2109995483389149184",
-            "type": "video",
-            "url": "https://video.twimg.com/amplify_video/2109995483389149184/vid/avc1/1080x1080/mrwv_QQcZZDy7p1H.mp4?tag=29",
-            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2109995483389149184/img/kgJHrcUs87eqJkPI.jpg",
-            "width": 1080,
-            "height": 1080,
-            "duration": 11.311
-          }
-        ]
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2110042216307814578",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 7,
-        "reposts": 0,
-        "likes": 19,
-        "quotes": 0,
-        "views": 2272
-      },
-      "fetched_at": "2026-10-13T17:38:31.585Z"
-    },
-    {
-      "id": "2109891801457016895",
-      "url": "https://x.com/kunchenguid/status/2109891801457016895",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-13T06:19:40.000Z",
-      "sort_at": "2026-10-13T06:19:40.000Z",
-      "text": "ok just one more example and i'll shut up :)\n\nyour agent can call an uber for you\nbut your agent needs to call uber to make that call",
-      "media": [],
-      "quote": null,
-      "reply_to_id": "2109879371058332062",
-      "thread_root_id": "2109879371058332062",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 3,
-        "reposts": 1,
-        "likes": 33,
-        "quotes": 0,
-        "views": 4267
-      },
-      "fetched_at": "2026-10-13T17:38:31.585Z"
     }
   ]
 }
