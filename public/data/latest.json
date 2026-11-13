@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-11-11T15:20:52.640Z",
+  "generated_at": "2026-11-13T01:54:13.680Z",
   "posts": [
+    {
+      "id": "2120970648310927519",
+      "url": "https://x.com/kunchenguid/status/2120970648310927519",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-12T20:03:02.000Z",
+      "sort_at": "2026-11-12T20:03:02.000Z",
+      "text": "i found \"executive mindset\" to be the biggest differentiator from people who can use agents super effectively\n\nit comes natural for people who had been an executive of a large org before, but it's counter-intuitive for people who haven't done so\n\na few examples\n\n1. after you send a prompt, do you stare at the chat to see what the agent is doing?\n\nmost agent UX today leads people to do that, but a good executive never watches over an employee's shoulder after they've sent an ask - they are immediately on to the next problem\n\n2. do you rely on chat for important decision making?\n\n\"just chat\" sounds elegant, but there's a reason company executives rarely rely on plain talking for high stake decisions\n\ninstead, they ask the team for documents or presentations. it puts a bit more prep work on the team, but the discussions end up being a lot more efficient\n\n3. when your agent did something wrong, do you curse at it and twist its arms to do it right?\n\nsome successful executives actually do that as well, but they also do something else afterwards - figure out what allowed the mistake to happen in the first place, and stop it at its root\n\n4. do you spend all your time carefully examining everything to make sure the code is bug free?\n\nnow this is getting spicy, but you can pick any popular product on earth and you won't find a single one that's bug free\n\ngood executives accept the calculated risk and invest time in the right workflows to catch bugs early before shipping, get alerts if they happen, and making sure fixes can go out quickly - never make themselves the bottleneck by being the tester\n\nour tools, skills, workflows etc change all the time, but building the right mindset is durable and can help you for a long time\n\nif you aren't clear how to acquire the mindset yet, i recommend starting with asking yourself this when you try to decide to do something or not -\n\n\"if i have 100x more agents doing 100x more work for me every day, how would i do this?\"\n\ndo this enough times, and you'll find yourself actually able to control 100x more agents effectively",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2120970648310927519",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 21,
+        "reposts": 22,
+        "likes": 351,
+        "quotes": 6,
+        "views": 16162
+      },
+      "fetched_at": "2026-11-13T01:54:13.061Z"
+    },
     {
       "id": "2120408893859979511",
       "url": "https://x.com/kunchenguid/status/2120408893859979511",
@@ -3583,34 +3611,6 @@
         "views": 5391
       },
       "fetched_at": "2026-10-14T18:41:51.436Z"
-    },
-    {
-      "id": "2110234716729463195",
-      "url": "https://x.com/kunchenguid/status/2110234716729463195",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-14T05:02:17.000Z",
-      "sort_at": "2026-10-14T05:02:17.000Z",
-      "text": "hot AI startup character ai just filed for bankruptcy! https://blog.character.ai/an-update-on-character-ai/\n\ni gathered insights from the actual bankruptcy filing itself https://cases.stretto.com/public/x936/14939/PLEADINGS/1493910132680000000119.pdf and this is an interesting one to break down\n\n1. they have adoption and engagement\n\n12M MAU, with average 2 hours of daily time spent per user! \n\nthat’s.. quite a lot. many startup products would dream to reach this level of usage, but it didn’t work\n\n2. they have real network effect\n\nthey have user generated characters and many users like to engage with characters made by others. so the more users they have, the richer this ecosystem becomes - textbook network effect\n\nsome people seem to think network effect is gold. nope! didn’t work\n\n3. they have proprietary data and custom trained models\n\nmany people say software is dead and only data is moat. this gives a sobering look - private data didn’t help either\n\n4. so what’s wrong?\n\nthey burn over $7M of compute and only get $5M of revenue per month\n\nthat’s the whole problem\n\npeople would engage for free or when subsidized, but they are not willing to pay enough $ for the value they are getting\n\nnow… the real dark side of this \n\nif you take a few steps back and look at all LLM usage, especially all the people on social media using tokens to make the same 3d demos every day - \n\nhow many people are actually creating more economical value than the tokens they burnt? if there’s no subsidization and everyone has to pay at API price, how much of the current usage can actually be justified with positive ROI and sustain? \n\nwe have limited runway to make AI work. and if we can’t, what happened to character ai may just be a preview for the entire AI industry",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2110234716729463195",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 32,
-        "reposts": 10,
-        "likes": 174,
-        "quotes": 4,
-        "views": 9824
-      },
-      "fetched_at": "2026-10-14T13:48:24.980Z"
     }
   ]
 }
