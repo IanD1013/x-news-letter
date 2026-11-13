@@ -2,6 +2,44 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2121288938732339605",
+      "url": "https://x.com/kunchenguid/status/2121288938732339605",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-13T17:07:49.000Z",
+      "sort_at": "2026-11-13T17:07:49.000Z",
+      "text": "new video - sharing my full grok bot setup and showing how i use it in a live session here. hope you enjoy!\n\nhttps://youtu.be/_cVWs9pPFDI\n\ni've been thinking of publishing more shorter videos like this to share more often alongside my long coding session videos, so here's another one in the same week! :) let me know if you like it?\n\nthe bots i shared: \n- firstmate: https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r \n- kun: https://x.ai/bot/xK8W0ukRv4iZjglzz-FRE \n- distill anyone: https://x.ai/bot/id4s2QYrPYZsiTqvzIhkt",
+      "media": [
+        {
+          "id": "2121285467530502144",
+          "type": "video",
+          "url": "https://video.twimg.com/amplify_video/2121285467530502144/vid/avc1/1920x1080/1BPlQ50zGGKNAsVd.mp4?tag=29",
+          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2121285467530502144/img/qh3ZJgXl11i53OFi.jpg",
+          "width": 1920,
+          "height": 1080,
+          "duration": 1495.55
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2121288938732339605",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 15,
+        "likes": 231,
+        "quotes": 2,
+        "views": 14126
+      },
+      "fetched_at": "2026-11-13T23:39:12.344Z"
+    },
+    {
       "id": "2120970648310927519",
       "url": "https://x.com/kunchenguid/status/2120970648310927519",
       "creator": "kunchenguid",
