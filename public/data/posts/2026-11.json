@@ -2,6 +2,71 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2121470381395767676",
+      "url": "https://x.com/kunchenguid/status/2121470381395767676",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-14T05:08:48.000Z",
+      "sort_at": "2026-11-14T05:08:48.000Z",
+      "text": "prediction: \n\nin a few years, being able to run a large number of agents effectively is going to become a prerequisite to being a people leader",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2121470381395767676",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 15,
+        "reposts": 3,
+        "likes": 47,
+        "quotes": 1,
+        "views": 2778
+      },
+      "fetched_at": "2026-11-14T06:37:59.124Z"
+    },
+    {
+      "id": "2121411975444119794",
+      "url": "https://x.com/kunchenguid/status/2121411975444119794",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-14T01:16:43.000Z",
+      "sort_at": "2026-11-14T01:16:43.000Z",
+      "text": "watching sunset over the barrens in wow forever\n\nfeels so good to be in the nature after working a long day in front of a computer",
+      "media": [
+        {
+          "id": "2121410585904787456",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXDDsCubsAAb3Ke.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2012,
+          "height": 953
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2121411975444119794",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 12,
+        "reposts": 0,
+        "likes": 152,
+        "quotes": 0,
+        "views": 6765
+      },
+      "fetched_at": "2026-11-14T06:37:59.124Z"
+    },
+    {
       "id": "2121288938732339605",
       "url": "https://x.com/kunchenguid/status/2121288938732339605",
       "creator": "kunchenguid",
