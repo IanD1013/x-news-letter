@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-11-14T06:37:59.834Z",
+  "generated_at": "2026-11-14T23:07:05.341Z",
   "posts": [
+    {
+      "id": "2121684514728727003",
+      "url": "https://x.com/kunchenguid/status/2121684514728727003",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-14T19:19:41.000Z",
+      "sort_at": "2026-11-14T19:19:41.000Z",
+      "text": "watching my son do things makes it so clear that humans like to do things the FUN way, not the efficient way\n\nlet the machines be efficient, and let humans have fun - that's probably how it should go",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2121684514728727003",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 5,
+        "likes": 69,
+        "quotes": 0,
+        "views": 3045
+      },
+      "fetched_at": "2026-11-14T23:07:04.603Z"
+    },
     {
       "id": "2121470381395767676",
       "url": "https://x.com/kunchenguid/status/2121470381395767676",
@@ -3549,45 +3577,6 @@
         "views": 28089
       },
       "fetched_at": "2026-10-15T13:30:08.873Z"
-    },
-    {
-      "id": "2110608566847688707",
-      "url": "https://x.com/kunchenguid/status/2110608566847688707",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-15T05:47:50.000Z",
-      "sort_at": "2026-10-15T05:47:50.000Z",
-      "text": "so far in Tibo's 28d challenge of ship or reset, day 2, 3, 6, 8, 10 all got a reset, so averaging one reset every 2-3 days\n\nmy advice - if you have any banked reset available as a backup, you should aim to exhaust your codex quota every 3 days\n\nstill 2.5 weeks left LFG",
-      "media": [],
-      "quote": {
-        "id": "2110595484180214059",
-        "url": "https://x.com/thsottiaux/status/2110595484180214059",
-        "author": {
-          "screen_name": "thsottiaux",
-          "name": "Tibo",
-          "avatar_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_200x200.jpg"
-        },
-        "created_at": "2026-10-15T04:55:51.000Z",
-        "text": "The reports of my reset button being lost are greatly exaggerated\n\nDay 10/ Reset",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2110608566847688707",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 12,
-        "reposts": 0,
-        "likes": 39,
-        "quotes": 0,
-        "views": 2477
-      },
-      "fetched_at": "2026-10-15T07:32:06.933Z"
     }
   ]
 }

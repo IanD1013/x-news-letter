@@ -2,6 +2,34 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2121684514728727003",
+      "url": "https://x.com/kunchenguid/status/2121684514728727003",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-14T19:19:41.000Z",
+      "sort_at": "2026-11-14T19:19:41.000Z",
+      "text": "watching my son do things makes it so clear that humans like to do things the FUN way, not the efficient way\n\nlet the machines be efficient, and let humans have fun - that's probably how it should go",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2121684514728727003",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 4,
+        "reposts": 5,
+        "likes": 69,
+        "quotes": 0,
+        "views": 3045
+      },
+      "fetched_at": "2026-11-14T23:07:04.603Z"
+    },
+    {
       "id": "2121470381395767676",
       "url": "https://x.com/kunchenguid/status/2121470381395767676",
       "creator": "kunchenguid",
