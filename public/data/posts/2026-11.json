@@ -2,6 +2,73 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2122159618680140139",
+      "url": "https://x.com/kunchenguid/status/2122159618680140139",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-16T02:47:35.000Z",
+      "sort_at": "2026-11-16T02:47:35.000Z",
+      "text": "this is a very practical example on how to apply agents in a large company setting\n\nbabysitting PR is just one use case. i think the good idea here is that everyone can build your own loops and workflows to support specific parts of your work",
+      "media": [],
+      "quote": {
+        "id": "2122066461007175851",
+        "url": "https://x.com/jalalash/status/2122066461007175851",
+        "author": {
+          "screen_name": "jalalash",
+          "name": "Jalal Ashrafi",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2121930189525676032/p5Xba8Wy_200x200.jpg"
+        },
+        "created_at": "2026-11-15T20:37:25.000Z",
+        "text": "i took a day off. my PRs kept moving.\n\n129 PRs in a few weeks. 118 fix requests to my agents. 24 nudges to reviewers.\n\nand the loop running it has no AI in it.\n\npart 1 of my agent setup, and how to build yours: https://x.com/i/article/2121832157236895745",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122159618680140139",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1,
+        "quotes": 0,
+        "views": 182
+      },
+      "fetched_at": "2026-11-16T02:49:04.673Z"
+    },
+    {
+      "id": "2122043591451389962",
+      "url": "https://x.com/kunchenguid/status/2122043591451389962",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-15T19:06:32.000Z",
+      "sort_at": "2026-11-15T19:06:32.000Z",
+      "text": "it’s really difficult to love google’s AI effort right now\n\ntheir subscription terms is the most hostile one to the ecosystem among all the labs\n\nif you subscribe to google AI, you can pretty much only use antigravity. they require all prompts to antigravity to come directly from the user, not an orchestrator or loop. many users got banned for using it in other ADEs and orchestrators\n\nclaude, codex, grok - they are all a lot more flexible in all kinds of integrations\n\nthere’s only one reason google needs to be this restrictive about requiring direct user prompts to antigravity - it’s harvesting user data for model training\n\nbut it’s not really panning out, is it? their models have been improving but still far behind. as of now, there’s just no practical reason to use any of the latest gemini models when i have opus and fable\n\nrelying so heavily on data collection also indicates their training pipeline is still in the last era of SFT and they haven’t actually nailed RLVR like the other labs have\n\ni think google really needs to revisit their AI strategy. this is just not working",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2122043591451389962",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 70,
+        "reposts": 15,
+        "likes": 375,
+        "quotes": 6,
+        "views": 26915
+      },
+      "fetched_at": "2026-11-16T02:49:04.673Z"
+    },
+    {
       "id": "2121684514728727003",
       "url": "https://x.com/kunchenguid/status/2121684514728727003",
       "creator": "kunchenguid",
