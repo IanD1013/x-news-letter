@@ -2,6 +2,289 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2122783864871666006",
+      "url": "https://x.com/kunchenguid/status/2122783864871666006",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T20:08:07.000Z",
+      "sort_at": "2026-11-17T20:08:07.000Z",
+      "text": "umm... \n\n1. \"your agents can finally use a mac\" - my agents have been able to use a mac for ages 😅\n\n2. this price point is just insane. every few weeks it costs the FULL price of buying the mac mini itself\n\nthis is why i've been running agents on my own macs. cloud sandboxes only make sense if someone else is paying your bill",
+      "media": [
+        {
+          "id": "2122782605011746816",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXWjiEMagAAVAZU.png?name=orig",
+          "thumbnail_url": null,
+          "width": 419,
+          "height": 148
+        }
+      ],
+      "quote": {
+        "id": "2122721729512628713",
+        "url": "https://x.com/ivanburazin/status/2122721729512628713",
+        "author": {
+          "screen_name": "ivanburazin",
+          "name": "Ivan Burazin",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1549052013178134529/FljtGcgj_200x200.jpg"
+        },
+        "created_at": "2026-11-17T16:01:13.000Z",
+        "text": "Your agents can finally use a Mac.\n\nmacOS Sandboxes are now live on @daytonaio: M4, M4 Pro and M5 Pro.\n\nSpin one up at https://app.daytona.com",
+        "media": [
+          {
+            "id": "2122716339152261121",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122716339152261121/vid/avc1/1920x1080/Aut8BKkMvXNxeftP.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122716339152261121/img/e88x-Wc9WS0Sg83O.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 16.916
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122783864871666006",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 19,
+        "reposts": 4,
+        "likes": 105,
+        "quotes": 0,
+        "views": 10669
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122758832682422748",
+      "url": "https://x.com/kunchenguid/status/2122758832682422748",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T18:28:39.000Z",
+      "sort_at": "2026-11-17T18:28:39.000Z",
+      "text": "gpt 6.2 astra and sol - will try them out soon and i hope they are good! \n\nthis is a somewhat critical release - if this still can't compete with opus 5.5 on daily use, i think openai will be in trouble",
+      "media": [],
+      "quote": {
+        "id": "2122750124543926515",
+        "url": "https://x.com/OpenAI/status/2122750124543926515",
+        "author": {
+          "screen_name": "OpenAI",
+          "name": "OpenAI",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg"
+        },
+        "created_at": "2026-11-17T17:54:03.000Z",
+        "text": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and Sol are now available.\n\nSuper efficient and built to perform where it counts—the real world.\n\nhttps://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "media": [
+          {
+            "id": "2122746240823943168",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122746240823943168/vid/avc1/1920x1080/u9FA7vr_eObv2kjx.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122746240823943168/img/osC4AgQC_BfZl2EH.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 118.66
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122758832682422748",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 2,
+        "likes": 59,
+        "quotes": 0,
+        "views": 5948
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122576930499084772",
+      "url": "https://x.com/twid/status/2122576930499084772",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "twid",
+        "name": "Todd Dailey",
+        "avatar_url": "https://pbs.twimg.com/profile_images/501070859323207682/fNSguMPh_200x200.jpeg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-11-17T06:25:50.000Z",
+      "sort_at": "2026-11-17T18:28:38.000Z",
+      "text": "While at Apple I advocated for a single checkbox in settings for \"run as server\" but \"run as agent\" would work just as well.\n\nThe sad part is Apple had all of this a long time ago with Mac OS X Server but lost interest in the market.\n\nIn my opinion big changes like what Kun Chen wants below will never happen. \n\nApple is happy that people want to buy top spec MacBook Pros and Mac Studios for single person AI development. Core market, lots of love for that.\n\nApple is happy to take orders for, but somewhat confused, that people want to run Mac minis and Mac studios as AI servers. Enterprise sales and a few internal people want this. Apple as a whole doesn't care and won't make any big changes to make this work, especially if it compromises the consumer security & privacy story.\n\nA few companies like @dragonfruitai and @exolabs and @webai work hard to make server-centric, headless enterprise AI happen on Mac mini and Mac Studio, but Apple largely has ignored the market.",
+      "media": [],
+      "quote": {
+        "id": "2122494773068226569",
+        "url": "https://x.com/kunchenguid/status/2122494773068226569",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-17T00:59:22.000Z",
+        "text": "a single fix that would solve all the permission problems on macOS\n\nwe just need a new account type for agents. no admin, no sudo, no full disk access, but can do everything else without ever popping up a permission prompt\n\nthat's literally it",
+        "media": [
+          {
+            "id": "2122493976406269952",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXSdBq2aIAAED2u.png?name=orig",
+            "thumbnail_url": null,
+            "width": 745,
+            "height": 450
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122576930499084772",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 5,
+        "likes": 95,
+        "quotes": 1,
+        "views": 12359
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122568481598218499",
+      "url": "https://x.com/kunchenguid/status/2122568481598218499",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T05:52:16.000Z",
+      "sort_at": "2026-11-17T05:52:16.000Z",
+      "text": "20 yrs ago, i was a kid spending most of my days playing wow and writing code, in my college dorm room\n\n20 yrs later today, i’m still spending most of my days playing wow and writing code!\n\n20 yrs at big tech, the kid never changed",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2122568481598218499",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 18,
+        "reposts": 1,
+        "likes": 191,
+        "quotes": 0,
+        "views": 8159
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122524013461422387",
+      "url": "https://x.com/kunchenguid/status/2122524013461422387",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T02:55:34.000Z",
+      "sort_at": "2026-11-17T02:55:34.000Z",
+      "text": "my stallions survived an outage today! \n\nthe anker battery there switched over within 10ms and all machines continued to work with no disruption\n\navailability is better than github at this point 😂",
+      "media": [],
+      "quote": {
+        "id": "2120393091953963074",
+        "url": "https://x.com/kunchenguid/status/2120393091953963074",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-11T05:48:02.000Z",
+        "text": "more stallion 🐎",
+        "media": [
+          {
+            "id": "2120393088212635648",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HW0mR4cbkAA5-SG.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2048,
+            "height": 1536
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122524013461422387",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 11,
+        "reposts": 0,
+        "likes": 179,
+        "quotes": 0,
+        "views": 9811
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122494773068226569",
+      "url": "https://x.com/kunchenguid/status/2122494773068226569",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T00:59:22.000Z",
+      "sort_at": "2026-11-17T00:59:22.000Z",
+      "text": "a single fix that would solve all the permission problems on macOS\n\nwe just need a new account type for agents. no admin, no sudo, no full disk access, but can do everything else without ever popping up a permission prompt\n\nthat's literally it",
+      "media": [
+        {
+          "id": "2122493976406269952",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXSdBq2aIAAED2u.png?name=orig",
+          "thumbnail_url": null,
+          "width": 745,
+          "height": 450
+        }
+      ],
+      "quote": {
+        "id": "2122463466304971068",
+        "url": "https://x.com/steipete/status/2122463466304971068",
+        "author": {
+          "screen_name": "steipete",
+          "name": "Peter Steinberger",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1131851609774985216/OcsssQ9J_200x200.png"
+        },
+        "created_at": "2026-11-16T22:54:58.000Z",
+        "text": "People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting\n\nApple: I hear you, here’s some new scary alerts",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122494773068226569",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 16,
+        "reposts": 13,
+        "likes": 202,
+        "quotes": 3,
+        "views": 25094
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
       "id": "2122440577153388858",
       "url": "https://x.com/kunchenguid/status/2122440577153388858",
       "creator": "kunchenguid",

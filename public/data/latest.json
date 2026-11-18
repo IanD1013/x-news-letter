@@ -1,6 +1,289 @@
 {
-  "generated_at": "2026-11-16T22:15:20.454Z",
+  "generated_at": "2026-11-18T04:30:04.066Z",
   "posts": [
+    {
+      "id": "2122783864871666006",
+      "url": "https://x.com/kunchenguid/status/2122783864871666006",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T20:08:07.000Z",
+      "sort_at": "2026-11-17T20:08:07.000Z",
+      "text": "umm... \n\n1. \"your agents can finally use a mac\" - my agents have been able to use a mac for ages 😅\n\n2. this price point is just insane. every few weeks it costs the FULL price of buying the mac mini itself\n\nthis is why i've been running agents on my own macs. cloud sandboxes only make sense if someone else is paying your bill",
+      "media": [
+        {
+          "id": "2122782605011746816",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXWjiEMagAAVAZU.png?name=orig",
+          "thumbnail_url": null,
+          "width": 419,
+          "height": 148
+        }
+      ],
+      "quote": {
+        "id": "2122721729512628713",
+        "url": "https://x.com/ivanburazin/status/2122721729512628713",
+        "author": {
+          "screen_name": "ivanburazin",
+          "name": "Ivan Burazin",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1549052013178134529/FljtGcgj_200x200.jpg"
+        },
+        "created_at": "2026-11-17T16:01:13.000Z",
+        "text": "Your agents can finally use a Mac.\n\nmacOS Sandboxes are now live on @daytonaio: M4, M4 Pro and M5 Pro.\n\nSpin one up at https://app.daytona.com",
+        "media": [
+          {
+            "id": "2122716339152261121",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122716339152261121/vid/avc1/1920x1080/Aut8BKkMvXNxeftP.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122716339152261121/img/e88x-Wc9WS0Sg83O.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 16.916
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122783864871666006",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 19,
+        "reposts": 4,
+        "likes": 105,
+        "quotes": 0,
+        "views": 10669
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122758832682422748",
+      "url": "https://x.com/kunchenguid/status/2122758832682422748",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T18:28:39.000Z",
+      "sort_at": "2026-11-17T18:28:39.000Z",
+      "text": "gpt 6.2 astra and sol - will try them out soon and i hope they are good! \n\nthis is a somewhat critical release - if this still can't compete with opus 5.5 on daily use, i think openai will be in trouble",
+      "media": [],
+      "quote": {
+        "id": "2122750124543926515",
+        "url": "https://x.com/OpenAI/status/2122750124543926515",
+        "author": {
+          "screen_name": "OpenAI",
+          "name": "OpenAI",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_200x200.jpg"
+        },
+        "created_at": "2026-11-17T17:54:03.000Z",
+        "text": "Some of you have been asking very politely. Some of you have just been asking.\n\nGPT-6.2 Astra and Sol are now available.\n\nSuper efficient and built to perform where it counts—the real world.\n\nhttps://openai.com/index/introducing-gpt-6-2-astra-sol",
+        "media": [
+          {
+            "id": "2122746240823943168",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2122746240823943168/vid/avc1/1920x1080/u9FA7vr_eObv2kjx.mp4?tag=29",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2122746240823943168/img/osC4AgQC_BfZl2EH.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 118.66
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122758832682422748",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 10,
+        "reposts": 2,
+        "likes": 59,
+        "quotes": 0,
+        "views": 5948
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122576930499084772",
+      "url": "https://x.com/twid/status/2122576930499084772",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "twid",
+        "name": "Todd Dailey",
+        "avatar_url": "https://pbs.twimg.com/profile_images/501070859323207682/fNSguMPh_200x200.jpeg"
+      },
+      "reposted_by": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "created_at": "2026-11-17T06:25:50.000Z",
+      "sort_at": "2026-11-17T18:28:38.000Z",
+      "text": "While at Apple I advocated for a single checkbox in settings for \"run as server\" but \"run as agent\" would work just as well.\n\nThe sad part is Apple had all of this a long time ago with Mac OS X Server but lost interest in the market.\n\nIn my opinion big changes like what Kun Chen wants below will never happen. \n\nApple is happy that people want to buy top spec MacBook Pros and Mac Studios for single person AI development. Core market, lots of love for that.\n\nApple is happy to take orders for, but somewhat confused, that people want to run Mac minis and Mac studios as AI servers. Enterprise sales and a few internal people want this. Apple as a whole doesn't care and won't make any big changes to make this work, especially if it compromises the consumer security & privacy story.\n\nA few companies like @dragonfruitai and @exolabs and @webai work hard to make server-centric, headless enterprise AI happen on Mac mini and Mac Studio, but Apple largely has ignored the market.",
+      "media": [],
+      "quote": {
+        "id": "2122494773068226569",
+        "url": "https://x.com/kunchenguid/status/2122494773068226569",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-17T00:59:22.000Z",
+        "text": "a single fix that would solve all the permission problems on macOS\n\nwe just need a new account type for agents. no admin, no sudo, no full disk access, but can do everything else without ever popping up a permission prompt\n\nthat's literally it",
+        "media": [
+          {
+            "id": "2122493976406269952",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HXSdBq2aIAAED2u.png?name=orig",
+            "thumbnail_url": null,
+            "width": 745,
+            "height": 450
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122576930499084772",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 5,
+        "likes": 95,
+        "quotes": 1,
+        "views": 12359
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122568481598218499",
+      "url": "https://x.com/kunchenguid/status/2122568481598218499",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T05:52:16.000Z",
+      "sort_at": "2026-11-17T05:52:16.000Z",
+      "text": "20 yrs ago, i was a kid spending most of my days playing wow and writing code, in my college dorm room\n\n20 yrs later today, i’m still spending most of my days playing wow and writing code!\n\n20 yrs at big tech, the kid never changed",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2122568481598218499",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 18,
+        "reposts": 1,
+        "likes": 191,
+        "quotes": 0,
+        "views": 8159
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122524013461422387",
+      "url": "https://x.com/kunchenguid/status/2122524013461422387",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T02:55:34.000Z",
+      "sort_at": "2026-11-17T02:55:34.000Z",
+      "text": "my stallions survived an outage today! \n\nthe anker battery there switched over within 10ms and all machines continued to work with no disruption\n\navailability is better than github at this point 😂",
+      "media": [],
+      "quote": {
+        "id": "2120393091953963074",
+        "url": "https://x.com/kunchenguid/status/2120393091953963074",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-11T05:48:02.000Z",
+        "text": "more stallion 🐎",
+        "media": [
+          {
+            "id": "2120393088212635648",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HW0mR4cbkAA5-SG.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2048,
+            "height": 1536
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122524013461422387",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 11,
+        "reposts": 0,
+        "likes": 179,
+        "quotes": 0,
+        "views": 9811
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
+    {
+      "id": "2122494773068226569",
+      "url": "https://x.com/kunchenguid/status/2122494773068226569",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-17T00:59:22.000Z",
+      "sort_at": "2026-11-17T00:59:22.000Z",
+      "text": "a single fix that would solve all the permission problems on macOS\n\nwe just need a new account type for agents. no admin, no sudo, no full disk access, but can do everything else without ever popping up a permission prompt\n\nthat's literally it",
+      "media": [
+        {
+          "id": "2122493976406269952",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXSdBq2aIAAED2u.png?name=orig",
+          "thumbnail_url": null,
+          "width": 745,
+          "height": 450
+        }
+      ],
+      "quote": {
+        "id": "2122463466304971068",
+        "url": "https://x.com/steipete/status/2122463466304971068",
+        "author": {
+          "screen_name": "steipete",
+          "name": "Peter Steinberger",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1131851609774985216/OcsssQ9J_200x200.png"
+        },
+        "created_at": "2026-11-16T22:54:58.000Z",
+        "text": "People: Please reduce the number of permission alerts so agents can work on macOS without constant babysitting\n\nApple: I hear you, here’s some new scary alerts",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122494773068226569",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 16,
+        "reposts": 13,
+        "likes": 202,
+        "quotes": 3,
+        "views": 25094
+      },
+      "fetched_at": "2026-11-18T04:30:03.364Z"
+    },
     {
       "id": "2122440577153388858",
       "url": "https://x.com/kunchenguid/status/2122440577153388858",
@@ -3288,262 +3571,6 @@
         "views": 1821
       },
       "fetched_at": "2026-10-18T15:56:31.870Z"
-    },
-    {
-      "id": "2111672985111470379",
-      "url": "https://x.com/kunchenguid/status/2111672985111470379",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-18T04:17:27.000Z",
-      "sort_at": "2026-10-18T04:17:27.000Z",
-      "text": "this is a great write up. i’ve answered many people similarly - \n\ndon’t fall in love with tools and activities. the world changes and they go away\n\nput your passion on solving problems using whatever tools that are the most effective and you’ll never be “replaced”",
-      "media": [],
-      "quote": {
-        "id": "2111633221725122769",
-        "url": "https://x.com/TimSweeneyEpic/status/2111633221725122769",
-        "author": {
-          "screen_name": "TimSweeneyEpic",
-          "name": "Tim Sweeney",
-          "avatar_url": "https://pbs.twimg.com/profile_images/795819168629198849/SBY3ARvZ_200x200.jpg"
-        },
-        "created_at": "2026-10-18T01:39:26.000Z",
-        "text": "When I was writing Unreal Engine 1, my time was divided as follows:\n\n- Around 30% went to seriously deep coding on hard problems: assembly language texture mappers, C++ BSP trees, data persistence, object oriented systems design, and networking.\n\n- Around 70% was just typing and refactoring large bodies of code needed for a complete engine feature set. This was not hard, and while I was doing it my mind was mostly on the deeper coding topics, thinking and planning for what's next. It didn't feel much different from vibe coding today, except that it was just me typing code on an IBM Model M keyboard rather than prompting it and reviewing the results.\n\nSo, it has always seemed perfectly logical that we would rely on AI for that 70%, once the AI could do it with a similar quality standard as we could, which has never been perfection. It came as no surprise that, after a few years of AI model evolution, it was able to take the reigns on that 70% and free up programmers' time for more valuable tasks.\n\nWhat's more of a surprise is the emergence of AI as a sort of insta-Carmack able to solve hard technical problems quite cleverly and often cleanly, and that it's able to reason about and work in complex 3D scenes both by operating the tools and by directly understanding the raw data files.\n\nI abandoned assembly language in 1998 when out-of-order CPUs made much simpler C/C++ code faster, and never I missed it. If prompting through architectural documents, concept art, and design plans can transcend typing code and tweaking vertices, that will enable developers to spend their time on higher-level, higher value technical and creative tasks.\n\nWhat matters is the end product, whether it's a game or an engine. Anything developers can do to try out more ideas and make better software and games faster is a win for everyone.",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2111672985111470379",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 5,
-        "reposts": 8,
-        "likes": 70,
-        "quotes": 0,
-        "views": 3782
-      },
-      "fetched_at": "2026-10-18T06:00:13.607Z"
-    },
-    {
-      "id": "2111564374271992291",
-      "url": "https://x.com/kunchenguid/status/2111564374271992291",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-17T21:05:52.000Z",
-      "sort_at": "2026-10-17T21:05:52.000Z",
-      "text": "part 3 is here - https://x.com/kunchenguid/status/2111536655442264387?s=20",
-      "media": [],
-      "quote": {
-        "id": "2111536655442264387",
-        "url": "https://x.com/kunchenguid/status/2111536655442264387",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-10-17T19:15:43.000Z",
-        "text": "part 3 of \"software is taking off\"\n\nthere's a profound misconception that led to people saying \"software is dead\": they think software = code\n\nif software = code, and anyone's agent can write said code as needed, then of course it'll be hard to sell software\n\nbut most of the valuable software we use today is not just a pile of code!\n\ngood software is often the glue behind a network. your agent can vibe code a clone of X, instagram, uber all you want - but you won't even use it yourself, because the people you care about aren't there\n\ngood software is often the tip of an infrastructure iceberg. can your agent vibe code google on the fly? even if it wrote the code, where do you get the billion-dollar data centers to run the code?\n\ngood software is often a business model. want to vibe code a tinder clone? even if we ignore the network effect which your agent has absolutely no way to replicate, you still have to figure out - how on earth are you going to afford all the servers? \n\nif you charge every user, you instantly kill the network. if you let people use it for free, you bankrupt yourself. it took a lot of effort to find the delicate balance between who would pay, for what features, and by how much\n\ngood software is often also its compliance. do you honestly think companies buy salesforce and workday etc because they have beautiful high quality code that no one else can write? i mean.. have you looked at those products? \n\nbut if you let your agents vibe code a clone, you immediately get into a rabbit hole of questions like - where do you store which piece of your data? how long can you keep them? what laws and regulations in each country just changed that require your vibe coded clone to keep up? one little mistake, and you get a very costly lawsuit\n\ncompanies pay for those saas because they want someone else to take care of those complexity, so they can focus on their actual business, not spending their own time and take legal risks on their own shoulders\n\ngood software is often a lot of negotiations. want to vibe code spotify? well, first hire a big law firm and good luck negotiating all the licensing and rev share agreements\n\ni can keep going on and on, but i think what i wrote above already gives a clear idea that valuable software is not just code, and cannot be replaced by an agent replicating its implementation\n\nnow, i should also point out that some software today is indeed just a small pile of code, like a fitness tracker. simple client-only applications may be what some indie hackers were counting on, but they would likely not carry a sustainable business, even today. that's never been what defines the software industry\n\ni also think it's a profound mistake if people use AI only to repeat what already exists. i think the majority of the value AI brings will come from achieving things that weren't quite possible before. and i'll talk more about that in a subsequent part of this series",
-        "media": []
-      },
-      "reply_to_id": "2111158194773094877",
-      "thread_root_id": "2111158192931762335",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 2,
-        "quotes": 0,
-        "views": 563
-      },
-      "fetched_at": "2026-10-17T23:10:50.994Z"
-    },
-    {
-      "id": "2111536656591540383",
-      "url": "https://x.com/kunchenguid/status/2111536656591540383",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-17T19:15:44.000Z",
-      "sort_at": "2026-10-17T19:15:44.000Z",
-      "text": "if you missed previous parts, start here - https://x.com/kunchenguid/status/2110803715108294695?s=20",
-      "media": [],
-      "quote": {
-        "id": "2110803715108294695",
-        "url": "https://x.com/kunchenguid/status/2110803715108294695",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-10-15T18:43:17.000Z",
-        "text": "i've been bashing on \"software is dead\" for a while now. it's probably time for me to start sharing what i think will happen instead as well\n\nthere's so much to unpack, so i'm going to split it into a series of a few parts\n\ntoday i'll start with part 1 - jevons paradox\n\nstory time - let's rewind to the industrial revolution, when steam engines powered all the factories, railways and effectively the economy\n\nbut steam engines had to burn coal - a lot of them. there's a limited amount of coal available, so people started to optimize the steam engines to use less coal\n\nthat's when the counter-intuitive thing happened - when steam engines used less coal, the industry actually ended up using more coal in total\n\nhow?? what jevons found and documented in his book was - when steam engines used less coal, they became cheaper to deploy and run, and hence became economically viable in more places, so the total demand rose significantly as a result\n\nwhen the barrier of entry to create software is significantly reduced, the same will happen - software will become much cheaper and more accessible\n\nhesitant to pay $100/month for the adobe suite today? well, what if it becomes $10 lifetime purchase?\n\nsick of so many mobile apps having a paywall? well, what if the entire app store is $5/month all-you-can-eat?\n\nthe price point for each individual piece of software will drop, but the software economy as a whole will become a lot larger because of the rising consumption demand\n\nso many more people and businesses will get access to software that's too costly for them to use today\n\nso many more people who aren't developing software today will be able to participate, create, help grow the economy and make a living out of it\n\nsoftware is nowhere near \"dead\". it's just about to take off",
-        "media": []
-      },
-      "reply_to_id": "2111536655442264387",
-      "thread_root_id": "2111536655442264387",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "quotes": 0,
-        "views": 831
-      },
-      "fetched_at": "2026-10-17T23:10:50.994Z"
-    },
-    {
-      "id": "2111536655442264387",
-      "url": "https://x.com/kunchenguid/status/2111536655442264387",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-17T19:15:43.000Z",
-      "sort_at": "2026-10-17T19:15:43.000Z",
-      "text": "part 3 of \"software is taking off\"\n\nthere's a profound misconception that led to people saying \"software is dead\": they think software = code\n\nif software = code, and anyone's agent can write said code as needed, then of course it'll be hard to sell software\n\nbut most of the valuable software we use today is not just a pile of code!\n\ngood software is often the glue behind a network. your agent can vibe code a clone of X, instagram, uber all you want - but you won't even use it yourself, because the people you care about aren't there\n\ngood software is often the tip of an infrastructure iceberg. can your agent vibe code google on the fly? even if it wrote the code, where do you get the billion-dollar data centers to run the code?\n\ngood software is often a business model. want to vibe code a tinder clone? even if we ignore the network effect which your agent has absolutely no way to replicate, you still have to figure out - how on earth are you going to afford all the servers? \n\nif you charge every user, you instantly kill the network. if you let people use it for free, you bankrupt yourself. it took a lot of effort to find the delicate balance between who would pay, for what features, and by how much\n\ngood software is often also its compliance. do you honestly think companies buy salesforce and workday etc because they have beautiful high quality code that no one else can write? i mean.. have you looked at those products? \n\nbut if you let your agents vibe code a clone, you immediately get into a rabbit hole of questions like - where do you store which piece of your data? how long can you keep them? what laws and regulations in each country just changed that require your vibe coded clone to keep up? one little mistake, and you get a very costly lawsuit\n\ncompanies pay for those saas because they want someone else to take care of those complexity, so they can focus on their actual business, not spending their own time and take legal risks on their own shoulders\n\ngood software is often a lot of negotiations. want to vibe code spotify? well, first hire a big law firm and good luck negotiating all the licensing and rev share agreements\n\ni can keep going on and on, but i think what i wrote above already gives a clear idea that valuable software is not just code, and cannot be replaced by an agent replicating its implementation\n\nnow, i should also point out that some software today is indeed just a small pile of code, like a fitness tracker. simple client-only applications may be what some indie hackers were counting on, but they would likely not carry a sustainable business, even today. that's never been what defines the software industry\n\ni also think it's a profound mistake if people use AI only to repeat what already exists. i think the majority of the value AI brings will come from achieving things that weren't quite possible before. and i'll talk more about that in a subsequent part of this series",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2111536655442264387",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 22,
-        "reposts": 6,
-        "likes": 94,
-        "quotes": 2,
-        "views": 4994
-      },
-      "fetched_at": "2026-10-17T23:10:50.994Z"
-    },
-    {
-      "id": "2111278732464074941",
-      "url": "https://x.com/kunchenguid/status/2111278732464074941",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-17T02:10:50.000Z",
-      "sort_at": "2026-10-17T02:10:50.000Z",
-      "text": "interesting write-up from ceo of e2b\n\nbut let me rephrase the title honestly for you -\n\n\"Your sandboxes are dead. My sandboxes are great!\"",
-      "media": [],
-      "quote": {
-        "id": "2111102659377946821",
-        "url": "https://x.com/mlejva/status/2111102659377946821",
-        "author": {
-          "screen_name": "mlejva",
-          "name": "Vasek Mlejnsky",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1943457701935099905/FPcOnaOf_200x200.jpg"
-        },
-        "created_at": "2026-10-16T14:31:11.000Z",
-        "text": "https://x.com/i/article/2110958631810220032",
-        "media": []
-      },
-      "reply_to_id": null,
-      "thread_root_id": "2111278732464074941",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 2,
-        "reposts": 2,
-        "likes": 35,
-        "quotes": 0,
-        "views": 3782
-      },
-      "fetched_at": "2026-10-17T05:39:03.726Z"
-    },
-    {
-      "id": "2111167382484111853",
-      "url": "https://x.com/kunchenguid/status/2111167382484111853",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-16T18:48:22.000Z",
-      "sort_at": "2026-10-16T18:48:22.000Z",
-      "text": "part 2 is here - https://x.com/kunchenguid/status/2111158192931762335?s=20",
-      "media": [],
-      "quote": {
-        "id": "2111158192931762335",
-        "url": "https://x.com/kunchenguid/status/2111158192931762335",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-10-16T18:11:51.000Z",
-        "text": "part 2 of \"software is taking off\"\n\nmany people argued - now that everyone will just have their agent build whatever they need, software businesses will no longer be able to make money, hence \"software is dead\"\n\ni'm here to show you why that's wrong, by exploring what happened to major technological transformations in the past\n\nfig 1. microwave vs restaurants\n\nin the 1980s, the adoption of microwave in households started to explode. it allowed pretty much anyone to cook a simple meal for themselves in a matter of minutes\n\nmany predicted that the restaurant businesses will collapse because why pay for expensive restaurant dining when it's so easy to make food at home\n\nnow with the benefit of hindsight, we can see the adoption of microwave did not slow down restaurant business growth AT ALL - not by a single bit\n\nfig 2. espresso machines vs coffee shops\n\nsimilarly to the above, espresso machines gained significant adoption since 2000\n\nintuitively, every cup of coffee people make at home is a few dollars the coffee shops would lose, so the growth of espresso machines and coffee shops should go in opposite direction\n\nbut they did not. they both grew at the same time\n\nfig 3. iphone camera vs photographers\n\nwhen everyone has a camera in their pocket all the time, it would surely put photographers out of their jobs, right? ...right?\n\ncounter to many people's intuition, employment of professional photographers remained stable after iphone adoption exploded in the 2010s\n\nthere was a little dip due to COVID, but it's recovered since, and overall it even grew slightly since 2000\n\nfig 4. tiktok vs streaming\n\nshort form videos absolutely exploded in growth since its introduction. tiktok allowed pretty much everyone to easily create entertaining videos others can watch\n\nas the incumbent entertainment video format, TVs and movies would totally take a massive hit, right?\n\nbut no it didn't\n\nhow?? all these industries got democratized by technology and became accessible to a much larger number of people, why won't they just die, like the hype trains said they would?\n\nyou see - \n\npeople go to coffee shops and restaurants to be lazy, to be serviced, to socialize, to celebrate. you can't do any of that with a microwave and espresso machine at home\n\npeople hire photographers for their wedding because it's a special day and they want the beautifully captured memory to stand out in their album. using a phone is the opposite of special\n\npeople watch tv shows and movies to enjoy a well crafted story, feel moved, touched, and sometimes to share some emotion and bond with others. tiktok scrolling does not give them that at all\n\nwhen technology is democratized and made accessible to the general public, they tend to be used to create a different set of things, not a replacement to the existing professional business\n\ngo to your phone settings and take a look at the apps where you spent the most time. for me, that's X, discord, wechat, whatsapp, youtube, youtube music, tiktok\n\nyour agent can't create a replacement for any single one of them. look at yours and ask yourself which one would you bother to vibe code?\n\nwhat regular people will create with AI is going to be an exciting set of new things. things that never existed before, that would open up new markets and be net new to the economy. things that are way more interesting than \"you built your kanban board, and i did one too\"",
-        "media": [
-          {
-            "id": "2111141471604858880",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUxH-62aYAANDur.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1785,
-            "height": 1033
-          },
-          {
-            "id": "2111143102224474112",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUxJd1YbIAA_k--.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1785,
-            "height": 1038
-          },
-          {
-            "id": "2111145183320629248",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUxLW-EaYAA_J6K.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1785,
-            "height": 1033
-          },
-          {
-            "id": "2111146852230090752",
-            "type": "photo",
-            "url": "https://pbs.twimg.com/media/HUxM4HPb0AA5Pws.jpg?name=orig",
-            "thumbnail_url": null,
-            "width": 1785,
-            "height": 1038
-          }
-        ]
-      },
-      "reply_to_id": "2110803715108294695",
-      "thread_root_id": "2110803715108294695",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 4,
-        "quotes": 0,
-        "views": 839
-      },
-      "fetched_at": "2026-10-17T05:39:03.726Z"
     }
   ]
 }
