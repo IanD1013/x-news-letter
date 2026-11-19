@@ -1,6 +1,119 @@
 {
-  "generated_at": "2026-11-18T04:30:04.066Z",
+  "generated_at": "2026-11-19T03:37:37.196Z",
   "posts": [
+    {
+      "id": "2123215656145551371",
+      "url": "https://x.com/kunchenguid/status/2123215656145551371",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-19T00:43:54.000Z",
+      "sort_at": "2026-11-19T00:43:54.000Z",
+      "text": "try and answer this without looking them up -\n\ngemini 4 argon, hydrogen, neon, carbon\n\nwhich is smaller, which is bigger?",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2123215656145551371",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 16,
+        "reposts": 1,
+        "likes": 50,
+        "quotes": 1,
+        "views": 6889
+      },
+      "fetched_at": "2026-11-19T03:37:36.575Z"
+    },
+    {
+      "id": "2123099377946546491",
+      "url": "https://x.com/kunchenguid/status/2123099377946546491",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-18T17:01:51.000Z",
+      "sort_at": "2026-11-18T17:01:51.000Z",
+      "text": "ok after a full day of using gpt 6.2 astra and sol on my real projects, here's my review\n\ntl;dr - they are not a drop-in replacement for fable 5.2 and opus 5.5, but they are _really good_ once you figured out how to use their strength\n\n1. first, the quirks\n\ni started called these the \"gpt smell\", which is still here with the 6.2 series\n\nthe models' judgment on when to ask the user about something and when to go ahead is just not quite right. it'll escalate trivial decisions where clearly only one option is preferable, or choose to go down a path by itself that makes significant tradeoffs that should have needed my eyes\n\nso as a primary driver for \"let me just talk to it about everything\" type of use case, they aren't great - i'd say they are close to opus 5 in this regard, and far behind opus 5.5\n\n2. but... i found something _really_ cool\n\nhaving ultrafast on sol is completely insane. with astra, it burns my wallet ultrafast, but with sol it's actually quite affordable! \n\nthe best use of sol on ultrafast that i've found is adversarial code reviews - they typically don't need to run a lot of heavy tool calls that would slow them down. most of the time is spent on the model, which gets massively accelerated by ultrafast\n\nonce you got a feel from using sol ultrafast as the code reviewer, you can never go back. it feels like pure magic\n\n3. and... i found something else that's really cool\n\nwe are not supposed to ask the gpt 6.2 series to respond in text. we should let them respond in html! (i use lavish-axi, but you can just ask for html or use whatever fits in your harness)\n\ni suspect they are post-trained specifically on their latest \"intelligent UI\" concept in chatgpt - these models are so good at visual presentations of ideas\n\nonce you allow the model to respond in visual artifacts, it's a completely different game. the reports and decisions explained by astra in html is a clear step function better than what fable and opus give me\n\nso after a day of use, i've made two changes to my setup:\n- always sol ultrafast as code reviewer\n- i started preferring asking astra for planning in html artifacts over fable/opus. i think i'll keep a/b testing for a while to decide how much and for which case i fully switch over\n\nall in all, i strongly recommend spending more time with these two models. don't expect them to be the \"everything\" model, but rather figure out where they fit best in your workflow. i couldn't be happier for the two use cases i found above, and i'm pretty sure there are more",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2123099377946546491",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 53,
+        "reposts": 34,
+        "likes": 1097,
+        "quotes": 9,
+        "views": 80196
+      },
+      "fetched_at": "2026-11-19T03:37:36.575Z"
+    },
+    {
+      "id": "2122940394229108751",
+      "url": "https://x.com/kunchenguid/status/2122940394229108751",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-18T06:30:06.000Z",
+      "sort_at": "2026-11-18T06:30:06.000Z",
+      "text": "adding about one more stallion every week! \n\ni’m close to a point where i’ll need to alter the electrical circuits in my house to provide them power\n\nthese stallions have been cooking something really awesome that i can’t wait to share with you all",
+      "media": [
+        {
+          "id": "2122940390139629568",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXYzCXmaEAAQPh8.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "quote": {
+        "id": "2120393091953963074",
+        "url": "https://x.com/kunchenguid/status/2120393091953963074",
+        "author": {
+          "screen_name": "kunchenguid",
+          "name": "Kun Chen",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+        },
+        "created_at": "2026-11-11T05:48:02.000Z",
+        "text": "more stallion 🐎",
+        "media": [
+          {
+            "id": "2120393088212635648",
+            "type": "photo",
+            "url": "https://pbs.twimg.com/media/HW0mR4cbkAA5-SG.jpg?name=orig",
+            "thumbnail_url": null,
+            "width": 2048,
+            "height": 1536
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2122940394229108751",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 38,
+        "reposts": 1,
+        "likes": 172,
+        "quotes": 0,
+        "views": 8725
+      },
+      "fetched_at": "2026-11-19T03:37:36.575Z"
+    },
     {
       "id": "2122783864871666006",
       "url": "https://x.com/kunchenguid/status/2122783864871666006",
@@ -3487,90 +3600,6 @@
         "views": 542
       },
       "fetched_at": "2026-10-19T17:32:38.389Z"
-    },
-    {
-      "id": "2112202961862750604",
-      "url": "https://x.com/kunchenguid/status/2112202961862750604",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-19T15:23:23.000Z",
-      "sort_at": "2026-10-19T15:23:23.000Z",
-      "text": "ironically, LLMs themselves have NOT internalized the bitter lesson\n\nwhen using LLMs to write LLM powered systems, they keep building rigid knowledge with deterministic code, and don’t know where to cut the line of writing prompts instead",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2112202961862750604",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 13,
-        "reposts": 3,
-        "likes": 61,
-        "quotes": 0,
-        "views": 3782
-      },
-      "fetched_at": "2026-10-19T17:32:38.389Z"
-    },
-    {
-      "id": "2111971331659166157",
-      "url": "https://x.com/kunchenguid/status/2111971331659166157",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-19T00:02:58.000Z",
-      "sort_at": "2026-10-19T00:02:58.000Z",
-      "text": "agents just enabled a new type of work life balance\n\nwork - kick off 10 agents\n\nlife - get coffee and breakfast\n\nwork - come back to answer their questions, make decisions, and kick off more agents\n\nlife - workout\n\nwork - come back...\n\nlife - play video games",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2111971331659166157",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 2,
-        "reposts": 2,
-        "likes": 15,
-        "quotes": 0,
-        "views": 718
-      },
-      "fetched_at": "2026-10-19T00:13:49.368Z"
-    },
-    {
-      "id": "2111841732308668832",
-      "url": "https://x.com/kunchenguid/status/2111841732308668832",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-18T15:27:59.000Z",
-      "sort_at": "2026-10-18T15:27:59.000Z",
-      "text": "a lot of the shortcomings we are seeing with coding agents today ultimately boil down to limitations in post training\n\nwhy agents don’t write good tests by default? why do they spit out a ton of useless comments? why do vibe coded codebases all turn into a mess without human steering and intervention? \n\nbecause in current RLVR pipelines, we reward task resolution. as long as the agents wrote code that could pass predefined hidden tests, that’s a success\n\nwhether the architecture is clean, whether the code is easy to maintain and evolve, whether the comments are actually helpful in future work, whether the test cases help catch real problems down the road - none of these make a difference in how the model was rewarded when the reward is done at task level\n\nwe have been “fixing” a lot of these problems with system prompts, skills, and harness features, which is very necessary in the near term\n\nbut i think eventually the post training pipeline will keep evolving and take more and more of these long term considerations into account\n\nwhen it does, we will finally have agents that can write good code by default. anyone will be able to build very complex software as long as they can articulate their intent clearly\n\nexperienced engineers will not have an advantage any more just because they know a little more than average people on how to write good code (including myself)\n\nand i think that’ll be a very beautiful world",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2111841732308668832",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 9,
-        "reposts": 3,
-        "likes": 42,
-        "quotes": 0,
-        "views": 1821
-      },
-      "fetched_at": "2026-10-18T15:56:31.870Z"
     }
   ]
 }
