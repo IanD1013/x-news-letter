@@ -1,6 +1,140 @@
 {
-  "generated_at": "2026-11-19T03:37:37.196Z",
+  "generated_at": "2026-11-20T03:29:30.767Z",
   "posts": [
+    {
+      "id": "2123535451084722667",
+      "url": "https://x.com/kunchenguid/status/2123535451084722667",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-19T21:54:39.000Z",
+      "sort_at": "2026-11-19T21:54:39.000Z",
+      "text": "wow i haven't checked for a while and just noticed https://axi.md now has a catalog with over 100+ AXI tools built by the community, covering almost everything you can think of. OSS FTW!\n\ni covered them in many of my videos, but most of the tools i give to my agents are AXIs\n\nif you haven't seen AXIs yet, they are highly agent ergonomic tools. they are to agents what well-designed apps feel like to humans - it saves roundtrips, tokens and time",
+      "media": [
+        {
+          "id": "2123533845404528640",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXhOyAvbMAAPJ2Y.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1184,
+          "height": 559
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2123535451084722667",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 6,
+        "likes": 69,
+        "quotes": 0,
+        "views": 4717
+      },
+      "fetched_at": "2026-11-20T03:29:29.855Z"
+    },
+    {
+      "id": "2123478958494904388",
+      "url": "https://x.com/kunchenguid/status/2123478958494904388",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-19T18:10:10.000Z",
+      "sort_at": "2026-11-19T18:10:10.000Z",
+      "text": "tbh i never quite liked the terminology of “software factory”\n\nbut this has got to be the best write up i’ve seen so far that shared all the inner details of how to DIY and how each bottleneck was solved\n\ngreat reference for anyone exploring custom harness/factories!",
+      "media": [],
+      "quote": {
+        "id": "2123472779559436533",
+        "url": "https://x.com/CalvinGrunewald/status/2123472779559436533",
+        "author": {
+          "screen_name": "CalvinGrunewald",
+          "name": "Calvin Grunewald",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2093393722239238144/XJUFuKIl_200x200.jpg"
+        },
+        "created_at": "2026-11-19T17:45:37.000Z",
+        "text": "New blog post out! Learn how I designed and built my software factory. It covers the architecture, design choices, and important learning along the way. Big shout out to @kunchenguid who inspired some design choices (the daemon) along the way!\n https://open.substack.com/pub/thebuildingmachine/p/a-look-inside-the-factory?r=2pj09&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2123478958494904388",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 9,
+        "reposts": 12,
+        "likes": 343,
+        "quotes": 1,
+        "views": 57728
+      },
+      "fetched_at": "2026-11-20T03:29:29.855Z"
+    },
+    {
+      "id": "2123272863314780563",
+      "url": "https://x.com/kunchenguid/status/2123272863314780563",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-19T04:31:13.000Z",
+      "sort_at": "2026-11-19T04:31:13.000Z",
+      "text": "i really like how grok bots can be shared so easily. such a clear network effect advantage over other agents\n\njust submitted my firstmate bot 🤞\n\nhttps://x.ai/bot/__4FfrkUdvpdMk6-LKg5r",
+      "media": [
+        {
+          "id": "2123272860856881152",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXdhatiaEAAPFV7.jpg?name=orig",
+          "thumbnail_url": null,
+          "width": 1206,
+          "height": 809
+        }
+      ],
+      "quote": {
+        "id": "2123102642704675241",
+        "url": "https://x.com/ericzakariasson/status/2123102642704675241",
+        "author": {
+          "screen_name": "ericzakariasson",
+          "name": "eric zakariasson",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1841151626456801283/HnXqy3TQ_200x200.jpg"
+        },
+        "created_at": "2026-11-18T17:14:50.000Z",
+        "text": "https://grok-bot.directory is live!\n\nthe community directory for grok bot: browse and install bots & apps people have built, or publish your own\n\nlet me know which your favorites are",
+        "media": [
+          {
+            "id": "2123102605375393792",
+            "type": "video",
+            "url": "https://video.twimg.com/amplify_video/2123102605375393792/vid/avc1/1920x1080/EsMG5qyJaN3_oz4N.mp4?tag=16",
+            "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2123102605375393792/img/yKvqYH-LvfkhlBfV.jpg",
+            "width": 1920,
+            "height": 1080,
+            "duration": 24
+          }
+        ]
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2123272863314780563",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 3,
+        "likes": 80,
+        "quotes": 0,
+        "views": 6842
+      },
+      "fetched_at": "2026-11-20T03:29:29.855Z"
+    },
     {
       "id": "2123215656145551371",
       "url": "https://x.com/kunchenguid/status/2123215656145551371",
@@ -3502,104 +3636,6 @@
         "views": 9518
       },
       "fetched_at": "2026-10-20T13:37:32.152Z"
-    },
-    {
-      "id": "2112307458848997803",
-      "url": "https://x.com/kunchenguid/status/2112307458848997803",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-19T22:18:37.000Z",
-      "sort_at": "2026-10-19T22:18:37.000Z",
-      "text": "i got slightly surprised by this so sharing in case it’s helpful -\n\nafter unifying your X subscription, your Grok Bot is no longer running on its own quota like before! it’s now sharing the same weekly quota as coding\n\nthis is actually a good thing - previously the grok bot quota was a bit tight and now it draws from the larger pool - but you’ll need to plan for this or otherwise may end up like me and used up all the quota for coding and got surprised why grok bot stopped working\n\nmy plan is to start using grok bot as the ONLY interface for my X subscription quota. i will no longer use my X sub from Pi and other harnesses\n\nmy grok bot has become increasingly capable as i replicated my firstmate there https://x.ai/bot/__4FfrkUdvpdMk6-LKg5r and for most of my open source maintenance work, i find almost no reason to do them locally now\n\nthe combination of an always-on VM, automated routines, cursor cloud agents, and continuously self-improving bots is quite a powerful combination of primitives for doing pretty much everything",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2112307458848997803",
-      "is_note_tweet": true,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 4,
-        "quotes": 0,
-        "views": 402
-      },
-      "fetched_at": "2026-10-19T22:26:25.581Z"
-    },
-    {
-      "id": "2112245086725841047",
-      "url": "https://x.com/kunchenguid/status/2112245086725841047",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-19T18:10:46.000Z",
-      "sort_at": "2026-10-19T18:10:46.000Z",
-      "text": "sharing a very high value loop i run everyday at 3am\n\n\"audit my development work in the last 24h, identify bottlenecks that slowed down my velocity, and propose improvements\"\n\nit feels great to see your work gets smoother every day",
-      "media": [],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2112245086725841047",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 37,
-        "reposts": 18,
-        "likes": 704,
-        "quotes": 3,
-        "views": 27043
-      },
-      "fetched_at": "2026-10-19T22:26:25.581Z"
-    },
-    {
-      "id": "2112201681605915047",
-      "url": "https://x.com/zevtnax/status/2112201681605915047",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "zevtnax",
-        "name": "Mrigank Krishan",
-        "avatar_url": "https://pbs.twimg.com/profile_images/2103905350399459328/7sGd8_BV_200x200.jpg"
-      },
-      "reposted_by": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "created_at": "2026-10-19T15:18:18.000Z",
-      "sort_at": "2026-10-19T17:32:38.389Z",
-      "text": "@kunchenguid's lavish-axi + @getpaseo = interactive pages with parallel agents!\n\nMy new way to learn a concept: generate a page, ask follow-ups on any part, and agents answer in the background while you keep reading.",
-      "media": [
-        {
-          "id": "2112200855806181376",
-          "type": "video",
-          "url": "https://video.twimg.com/amplify_video/2112200855806181376/vid/avc1/1920x1080/Hax7zRjimSyBzLTM.mp4?tag=29",
-          "thumbnail_url": "https://pbs.twimg.com/amplify_video_thumb/2112200855806181376/img/II8WCWu8AxEujNRM.jpg",
-          "width": 1920,
-          "height": 1080,
-          "duration": 27
-        }
-      ],
-      "quote": null,
-      "reply_to_id": null,
-      "thread_root_id": "2112201681605915047",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 1,
-        "likes": 6,
-        "quotes": 0,
-        "views": 542
-      },
-      "fetched_at": "2026-10-19T17:32:38.389Z"
     }
   ]
 }
