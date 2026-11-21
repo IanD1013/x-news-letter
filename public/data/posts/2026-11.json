@@ -2,6 +2,112 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2123886216194187722",
+      "url": "https://x.com/kunchenguid/status/2123886216194187722",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-20T21:08:28.000Z",
+      "sort_at": "2026-11-20T21:08:28.000Z",
+      "text": "oooh finally a new 26B model! any mac with 32GB+ RAM can run it\n\ni'm quite bullish about the future of these small LLMs - they will continue to get better and eventually able to support a wide range of tasks, and we can all fine-tune them easily for our needs",
+      "media": [],
+      "quote": {
+        "id": "2123871643797995872",
+        "url": "https://x.com/thinkymachines/status/2123871643797995872",
+        "author": {
+          "screen_name": "thinkymachines",
+          "name": "Thinking Machines",
+          "avatar_url": "https://pbs.twimg.com/profile_images/2075275500420001792/Q9J4M1DL_200x200.jpg"
+        },
+        "created_at": "2026-11-20T20:10:34.000Z",
+        "text": "Some of you thought that Inkling 2 Small was too big at 594B parameters. We heard you: Inkling 2 Mini is a looped transformer with just 26B parameters, small enough to run on your laptop, powerful enough for agentic work with a score of 20.1 on AA Index.\nhttps://thinkingmachines.ai/news/inkling-2-mini/",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2123886216194187722",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 3,
+        "reposts": 7,
+        "likes": 194,
+        "quotes": 0,
+        "views": 10392
+      },
+      "fetched_at": "2026-11-21T02:29:42.167Z"
+    },
+    {
+      "id": "2123831643161215270",
+      "url": "https://x.com/kunchenguid/status/2123831643161215270",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-20T17:31:37.000Z",
+      "sort_at": "2026-11-20T17:31:37.000Z",
+      "text": "today, the entire human race have become mathematicians that just opened up the proof, looked at a bunch of weird symbols for 5 seconds and said - “omg we really solved it”",
+      "media": [],
+      "quote": {
+        "id": "2123789252756414577",
+        "url": "https://x.com/yifanzhang_/status/2123789252756414577",
+        "author": {
+          "screen_name": "yifanzhang_",
+          "name": "Yifan Zhang @ NeurIPS",
+          "avatar_url": "https://pbs.twimg.com/profile_images/1984051656049205248/3wgPOgkA_200x200.jpg"
+        },
+        "created_at": "2026-11-20T14:43:10.000Z",
+        "text": "JUST IN: Riemann Hypothesis has been solved.\n\nhttps://alpo.ge/remark.pdf",
+        "media": []
+      },
+      "reply_to_id": null,
+      "thread_root_id": "2123831643161215270",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 6,
+        "reposts": 1,
+        "likes": 86,
+        "quotes": 0,
+        "views": 8688
+      },
+      "fetched_at": "2026-11-21T02:29:42.167Z"
+    },
+    {
+      "id": "2123643593688822222",
+      "url": "https://x.com/kunchenguid/status/2123643593688822222",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-20T05:04:22.000Z",
+      "sort_at": "2026-11-20T05:04:22.000Z",
+      "text": "gemini 4 neon is not bad! talking to it is such a breath of fresh air \n\nall they need to do now is to allow gemini subscription in any harness\n\na come back is as easy as that",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2123643593688822222",
+      "is_note_tweet": false,
+      "lang": "en",
+      "metrics": {
+        "replies": 112,
+        "reposts": 50,
+        "likes": 3121,
+        "quotes": 14,
+        "views": 190051
+      },
+      "fetched_at": "2026-11-21T02:29:42.167Z"
+    },
+    {
       "id": "2123535451084722667",
       "url": "https://x.com/kunchenguid/status/2123535451084722667",
       "creator": "kunchenguid",
