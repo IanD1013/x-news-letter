@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generated_at": "2026-11-21T02:29:42.854Z",
+  "generated_at": "2026-11-21T11:18:44.077Z",
   "creators": [
     {
       "screen_name": "kunchenguid",
@@ -12,7 +12,7 @@
   "months": [
     {
       "month": "2026-11",
-      "count": 57
+      "count": 59
     },
     {
       "month": "2026-10",
@@ -43,6 +43,6 @@
       "count": 12
     }
   ],
-  "total": 722,
-  "newest_id": "2123886216194187722"
+  "total": 724,
+  "newest_id": "2124066583589077005"
 }

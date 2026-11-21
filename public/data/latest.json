@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-21T02:29:42.854Z",
+  "generated_at": "2026-11-21T11:18:44.077Z",
   "posts": [
+    {
+      "id": "2124066583589077005",
+      "url": "https://x.com/kunchenguid/status/2124066583589077005",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-21T09:05:11.000Z",
+      "sort_at": "2026-11-21T09:05:11.000Z",
+      "text": "everyone coding with agents should internalize this -\n\nthe RLVR in current frontier LLMs' post-training is done at task level. in other words, they won't give a damn about long term maintainability\n\nthis is why we see so many useless comments and test cases being written by default. these things make future tasks less efficient, but they don't affect the current task's success, so they survived the training and became part of the models' behaviors\n\nuntil post-training can reward long term maintainability (which i suspect is very hard because inherently it's a slow and expensive process to measure that), it's on us humans to correct it in the harness layer through prompts, skills, lint rules etc\n\nthis also implies that understanding long term implications of technical choices is a valuable human skill that's hard for an average person to make up for with LLM\n\nit's the distinction of whether you can create a durable growing codebase, or have one that gradually degrades  into insanity\n\nif you have that skill, you are golden (for now, until post-training catches up)",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2124066583589077005",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 27,
+        "reposts": 10,
+        "likes": 154,
+        "quotes": 1,
+        "views": 5413
+      },
+      "fetched_at": "2026-11-21T11:18:43.528Z"
+    },
+    {
+      "id": "2123985561551778151",
+      "url": "https://x.com/kunchenguid/status/2123985561551778151",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-21T03:43:14.000Z",
+      "sort_at": "2026-11-21T03:43:14.000Z",
+      "text": "my PR count took a nose dive in the past week, from previously about 200 PRs/day to only 30-ish now, and i'm shipping more than ever\n\nthis happened because i started batching multiple branches into a single PR to improve CI efficiency\n\nright now my CI architecture is -\n\n1. each change gets developed in its own branch as usual\n\n2. each branch that's done gets a very light weight CI check, mostly build and lint\n\n3. all the branches that pass checks then get queued up into a batch\n\n4. a batch becomes a PR which does a heavier CI job\n\n5. while a PR of mine is still active, all new branches wait in the next batch, until the previous PR is merged. this means at any given point in time, in the same repo i will only have at most one PR at a time\n\n6. if a PR fails CI, i fix forward with a new branch added into its batch. this means older branches, even if at fault, would remain immutable which minimizes rebases\n\nso far, this has been working wonders. i think this is much superior than merge queues, because merge queues are typically done at a repo level, and at agent speed the queue can have hundreds of PRs at a time which breaks often and causes a lot of re-selection and makes everyone wait\n\nthis batching happens at user level, so different contributors in the same repo never have to interfere with each other. every user can also choose to apply different strategies - some users may do one PR per branch, and some may do this batch - and they can all work together",
+      "media": [
+        {
+          "id": "2123980319531704320",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXnk2OeboAAykSH.png?name=orig",
+          "thumbnail_url": null,
+          "width": 584,
+          "height": 400
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2123985561551778151",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 52,
+        "reposts": 12,
+        "likes": 337,
+        "quotes": 5,
+        "views": 23588
+      },
+      "fetched_at": "2026-11-21T11:18:43.528Z"
+    },
     {
       "id": "2123886216194187722",
       "url": "https://x.com/kunchenguid/status/2123886216194187722",
@@ -3553,84 +3618,6 @@
         "likes": 224,
         "quotes": 5,
         "views": 9250
-      },
-      "fetched_at": "2026-10-21T01:40:07.552Z"
-    },
-    {
-      "id": "2112625144434983336",
-      "url": "https://x.com/kunchenguid/status/2112625144434983336",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-20T19:20:59.000Z",
-      "sort_at": "2026-10-20T19:20:59.000Z",
-      "text": "my explanation for why \"writing good code\" will not survive as a moat is here - https://x.com/kunchenguid/status/2111841732308668832?s=20",
-      "media": [],
-      "quote": {
-        "id": "2111841732308668832",
-        "url": "https://x.com/kunchenguid/status/2111841732308668832",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-10-18T15:27:59.000Z",
-        "text": "a lot of the shortcomings we are seeing with coding agents today ultimately boil down to limitations in post training\n\nwhy agents don’t write good tests by default? why do they spit out a ton of useless comments? why do vibe coded codebases all turn into a mess without human steering and intervention? \n\nbecause in current RLVR pipelines, we reward task resolution. as long as the agents wrote code that could pass predefined hidden tests, that’s a success\n\nwhether the architecture is clean, whether the code is easy to maintain and evolve, whether the comments are actually helpful in future work, whether the test cases help catch real problems down the road - none of these make a difference in how the model was rewarded when the reward is done at task level\n\nwe have been “fixing” a lot of these problems with system prompts, skills, and harness features, which is very necessary in the near term\n\nbut i think eventually the post training pipeline will keep evolving and take more and more of these long term considerations into account\n\nwhen it does, we will finally have agents that can write good code by default. anyone will be able to build very complex software as long as they can articulate their intent clearly\n\nexperienced engineers will not have an advantage any more just because they know a little more than average people on how to write good code (including myself)\n\nand i think that’ll be a very beautiful world",
-        "media": []
-      },
-      "reply_to_id": "2112625142979576250",
-      "thread_root_id": "2112625141209514289",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 0,
-        "reposts": 0,
-        "likes": 0,
-        "quotes": 0,
-        "views": 850
-      },
-      "fetched_at": "2026-10-21T01:40:07.552Z"
-    },
-    {
-      "id": "2112625142979576250",
-      "url": "https://x.com/kunchenguid/status/2112625142979576250",
-      "creator": "kunchenguid",
-      "author": {
-        "screen_name": "kunchenguid",
-        "name": "Kun Chen",
-        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-      },
-      "reposted_by": null,
-      "created_at": "2026-10-20T19:20:59.000Z",
-      "sort_at": "2026-10-20T19:20:59.000Z",
-      "text": "if you missed previous parts, start here - https://x.com/kunchenguid/status/2110803715108294695?s=20",
-      "media": [],
-      "quote": {
-        "id": "2110803715108294695",
-        "url": "https://x.com/kunchenguid/status/2110803715108294695",
-        "author": {
-          "screen_name": "kunchenguid",
-          "name": "Kun Chen",
-          "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
-        },
-        "created_at": "2026-10-15T18:43:17.000Z",
-        "text": "i've been bashing on \"software is dead\" for a while now. it's probably time for me to start sharing what i think will happen instead as well\n\nthere's so much to unpack, so i'm going to split it into a series of a few parts\n\ntoday i'll start with part 1 - jevons paradox\n\nstory time - let's rewind to the industrial revolution, when steam engines powered all the factories, railways and effectively the economy\n\nbut steam engines had to burn coal - a lot of them. there's a limited amount of coal available, so people started to optimize the steam engines to use less coal\n\nthat's when the counter-intuitive thing happened - when steam engines used less coal, the industry actually ended up using more coal in total\n\nhow?? what jevons found and documented in his book was - when steam engines used less coal, they became cheaper to deploy and run, and hence became economically viable in more places, so the total demand rose significantly as a result\n\nwhen the barrier of entry to create software is significantly reduced, the same will happen - software will become much cheaper and more accessible\n\nhesitant to pay $100/month for the adobe suite today? well, what if it becomes $10 lifetime purchase?\n\nsick of so many mobile apps having a paywall? well, what if the entire app store is $5/month all-you-can-eat?\n\nthe price point for each individual piece of software will drop, but the software economy as a whole will become a lot larger because of the rising consumption demand\n\nso many more people and businesses will get access to software that's too costly for them to use today\n\nso many more people who aren't developing software today will be able to participate, create, help grow the economy and make a living out of it\n\nsoftware is nowhere near \"dead\". it's just about to take off",
-        "media": []
-      },
-      "reply_to_id": "2112625141209514289",
-      "thread_root_id": "2112625141209514289",
-      "is_note_tweet": false,
-      "lang": "en",
-      "metrics": {
-        "replies": 1,
-        "reposts": 0,
-        "likes": 2,
-        "quotes": 0,
-        "views": 1217
       },
       "fetched_at": "2026-10-21T01:40:07.552Z"
     }

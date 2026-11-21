@@ -2,6 +2,71 @@
   "month": "2026-11",
   "posts": [
     {
+      "id": "2124066583589077005",
+      "url": "https://x.com/kunchenguid/status/2124066583589077005",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-21T09:05:11.000Z",
+      "sort_at": "2026-11-21T09:05:11.000Z",
+      "text": "everyone coding with agents should internalize this -\n\nthe RLVR in current frontier LLMs' post-training is done at task level. in other words, they won't give a damn about long term maintainability\n\nthis is why we see so many useless comments and test cases being written by default. these things make future tasks less efficient, but they don't affect the current task's success, so they survived the training and became part of the models' behaviors\n\nuntil post-training can reward long term maintainability (which i suspect is very hard because inherently it's a slow and expensive process to measure that), it's on us humans to correct it in the harness layer through prompts, skills, lint rules etc\n\nthis also implies that understanding long term implications of technical choices is a valuable human skill that's hard for an average person to make up for with LLM\n\nit's the distinction of whether you can create a durable growing codebase, or have one that gradually degrades  into insanity\n\nif you have that skill, you are golden (for now, until post-training catches up)",
+      "media": [],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2124066583589077005",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 27,
+        "reposts": 10,
+        "likes": 154,
+        "quotes": 1,
+        "views": 5413
+      },
+      "fetched_at": "2026-11-21T11:18:43.528Z"
+    },
+    {
+      "id": "2123985561551778151",
+      "url": "https://x.com/kunchenguid/status/2123985561551778151",
+      "creator": "kunchenguid",
+      "author": {
+        "screen_name": "kunchenguid",
+        "name": "Kun Chen",
+        "avatar_url": "https://pbs.twimg.com/profile_images/1946076752024895489/ScNir1Fy_200x200.jpg"
+      },
+      "reposted_by": null,
+      "created_at": "2026-11-21T03:43:14.000Z",
+      "sort_at": "2026-11-21T03:43:14.000Z",
+      "text": "my PR count took a nose dive in the past week, from previously about 200 PRs/day to only 30-ish now, and i'm shipping more than ever\n\nthis happened because i started batching multiple branches into a single PR to improve CI efficiency\n\nright now my CI architecture is -\n\n1. each change gets developed in its own branch as usual\n\n2. each branch that's done gets a very light weight CI check, mostly build and lint\n\n3. all the branches that pass checks then get queued up into a batch\n\n4. a batch becomes a PR which does a heavier CI job\n\n5. while a PR of mine is still active, all new branches wait in the next batch, until the previous PR is merged. this means at any given point in time, in the same repo i will only have at most one PR at a time\n\n6. if a PR fails CI, i fix forward with a new branch added into its batch. this means older branches, even if at fault, would remain immutable which minimizes rebases\n\nso far, this has been working wonders. i think this is much superior than merge queues, because merge queues are typically done at a repo level, and at agent speed the queue can have hundreds of PRs at a time which breaks often and causes a lot of re-selection and makes everyone wait\n\nthis batching happens at user level, so different contributors in the same repo never have to interfere with each other. every user can also choose to apply different strategies - some users may do one PR per branch, and some may do this batch - and they can all work together",
+      "media": [
+        {
+          "id": "2123980319531704320",
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HXnk2OeboAAykSH.png?name=orig",
+          "thumbnail_url": null,
+          "width": 584,
+          "height": 400
+        }
+      ],
+      "quote": null,
+      "reply_to_id": null,
+      "thread_root_id": "2123985561551778151",
+      "is_note_tweet": true,
+      "lang": "en",
+      "metrics": {
+        "replies": 52,
+        "reposts": 12,
+        "likes": 337,
+        "quotes": 5,
+        "views": 23588
+      },
+      "fetched_at": "2026-11-21T11:18:43.528Z"
+    },
+    {
       "id": "2123886216194187722",
       "url": "https://x.com/kunchenguid/status/2123886216194187722",
       "creator": "kunchenguid",
